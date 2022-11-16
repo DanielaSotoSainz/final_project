@@ -51,7 +51,7 @@ https://github.com/DanielaSotoSainz/final_project/blob/data_test/exploration.ipy
 * Visualization: Tableau, GeoJSON, Plotly
 * API: Python, Flask
 
-## Reasons why we selected the topic*
+## Reasons why we selected the topic
 
 The team wants to work on the medical field, as all members have gained experience on the field recently. The team wanted to engage with real clients and real data, so we contacted Kardias Foundation, which is part of ABC Medical Center since 2012. Kardias has formalized an academic agreement in 2014 with The Texas Children's Hospital, considered the best center for congenital heart disease care in the United States, and which has contributed to maintaining excellence in the care of patients. Kardias has kept mortality and morbidity rates comparable to the best centers in the world and has sorted the most complex heart problems. The surgery team has performed more than 10,000 consultations and more than 3,000 surgeries since 2001, It is the only program in Mexico with medical-surgical results audited thanks to participation in the "International Quality Improvement Collaborative (IQIC)", administered by Boston Children's Hospital.
 
