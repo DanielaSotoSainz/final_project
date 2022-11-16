@@ -59,4 +59,9 @@ All the members want to work with predictive models that help Kardias inner medi
 
 Source: https://kardias.org/abc/
 
+## Question for the analysis
+
+The idea of the project focuses on helping clinicians and administrators to have a unified access to patients data. All the questions that the group has and wants to answer have clinical, administrative and financial purposes. The team focused on Descriptive and Predictive Analytics to find some answers. 
+In the case of Descriptive Analytics, the information from the databases could be visualized to show some reports with connections. Some questions that can be answered are: How many surgeries did the hospital performed in the last month?, What is the predominant gender within cardiopathies?, How long do patients stay at the hospital?, What is the distribution between a patient's heart rate and the number of cardiopathies?. Other questions will appear during the project with the real database.
+To complete the analysis, Predictive Analytics is required. It is important to predict outcomes and likelihoods of cardiopathy types. Some predictions that the team want to verify are: What is the frequency of cardiac arrhythmias, related to clinical record?, What measurements define the cardiopathies type?, Does the amount of time spent at intensive care is related to the patient’s infection rate?. The information is useful for the future in critical events. Some healthcare providers require these types of results for evidence and to have a control of diseases.
 
