@@ -65,3 +65,11 @@ The idea of the project focuses on helping clinicians and administrators to have
 In the case of Descriptive Analytics, the information from the databases could be visualized to show some reports with connections. Some questions that can be answered are: How many surgeries did the hospital performed in the last month?, What is the predominant gender within cardiopathies?, How long do patients stay at the hospital?, What is the distribution between a patient's heart rate and the number of cardiopathies?. Other questions will appear during the project with the real database.
 To complete the analysis, Predictive Analytics is required. It is important to predict outcomes and likelihoods of cardiopathy types. Some predictions that the team want to verify are: What is the frequency of cardiac arrhythmias, related to clinical record?, What measurements define the cardiopathies type?, Does the amount of time spent at intensive care is related to the patient’s infection rate?. The information is useful for the future in critical events. Some healthcare providers require these types of results for evidence and to have a control of diseases.
 
+## Machine Learning Challenges
+
+According to the U.S. Food & Drug Administration's Artificial Intelligence and Machine Learning Program the main AI Challenges are:
+* Image acquisition and processing
+* Earlier disease detection
+* More accurate diagnosis, prognosis, and risk assessment
+* New patterns identification on human physiology
+* Personalized diagnostics and therapeutics
