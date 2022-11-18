@@ -73,4 +73,3 @@ According to the U.S. Food & Drug Administration's Artificial Intelligence and M
 * More accurate diagnosis, prognosis, and risk assessment
 * New patterns identification on human physiology
 * Personalized diagnostics and therapeutics
-
