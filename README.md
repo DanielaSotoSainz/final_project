@@ -4,9 +4,27 @@
 
 ## Source Data
 Kardias Foundation ABC Hospital
-* Link:  https://github.com/DanielaSotoSainz/final_project/blob/folders/database/database_original.xlsx
-* Working with real data and a real client.
-* .xlsx file with data from pediatric patients with possible cardiopathies.
+* Original Database
+Data from pediatric patients with possible cardiopathies in .xlsx file.
+Link:  https://github.com/DanielaSotoSainz/final_project/blob/folders/database/database_original.xlsx
+
+Column Name | Example | Type of Data | Number of Rows
+------------ | ------------- | ------------- | -------------
+masculino=1 | 0 | int64 | 1038
+fecha de cirugía | 04/08/2012 | object | 1038
+Peso    (kg) | 35.0 | float64 | 1034
+
+* Final Database
+Complete .csv file clean and ready for the analysis.
+Link:
+(add link of the final database)
+
+Column Name | Example | Type of Data | Number of Rows
+------------ | ------------- | ------------- | -------------
+Gender | 0 | int32 | 1003
+date_procedure | 04/08/2012 | datetime64[ns] | 1003
+weight_kg | 35.0 | float64 | 1003
+
 
 ## Teamwork
 ### Members
@@ -35,6 +53,20 @@ Kardias Foundation ABC Hospital
 
 3. Guidance
 * Ask for help, solve doubts with team members or tutors.
+
+## Questions for the Analysis
+
+* Main objective of the project: “Procedures Prediction”
+* The team focused on Descriptive and Predictive Analytics to find some answers.
+* Questions:
+    * Descriptive Analytics
+    What is the predominant cardiomyopathy by gender?
+    What is the frequency of each disease per state?
+    What is the distribution of the surgical procedures?
+    * Predictive Analytics
+    Given the biometrical data from the pediatric patient, what is the probability of needing a specific surgical procedure?
+    Given the biometrical data from the pediatric patient, what is the probability of needing an additional surgical procedure?
+
 
 ## Reasons for Selected Topic
 
