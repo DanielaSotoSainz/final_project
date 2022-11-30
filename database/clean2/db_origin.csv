@@ -1,0 +1,350 @@
+token,state,municipality,altitude
+HKSKLKNMKSK,Estado de Mexico,Huixquilucan,2726
+MKSKTMLPN,Estado de Mexico,Timilpan,2741
+STTKKNMKSK,Ciudad de Mexico,Coyoacan,2240
+MKSKNSHLKTL,Estado de Mexico,Nezahualcoyotl,2220
+ALFRSTTMKSKPRKN,Ciudad de Mexico,Alvaro Obregon,2373
+STTSTPLPMKSK,Ciudad de Mexico,Iztapalapa,2100
+MTPKMKSK,Estado de Mexico,Metepec,2620
+STTMKSKKSXMLK,Ciudad de Mexico,Xochimilco,2250
+KKLKMKSK,Estado de Mexico,Coacalco,2257
+XLKMKSK,Estado de Mexico,Chalco,2240
+MKSKTLK,Estado de Mexico,Toluca,2660
+MKSKTLKTPK,Estado de Mexico,Tlacotepec,900
+ANTNLMKSKSN,Estado de Mexico,San Antonio La Isla,2591
+XMLKNMKSK,Estado de Mexico,Chimalhuacan,2240
+STTMKSKTLHK,Ciudad de Mexico,Tlahuac,2200
+MKSKLFS,Estado de Mexico,Los Olivos,75
+ALTSTTMKSKMLP,Ciudad de Mexico,Milpa Alta,2420
+XHHJRS,Chihuahua,Juarez,1137
+KTSMLKRRPNSN,Guerrero,Cutzamala de Pinzon,263
+HTLKPKKST,Hidalgo,Pachuca de Soto,2432
+STTMKSKTLLPN,Ciudad de Mexico,Tlalpan,2260
+HSMKSKRNKNSN,Estado de Mexico,San Jose del Rincon,2747
+PRFXLPNSNKKRR,Guerrero,Chilpancingo de los Bravo,1253
+PPL,Puebla,Puebla,2135
+STTKSTFMTRMKSK,Ciudad de Mexico,Gustavo A Madero,2243
+XLPKRR,Guerrero,Chilapa,1300
+AKSKLNTS,Aguascalientes,Aguascalientes,1888
+KNJTSNXKFL,Guanajuato,Valle de Santiago,1744
+MKTLNMRLS,Morelos,Miacatlan,1023
+PPNTLFRKRS,Veracruz,Papantla,180
+ATLKRRLPRS,Guerrero,Ayutla de los Libres,378
+ATSPNMKSKSRKS,Estado de Mexico,Atizapan de Zaragoza,2280
+SNXKTKSTLFRKRS,Veracruz,Santiago Tuxtla,300
+STTSTKLKMKSK,Ciudad de Mexico,Iztacalco,2242
+MRLSTMKS,Morelos,Temixco,1280
+KHLTRN,Coahuila,Torreon,1120
+PLFRKRSFSNT,Veracruz,Playa Vicente,151
+KRRMTPK,Guerrero,Ometepec,135
+AKTPKMKSKMRLS,Estado de Mexico,Ecatepec de Morelos,2250
+AKSTPLKMKSK,Estado de Mexico,Ixtapaluca,2250
+STTTLKMKSKMKL,Ciudad de Mexico,Miguel Hidalgo,2273
+JLPFRKRS,Veracruz,Jalapa,1417
+KRRSHTNJ,Guerrero,Zihuatanejo ,20
+MLXRMKSKKMP,Estado de Mexico,Melchor Ocampo,2660
+AKTPKRR,Guerrero,Acatepec,1600
+AMLNMRLSSPT,Morelos,Emiliano Zapata,1213
+MRTKTN,Yucatan,Merida,10
+ARNTSJLSK,Jalisco,Arandas,2061
+KPNTKRR,Guerrero,Copanatoyac,590
+MKSKTKSK,Estado de Mexico,Texcoco,2250
+MKSKTJPLK,Estado de Mexico,Tejupilco,1330
+HNKMKTN,Yucatan,Hunucma,6
+FRNSSKTLKMTR,Hidalgo,Francisco I Madero,1100
+MKSKNKLPN,Estado de Mexico,Naucalpan,2300
+PJKLFRNNSNT,Baja California,Ensenada,16
+MKSKPSRS,Estado de Mexico,Los Reyes La paz,2260
+RNSTMLPS,Tamaulipas,Reynosa,33
+AKPLKKRRJRS,Guerrero,Acapulco de Juarez,30
+FRNNTSNTMLPS,Tamaulipas,San Fernando,42
+HTLKTSK,Hidalgo,Tizayuca,2260
+STTKNTRRSMKTLNMKSK,Ciudad de Mexico,Magdalena Contreras,2510
+KRNSSTTMKSKFNSXN,Ciudad de Mexico,Venustiano Carranza,2240
+MKSKNKLSRMR,Estado de Mexico,Nicolas Romero,2390
+KTLJRJLSK,Jalisco,Guadalajara,1566
+NLTKNPPL,Puebla,Nealtican,2233
+HRMSLSNR,Sonora,Hermosillo,200
+KLNKRRTKPN,Guerrero,Tecpan de Galeana,120
+KRTNLTLK,Hidalgo,Cardonal,2042
+KRNFKMRLS,Morelos,Cuernavaca,1510
+KMSSNR,Sonora,Guaymas,10
+MXKN,Michoacan,Michoacan ,3647
+ALMLJRSMKSK,Estado de Mexico,Almoloya de Juarez,2600
+MKSKTMP,Estado de Mexico,Otumba,2360
+STTKJMLPMKSK,Ciudad de Mexico,Cuajimalpa,2623
+MKSKTLLNPNTL,Estado de Mexico,Tlalnepantla,2250
+KRTR,Queretaro,Queretaro,1820
+KNNSNR,Sonora,Cananea,1620
+KMPSSNR,Sonora,Cumpas,914
+ATLJLSKLPRS,Jalisco,Ayutla de los Libres,378
+MKSKTMMTL,Estado de Mexico,Temamatla,2276
+ASKRR,Guerrero,Azoyu,360
+KRRMXTLN,Guerrero,Mochitlan,2250
+NKLSSNR,Sonora,Nogales,1199
+MRFTMXKN,Michoacan,Maravatio,2036
+ASKPTSLKSTTMKSK,Ciudad de Mexico,Azcapotzalco,2240
+PNTPKPPL,Puebla,Pantepec,1530
+STTKTMKMKSK,Ciudad de Mexico,Cuauhtemoc,2244
+KRRTLLXP,Guerrero,Tlalchapa,420
+ALMSSNR,Sonora,Los Alamos,2231
+KTTLNSKLMKSK,Estado de Mexico,Cuautitlan Izcalli,2280
+KPSFLFLRS,Chiapas,Villaflores,560
+JKPLKMKSK,Estado de Mexico,Jiquipilco,2657
+ALTMRTMLPS,Tamaulipas,Altamira,26
+KPLKRR,Guerrero,Copala,100
+ALSTMKSKSMP,Estado de Mexico,Ozumba de Alzate,2340
+KNJTSLMNK,Guanajuato,Salamanca,1721
+HXNNKPPL,Puebla,Huauchinango,1519
+KRSKSKSNTSNSNTPK,Oaxaca,Santa Cruz Zenzontepec,60
+KKLKLMSMKSK,Estado de Mexico,Lomas de Coacalco,2317
+ASKPTPTRKRTR,Queretaro,Pedro Escobedo,1900
+KMPXSKRSK,Campeche,Escarcega,85
+KJMLPMKSK,Estado de Mexico,Cuajimalpa,2623
+TPSK,Tabasco,Tabasco,20
+MKSK,Estado de Mexico,Estado de Mexico,2240
+MXKNTRMPR,Michoacan,Tarimbaro,1860
+KRSKSKSNTKSKSKTLN,Oaxaca,Santa Cruz Xoxocotlan,1530
+SLKNJT,Guanajuato,Celaya,1767
+JJTLMRLS,Morelos,Jojutla,890
+LNMNTRNF,Nuevo Leon,Monterrey,540
+AKSKTMSLPMFL,Oaxaca,Villa de Tamazulapam,2200
+KPLLKRR,Guerrero,Copalillo,875
+KRJTRKRTR,Queretaro,Corregidora,2260
+FRKRSKSLP,Veracruz,Xalapa,1417
+AKSNTLNRTSNXK,Nayarit,Santiago Ixcuintla,40
+PPLHLTPK,Puebla,Yehualtepec,2126
+MKSKTKMK,Estado de Mexico,Tecamac,2260
+MKSKTNNKFL,Estado de Mexico,Tenango del Vale,2600
+KRRTSLTPK,Guerrero,Huitziltepec,1935
+PKRFRKRS,Veracruz,Boca del Rio,16
+JKNMXKN,Michoacan,Jacona,1580
+LRMMKSK,Estado de Mexico,Lerma,2570
+PRFTLKTLNSNK,Hidalgo,Tulancingo de bravo,2181
+FLPTLKRSTLNSN,Hidalgo, San Felipe Orizatlan,160
+KLMMKSK,Estado de Mexico,Calimaya,2690
+KNSNKTN,Yucatan,Kanasin,10
+HRMSTPSKFL,Tabasco,Villa Hermosa,20
+XHH,Chihuahua,Chihuahua,1415
+ANTLKSNXK,Hidalgo,Santiago de Anaya,2040
+TLKSL,Tlaxcala,Tlaxcala,2239
+KRRKL,Guerrero,Iguala,731
+HPKSTLMKSK,Estado de Mexico,Hueypoxtla,2260
+FLPMKSKPRKRSSN,Estado de Mexico,San Felipe del Progreso,2570
+MXKNPRPN,Michoacan,Periban,1640
+JLSKSPPN,Jalisco,Zapopan,1571
+MRKSKRTR,Queretaro,El Marques,1800
+MKSKTLTTLN,Estado de Mexico,Tultitlan,2240
+KNJTRPT,Guanajuato,Irapuato,1724
+MXKNTNSTR,Michoacan,Tancitaro,2080
+AMTLNTKSPNFRKRS,Veracruz,Amatlan Tuxpan,60
+HTLKTLHLTP,Hidalgo,Tlahuiltepa,1751
+MXSKSKRMR,Oaxaca,Matias Romero,180
+KNJTRNKT,Guanajuato,Uriangato,1810
+TMLPSTMPK,Tamaulipas,Tampico,10
+APNKTN,Yucatan,Yobain,4
+PLNFTKSS,Texas,Plainview,1026
+PNTLTLKSL,Tlaxcala,Panotla,2240
+ATPNFRKRS,Veracruz,Oteapan,50
+KLPNKRRMRTN,Guerrero,Martin de Cuilapan,1220
+KRRMRKSSN,Guerrero,San Marcos,30
+HJPNLNKSK,Oaxaca,Huajuapan de Leon,1600
+HTLKJRSSPTLN,Hidalgo,Zapotlan de Juarez,2360
+KLTPKMRKSKSNT,Oaxaca,Santa Maria Colotepec,50
+MRLSSKTPK,Morelos,Zacatepec,917
+MRLSTPK,Morelos,Yautepec,1220
+KRLPRTTMRNTFRKRS,Veracruz,Tamarindo Carrillo Puerto,180
+JKTTLNMKSK,Estado de Mexico,Jocotitlan,2650
+AKSK,Oaxaca,Oaxaca,1555
+HPNMRLS,Morelos,Hueyapan,2291
+ATRTKRRNR,Guerrero,Eduardo Neri,1092
+ATTNLKKRNTTLK,Hidalgo,Atotonilco el Grande,2040
+PTSTJNKSKSNTKSTPK,Oaxaca,San Juan Bautista Tuxtepec,20
+MTMRSTMLPS,Tamaulipas,Matamoros,8
+AKLLKSKSNXK,Oaxaca,Santiago Ayuquililla,1600
+AKSTLHKMKSK,Estado de Mexico,Ixtlahuaca,2540
+MKSKTLTPK,Estado de Mexico,Tultepec,2250
+JTPKMRLS,Morelos,Jiutepec,2472
+KNTPKMXKN,Michoacan,Contepec,2497
+KRMNPLKNTNR,Quintana Roo,Playa del Carmen,10
+KPSKTRSTKSTL,Chiapas,Tuxtla Gutierrez,522
+HHTKMKSK,Estado de Mexico,Huehuetoca,2250
+PNTJRSKNTNR,Quintana Roo,Benito Juarez,2242
+ASPNLFRKRS,Veracruz,Espinal,100
+MKSKTMKK,Estado de Mexico,Temacac,2260
+KTPKTLKNJS,Hidalgo,Cuautepec de Hinojosa,2930
+PNTSTTJRSMKSK,Ciudad de Mexico,Benito Juarez,2242
+PPLSNSPSXNTLKTPK,Puebla,San SebastianTlacotepec,1317
+ATLKMLKMKSK,Estado de Mexico,Atlacomulco,2570
+JXTNKSK,Oaxaca,Juchitan,30
+ARNLTLK,Hidalgo,Arenal El,2033
+ATTLKTLK,Hidalgo,Atitalaquia,2107
+MKSKSMPNK,Estado de Mexico,Zumpango,2259
+LSPTSRSSNFL,San Luis Potosi,Villa de Reyes,1820
+MKSKTTHKN,Estado de Mexico,Teotihuacan ,2270
+MXKNMRL,Michoacan,Morelia,1920
+PPLTHTSNK,Puebla,Tehuitzingo,1250
+MXKNSMR,Michoacan,Zamora,1580
+MRLSKSKSKTL,Morelos,Xoxocotla,2125
+PLNKTRFRKRS,Veracruz,Tierra Blanca,350
+JXTPKMKSK,Estado de Mexico,Juchitepec,2540
+MRLSTTLFLKN,Morelos,Tetela del volcan,2040
+ATNKMTMKSKSN,Estado de Mexico,San Mateo Atenco,2600
+XLLPPL,Puebla,Cholula,2150
+MKSKTNNSNK,Estado de Mexico,Tenancingo,2020
+XTMLKNTNR,Quintana Roo,Chetumal,10
+HTLKSKKMP,Hidalgo,Huasca de Ocampo,2100
+PHTLNPPL,Puebla,Pahuatlan,1600
+AKSTSKTLNFRKRS,Veracruz,Ixtaczoquitlan,850
+KLKNSNL,Sinaloa,Culiacan,71
+MXSSNL,Sinaloa,Los Mochis,10
+KRPNMKSKFL,Estado de Mexico,Villa del Carbon,2600
+HRSKTN,Yucatan,Los Heroes,30
+JLTPKMKSK,Estado de Mexico,Jilotepec,2452
+ATSKLKLPNRPPL,Puebla,Calpaneria Atezequilla,2825
+MKSKTRMSKLSNK,Estado de Mexico,Termascalcingo,2260
+ATNKMKSKSLFTRSN,Estado de Mexico,San Salvador Atenco,2250
+AKSKLNTSSLNFL,Aguascalientes,Valle Ceylan,1888
+KRSTMXKNR,Michoacan,Cristo Rey,2259
+PRFSXLPNSNKKRR,Guerrero,Chilpancingo de los Bravos,1253
+JLSKPRTFLRT,Jalisco,Puerto Vallarta,7
+PJKLFRNKRRFSNT,Baja California,Vicente Guerrero,48
+STTMKSKNSHLKTL,Ciudad de Mexico,Nezahualcoyotl,2220
+PSMKSKTLLNPNTL,Estado de Mexico,Tlalnepantla de Baz,2250
+HRTTPSK,Tabasco,La Huerta,310
+AMPLSNXHHNSRJNTS,Chihuahua,Ampliacion Insurgentes,31215
+MKSKNKLSRMRFL,Estado de Mexico,Valle Nicolas Romero,2370
+FRNSSKMNPPLS,Puebla,Francisco Z Mena,346
+JRSMKSKNKLPN,Estado de Mexico ,Naucalpan de Juarez,2300
+MKSKNKLRRMR,Estado de Mexico,Nicolar Romero,2390
+HTLKXPN,Hidalgo,Huichapan,2100
+MKSKTKSTLN,Estado de Mexico,Tequistlan,2246
+MKSKTLNPNTL,Estado de Mexico,Tlanepantla,2238
+STTMKSKKSKSMLK,Ciudad de Mexico,Xoxhimilco,2250
+KHLSLTL,Coahuila,Saltillo,1600
+HNTSKTKS,Zacatecas,La Honda,2132
+XLPNSNKKRR,Guerrero,Chilpancingo,1253
+TSNKKTRNMKSKSNT,Estado de Mexico ,Santa Catarina Ayotzingo,690
+PRSSKSKSKTL,Oaxaca,Brizas de Zicatela ,32
+ALMLKRR,Guerrero,Almoloya,2600
+PPLSRKS,Puebla,Puebla de Zaragoza,2135
+ALNTMKSK,Estado de Mexico,Allende,474
+LRNSMKSKSN,Estado de Mexico,San Lorenzo,2544
+ATSPNMKSK,Estado de Mexico,Atizapan,2280
+AKTPKMKSK,Estado de Mexico,Ecatepec,2250
+MKSKTM,Estado de Mexico,Temoaya,2670
+PJKLFRNNKNTTLMSR,Baja California Sur,Loma encantada,2268
+AFRSTTMKSKPRKN,Ciudad de Mexico,Avaro Obregon,2373
+LSPTSPRTSSNFSNT,San Luis Potosi,Prados San Vicente,1846
+PPLTHKN,Puebla,Tehuacan,1600
+AKLMNMKSK,Estado de Mexico,Acolman,2254
+KNTNRSLTRTT,Quintana Roo,Solidaridad,1250
+LSPTSSN,San Luis Potosi,San Luis Potosi,1864
+PRSTPSK,Tabasco,Paraiso,10
+TNTKFRKRS,Veracruz,Tontoyuca,140
+MKTLNKSKTTPK,Oaxaca,Magdalena Teitipac,1747
+HTLKTTPNK,Hidalgo,Tetepango,2100
+TRNK,Durango,Durango,1890
+KNTPKMXKNKMP,Michoacan de Ocampo,Contepec,2497
+PNTLMKSK,Oaxaca,Loma Bonita,30
+TLKMLKMKSK,Estado de Mexico ,Atlacomulco ,2570
+RMSLSNR,Sonora,Hermosillo ,200
+MKSKTSLTPK,Estado de Mexico,Otzolotepec,2591
+KLM,Colima,Colima,500
+AMLNTLKSLSPT,Tlaxcala,Emiliano Zapata,1213
+ATTNLKTLKTL,Hidalgo,Atotonilco de Tula,2080
+SKPTSLKSTTMKSK,Ciudad de Mexico ,Azcapotzalco,2240
+MKTLNSNR,Sonora,Magdalena,680
+KRRTKSTL,Guerrero,Tixtla de Guerrero,1349
+PRSPLKKLKMKSK,Estado de Mexico,Coacalco de Berriozabal ,2257
+AKSTLHKNJLSKMMPRLS,Jalisco,Ixtlahuacan de los Membrillos,1570
+KTTLNMKSK,Estado de Mexico ,Cuautitlan,2280
+AKTLNTLK,Hidalgo,Acatlan,2140
+ANTNNMNTKSKSNFRT,Oaxaca,San Antonino Monte Verde,2224
+HTLKKMPRTPJ,Hidalgo,Tepeji del Rio de Ocampo,2172
+MKSKKSNKTLN,Estado de Mexico,Xonacatlan,2579
+ATMPNPPL,Puebla,Atempan,2049
+TLKTKSTL,Hidalgo ,Tecozautla,1700
+MKSKXNKSTNK,Estado de Mexico,Tianguistenco,2620
+LFNSMKSK,Estado de Mexico,Lluvianos ,1130
+PJKLFRNTJN,Baja California ,Tijuana,20
+KNJTSLFKTR,Guanajuato,Silao de la Victoria ,1780
+XLXTMXKN,Michoacan,Chilchota ,1770
+SNTRTPSK,Tabasco,Centro,20
+NSNLKSKPNTPSNXK,Oaxaca,Santiago Pinotepa Nacional,210
+PLSRNJLK,Belize ,Orange walk ,33
+MKSKMRLS,Estado de Mexico,Morelos,2610
+AKSTPNMKSKSL,Estado de Mexico,Ixtapan de la sal,1880
+MKSKTMSKLSNK,Estado de Mexico,Temascalcingo,2260
+KRRSRNTR,Guerrero,Zirandaro,682
+STTMKSKNSHLKT,Estado de Mexico,Ciudad Nezahualcoyot,2220
+PJKPSKLFRNSR,Baja California Sur,Los cabos,10
+TRTLKTNNK,Hidalgo,Tenango de Doria,1675
+MRLSKTTLN,Morelos,Ocotitlan,2285
+HTLKJTL,Hidalgo,Huejutla,140
+FRKRSSNKLK,Veracruz,Zongolica,1219
+KTPKMKSK,Estado de Mexico ,Ecatepec ,2250
+KSPNPFRKRS, Veracruz,Uxpanapa,38
+LNMKSKFS,Estado de Mexico ,Llano de los Vaez,2246
+LTSTTMKSKMLP,Ciudad de Mexico ,Milpa Alta,2420
+KJNKLPKRR,Guerrero,Cuajinicuilapa,50
+KRRRTPPLFJ,Guerrero,Pueblo Huerta Vieja,950
+JSMKSKRNKNSN,Estado de Mexico,San Jose del Rincon ,2747
+KLPMKRRKSK,Oaxaca,Culipam de Guerrero,1560
+KSKLTSKRR,Guerrero,Los Cascalotes,808
+HTLKHTL,Hidalgo,Huehuetla,562
+MKSKSNXKTLP,Estado de Mexico,Santiago Tilapa,1500
+HTLKMNRLRFRM,Hidalgo,Mineral de la Reforma,2800
+KMPXXMPTN,Campeche,Champoton,10
+KMPXLPXN,Campeche,Holpechen ,100
+TLKSKLTPN,Hidalgo,Zacualtipan ,1980
+KKTTLNMKSK,Estado de Mexico,Cocotitlan,2300
+KRRTPKKLKTRJN,Guerrero,Tepecoacuilco de trujano,860
+MRTNSTRFRKRS,Veracruz,Martinez de la Torre,1220
+PRSTTMR0MKSKSNT,Ciuidad de Mexico,Barrio de Santa Martha,2246
+KMPXKRMN,Campeche,Carmen,2
+TLKTSK,Hidalgo ,Tizayuca,2260
+RSLKRR,Guerrero ,Arcelia,862
+HTLKKSMKLPN,Hidalgo,Ixmiquilpan,1700
+ALFRSXLPKRR,Guerrero,Chilapa de Alavrez,1300
+AKPLKKRR,Guerrero,Acapulco,30
+MXKNRPN,Michoacan,Uruapan,1620
+KLSMKSK,Estado de Mexico ,Las Aguilas ,2236
+AKKSXTLNTLK,Hidalgo,Acaxochitlan,2260
+PPLTPK,Puebla,Tepeaca,2235
+MRKSKSNTTNMK,Oaxaca,Santa Maria Tonameca,40
+AKSTLNJRSKSK,Oaxaca,Ixtlan de Juarez,2030
+MKLPPLSNTLLNKLK,Puebla,San Miguel Tlalancaleca,2430
+SRSPRNSKSK,Oaxaca,Cerro de la Esperanza,8
+STTKSTPLPMKSK,Ciuidad de Mexico,Ixtapalapa,2100
+HSMRMRLSKNTNR,Quintana Roo,Jose Maria Morelos,20
+NFJSNR,Sonora,Navojoa,50
+LFRSTTMKSKPRKN,Ciudad de Mexico,Alvaro Obregon ,2373
+STTMKSKMKLSNTTNK,Ciuidad de Mexico,San Miguel Teotongo,2060
+HTLKPKK,Hidalgo,Pachuca,2432
+TNKSTTMKSK,Estadio de Mexico ,Atenco,2250
+TLKTSNTPK,Hidalgo ,Tezontepec,2100
+KKSKNPPL,Puebla,Caxhoacan,480
+HTSKFRKRS,Veracruz,Huatusco,1290
+JNMKSKSNTTHKN,Estado de Mexico,San Juan Teotihuacan ,2300
+KRNSTLKSLFNSXN,Tlaxcala,Venustiano Carranza,2240
+MKSKSMPHKN,Estado de Mexico,Zumpahuacan,1660
+NNKMLPTLKSL,Tlaxcala,Nanacamilpa,2720
+MNTTLNFRKRS,Veracruz,Minatitlan ,20
+PRTLKTPKKSKSN,Oaxaca,San Bartolo Coyotepec,1520
+TSPNMKSKSRKS,Estado de Mexico ,Atizapan de Zaragoza,2280
+HPNKMPFRKRS,Veracruz,Hueyapan de Ocampo,44
+KPLKKRRJRS,Guerrero ,Acapulco de Juarez,30
+STTFRNNTSLSPTSSN,San Luis Potosi,Ciudad Fernandez,980
+ANTNKSKSNTPTLP,Oaxaca,San Antonio Tepetlapa,390
+MKSKFKTRFL,Estado de Mexico,Villa Victoria ,2560
+PNKFRKRS,Veracruz,Panuco,10
+KTSLKRRPRKRS,Guerrero,Cuetzala del Progreso,930
+ASTNSKRNTMKSK,Estado de Mexico,Estancia Grande,76
+KMPXSLXKN,Campeche,Hecelchakan,10
+TLKMKSKHL,Hidalgo ,Mixquiahuala,1198
+TLKTLJMNS,Hidalgo ,Huautla de Jimenez,1600
+KTMKFRKRS,Veracruz ,Catemaco,340
+AMNLKMKSK,Estado de Mexico,Amanalco,2807
+XLKTNKKSK,Oaxaca,Chalcatongo,2450
+TTNLKKRNTTLK,Hidalgo,Atotonilco el Grande ,1980

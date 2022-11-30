@@ -1,0 +1,16 @@
+token,appearance,keywords
+NRML,Normal,normal
+TSNTRT,Desnutrido,desnutrido
+SPRPS,Sobrepeso,sobrepeso
+AMST,Emaciado,emaciado
+TSNTRSN,Desnutricion,desnutricion
+TSNTRTPPSTL,Desnutrido peso P <1 talla P 19,19 <1 desnutrido p peso talla
+PJTSNTRTTTPPPSTL,Desnutrida peso bajo para la edad P1 talla P 24,24 bajo desnutrida edad p p1 peso talla
+TTNRMLPTL,Normal 0: talla para la edad P1,0: edad normal p1 talla
+TPJNRMLPTL,Normal talla por debajo de P1,debajo normal p1 talla
+TSNTRTPTLPPS,Desnutrido peso P2;Talla P72,desnutrido p2;talla p72 peso
+MNSNRMLPPSTL,Normal peso Talla menos a P 1,1 menos normal p peso talla
+PJTKTNRMLPRSNTLPRSNTLPSTL,Normal Peso adecuada persentila talla abajo de percentil 5,5 abajo adecuada normal percentil persentila peso talla
+APSTT,Obesidad,obesidad
+NML,Nomal,nomal
+PJTTPS,Bajo peso para la edad,bajo edad peso
