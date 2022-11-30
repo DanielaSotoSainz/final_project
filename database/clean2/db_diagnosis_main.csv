@@ -1,0 +1,831 @@
+token,diagnosis_main,keywords
+KMNKSNNTRRKLRSKNTM,Comunicacion interauricular secundum,comunicacion interauricular secundum
+KMNKSNNTRFNTRKLRPRMMPRNSTP,Comunicacion interventricular Tipo 2 perimembranosa,2 comunicacion interventricular perimembranosa tipo
+ARTKSTNSSSPFLFLR,Estenosis aortica subvalvular,aortica estenosis subvalvular
+KMNKSNNFNTPLRNTRFNTRKLRTP,Comunicacion interventricular Tipo 1 infundibular,1 comunicacion infundibular interventricular tipo
+ARTRSKNTKTPRSSTNS,Persistencia de conducto arterioso,arterioso conducto persistencia
+KMNKSNNTRFNTRKLRMMPRNSTP,Comunicacion interventricular Tipo 2 Membranosa,2 comunicacion interventricular membranosa tipo
+FP,FOP,fop
+ASTNSSPLMNRFLFLR,Estenosis pulmonar valvular,estenosis pulmonar valvular
+ASTNSSPLMNRSPRFLFLR,Estenosis pulmonar supravalvular,estenosis pulmonar supravalvular
+KMNKSNNTRRKLRSKMTM,Comunicacion interauricular secumdum,comunicacion interauricular secumdum
+ARTRRKNTKTPRSSTNS,Persistencia de Conducto arterioro,arterioro conducto persistencia
+ARTKRTSN,Coartacion de Aorta,aorta coartacion
+KMNKSNNTRFNTRKLRMMPRNS,Comunicacion interventricular membranosa,comunicacion interventricular membranosa
+KMRTRXTPLFNTRKL,Doble camara del Ventriculo Derecho,camara derecho doble ventriculo
+SFMMPRNSTP,CIV tipo 2 membranosa,2 civ membranosa tipo
+ANSFSNSTRKSPT,Insuficiencia tricuspidea,insuficiencia tricuspidea
+AFKNLTRNSSNL,Canal AV transicional,av canal transicional
+FLTTTRLJ,Tetralogia de Fallot,fallot tetralogia
+AFPLNSTKNLKMPLTRSTLTP,Canal AV completo balanceado tipo A rastelli,av balanceado canal completo rastelli tipo
+ATRSSFPLMNRTF,Atresia pulmonar CIV TOF,atresia civ pulmonar tof
+FPTMPSTSTTS,Status post- FBTM,fbtm post- status
+PK,PCA,pca
+NMLKNKSNKRNRPLMNRSSNTPTTLFNS,Conexion anomala total de venas pulmonares tipo 2 seno coronario,2 anomala conexion coronario pulmonares seno tipo total venas
+SFMSKLR,CIV muscular,civ muscular
+ASTNSSFLTPLMNRTTRLJ,Tetralogia de Fallot estenosis pulmonar,estenosis fallot pulmonar tetralogia
+AFKNLKMPLTRSTLTP,Canal AV completo tipo A de Rastelli,av canal completo rastelli tipo
+ASTNSSPLMNR,Estenosis pulmonar,estenosis pulmonar
+AFKNLKMPLT,Canal AV completo,av canal completo
+ATRSTRSKPTNKFNTRKL,Ventriculo unico atresia triscupidea,atresia triscupidea unico ventriculo
+ARTKRKPPLS,Hipoplasia de arco aortico,aortico arco hipoplasia
+ATRSTRKSPTNKFNTRKL,Ventriculo unico atresia tricuspidea,atresia tricuspidea unico ventriculo
+KRNTSNTKRSPTMTRNSPSSNFSS,Transposicion de grandes vasos septum integro,grandes integro septum transposicion vasos
+NMKNKSNKRNRNTRKRTKPLMNRSSNTPTTLFNS,Conexion anoma total de venas pulmonares tipo 2 intracardiaca seno coronario,2 anoma conexion coronario intracardiaca pulmonares seno tipo total venas
+ANSFSNSMTRL,insuficiencia mitral,insuficiencia mitral
+ARTKRKSFKRTSN,Coartacion de arco aortico CIV,aortico arco civ coartacion
+ARTKRKSFPPLS,Hipoplasia de arco aortico CIV,aortico arco civ hipoplasia
+ANMLRKLKNKSNTRXTRXSPRSLPLMNRSFNS,Conexion anomala parcial de venas pulmonares derechas a auricula derecha,anomala auricula conexion derecha derechas parcial pulmonares venas
+ANMLKNKSNNMNTSKRTPRSLPLMNRSPRFN,Conexion anomala parcial de vena pulmonar supeior izquierda a la innominada,anomala conexion innominada izquierda parcial pulmonar supeior vena
+KMNKSNNTRRKLR,Comunicacion interauricular,comunicacion interauricular
+ATRSSFPLMNR,Atresia Pulmonar CIV,atresia civ pulmonar
+PSTNFKLSSNSTTS,Status post-Unifocalizacion,post-unifocalizacion status
+PSTKMPSTTSTPFLFLT,Status post-Cambio de tubo valvulado,post-cambio status tubo valvulado
+TPLNTRTSKRTFNTRKL,Doble entrada al ventriculo izquierdo,doble entrada izquierdo ventriculo
+KRNTSTRNSPSSNFSS,Transposicion de grandes vasos,grandes transposicion vasos
+PLPFNTRKLRFRMN,Foramen bulboventricular,bulboventricular foramen
+AFKNLPRSL,Canal AV parcial,av canal parcial
+ARTKRKKRTSN,Coartacion de arco aortico,aortico arco coartacion
+KMNKSNTPLMNTNTRFNTRKLRRLSNT,Comunicacion interventricular doblemente relacionada,comunicacion doblemente interventricular relacionada
+ASTNSSSPPLMNR,Estenosis subpulmonar,estenosis subpulmonar
+KMNKSNNTRRKLRSTMSKNTM,Comunicacion interauricular ostium secundum,comunicacion interauricular ostium secundum
+SPSTRPRSNSKNTMSTTS,Status post-Reparacion de CIA secundum,cia post-reparacion secundum status
+ATRSPLMNR,Atresia pulmonar,atresia pulmonar
+PSTFPTMSTTS,Status post-FBTM,post-fbtm status
+KLNPSTPRSTMNTSTTS,Status post-Procedimiento de Glenn,glenn post-procedimiento status
+SFTRXTPLTPLMNTRLSNTSLTFNTRKL,Doble salida de ventriculo derecho CIV doblemente relacionada,civ derecho doble doblemente relacionada salida ventriculo
+ASTNSSMKSTPLMNR,Estenosis pulmonar mixta,estenosis mixta pulmonar
+ATRSTRKSPT,Atresia tricuspidea,atresia tricuspidea
+PSTKPTSTTS,Status post-GBD,post-gbd status
+ARTPLMMRFNTN,Ventana aorto-pulmomar,aorto-pulmomar ventana
+TPLLSNMTRL,Doble lesion mitral,doble lesion mitral
+KMNKSNNTRFNTRKLRMSKLR,Comunicacion interventricular muscular,comunicacion interventricular muscular
+MMPRNSPRTK,Membrana subaortica,membrana subaortica
+ANTRKRTKTMR,Tumor intracardiaco,intracardiaco tumor
+APSTRXNSLTTRKTFT,Obstruccion del tracto de salida del VD,obstruccion salida tracto vd
+SFTRXTPLTPLMNTFLTRLSNTSLTTPFNTRKL,Doble salida de ventriculo derecho CIV doblemente relacionada Tipo Fallot,civ derecho doble doblemente fallot relacionada salida tipo ventriculo
+PSTKRXNSTTSTF,Status post-Correccion de TOF,post-correccion status tof
+AFKNLPSL,Canal AV pacial,av canal pacial
+APPSTPNTJSTTS,Status post-Bandaje de la AP,ap post-bandaje status
+TPLNTRTSKRTNKFNTRKL,Ventriculo unico doble entrada al ventriculo izquierdo,doble entrada izquierdo unico ventriculo
+PSTKLNSTTS,Status post-Glenn,post-glenn status
+ANSFSNSMTRLSFR,Insuficiencia mitral severa,insuficiencia mitral severa
+ARTKRKPSTFNSSTTS,Status Post-Avance de arco aortico,aortico arco post-avance status
+ANMLKNKSNKRNRPLMNRSSNTTLFNS,Conexion anomala total de venas pulmonares al seno coronario,anomala conexion coronario pulmonares seno total venas
+SFTSFTTP,DSVD tipo CIV,civ dsvd tipo
+SF,CIV,civ
+SSKNTM,CIA secundum,cia secundum
+APPNTJPSTSTTS,Status post- Bandaje de la AP,ap bandaje post- status
+TMSKLNPSTSTTS,Status post- Damus con glenn,damus glenn post- status
+ARTKRKPPLSLJR,Hipoplasia ligera de arco aortico,aortico arco hipoplasia ligera
+AFPLNSTKNLKMPLTKRSNNFNTRKLR,Corazon univentricular canal AV completo no balanceado,av balanceado canal completo corazon univentricular
+KTFPPSTJNSTTSSPRKRTK,Status post-Genn y CATVP supracardiaca,catvp post-genn status supracardiaca
+TMTRMPSTFPTMSTTS,Status post-FBTM de 5 mm de diametro,5 diametro mm post-fbtm status
+ARKLNK,Auricula unica,auricula unica
+TKSTRKRT,Dextrocardia,dextrocardia
+ASKSKFKNTNSNNFRRNTRPSNFN,Interrupcion de vena cava inferior con continuacion a la acigos,acigos cava continuacion inferior interrupcion vena
+KXMPSTKLNSTTS,Status post-Glenn kawashima,kawashima post-glenn status
+ANMLKNKSNPLMNRSSPRKRTKTTLFNS,Conexion anomala total de venas pulmonares supracardiaca,anomala conexion pulmonares supracardiaca total venas
+AJNSFLTPLMNRSTTRLJFLFS,Tetralogia de Fallot agenesia de valvas pulmonares,agenesia fallot pulmonares tetralogia valvas
+ARTKSTNSSFLFLR,Estenosis aortica valvular,aortica estenosis valvular
+ASTNSSMTRL,Estenosis mitral,estenosis mitral
+PKPSTSRKRRJKSTTS,Status Post-Ciere quirurgico de PCA,pca post-ciere quirurgico status
+TRXTPLSTNSSFLTPLMNRSLTTPFNTRKL,Doble salida de ventriculo derecho estenosis pulmonar tipo fallot,derecho doble estenosis fallot pulmonar salida tipo ventriculo
+SFTRXTPLSLTFNTRKLF,Doble via de salida del ventriculo derecho CIV,civ derecho doble salida ventriculo via
+PSTKRTKTMSTTS,Status post-Cartectomia,post-cartectomia status
+ARTKRTSNKLKSNTLTSNSTNT,Dilatacion de coartacion de aorta y colocacion de Stent,aorta coartacion colocacion dilatacion stent
+KMNKSNNFNTPLRNTRFNTRKLR,Comunicacion interventricular infundibular,comunicacion infundibular interventricular
+AJNSFLTPLMNRTTRLJFLFL,Tetralogia de Fallot agenesia de valvula pulmonar,agenesia fallot pulmonar tetralogia valvula
+SFTPLSLTTPFTF,Doble via de salida del VD tipo CIV,civ doble salida tipo vd via
+SFTPLSLTSPRTKFTF,Doble via de salida del VD con CIV subaortica,civ doble salida subaortica vd via
+APSTNSSSKRTRM,Estenosis de la rama izquierda de la AP,ap estenosis izquierda rama
+TFSFTFLTTP,DVSVD tipo Fallot,dvsvd fallot tipo
+ANMLPSTN,Anomalia de Ebstein,anomalia ebstein
+ARTRSKRNTSNTKRSPTMTRNSPSSN,Transposicion de grandes arterias septum integro,arterias grandes integro septum transposicion
+SFPRMMPRNSTP,CIV perimembranosa tipo 2,2 civ perimembranosa tipo
+SFMSKLRPKNRSTRKTF,CIV muscular pequena restrictiva,civ muscular pequena restrictiva
+AFKNLTSPLNSTNKFNTRKL,Ventriculo unico canal AV desbalanceado,av canal desbalanceado unico ventriculo
+AFNSFSNSSFRFLFL,Insuficiencia de valvula AV severa,av insuficiencia severa valvula
+KMPLJPPLSKSKRTFNTRKL,Complejo de ventriculo izquierdo hipoplasico,complejo hipoplasico izquierdo ventriculo
+ARTKNSFSNS,Insuficiencia aortica,aortica insuficiencia
+NMLKRTKKNKSNPLMNRSTPTTLFNS,Conexion anomal total de venas pulmonares tipo 2 cardiaca,2 anomal cardiaca conexion pulmonares tipo total venas
+KMNKSNNTRFNTRKLRPRMMPRNS,Comunicacion interventricular perimembranosa,comunicacion interventricular perimembranosa
+ANLRTKRKTPLFSKLR,Anillo vascular por doble arco aortico,anillo aortico arco doble vascular
+ANKPSTKRTKTMSTTS,Status post-Coartectomia en INC,inc post-coartectomia status
+ATRSNTKTPLMNRSPTM,Atresia Pulmonar con septum intacto,atresia intacto pulmonar septum
+KLNPSTFSTLSTTS,Status post-Fistula y Glenn,glenn post-fistula status
+ATRSNTKRPLMNRSPTM,Atresia pulmonar septum integro,atresia integro pulmonar septum
+AMPLSNFPTMPSTSTTSTSFT,Status post- FBTM y ampliacion del TSVD,ampliacion fbtm post- status tsvd
+SMRSMSKSNMLRTKTRLKFSFKNTNSNTKSTRKRTSTNSSNFRRNTRPSNSKRTLLPPRMMPRNSSSTMKSPFLFLRFNFNS,1 CIV perimembranosa 2 Estenosis aortica subvalvular 3Isomerismo atrial izquierdo 4 Interrupcion de la vena cava inferior con continuacion a la acigos anomalia venosa sistemica 5 L-loop 6 Dextrocardia,1 2 3isomerismo 4 5 6 acigos anomalia aortica atrial cava civ continuacion dextrocardia estenosis inferior interrupcion izquierdo l-loop perimembranosa sistemica subvalvular vena venosa
+SFMMPRNPSTRPRSNRSXNSTTS,Status post-Reparacion de CIV y reseccion de membrana,civ membrana post-reparacion reseccion status
+NMKNKSNMKSTPLMNRSTPTTLFNS,Conexion anoma total de venas pulmonares tipo 4 mixta,4 anoma conexion mixta pulmonares tipo total venas
+ARTRPNTJPSTPRTPLMNR,Estado postoperado de bandaje de arteria pulmonar,arteria bandaje postoperado pulmonar
+ATRFNTRKLRTSKRTNS,Discordancia atrioventricular,atrioventricular discordancia
+TRXTPLSLTFNTRKL,Doble salida del ventriculo derecho,derecho doble salida ventriculo
+ANFRSSSTS,Situs inversus,inversus situs
+ARTKNSFSNSLJR,Insuficiencia aortica ligera,aortica insuficiencia ligera
+AMPLSNPSTFPTMSTTSTSFT,Status post-FBTM y ampliacion de TSVD,ampliacion post-fbtm status tsvd
+MTRLPRKTSFLFL,Valvula mitral en paracaidas,mitral paracaidas valvula
+ARTKKRTSN,Coartacion aortica,aortica coartacion
+KMNKSNNTRFNTRKLRRSTL,Comunicacion interventricular residual,comunicacion interventricular residual
+SFPKPSTRPRSNSTTS,Status post-Reparacion de CIV y PCA,civ pca post-reparacion status
+TRXMSSKRTPSTFPTMSKLSTTSKS,Status post-FBTM en el IMSS siglo XXI 2004 derecha 2005 izquierda,2004 2005 derecha imss izquierda post-fbtm siglo status xxi
+MSPSTKLNSTTS,Status post-Glenn IMSS 2008,2008 imss post-glenn status
+KRTKTRXSTNSSPPLSKPLMNRSNTRMFNTRKL,Sindrome de ventriculo derecho hipoplasico estenosis pulmonar critica,critica derecho estenosis hipoplasico pulmonar sindrome ventriculo
+HPPLSKFT,VD hipoplasico,hipoplasico vd
+ASTNSSFLTPMNRTTRLJ,Tetralogia de Fallot estenosis pumonar,estenosis fallot pumonar tetralogia
+KMNKSNFRMNNTRFNTRKLRFL,Comunicacion interventricular foramen oval,comunicacion foramen interventricular oval
+PLLKFSTLPTSK,PO Fistula Blalock Taussig,blalock fistula po taussig
+KMNKSNNTRFNTRKLRMLLNSN,Comunicacion intrventricular por malalineacion,comunicacion intrventricular malalineacion
+AFPLNSTKNLKMPLTTPLSLTFT,Doble salida de VD con Canal AV completo balanceado,av balanceado canal completo doble salida vd
+KTFPKRNRSN,CATVP al seno coronario,catvp coronario seno
+ARTKNSFSNSSKNTRFLFLR,Insuficiencia valvular aortica secundaria,aortica insuficiencia secundaria valvular
+ASTNSSLFPLMNRFLFLR,Estenosis valvular pulmonar leve,estenosis leve pulmonar valvular
+ATNMLKNKSNPRSLPLMNRSFNS,Conexion anomala parcial de venas pulmonares a la AD,ad anomala conexion parcial pulmonares venas
+TSFTFLTTPTFFS,TOF vs DSVD tipo Fallot,dsvd fallot tipo tof vs
+ANMLKNKSNKRNRNTRKRTKPLMNRSSNTTLFNS,Conexion anomala total de venas pulmonares a seno coronario intracardiaca,anomala conexion coronario intracardiaca pulmonares seno total venas
+ASTNSSFLTPLMNRTTRLJFLFL,Tetralogia de Fallot con estenosis de la valvula pulmonar,estenosis fallot pulmonar tetralogia valvula
+AMSPSTFPTMRSSTTS,Status post-FBTM En la Raza IMSS,imss post-fbtm raza status
+KMNKSNNTRTKSTNSNNTRFNTRKLRMMPRNSMSKLRF,Comunicacion interventricular muscular con extension membranosa y a la via de entrada,comunicacion entrada extension interventricular membranosa muscular via
+ASTNSSPLMNRSPFLFLR,Estenosis subvalvular pulmonar,estenosis pulmonar subvalvular
+APKSTRNPPSTPNTJSTTS,Status post-Bandaje de la AP Extra INP,ap extra inp post-bandaje status
+SFTFSFTRLSNT,DVSVD con CIV no relacionada,civ dvsvd relacionada
+KRTSN,Coartacion,coartacion
+APRNTTRXSPKLF,Subclavia derecha aberrante,aberrante derecha subclavia
+ARTPLMNRFNTN,Ventana aorto-pulmonar,aorto-pulmonar ventana
+ATRSPTPTRKSPTNKFNTRKL,Ventriculo unico atresia tricuspidea tipo IB,atresia ib tipo tricuspidea unico ventriculo
+SFRSTRKTF,CIV restrictiva,civ restrictiva
+TFFNKFNTRKL,Ventriculo unico DVEVI,dvevi unico ventriculo
+ARTRPSTPNTJPLMNRSTTS,Status post-Bandaje de la arteria pulmonar,arteria post-bandaje pulmonar status
+KMNKSNNTRRKLRRSTL,Comunicacion interauricular residual,comunicacion interauricular residual
+PSTKTFPSNSTTS,Status post-CATVP seno,post-catvp seno status
+TPLKRNTSNTKRLPNKPTRNSPTMTRNSPSSNFSS,Transposicion de grandes vasos septum integro Patron doble looping,doble grandes integro looping patron septum transposicion vasos
+SSTMSKNTM,CIA ostium secundum,cia ostium secundum
+SFMSKLRTP,CIV tipo 4 muscular,4 civ muscular tipo
+AJNSPLMNRFLFL,Agenesia de valvula pulmonar,agenesia pulmonar valvula
+ARTRTLTSNPLMNRRMS,Dilatacion de ramas de arteria pulmonar,arteria dilatacion pulmonar ramas
+SFNFNTPLRRSTRKTF,CIV infundibular restrictiva,civ infundibular restrictiva
+KMNKSNMMPRNSFNTRKLR,Comunicacion ventricular membranosa,comunicacion membranosa ventricular
+KMNKSNNTRFNTRKLRMLTPLSMSKLR,Comunicacion interventricular muscular multiples,comunicacion interventricular multiples muscular
+AMPLS,CIA amplia,amplia cia
+KRSNNFNTRKLR,Corazon univentricular,corazon univentricular
+KTFP,CATVP,catvp
+ARTRPNTJKTFPPSTRPRSNPLMNRSTTS,Status post-Reparacion de CATVP con Bandaje de arteria pulmonar,arteria bandaje catvp post-reparacion pulmonar status
+APPLSXPSTKLNSTTS,Status post-Glen con plastia de AP,ap plastia post-glen status
+KRSNPPLSKSKRTSNTRM,Sindrome de corazon izquierdo hipoplasico,corazon hipoplasico izquierdo sindrome
+ANSFSNSTRKSPTTRFL,Insuficiencia tricuspidea trivial,insuficiencia tricuspidea trivial
+ATRFNTRKLRNSFSNSSKRTFLFL,Insuficiencia de la valvula atrioventricular izquierda,atrioventricular insuficiencia izquierda valvula
+S,CIA,cia
+SFMMPRNSRSTRKTF,CIV membranosa restrictiva,civ membranosa restrictiva
+HPPLSKSKRTSNTRMFNTRKL,Sindrome de ventriculo izquierdo hipoplasico,hipoplasico izquierdo sindrome ventriculo
+ASTNSSNFNTPLRPLMNRSPNFNTPLR,Estenosis pulmonar infundibular y subinfundibular,estenosis infundibular pulmonar subinfundibular
+PSTNRTSTTS,Status post-Norwood,post-norwood status
+ARTKSTNSSSPRFLFLR,Estenosis supravalvular aortica,aortica estenosis supravalvular
+ARTRKRTTSTNSSSKRT,Estenosis de la arteria carotida izquierda,arteria carotida estenosis izquierda
+NLKLKSNNTTRMTRLPSTSRSTTS,Status post-Cierre de hendidura mitral y colocacion de anillo mitral 14-2-12,14-2-12 anillo colocacion hendidura mitral post-cierre status
+ASTNSSSPRTK,Estenosis subaortica,estenosis subaortica
+AFPLNSTKNLKMPLT,Canal AV completo balanceado,av balanceado canal completo
+PTRXNLPSTKLNSTTS,Status post-Glenn bidireccional,bidireccional post-glenn status
+ANLRTRTKSNTNTPPLSKS,Anillo aortico y aorta ascendente hipoplasicos,anillo aorta aortico ascendente hipoplasicos
+ANTKRTKFPRLSTSSKRT,Fibroelastosis endocardica grado III,endocardica fibroelastosis grado iii
+TSFNSNSFRF,Disfuncion del VI severa,disfuncion severa vi
+ARTKSTNSS,Estenosis aortica,aortica estenosis
+ANMLKNKSNKRNRPMNRSSNTTLFNS,Conexion anomala total de venas pumonares seno coronario,anomala conexion coronario pumonares seno total venas
+KMNKSNNTRTNTRFNTRKLRMMPRNSMLTPLSMSKLRF,Comunicacion interventricular multiples 1 membranosa 1 via de entrada y 1 muscular,1 comunicacion entrada interventricular membranosa multiples muscular via
+ALNSNKMNKSNSNMNKRNTRFNTRKLRMLTP,Comunicacion interventricular por mala alineacion tipo Eisenmenger,alineacion comunicacion eisenmenger interventricular mala tipo
+MMPRNPSTRKTFSPRTK,Membrana subaortica no obstructiva,membrana obstructiva subaortica
+PKPSTKLKSNSTTSSTNT,Status post-Colocacion de Stent en PCA,pca post-colocacion status stent
+TRXTPLSLTTKTPFNTRKL,Doble Salida del Ventriculo Derecho tipo TGA,derecho doble salida tga tipo ventriculo
+ARTRKLNPSTPNTJPLMNRSTTS,Status post-Bandaje de la arteria pulmonar y Glenn,arteria glenn post-bandaje pulmonar status
+PSTRPRSNSTTSTF,Status post-Reparacion de TOF,post-reparacion status tof
+AFTSKRTNSTPLNKFFNTRKL,Doble discordancia AV y VA ventriculo unico otros,av discordancia doble unico va ventriculo
+APPNTJPSTFNSSTTS,Status post-Avance y Bandaje de la AP,ap bandaje post-avance status
+AKSTRKRTSPSTKRTKTRMSTTS,Status post-Coartectormia extrakardias,extrakardias post-coartectormia status
+TPLSTNSSFLTSLTSPPLMNRTPFT,Doble salida del VD tipo Fallot con estenosis subpulmonar,doble estenosis fallot salida subpulmonar tipo vd
+STRTNKTRKSPTFLFL,Stradding de valvula tricuspidea,stradding tricuspidea valvula
+AFRTNKTRKSPTFLFL,Overriding de la valvula tricuspide,overriding tricuspide valvula
+ALNSNKMNKSNNTRFNTRKLRML,Comunicacion interventricular por mala alineacion,alineacion comunicacion interventricular mala
+ASNSSTNSSPLMNRFLFLFLFLR,Estenosis valvular pulmonar ausencia de valvula pulmonar,ausencia estenosis pulmonar valvula valvular
+KLNPSTFPTMSTTS,Status post-FBTM y Glenn,glenn post-fbtm status
+ATRSPTRKSPTNKFNTRKL,Ventriculo unico atresia tricuspidea IB,atresia ib tricuspidea unico ventriculo
+KFSKRTPRSSTNTFN,Vena cava izquierda persistente,cava izquierda persistente vena
+ARTPLMNRKLTRLSTNSSFLTPLMNRTTRLJ,Tetralogia de Fallot estenosis pulmonar colateral aorto-pulmonar,aorto-pulmonar colateral estenosis fallot pulmonar tetralogia
+SFPKNRSTRKTF,CIV pequena restrictiva,civ pequena restrictiva
+KRTKSTNSSPLMNR,Estenosis pulmonar critica,critica estenosis pulmonar
+KTSRNTNTPRFRSNFT,Intento de cierre por cate perforacion del VD,cate cierre intento perforacion vd
+KMNKSNNTRFNTRKLRMLTPL,Comunicacion interventricular multiple,comunicacion interventricular multiple
+ALNSNKMNKSNNTRFNTRKLRMLMMPRNS,Comunicacion interventricular membranosa por mala alineacion,alineacion comunicacion interventricular mala membranosa
+ASKRTPRSSTNTFKS,VCS izquierda persistente,izquierda persistente vcs
+ARTKKRTKSTNSS,Estenosis aortica critica,aortica critica estenosis
+ARTRTKRKSNTNTPPLS,Hipoplasia de aorta ascendente y del arco aortico,aorta aortico arco ascendente hipoplasia
+KLNPSTNRTSTTS,Status post-Norwood y Glenn,glenn post-norwood status
+TPLFLTSLTTPFT,Doble salida del VD tipo Fallot,doble fallot salida tipo vd
+ARKLKTFPTRXMRFLJKMNT,CATVP a la auricula morfologicamente derecha,auricula catvp derecha morfologicamente
+ARKLRSMRSMSKRTP,Isomerismo auricualr pb izquierdo,auricualr isomerismo izquierdo pb
+KLKSNKMPSTFLTSTTS,Status post-Fallot y colocacion de ECMO,colocacion ecmo post-fallot status
+KMNKSNNFRRNTRRKLRSNTPFNS,comunicacion interauricular tipo seno venoso inferior,comunicacion inferior interauricular seno tipo venoso
+ATRSSSFRSTRKTFTRKSPTNKFNTRKL,Ventriculo unico atresia tricuspidea CIA y CIV restrictiva,atresia cia civ restrictiva tricuspidea unico ventriculo
+ATRSPLMNRTRKSPTNKFNTRKL,Ventriculo unico atresia tricuspidea con atresia pulmonar,atresia pulmonar tricuspidea unico ventriculo
+TPLNTRTNKFNTRKLF,Ventriculo unico doble entrada al VI,doble entrada unico ventriculo vi
+KLNMSPSTSPSTTS,Status post Glenn sep 12? en el IMSS,12? glenn imss post sep status
+ARTPLMMRTPFNTN,Ventana aorto-pulmomar tipo III,aorto-pulmomar iii tipo ventana
+ANMLKNKSNPSTRTPRSLMNTPLMNRSSPRKRTKTTLFNS,Conexion anomala total de venas pulmonares supracardiaca parcialmente obstruida,anomala conexion obstruida parcialmente pulmonares supracardiaca total venas
+KMNKSNFPNTRRKLR,Comunicacion interauricular FOP,comunicacion fop interauricular
+KRSNSTRTRTRTM,Cor Triatriatum sinester,cor sinester triatriatum
+ARTRSTPTRNK,Tronco arterioso tipo I,arterioso i tipo tronco
+AKSTRNPKPSTSRKRRJKSTTS,Status post-Cierre quirurgico de PCA externo,externo pca post-cierre quirurgico status
+ARTKRKSFNTRPSN,Interrupcion de arco aortico CIV,aortico arco civ interrupcion
+TSFT,DSVD,dsvd
+SFSPRTK,CIV subaortica,civ subaortica
+FRMNFLPRMPL,Formane oval permeable,formane oval permeable
+ATRSMTRL,Atresia mitral,atresia mitral
+PLLKFSTLSTRTSK,Historia de fistula de Blalock Taussig?,blalock fistula historia taussig?
+PLLKTSMNTLMNTSTTSFSTLKLNPSTPRSTMNTTSK,Estatus post procedimiendo de Glenn y desmantelamiento de fistula de Blalock Taussig,blalock desmantelamiento estatus fistula glenn post procedimiendo taussig
+ATRLSTRSPTKTM,Historia de septectomia atrial,atrial historia septectomia
+PTRXNLKLNPSTFPTMSTTS,Status post-FBTM glenn bidireccional,bidireccional glenn post-fbtm status
+ARTKRKPSFKNTRNKLNTRPSNMMPRNSTP,Interrupcion de arco aortico tipo B CIV membranosa conotroncal,aortico arco b civ conotroncal interrupcion membranosa tipo
+ARKPSRSFKNTRNKLKRXNNTRPSNMMPRNSPKPSTKRRJKSTTSTP,Status post Correccion de interrupcion de arco tipo B cierre de CIV membranosa conotroncal cierre quirurgico de PCA,arco b cierre civ conotroncal correccion interrupcion membranosa pca post quirurgico status tipo
+ANLRTKRKKMPLTTPLFSKLR,Anillo vascular completo por doble arco aortico,anillo aortico arco completo doble vascular
+KMNKSNNTRTKSTNSNNTRFNTRKLRMSKLRF,Comunicacion interventricular muscular con extension a la via de entrada,comunicacion entrada extension interventricular muscular via
+SFPSTSRSTTS,Status post-Cierre de CIV,civ post-cierre status
+KMNKSNNTRFNTRKLRRTRSTR,Comunicacion interventricular por rutura de sutura,comunicacion interventricular rutura sutura
+TPLSLTFTF,Doble via de salida del VD,doble salida vd via
+KMRTPLFT,Doble camara del VD,camara doble vd
+SFTPLRLSNTSLTFTF,Doble via de salida del VD con CIV no relacionada,civ doble relacionada salida vd via
+PSTTFSTTS,Status post-TOF,post-tof status
+ARTKMMPRNSPFLFLR,Membrana subvalvular aortica,aortica membrana subvalvular
+KMNKSNNTRFNTRKLRMMPRNSMLTPLMSKLRS,Comunicacion interventricular multiple membranosa y musculares,comunicacion interventricular membranosa multiple musculares
+ANMLKNKSNSKRTPRSLPLMNRSFNS,Conexion anomal parcial de venas pulmonares izquierda,anomal conexion izquierda parcial pulmonares venas
+ANFRSSSTSTTL,Situs inversus total,inversus situs total
+ASKRTFKS,VCS izqueirda,izqueirda vcs
+TFRTKLPRKRTK,Diverticulo pericardico,diverticulo pericardico
+TKSTRPKS,Dextroapex,dextroapex
+KNTRLPNTLJ,Pentalogia de Cantrell,cantrell pentalogia
+KMNKSNNTRFNTRKLRMMPRNSMLTPL,Comunicacion interventricular multiple membranaosa,comunicacion interventricular membranaosa multiple
+MSKLR,muscular,muscular
+ANSFSNSMTRTTRKSPT,Insuficiencia tricuspidea moderada,insuficiencia moderada tricuspidea
+ARTKSTNSSSPFLFR,Estenosis subvalvuar aortica,aortica estenosis subvalvuar
+TFNKFNTRKL,Ventriculo unico DEVI,devi unico ventriculo
+ARTRLTSKRTNSFNTRKL,Discoardancia ventriculo arterial,arterial discoardancia ventriculo
+PLPFNTRKLRFRMNRSTRKTF,Foramen bulboventricular no restrictivo,bulboventricular foramen restrictivo
+FPLNSTKNLKMPLTRSTLTP,Canal AV completo balanceado tipo A  de Rastelli, av balanceado canal completo rastelli tipo
+MKMNKSNNTRRKLRSNSPRRTPFNS,Comunicacion interauricular tipo seno venoso superior de 11mm,11mm comunicacion interauricular seno superior tipo venoso
+SFPSTTFRSTLSTTS,Status post-TOF y CIV residual,civ post-tof residual status
+KMNKSNNTRTKSTNSNNTRFNTRKLRMMPRNSF,Comunicacion interventricular membranosa con extension a la via de entrada,comunicacion entrada extension interventricular membranosa via
+KMNKSNKSTNSNNTRFNTRKLRMMPRNSMSKLR,Comunicacion interventricular muscular con extension membranosa,comunicacion extension interventricular membranosa muscular
+RTRPNTJTSKSTRKRTSPSTPLMNRSTTS,Status post bandaje de arteria pulmonar extrakardias a los 21 dias,21 arteria bandaje dias extrakardias post pulmonar status
+KTTRSMTNSTK,Cateterismo diagnostico el 14-9,14-9 cateterismo diagnostico
+SFNSTRT,CIA fenestrada,cia fenestrada
+TKF,TGV,tgv
+KRTSSTNSSFNSNLNFLPSPRTKTRKSPTFLFL,Estenosis subaortica funcional pb a nivel de las cuerdas de la valvula tricuspidea,cuerdas estenosis funcional nivel pb subaortica tricuspidea valvula
+SFTPLPSTRPRSNSLTSTTSSPRTKFTF,Status post-Reparacion de Doble via de salida del VD CIV subaortica,civ doble post-reparacion salida status subaortica vd via
+ARTRTKRKKRTSNPPLS,Coartacion de aorta con hipoplasia de arco aortico,aorta aortico arco coartacion hipoplasia
+PLPFNTRKLRTFFRMNKRNTSNFRSNFLPRMPLRSTRKTFTRNSPSSNNKFSSFNTRKLRFNTRKL,Ventriculo unico DEVI Inversion ventricular Transposicion de grandes vasos foramen oval permeable foramen bulboventricular no restrictivo,bulboventricular devi foramen grandes inversion oval permeable restrictivo transposicion unico vasos ventricular ventriculo
+ATTRMP,Trombo en AD,ad trombo
+SFMMPRNS,CIV membranosa,civ membranosa
+SSTMSKNTMTP,CIA tipo Ostium Secundum,cia ostium secundum tipo
+ARTRSKNTKTPRSSTNT,Conducto arterioso persistente,arterioso conducto persistente
+SFNTRTKSTNSNMMPRNSF,CIV membranosa con extension a la via de entrada,civ entrada extension membranosa via
+HPPLSPLMNRSRMS,Hipoplasia de ramas pulmonares,hipoplasia pulmonares ramas
+TPLSTNSSFLTMKSTPLMNRSLTTPFT,Doble salida del VD con estenosis pulmonar mixto tipo Fallot,doble estenosis fallot mixto pulmonar salida tipo vd
+ARTKRTSNKSTTKTL,Coartacion de aorta yuxtaductal,aorta coartacion yuxtaductal
+ASKRTLMTRFFNTRKL,Ventriculo izquierdo limitrofe,izquierdo limitrofe ventriculo
+KMNKSNNTRFNTRKLR,Comunicacion interventricular,comunicacion interventricular
+KMNKSNNTRTKSTNSNNTRFNTRKLRF,Comunicacion interventricular con extension a via de entrada,comunicacion entrada extension interventricular via
+HNTTRMTRL,Hendidura mitral,hendidura mitral
+KRSNSFRTRKSPTNFNTRKLRSTNSS,Corazon univentricularestenosis tricuspidea severa,corazon severa tricuspidea univentricularestenosis
+KNFLNTSSTNSSPLMNRRMS,estenosis pulmonar con ramas confluentes,confluentes estenosis pulmonar ramas
+ARTPLMNRKLRL,colaeral aorto-pulmonar,aorto-pulmonar colaeral
+ARTRSKNTKTTSKRTPRMPLTPFNTN,Conducto arterioso permeable se descarta tipo ventana,arterioso conducto descarta permeable tipo ventana
+KMNKSNNTRFNTRKLRMMPRNSMSKLR,Comunicacion interventricular membranosa y muscular,comunicacion interventricular membranosa muscular
+ARTRSKRNTSTRSPSKN,Trasposicon de grandes arterias,arterias grandes trasposicon
+FRMNFLRSTRKTF,foramen oval no restrictivo,foramen oval restrictivo
+ARKLRKMNKSNRSTRKTF,comunicacion auricular no restrictiva,auricular comunicacion restrictiva
+KMNKSNNTRFNTRKLRSPRTK,comunicacion interventricular subaortica,comunicacion interventricular subaortica
+ARTKSTNSSMMPRNSPRTKSPFLFLR,membrana subaortica estenosis subvalvular aortica,aortica estenosis membrana subaortica subvalvular
+KMNKSNNTRRKLRSNTPFNS,Comunicacion interauricular tipo seno venoso,comunicacion interauricular seno tipo venoso
+ANMLKNKSNPRSLPLMNRSFNS,Conexion anomala parcial de venas pulmonares,anomala conexion parcial pulmonares venas
+KFSKRTPRSSTNTSPRRFN,vena cava superior izquierda persistente,cava izquierda persistente superior vena
+ARTRTKRKSRKNFLJTRXTSNTNTSKRTPRSN,Arco aortico izquierdo con aorta circunfleja y porcion descendente derecha,aorta aortico arco circunfleja derecha descendente izquierdo porcion
+ARTKRKKRNRFLTPTLSKRTPTRNTTRLJ,Tetralogia de Fallot patron coronario habitual y arco aortico izquierdo,aortico arco coronario fallot habitual izquierdo patron tetralogia
+PTRXNLSFKRTSRKT,CIV cortocircuito bidireccional,bidireccional civ cortocircuito
+ASTNSSNFNTPLRMTRTPRTMNPLMNR,Estenosis pulmonar moderada de predominio infundibular,estenosis infundibular moderada predominio pulmonar
+ARTPLMNRKLTRL,Colateral aortopulmonar,aortopulmonar colateral
+AFKNLTSPLNST,Canal AV desbalanceado,av canal desbalanceado
+KRSNTRTKSNFNTRKLR,Corazon univentricular heterotaxia,corazon heterotaxia univentricular
+APKNFLNTSSTNSSRJN,AP confluentes con estenosis en su origen,ap confluentes estenosis origen
+KTFPSPRKRTK,CATVP supracardiaca,catvp supracardiaca
+ATRSPLPFNTRKLRFRMNLMTRFTKTRKSPT,Atresia tricuspidea con TGA foramen bulboventricular limitrofe,atresia bulboventricular foramen limitrofe tga tricuspidea
+ARTRLKNKRTNTKNKSNFNTRKL,Conexion ventriculo arterial concordante,arterial concordante conexion ventriculo
+ANMLRTRTKRKKRTSNKNKSNPPLSNFRKRTKPSTRTPLMNRSTTLFNS,Coartacion de aorta; Hipoplasia de arco aortico; Conexion anomala total de venas pulmonares infracardiaca obstruida,anomala aorta; aortico; arco coartacion conexion hipoplasia infracardiaca obstruida pulmonares total venas
+SFNTRTKSTNSNMMPRNSTPF,CIV tipo membranosa con extension a la via de entrada,civ entrada extension membranosa tipo via
+ARTKRKFNSTMSKSTNSLP,PO de Damus/Kaye/Stansel con avance de arco aortico,aortico arco avance damus/kaye/stansel po
+PLLKFSTLPRFNSNNTTSK,fistula de Blalock Taussig hiperfuncionante,blalock fistula hiperfuncionante taussig
+ARTKKMNKSNSTNSSNSFSNSNTRFNTRKLRLJRMMPRNSSPRTK,Comunicacion interventricular membranosa; Estenosis subarotica; Insuficiencia aortica ligera,aortica comunicacion estenosis insuficiencia interventricular ligera membranosa; subarotica;
+ARTKRTSNKNJNTNSFSNSMTRL,Coartacion de aorta; Insuficiencia mitral congenita,aorta; coartacion congenita insuficiencia mitral
+ANLSTNSSNTRMTRLMTRL,Estenosis mitral Anillo intramitral,anillo estenosis intramitral mitral
+AMPLSNPLLKFSTLPSLTTSKTRKTFT,PO de ampliacion del tracto de salida del VD con fistula de Blalock Taussig,ampliacion blalock fistula po salida taussig tracto vd
+APKLRTRSKMNKSNKNTKTNTRFNTRKLRMPRNSMSKLRPRSSTNS,Comunicacion interventricular mebranosa; Comunicacion interventricular muscular apical; Persistencia se conducto arterioso,apical; arterioso comunicacion conducto interventricular mebranosa; muscular persistencia
+ARTRTRSKRTSNKNTKTPKNKSTTKTL,Coartacion de aorta yuxtaductal; Conducto arterioso pequeno,aorta arterioso coartacion conducto pequeno yuxtaductal;
+ANMLTRFNTRKLRTRFNTRKLRRKLSSNSKFKNKSNKRSNKRNRTRXTRXTSKRTNSTPLFNSNLMNTNFRSNSKRTNRMLMNTPRSSTNTPLMNRSRLSNTSSLTSNSPRRTTLNFNTRKLRFSSFNFNSFNTRKLRFNTRKLKSTPSSN,Corazon funcionalmente univentricular; Discordancia atrioventricular; Doble salida del ventriculo derecho; Ausencia de conexion atrioventricular derecha; Inversion ventricular; Vasos normalmente relacionados; Conexion anomala total de venas pulmonares al seno coronario; Vena cava superior izquierda persistente; yuxtaposicion de auriculas,anomala atrioventricular atrioventricular; auriculas ausencia cava conexion corazon coronario; derecha; derecho; discordancia doble funcionalmente inversion izquierda normalmente persistente; pulmonares relacionados; salida seno superior total univentricular; vasos vena venas ventricular; ventriculo yuxtaposicion
+TRSKLKXNTTTPNTKRNTRTKTLMSSNNTLPPLMNRSPTMSTNT,Atresia pulmonar/septum integro; PO de colocaccion de stent intraductal en etapa neonatal y stent sobre stent a los 8 meses de edad,8 atresia colocaccion edad etapa integro; intraductal meses neonatal po pulmonar/septum stent
+MFKNLSSFNTRTMPRMMRSTLTRNSSNL,Canal AV transicional Rastelli A; CIA primum 12 mm; CIV entrada 5mm,12 5mm a; av canal cia civ entrada mm; primum rastelli transicional
+ARTRSKMNKSNKNTKTNTRFNTRKLRMMPRNSPRSSTNS,Comunicacion interventricular membranosa; Persistencia de conducto arterioso,arterioso comunicacion conducto interventricular membranosa; persistencia
+RTPLMNRRTRSKFKMNKSNKRNRKRNTSNTRFNTRKLRMMPRNSNSNTPRSSTNTSNSPRRTPTRSPSSNNKFNFNTN,Trasposicion de grandes arterias; Coronaria unica naciendo del seno 1; Ventana aorto-pulmonar tipo 2; Comunicacion interventricular membranosa: Vena cava superior persistente,1; 2; aorto-pulmonar arterias; cava comunicacion coronaria grandes interventricular membranosa: naciendo persistente seno superior tipo trasposicion unica vena ventana
+MTSTNTS,Mediastinitis,mediastinitis
+ALNSNSRKMNKSNNTRFNTRKLRML,Cierre de comunicacion interventricular por mala alineacion,alineacion cierre comunicacion interventricular mala
+ATRFNTKLRKNLRSTL,Canal atrioventicular Rastelli C,atrioventicular c canal rastelli
+ASTNSSPPLMNRSPRFLFLR,Pb estenosis supravalvular pulmonar,estenosis pb pulmonar supravalvular
+ARTKPRTRFSPFLFLR,Hipertrofia subvalvular aortica,aortica hipertrofia subvalvular
+ARTRSTNSSSKRTLPLMNRRM,Estenosis de la rama izquierda de lla arteria pulmonar,arteria estenosis izquierda lla pulmonar rama
+LMPRSNMLFFNSTPLKSLLSKLKSNPSTNFLTRMPLNTMTRMRKPSSPRKSSTKPPRTSSTRKSPT,Anomalia de Ebstein; PO de implante de protesis tricuspidea 1991; PO de implante de celulas madre y colocacion de alambres de marcapasos 2008: Flutter paroxistico; Bloqueo AV avanzado,1991; 2008: alambres anomalia av avanzado bloqueo celulas colocacion ebstein; flutter implante madre marcapasos paroxistico; po protesis tricuspidea
+ASTNSSNTKRNTRFNTRKLRPLMNRSPTMSFR,Estenosis pulmonar severa septum interventricular integro,estenosis integro interventricular pulmonar septum severa
+TRXTRXPRTRFPPLSLMTRFFNTRKLRFNTRKL,Ventriculo derecho limitrofe hipoplasia e hipertrofia ventricular derecha,derecha derecho hipertrofia hipoplasia limitrofe ventricular ventriculo
+PRKTNPFLFLPLSXFSS,PO valvuloplastia percutanea 2 veces,2 percutanea po valvuloplastia veces
+FPTMP,PO de FBTM,fbtm po
+KMNKKNNTRRKLR,Comunicaicon interauricular,comunicaicon interauricular
+TSFSNSTNSSPSTRRSPTMSPRTK,Estenosis subaortica por desviacion posterior del septum,desviacion estenosis posterior septum subaortica
+ARTRSTRFNTRKLRPLNSTKNLKMPLTKMPNNTKMNKSNKNTKTTRXNSFSNSNTRRKLRLJRSTMPRMPLRSTLSKNTMTP,Canal atrioventricular completo balanceado tipo A Rastelli; Comunicacion interauricular ostium secundum; Conducto arterioso permeable; Insuficiencia del componente derecho ligera,arterioso atrioventricular balanceado canal completo componente comunicacion conducto derecho insuficiencia interauricular ligera ostium permeable; rastelli; secundum; tipo
+ARTKSTNSSSFRFLFLR,Estenosis valvular aortica severa,aortica estenosis severa valvular
+ARTPFLF,Aorta bivalva,aorta bivalva
+ARTRSKNTKTPKNPRMPL,Conducto arterioso pequeno permeable,arterioso conducto pequeno permeable
+ARTRSKNTKTPRMPL,Conducto arterioso permeable,arterioso conducto permeable
+ANTSTNTSRKMNKSNSPNTNFRMNTRRKLRPKN,Antecedente de comunicacion interauricular pequena cerro de forma espontanea,antecedente cerro comunicacion espontanea forma interauricular pequena
+KSKMNKSNNTRFNTRKLRMPRMMPRNS,Comunicacion interventricular perimembranosa de 3x5 mm,3x5 comunicacion interventricular mm perimembranosa
+KMNKSNNTRRKLRSTMSKNTMTP,Comunicacion interauricular tipo ostium secundum,comunicacion interauricular ostium secundum tipo
+ATRSKRSNTRKSPTNFNTRKLR,Corazon univentricular atresia tricuspidea,atresia corazon tricuspidea univentricular
+KLNP,PO de Glenn,glenn po
+APPNTJP,PO de bandaje de AP,ap bandaje po
+ATRSKRSNFSLJSKNTRTRKSPTNFNTRKLR,Corazon con fisiologia univentricular secundario a atresia tricuspidea,atresia corazon fisiologia secundario tricuspidea univentricular
+KSMKMNKSNNTRTKSTNSNNTRFNTRKLRMMPRNS,Comunicacion interventricular de entrada con extension membranosa 14x15mm,14x15mm comunicacion entrada extension interventricular membranosa
+ARTRSKNTKTPSSTNS,Pesistencia de Conducto Arterioso,arterioso conducto pesistencia
+SPRSLMNTRSTRKTF,CIA parcialmente restrictiva,cia parcialmente restrictiva
+ATRSKMNKSNKRSNFSLJNTRFNTRKLRPLMNRSKNTRSPTPLNFNTRKLR,Corazon con fisiologia univentricular secundario a atresia pulmonar con comunicacion interventricular no septable,atresia comunicacion corazon fisiologia interventricular pulmonar secundario septable univentricular
+NLFPLNSTKNLNTRMTRFSSRSTL,Canal AV balanceado intermedio 1 anillo 2 orificios Rastelli A,1 2 anillo av balanceado canal intermedio orificios rastelli
+KMNKSNNTRRKLSTMSKNTMR,Comunicacion interauricula ostium secundumr,comunicacion interauricula ostium secundumr
+ARTPLMNRFLTTTRLJFNTN,Tetralogia de Fallot con ventana aortopulmonar,aortopulmonar fallot tetralogia ventana
+TPLFLTSLTTTRLJTPF,Doble salida del VI tipo Tetralogia de Fallot,doble fallot salida tetralogia tipo vi
+ARTRSKNTKTPKNPRSSTNT,Conducto arterioso persistente muy pequeno,arterioso conducto pequeno persistente
+KMNSSNNTRFNTRKLRPRMMPRNS,Comunciacion interventricular perimembranosa,comunciacion interventricular perimembranosa
+TPLNTRTF,Doble entrada del VI,doble entrada vi
+ASTNSPLMNR,Estenossi pulmonar,estenossi pulmonar
+ARTRSKMNKSNKNTKTTRXTPLNTRFNTRKLRPRSSTNSSLTSPRTKFNTRKLF,Doble via de salida del ventriculo derecho con comunicacion interventricular subaortica y persistencia de conducto arterioso,arterioso comunicacion conducto derecho doble interventricular persistencia salida subaortica ventriculo via
+KRSNFSLJNFNTRKLR,Corazon con fisiologia univentricular,corazon fisiologia univentricular
+AFKNKRTNTSKNKSNS,Conexiones AV concordantes,av concordantes conexiones
+PNTJKLNSTRPSTPLMNR,Historia de bandaje pulmonar y Post Glenn,bandaje glenn historia post pulmonar
+KRSNPLSKSKRTSNTRM,Sindrome de corazon izquierdo hipolasico,corazon hipolasico izquierdo sindrome
+ARTRKSNTNTPPLSKS,aorta ascendente y arco hipoplasicos,aorta arco ascendente hipoplasicos
+SRSTRKTF,CIA no restrictiva,cia restrictiva
+ARTKTRS,Atresia aortica,aortica atresia
+LFTRKRTNLPRSSTNTFN,Vena levo-atrio-cardinal persistente,levo-atrio-cardinal persistente vena
+AMPLKMNKSNNTRRKLR,Comunicacion interauricular amplia,amplia comunicacion interauricular
+ARTKRKKRTSNPPLS,Coartacion e hipoplasia de arco aortico,aortico arco coartacion hipoplasia
+APKLKMNKSNNTRFNTRKLRMSKLR,Comunicacion interventricular muscular apical,apical comunicacion interventricular muscular
+ATRSKMNKSNFLTNTRFNTRKLRPLMNRTTRLJ,Atresia pulmonar con comunicacion interventricular Tetralogia de Fallot,atresia comunicacion fallot interventricular pulmonar tetralogia
+PLLKFSTLPSTTSK,Estado post fistula de Blalock- Taussig,blalock- fistula post taussig
+ANFRSNFNTRKLR,inversion ventricular,inversion ventricular
+ARTRPNTJPPLMNR,PO bandaje de arteria pulmonar,arteria bandaje po pulmonar
+ARTKRKTRXNRTP,arco aortico derecho PO Norwood,aortico arco derecho norwood po
+SFTRXTPLSLTSPRTKFNTRKL,Doble salida de ventriculo derecho con CIV subaortica,civ derecho doble salida subaortica ventriculo
+SRSFP,PO cierre de CIV,cierre civ po
+SFRSTL,CIV residual,civ residual
+KMNKSNNTRTNTRFNTRKLRF,Cominicacion interventricular de la via de entrada,cominicacion entrada interventricular via
+ASNSFKNKSNTRX,Ausencia de conexion AV derecha,ausencia av conexion derecha
+TPLSLTFT,Doble salida de VD,doble salida vd
+AMPLSFRSTRKTF,CIV amplia no restrictiva,amplia civ restrictiva
+ANMLKNKSNKRNRPLMNRSSNFNS,conexion anomala de venas pulmonares a seno coronario,anomala conexion coronario pulmonares seno venas
+KFTPLSPRRFN,doble vena cava superior,cava doble superior vena
+SSRFPTPRSLP,PO FBT cierre parcial de CIA,cia cierre fbt parcial po
+KLKSNTPNTRTKTLNNTLSTNT,colocacion de Stent intraductal en etapa neonatal,colocacion etapa intraductal neonatal stent
+TFSSTNSSPPLSSKRTRJNPLMNRRM,Estenosis del origen de la rama pulmonar izquierda con hipoplasia difusa,difusa estenosis hipoplasia izquierda origen pulmonar rama
+KLKSNTPNTRTKTLNNTLPSTSTNT,Estado post colocacion de stent intraductal en etapa neonatal,colocacion etapa intraductal neonatal post stent
+ARTRSKRNTSTRNSPSSN,Transposicion de grandes arterias,arterias grandes transposicion
+KMNKSNNTRFNTRKLRMTMSKLR,Comunicacion interventricular muscular media,comunicacion interventricular media muscular
+ARTKKRNRTRXNSFSNSPRLPSFLFFLFLR,Insuficiencia valvular aortica prolapso de valva coronaria derecha,aortica coronaria derecha insuficiencia prolapso valva valvular
+ARTRSKNTKTPRSSTNST,Persistenciad de conducto arterioso,arterioso conducto persistenciad
+ANMLKMNKSNKNKSNNTRRKLRPRSLPLMNRSRSTLFNS,Comunicacion interauricular residual con conexion anomala parcial de venas pulmonares,anomala comunicacion conexion interauricular parcial pulmonares residual venas
+SRSFMMPRNSPKP,PO cierre CIV membranosa y PCA,cierre civ membranosa pca po
+ARKLKPFPKRXNSKRTMRFLJKMNTP,PO Correccion CAPVP a auricula morfologicamente izquierda,auricula capvp correccion izquierda morfologicamente po
+ATRSSFMLTPLSPLMNRSPTPLS,atresia pulmonar con CIV multiples no septables,atresia civ multiples pulmonar septables
+ARTTKSTRPST,Aorta dextropuesta,aorta dextropuesta
+STRTLNKTRKSPTFLFL,Valvula tricuspide en straddling,straddling tricuspide valvula
+PTFSTLSTR,Historia de fistula BT,bt fistula historia
+PTRXNLKLNSTR,historia de Glenn bidireccioneal,bidireccioneal glenn historia
+ATKKRTSN,Coartacion aotica,aotica coartacion
+ARTKFNKP,PO avanca aortico,aortico avanca po
+ATRFNTRKLRPLNSTKNL,Canal atrioventricular balanceado,atrioventricular balanceado canal
+AFKMNNSFSNSSFRFLFL,insuficiencia severa de valvula AV comun,av comun insuficiencia severa valvula
+ARKLTRXTLTSNMTRTSFR,dilatacion moderada-severa de auricula derecha,auricula derecha dilatacion moderada-severa
+NRMLMNTRLSNTSFSS,vasos normalmente relacionados,normalmente relacionados vasos
+KRNTPK,PCA grande,grande pca
+SFNTRTF,CIV  de via de entrada, civ entrada via
+SFNSTRTSTMSKNTM,CIA ostium secundum fenestrada,cia fenestrada ostium secundum
+ATRFNTRKLRPLNSTKNLKMPLT,Canal atrioventricular completo balanceado,atrioventricular balanceado canal completo
+HPRTNSNPLMNR,hipertension pulmonar,hipertension pulmonar
+PLLKTSKP,PO Blalock-Taussig,blalock-taussig po
+ALTKMNKSNNTRFNTRKLRMSKLR,Comunicacion interventricular muscular alta,alta comunicacion interventricular muscular
+ARTKNSFSNSSFR,Insuficiencia aortica severa,aortica insuficiencia severa
+ANRSMTKRTSNTNTTLTSN,dilatacion aneurismatica de aorta ascendente,aneurismatica aorta ascendente dilatacion
+ARTKKNJNTSTNSSTPSTRNNTLFLFLPLSX,historia de valvuloplastia aortica por estenosis aortica congenita en etapa neonatal,aortica congenita estenosis etapa historia neonatal valvuloplastia
+ATRSSTNSSPLMNRTRKSPT,Atresia tricuspidea con estenosis pulmonar,atresia estenosis pulmonar tricuspidea
+PLLKTSNKFSTLSTRMTFKT,Historia de Fistula de Blalock-Taussing modificada,blalock-taussing fistula historia modificada
+PTRXNLKLNSTRPRSTMNT,Historia de procedimiento Glenn bidireccional,bidireccional glenn historia procedimiento
+KTTRSMTNSTKFLSNPLMNRSRSSTNSSFSKLRS,Cateterismo dignostico evaluacion resistencias vasculares pulmonares,cateterismo dignostico evaluacion pulmonares resistencias vasculares
+ATRFNTRKLRNSFSNSSKRTSFRFFL,Insuficiencia de la vavula atrioventricular izquierda severa,atrioventricular insuficiencia izquierda severa vavula
+SFPKNRSTL,CIV residual pequena,civ pequena residual
+AFKNLKRXNSTR,Historia de coreccion de canal AV,av canal coreccion historia
+SFRMNFLPKNTP,CIA tipo foramen oval muy pequena,cia foramen oval pequena tipo
+SFPRMMPRNS,CIV perimembranosa,civ perimembranosa
+PRTSKRNTMSMSTMPKNPSTRRSKNTMKS,CIA ostium secundum grande 25 x 15 mm con borde posterior mas pequeno,15 25 borde cia grande mas mm ostium pequeno posterior secundum x
+KRTMKL,Cardiomegalia,cardiomegalia
+ANSFSNSPLMNRSFR,Insuficiencia pulmonar severa,insuficiencia pulmonar severa
+KRXNFLTSTRPRXTTRLJTRNSNLR,Historia de correccion de Tetralogia de Fallot con parche  no transanular, correccion fallot historia parche tetralogia transanular
+HPPLSKSKRTFNTRKL,Ventriculo izquierdo hipoplasico,hipoplasico izquierdo ventriculo
+ARTSNTNTPPLSMTRT,Aorta ascendente con hipoplasia moderada,aorta ascendente hipoplasia moderada
+ARTKRKPPLSK,Arco aortico hipoplasico,aortico arco hipoplasico
+ANSFSNSMTRTSFRTRKSPT,Insuficiencia tricuspidea moderada a severa,insuficiencia moderada severa tricuspidea
+PRKSMTMNTKMNKSNTMTRLPTKKRNTNTRRKLRMSTMSKNTMKS,Comunicacion interauricular ostium secundum GRANDE eliptica 25 X 15 mm de diametro aproximadamente,15 25 aproximadamente comunicacion diametro eliptica grande interauricular mm ostium secundum x
+KMNKSNNTRRKLRSNFNS,Comunicacion interauricular seno venoso,comunicacion interauricular seno venoso
+ARTRLPRTNSNPLMNRSFR,Hipertension Arterial Pulmonar Severa,arterial hipertension pulmonar severa
+ALNSNKMNKSNNTRFNTRKLRMLPRMMPRNS,Comunicacion interventricular perimembranosa por mala alineacion,alineacion comunicacion interventricular mala perimembranosa
+KFKRNRSKRTPRSSTNTSNSPRRFN,Vena cava superior izquierda persistente al seno coronario,cava coronario izquierda persistente seno superior vena
+AFKNLKRXNP,OP de correccion de canal AV,av canal correccion op
+NTSTNTKLKSNTKTLSTNT,Antecedente de colocacion de stent ductal 11/02/2018,11/02/2018 antecedente colocacion ductal stent
+PLLKFSTLPTSNK,Estado Op de Fistula de Blalock Taussing 18/02/2019,18/02/2019 blalock fistula op taussing
+KRTSNKSTTKTL,Coartacion yuxtaductal,coartacion yuxtaductal
+ATRFNTRKLRKMNTSPLSFLFL,Displasia de valvula atrioventricular comun,atrioventricular comun displasia valvula
+ALNSNNTRRKMNKSNSNMNKRNTRFNTRKLRMLTP,Comunicacion interventricular por mal- alineacion anterior tipo Eisenmenger,alineacion anterior comunicacion eisenmenger interventricular mal- tipo
+APKLKMNKSNNTRFNTRKLR,Comunicacion interventricular apical,apical comunicacion interventricular
+KMNKSNNTRFNTRKLRMSKLRPKNRSTRKTF,Comunicacion interventricular muscular muy pequena restrictiva,comunicacion interventricular muscular pequena restrictiva
+PRSNTRM,Sindrome de Berry,berry sindrome
+ARTKRKNTRPSNTP,Interrupcion de arco aortico tipo A,aortico arco interrupcion tipo
+ARTPLMNRTPFNTN,Ventana aorto pulmonar tipo II,aorto ii pulmonar tipo ventana
+ARTRTRTRXRJNPLMNRRM,Origen de la rama derecha de la arteria pulmonar de la aorta,aorta arteria derecha origen pulmonar rama
+KMPNNTTRXNSFSNSMTRTFLFLR,Insuficiencia del componente valvular derecho moderado,componente derecho insuficiencia moderado valvular
+ARTRPNTJSTRPLMNR,Historia de bandaje de la arteria pulmonar,arteria bandaje historia pulmonar
+ARTRSKNTKTPRSSTNSPRPPL,Probable persistencia del conducto arterioso,arterioso conducto persistencia probable
+ARTRSKNTKTSTRLKTR,Historia de ligadura de conducto arterioso,arterioso conducto historia ligadura
+TRXTPLFLTSLTTPFNTRKL,Doble salida de ventriculo derecho tipo Fallot,derecho doble fallot salida tipo ventriculo
+FSTLPPLMNRSSTMK,PO de Fistula sistemica pulmonar,fistula po pulmonar sistemica
+ARTKNSFSNSMTRT,Insuficiencia aortica moderada,aortica insuficiencia moderada
+KRSNTPLNTRTFSLJSKRTNFNTRKLRFNTRKL,Corazon con fisiologia univentricular Doble entrada de ventriculo izquierdo,corazon doble entrada fisiologia izquierdo univentricular ventriculo
+KMNKSNSNMNKRNTRFNTRKLRMLLNSN,Comunicacion interventricular por mal-alineacion Eisenmenger,comunicacion eisenmenger interventricular mal-alineacion
+ARTKRKPPLSMTRT,Hipoplasia moderada de arco aortico,aortico arco hipoplasia moderada
+AFPLNSTKNLKMPLTTP,Canal AV completo balanceado tipo C,av balanceado c canal completo tipo
+KMNKSNNTRRKLRSTMPKNSKNTM,Comunicacion interauricular ostium secundum pequena,comunicacion interauricular ostium pequena secundum
+ATRSKRSNPLMNRTRKSTTRSNFNTRKLR,Corazon univentricular Atresia tricusidea/Atresia pulmonar,atresia corazon pulmonar tricusidea/atresia univentricular
+FSTLPLSXPSTPRTPLMNRPLMNRSRMSSSTMK,Estado postoperado de Fistula sistemico pulmonar y plastia de ramas pulmonares,fistula plastia postoperado pulmonar pulmonares ramas sistemico
+KRSNPPLSKSKRT,Corazon izquierdo hipoplasico,corazon hipoplasico izquierdo
+ARTKSTNSSSFRSSPFLFLRFLFLR,Estenosis valvular y subvalvular aortica severas,aortica estenosis severas subvalvular valvular
+ARTKRKFNSTMSKSTNSLSTRPRSTMNT,Historia de Procedimiento de Damus/Kaye/Stansel con avance de arco aortico,aortico arco avance damus/kaye/stansel historia procedimiento
+PLLKFSTLPLSXTSNKTRKST,Fistula de Blalock - Taussing y plastia tricusidea,- blalock fistula plastia taussing tricusidea
+ANMLKNKSNKRNRTRXSTSNFRRNMMNTSKRTMKSTPLMNRSSNSPRRTTLFNFNS,Conexion anomala total de venas pulmonares mixta las dos venas derechas y la inferior izquierda al seno coronario la superior izquierda a la vena inmominada,anomala conexion coronario derechas dos inferior inmominada izquierda mixta pulmonares seno superior total vena venas
+KMNKSNFRMNNTRRKLRFLRSTRKTFTP,Comunicacion interauricular tipo foramen oval restrictiva,comunicacion foramen interauricular oval restrictiva tipo
+NTRRRTKMNKSNTPLMNTKRNTSNTRFNTRKLRSKRTRLSNTSTLTRNSPSSNFSS,Transposicion de grandes vasos con aorta anterior e izquierda SDL  y  Comunicacion interventricular doblemente relacionada, anterior aorta comunicacion doblemente grandes interventricular izquierda relacionada sdl transposicion vasos
+ARTRKRNRNTRMRLSKRTRTRKMSRL,Arteria coronaria izquierda intramural retrocomisural,arteria coronaria intramural izquierda retrocomisural
+ATRSNRMLMNTRLSNTSTRKSPTFSS,Atresia tricuspidea con vasos normalmente relacionados,atresia normalmente relacionados tricuspidea vasos
+ASTNSSPLMNRSPRFLFLRFLFLR,Estenosis pulmonar valvular y supravalvular,estenosis pulmonar supravalvular valvular
+ARTRSKNTKTPRMPLPSPL,Posible conducto arterioso permeable,arterioso conducto permeable posible
+PLLKFSTLSTRTSNK,Historia de Fistula de Blalock - Taussing,- blalock fistula historia taussing
+PTRXNLPLLKTSMNTLMNTFSTLKLNSTRPRSTMNTTSNK,Historia de procedimiento de Glenn bidireccional y desmantelamiento de la Fistula de Blalock - Taussing,- bidireccional blalock desmantelamiento fistula glenn historia procedimiento taussing
+TRXPPLSMTRTFNTRKL,Hipoplasia moderada del ventriculo derecho,derecho hipoplasia moderada ventriculo
+ATRSKTRKSPT,Atresia tricuspidea IC,atresia ic tricuspidea
+SRKTKMNKSNKRTTRXNTRRKLRSTMSKNTMTPSKRT,Comunicacion interauricular tipo ostium secundum con corto circuito de derecha a ziquierda,circuito comunicacion corto derecha interauricular ostium secundum tipo ziquierda
+KMNKSNKRTSRKTTRXNTRFNTRKLRSKRTMSKLR,Comunicacion interventricular muscular con cortocircuito de izquierda a derecha,comunicacion cortocircuito derecha interventricular izquierda muscular
+KFTTSTLTSNSKRTS,Dilatacion de cavidades izquierdas,cavidades dilatacion izquierdas
+ARTRTLTSNPLMNRTRNK,Dilatacion del tronco de la arteria pulmonar,arteria dilatacion pulmonar tronco
+ANSFSNSLJRMTRL,Insuficiencia mitral ligera,insuficiencia ligera mitral
+KMNKSNKRTSRKTTRXNTRRKLRSKRTMSTMSKNTMTP,Comunicacion interauricular tipo ostium secundum de 33 mm con cortocircuito de derecha a izquierda,33 comunicacion cortocircuito derecha interauricular izquierda mm ostium secundum tipo
+ARTRSKNTKTKRTSRKTTRXSKRTRSTRKTF,Conducto arterioso restrictivo con cortocircuito de derecha a izquierda,arterioso conducto cortocircuito derecha izquierda restrictivo
+AMPLSFPRMMPRNS,CIV perimembranosa amplia,amplia civ perimembranosa
+ANLPKMSRLNRMLPLMNRFLF,Valva pulmonar bicomisural anillo normal,anillo bicomisural normal pulmonar valva
+AFKNLTSPLNSTTMNNTFT,Canal AV desbalanceado VD dominante,av canal desbalanceado dominante vd
+ARKLNTRRKLRRMNNTSPTMNK,Auricula unica con remanente de septum interauricular,auricula interauricular remanente septum unica
+ASTNSSPLMNRSPFLFRFLFR,Estenosis valvar y subvalvar pulmonar,estenosis pulmonar subvalvar valvar
+MRKPSSMKRTR,Marcapasos migratorio,marcapasos migratorio
+ANMLKNKSNSKRTSPRSLPLMNRSFNS,Conexion anomala parcial de venas pulmonares izquierdas,anomala conexion izquierdas parcial pulmonares venas
+STRXKRNTSLTRJLSSTMSKNTMKSTPSSN,CIA ostium secundum grande y yuxtaposicion de orejuelas hacia el lado derecho,cia derecho grande hacia lado orejuelas ostium secundum yuxtaposicion
+ASTNSSFLTNFNTPLRPLMNRTTRLJ,Tetralogia de Fallot con estenosis pulmonar infundibular,estenosis fallot infundibular pulmonar tetralogia
+ARTSNTNTPPLS,Hipoplasia de aorta ascendente,aorta ascendente hipoplasia
+KMNKSNKRJTNTRRKLR,Comunicacion interauricular no corregida,comunicacion corregida interauricular
+MKRTKKMNKSNKNSRFTKRNKTSKMPNSTNTRTKSTNSNFLFFKRNTNTRRKLRNTRFNTRKLRMSKLRSTMPRMMPRNSSKNTMTP,Comunicacion interventricular grande muscular de entrada con extension perimembranosa  Comunicacion interauricular tipo ostium secundum de 5mm Falla cardiaca cronica descompensada con FEVI conservada, 5mm cardiaca comunicacion conservada cronica descompensada entrada extension falla fevi grande interauricular interventricular muscular ostium perimembranosa secundum tipo
+KSTRMFLTPPLSPLMNRSRMSTTRLJ,Tetralogia de Fallot  extremo con hipoplasia de ramas pulmonares, extremo fallot hipoplasia pulmonares ramas tetralogia
+ANMLKRTKKNKSNPLMNRSSPRTTLFRTTFNS,Conexion anomala total de venas pulmonares variedad supra cardiaca,anomala cardiaca conexion pulmonares supra total variedad venas
+KMNKSNNTRFNTRKLRMTMSKLRPKNRSTRKTF,Comunicacion interventricular muscular media pequena restrictiva,comunicacion interventricular media muscular pequena restrictiva
+KMPKTTSKRTFNTRKL,Ventriculo izquierdo no compactado,compactado izquierdo ventriculo
+HPRTNSNPLMNRSFR,Hipertension pulmonar severa,hipertension pulmonar severa
+TSTLKTSFNSNSKRTSSTLKFNTRKL,Disfuncion sistolica y diastolica del ventriculo izquierdo,diastolica disfuncion izquierdo sistolica ventriculo
+KRTKKRNKTSKMPNSTFL,Falla cardiaca cronica descompensada,cardiaca cronica descompensada falla
+AKTTMPLMNR,Edema agudo pulmonar,agudo edema pulmonar
+PSTPRLNKTKT,Qt prolongado 541 Bazzet,541 bazzet prolongado qt
+ARTKRTSNSTNSSMTRLMTRTK,Coartacion de la aorta Q251 Estenosis mitral moderada,aorta coartacion estenosis mitral moderada q251
+ARTRTKRKTRXTRXTPLSKRTPLMNRSLTFNTRKL,Doble salida del ventriculo derecho pulmonar derecha aorta izquierda con arco aortico derecho,aorta aortico arco derecha derecho doble izquierda pulmonar salida ventriculo
+PRNKLSNTRLKTLFMRFSMSTS,Situs bronquial levomorfismo higado central,bronquial central higado levomorfismo situs
+KMNKSNNTRTRL,Comunicacion interatrial,comunicacion interatrial
+KRSKRSSNTRM,Sindrome Criss Cross,criss cross sindrome
+ATRLPJRTM,Ritmo atrial bajo,atrial bajo ritmo
+APTMNLSMPLTRSTRFNTRKLRKMNKSNKNKSNTSKRTNSTSKRTNTTPLNTRFNTRKLRPLMNRSTSSLTSFSSFNTRKLRTRL,Situs solitus de vasos abdominales conexion atrioventricular discordante conexion ventriculoarterial discordante doble discordancia atresia pulmonar comunicacion interventricular amplia,abdominales amplia atresia atrioventricular comunicacion conexion discordancia discordante doble interventricular pulmonar situs solitus vasos ventriculoarterial
+ARTRSKLTRLKNTKTSTMNFLPRSSTNTFS,Colateral a nivel del istmo vs conducto arterioso persistente,arterioso colateral conducto istmo nivel persistente vs
+APRNTMNTKNFLNTSPLMNRSRMS,Ramas pulmonares aparentemente confluentes,aparentemente confluentes pulmonares ramas
+ASTTFNSNLKRTKNHRS,ICC grado estadio funcional NYHA/ROSS III,estadio funcional grado icc iii nyha/ross
+TRXPRTRFFNTRKL,Hipertrofia de Ventriculo derecho,derecho hipertrofia ventriculo
+,,
+AFPLNSTKNLKFSFKRSNTSFTSTNSSTRTKSSKRTPRSSTNTPLMNRSPTPLSNTRMNFNTRKLRFN,Corazon univentricular Canal AV balanceado DSVD con CIV no septable estenosis pulmonar vena cava izquierda persistente sindrome de hetortaxia,av balanceado canal cava civ corazon dsvd estenosis hetortaxia izquierda persistente pulmonar septable sindrome univentricular vena
+ANMLKNKSNNFRKRTKPLMNRTTLFNS,Conexion anomala venosa pulmonar total infracardiaca,anomala conexion infracardiaca pulmonar total venosa
+LKKSRRTRSKRNTSLPPSTRRTRNSPSSN,Transposicion de Grandes Arterias loop posterior 1L-2CxR,1l-2cxr arterias grandes loop posterior transposicion
+ALTSFMSKLR,CIV muscular alta,alta civ muscular
+PPRSTMNTRXKNK,PO procedimiento de Rashking,po procedimiento rashking
+TKSTRPSSN,Dextroposicion,dextroposicion
+PTMNLFKNLKRSNTRXTKSTRPKSTKSTRKRTTKSTRMRFSMTPLSTNSSTRTKSNFRSSMKSTPLMNRSLTSNTRMSTSNFNTRKLRFLFLRSPRFLFLRFNTRKL,Corazon univentricular Sindrome de heterotaxia situs abdominal inversus dextromorfismo canal AV dextrocardia dextroapex doble salida de ventriculo derecho  2 Estenosis pulmonar mixta valvular/supravalvular pulmonar, 2 abdominal av canal corazon derecho dextroapex dextrocardia dextromorfismo doble estenosis heterotaxia inversus mixta pulmonar salida sindrome situs univentricular valvular/supravalvular ventriculo
+ARTKRKPNTRPSNTP,Interrupcion de arco aortico tipo B,aortico arco b interrupcion tipo
+ARTRSKNTKTMTNMKMNTPRSSTNSSNFKTF,Persistencia de conducto arterioso hemodinamicamente significativa,arterioso conducto hemodinamicamente persistencia significativa
+KRTKNSFSNS,Insuficiencia cardiaca,cardiaca insuficiencia
+ARTRSKMNTPTRNK,Tronco arterioso comun tipo II,arterioso comun ii tipo tronco
+ATRSKRSNKRJTFSLJKRNTSPLMNRTRNSPSSNNFNTRKLRFSS,Transposicion de grandes vasos corregida con atresia pulmonar Corazon con fisiologia univentricular,atresia corazon corregida fisiologia grandes pulmonar transposicion univentricular vasos
+ATRFNTRKLRKNLTRXTPLTMNNTSTNSSNFNTPLRPLMNRSLTFNTRKL,Canal Atrioventricular con ventriculo derecho dominante doble salida del ventriculo derecho y estenosis infundibular pulmonar,atrioventricular canal derecho doble dominante estenosis infundibular pulmonar salida ventriculo
+TSPLSNSFSNSSFRTRKSPTTRKSPTFLFL,Displasia de valvula tricuspide Insuficiencia tricuspidea severa,displasia insuficiencia severa tricuspide tricuspidea valvula
+ARTFKRSNTSKRTNSFSLJTRTKSNFSRSSSLTSTSNKNFNTRKLRF,Corazon con fisiologia univentricular Heterotaxia situs invsersus discordancia AV aorta unica via de salida,aorta av corazon discordancia fisiologia heterotaxia invsersus salida situs unica univentricular via
+ANMLKNKSNNFRKRTKPLMNRSTTLFNS,Conexion anomala total de venas pulmonares infracardiaca,anomala conexion infracardiaca pulmonares total venas
+HTRTKS,heterotaxia,heterotaxia
+ASTRLSFTTRXTPLSTNSSNFRSSMTRTPLMNRSLTSTSFNTRKLFNTRKLS,Situs inversus atrial ventriculos en asa en D doble salida del ventriculo derecho estenosis pulmonar moderada CIV,asa atrial civ d derecho doble estenosis inversus moderada pulmonar salida situs ventriculo ventriculos
+ARKLFNTRKLRKNLTSPLNSTTMNNSSKRTRSTLTP,Canal auriculoventricular desbalanceado con dominancia Izquierda tipo C de Rastelli,auriculoventricular c canal desbalanceado dominancia izquierda rastelli tipo
+TRXPPLSKFNTRKL,Ventriculo derecho hipoplasico,derecho hipoplasico ventriculo
+KMNKNNTRRKLRPTP,Comunicaion interauricular tipo Op,comunicaion interauricular op tipo
+KMNKSNNTRFNTRKLRRSTRKTF,Comunicacion interventricular restrictiva,comunicacion interventricular restrictiva
+ASTNSSPLMNRSFRSPFLFLR,Estenosis pulmonar severa subvalvular,estenosis pulmonar severa subvalvular
+ANMLKNKSNPLMNRSSPRKRTKSTTLFNS,Conexion anomala total de venas pulmonares supracardiacas,anomala conexion pulmonares supracardiacas total venas
+ARTKRKSNSTRXNMNTFN,Ausencia de vena innominada y arco aortico derecho,aortico arco ausencia derecho innominada vena
+KRFNSFSNSPLMNR,Insuficiencia pulmonar grave,grave insuficiencia pulmonar
+ARTRSKRXNPPRSTMNTRSTLTPTRNK,OP correccion de tronco arterioso tipo I y procedimiento de Rastelli,arterioso correccion i op procedimiento rastelli tipo tronco
+KFNFRRTRMPSSFN,Trombosis de vena cava inferior,cava inferior trombosis vena
+ARTRPLMNRTRMPSS,Trombosis en arteria pulmonar,arteria pulmonar trombosis
+ARTKKRTSNKSTTKTL,Coartacion aortica yuxtaductal,aortica coartacion yuxtaductal
+AFKNL,Canal AV,av canal
+TSKRTNSFNTRKLRTRLS,Discordancia ventriculoarteriales,discordancia ventriculoarteriales
+NMLTRFNTRKLRRKLPTRXNLSNTRLSSFKMNKNKSNKRTSRKTTRXTSPLNSTTKSTRKRTTFKTTKSTRMRFSMNTRTKRFNSFSNSLJRSTMPRSNPRMMPLMNRSRJNTPKSNTTLFLFLFNS,Dextromorfismo dextrocardiaDefecto de la tabicacion atrioventricular desbalanceado CIA Ostium primum CIV entrada con cortocircuito bidireccional  Insuficiencia grave de la valvula atrioventricular comun en region central e insuficiencia ligera en porcion derecha Auricula comun Conexion anomala de venas pulmonares total, anomala atrioventricular auricula bidireccional central cia civ comun conexion cortocircuito derecha desbalanceado dextrocardiadefecto dextromorfismo entrada grave insuficiencia ligera ostium porcion primum pulmonares region tabicacion total valvula venas
+ATRSKRSNMTLNFNTRKLR,Corazon univentricular atresia mital,atresia corazon mital univentricular
+TRFNTRKLRKTTRSMTRXTKSTRKRTTSKRTNSTPLTKSSTNSSKLNMKSTPPLMNRSLTFNTRKL,Dextrocardia Doble salida del ventriculo derecho Discordancia atrioventricular Estenosis pulmonar mixta OP Glenn 17/05/2018 Cateterismo Dx 25/09/20,17/05/2018 25/09/20 atrioventricular cateterismo derecho dextrocardia discordancia doble dx estenosis glenn mixta op pulmonar salida ventriculo
+KMNKSNSNTRFNTRKLRSMLTPLSMSKLRS,Multiples comunicaciones interventriculares musculares,comunicaciones interventriculares multiples musculares
+KMNKSNKRSNTRXTPLNTRFNTRKLRRLSNTSLTNFNTRKLRFNTRKL,Corazon univentricular Doble salida de ventriculo derecho con comunicacion interventricular no relacionada,comunicacion corazon derecho doble interventricular relacionada salida univentricular ventriculo
+ASTNSSPLMNRSFR,Estenosis pulmonar severa,estenosis pulmonar severa
+AMPLKMNKSNNTRRKLRSTMSKNTMTP,Comunicacion interauricular tipo ostium Secundum amplia,amplia comunicacion interauricular ostium secundum tipo
+KMNKSNKRSNNTRFNTRKLRNRMLMNTRLSNTSRSTRKTFTRKSPTNFNTRKLRTRSFSS,Corazon univentricularAtresia tricuspidea vasos normalmente relacionados Comunicacion interventricular restrictiva,comunicacion corazon interventricular normalmente relacionados restrictiva tricuspidea univentricularatresia vasos
+ANMLRTRTKRKPFLFKRTSNKNKSNPPLSPRSLPLMNRSSPRKRTKTRNSFRSFNS,Coartacion de aorta Hipoplasia de arco aortico transverso Aorta bivalva Conexion anomala parcial de venas pulmonares supracardiaca,anomala aorta aortico arco bivalva coartacion conexion hipoplasia parcial pulmonares supracardiaca transverso venas
+ANMLKNKSNPLMNRSSPRKRTKTTLFRTTFNS,Conexion Anomala Total de Venas Pulmonares variedad Supracardiaca,anomala conexion pulmonares supracardiaca total variedad venas
+ALNSNSFSNMNKRMLTP,CIV con mala alineacion tipo eisenmenger,alineacion civ eisenmenger mala tipo
+ATRSNTKRNTRFNTRKLRPLMNRSPTM,Atresia pulmonar con septum interventricular integro,atresia integro interventricular pulmonar septum
+ANKSTPPRTTTRXPRTRFKPPLSKNFNTPLFNTRKL,Ventriculo derecho hipoplasico bipartita con infundibulo angosto muy hipertrofico,angosto bipartita derecho hipertrofico hipoplasico infundibulo ventriculo
+ANMLKNKSNTRXSPRSLPLMNRSFNS,Conexion anomala parcial de venas pulmonares derechas,anomala conexion derechas parcial pulmonares venas
+ARTKRKTRX,arco aortico derecho,aortico arco derecho
+ASTNSSNFNTPLRPLMNRSFR,Estenosis pulmonar infundibular severa,estenosis infundibular pulmonar severa
+AKRTMNTNSFSNSMTRLPSTRRSFRFLF,Insuficiencia mitral severa por acortamiento de la valva posterior,acortamiento insuficiencia mitral posterior severa valva
+ANLTLTSNMTRLMTRT,Dilatacion moderada del anillo mitral,anillo dilatacion mitral moderada
+ARKLFNTRKLRKNLRSTLTP,Canal auriculo-ventricular tipo C de Rastelli,auriculo-ventricular c canal rastelli tipo
+SFKRNTSSPPLMNPRTRNSPSSNFSS,Transposicion de grandes vasos con CIV subpulmonbar,civ grandes subpulmonbar transposicion vasos
+AMPLPRTSSMLS,CIA amplia de malos bordes,amplia bordes cia malos
+ANMLKNKSNPLMNRSSPRKRTKFNS,Conexion anomala de venas pulmonares supracardica,anomala conexion pulmonares supracardica venas
+KMNKSNNTRTRLSTMSKNTMTP,Comunicacion interatrial tipo ostium secundum,comunicacion interatrial ostium secundum tipo
+ATRSKMNKSNNTRFNTRKLRPLMNR,Atresia pulmonar con comunicacion interventricular,atresia comunicacion interventricular pulmonar
+KNSNTRKPRTRFF,Hipertrofia concentrica de VI,concentrica hipertrofia vi
+ARTKKRTSNKRTKPSTKTL,Coartacion aortica critica postductal,aortica coartacion critica postductal
+ARTKRKPPLSSFR,Hipoplasia severa del arco aortico,aortico arco hipoplasia severa
+TSPLSSTNSSMKLFMTRLP,Displasia mitral pb en hamaca con estenosis leve,displasia estenosis hamaca leve mitral pb
+ANMLKNKSNPSTRTPLMNRSSPRKRTKTTLFRTTFNS,Conexion anomala total de venas pulmonares variedad supracardiaca obstruida,anomala conexion obstruida pulmonares supracardiaca total variedad venas
+KMNKSNNTRTRLSKNTM,Comunicacion interatrial secundum,comunicacion interatrial secundum
+MTRLPSTFLFLPLSXSTTS,Status post-Valvuloplastia mitral,mitral post-valvuloplastia status
+PTRXNLKMNKSNKRTSRKTNTRFNTRKLRPRMMPRNS,Comunicacion interventricular perimembranosa con cortocircuito bidireccional,bidireccional comunicacion cortocircuito interventricular perimembranosa
+FPRMPL,FO permeable,fo permeable
+TRXTPLMLPSSNSLTFSSFNTRKLF,Doble via de salida del ventriculo derecho con vasos en mal posicion,derecho doble mal posicion salida vasos ventriculo via
+ARJLSKSTPSSN,Yuxtaposicion de orejuelas,orejuelas yuxtaposicion
+ARTRTRXPPLSKPLMNRRM,Rama derecha de arteria pulmonar hipoplasico,arteria derecha hipoplasico pulmonar rama
+PLLKFSTLSTRMTFKTTSK,Historia de fistula de Blalock Taussig mdificada,blalock fistula historia mdificada taussig
+ARTKLTRLTRXRKMPKMRPLMNPLMNRTTLTT,Colateral aorto pulmonar mayor MAPCA que irriga la totalidad del pulmon deerecho,aorto colateral deerecho irriga mapca mayor pulmon pulmonar totalidad
+APKLKMNKSNNTRFNTRKLRMSKLRPKNRSTRKTF,Comunicacion interventricular muscular apical pequena restrictiva,apical comunicacion interventricular muscular pequena restrictiva
+ASTNSSSNSFSNSLJRPLMNR,Estensosis e insuficiencia pulmonar ligera,estensosis insuficiencia ligera pulmonar
+ASTNSSLJRPLMNR,Estenosis pulmonar ligera,estenosis ligera pulmonar
+AFKNLSFKMPLTKRSNSPTPLNFNTRKLR,Corazon univentricular Canal AV completo con CIV no septable,av canal civ completo corazon septable univentricular
+TSKRTNSSTNSSPLMNRSFRFNTRKLRTRL,Discordancia ventriculo-arterial con estenosis pulmonar severa,discordancia estenosis pulmonar severa ventriculo-arterial
+TKSTRPKSTKSTRKRT,Dextrocardia/ Dextroapex,dextroapex dextrocardia/
+FPTP,PO de FBT,fbt po
+KMNKSNFNSTRTNTRRKLR,Comunicacion interauricular fenestrada,comunicacion fenestrada interauricular
+RTRSKLTRLRTPLMNRTRSTRLFKNLKMPLTKNTKTKNFLNTSTRXTKSTRPKSTKSTRKRTTRTKSSMRFKPLMNRPLMNRSRMSSLTSTSSTNTSKSNKFNTRKLF,Dextrocardia dextroapex situs isomorfico atrial Sx Heterotaxia  canal AV completo unica via de salida del ventriculo derecho atresia pulmonar ramas pulmonares confluentes  stent en conducto arterioso-colateralaortopulmonar, arterioso-colateralaortopulmonar atresia atrial av canal completo conducto confluentes derecho dextroapex dextrocardia heterotaxia isomorfico pulmonar pulmonares ramas salida situs stent sx unica ventriculo via
+ANMLKNKSNMKSTPLMNRSTTLFRTTFNS,Conexion anomala total de las venas pulmonares variedad mixta,anomala conexion mixta pulmonares total variedad venas
+PSPTSTM,PO Septostomia,po septostomia
+SFTRXTPLTPLMNTNFNTPLRRLSNTSLTFNTRKL,Doble salida del ventriculo derecho con CIV infundibular doblemente relacionada,civ derecho doble doblemente infundibular relacionada salida ventriculo
+PLPTPLNTRTFRMNNSFSNSSKRTLJRMTRLPLMNRRSTRKTFTKFNTRKLRFNTRKL,Doble entrada ventriculo izquierdo TGA foramen bulbo ventricular no restrictivo Insuficiencia mitral y pulmonar ligera,bulbo doble entrada foramen insuficiencia izquierdo ligera mitral pulmonar restrictivo tga ventricular ventriculo
+KRTKSTTMS,Masa cardiaca en estudio,cardiaca estudio masa
+FRMNFLPRMPLPRPPLMNTRSTRKTF,Foramen oval permeable probablemente restrictivo,foramen oval permeable probablemente restrictivo
+ATRSKRSNNTKRNTRFNTRKLRNRMLMNTRLSNTSSPTMTRKSPTNFNTRKLRFSS,Corazon univentricular Atresia tricuspidea/ septum interventricular integro/ vasos normalmente relacionados,atresia corazon integro/ interventricular normalmente relacionados septum tricuspidea/ univentricular vasos
+FKNLKMPLTKRSNTSPLNSTTMNNSFLJSKRTPLMNRRSTRXNNFNTRKLR,Corazon univentricular Canal AV completo desbalanceado con dominancia izquierda  sin restriccion al flujo pulmonar, av canal completo corazon desbalanceado dominancia flujo izquierda pulmonar restriccion univentricular
+RTRPNTJPPLMNR,PO de bandaje de arteria  pulmonar ´, arteria bandaje po pulmonar ´
+KTTRSMP,PO cateterismo 2,2 cateterismo po
+NNNSNTRM,Sindrome de Noonan,noonan sindrome
+ASTNSSPLMNRSFRSPRFLFLR,Estenosis supravalvular pulmonar severa,estenosis pulmonar severa supravalvular
+HTRTKSLFMRFSMSNTRM,Sindrome de heterotaxia levomorfismo,heterotaxia levomorfismo sindrome
+ANMLRKLTRNJPLMNRSNKFNS,Auricula unica drenaje anomalo de venas pulmonares,anomalo auricula drenaje pulmonares unica venas
+ARTKNSFSNSFLFLR,Insuficiencia valvular aortica,aortica insuficiencia valvular
+RTKPLNSTNSSNTRFNSNSMFLFLPLSX,Valvuloplastia con balon por intervencionismo por estenosis aortica 2011,2011 aortica balon estenosis intervencionismo valvuloplastia
+KTTRSMTNSTKKSTSPTRPTK,PO Cateterismo terapeutico no exitoso y diagnsotico 111021,111021 cateterismo diagnsotico exitoso po terapeutico
+ATRSKRSNNTKRPLMNRSPTMNFNTRKLR,Corazon univentricular Atresia pulmonar con septum integro,atresia corazon integro pulmonar septum univentricular
+SNTRLFSTL,Fistula central,central fistula
+PTRXNLTRXKLNP,- PO de Glenn bidireccional derecho,- bidireccional derecho glenn po
+PLNNTRTRLSPTSTM,Septostomia intertrial con balon,balon intertrial septostomia
+PLNTPLNTRTRLSPTSTM,Septostomia interatrial con doble balon,balon doble interatrial septostomia
+ARTRTRXPLMNRRMTRMP,Trombo en rama derecha de arteria pulmonar,arteria derecha pulmonar rama trombo
+KMNKSNFNSTRTNTRRKLRSTMSKNTM,Comunicacion interauricular ostium secundum fenestrada,comunicacion fenestrada interauricular ostium secundum
+ANMLKNKSNTSSNTNTNFRKRTKPSTRTPRSLMNTPLMNRSTTLFNFNS,Conexion anomala total de venas pulmonares infracardiaca parcialmente obstruida en la vena dsscendente,anomala conexion dsscendente infracardiaca obstruida parcialmente pulmonares total vena venas
+KMNKSNNTRRKLRRSTRKTF,Comunicacion interauricular restrictiva,comunicacion interauricular restrictiva
+APTRFNTSTNTKRTSTFKTFNTKRTTSNFXSNSFSNSMTRLRPTRSKNTRSFRTNTNSS,Insuficiencia mitral severa secundaria a ruptura de cuerdas tendinosas; antecedente de endocarditis infecciosa Abiotrophia defectiva,abiotrophia antecedente cuerdas defectiva endocarditis infecciosa insuficiencia mitral ruptura secundaria severa tendinosas;
+ATRSNTRFNTRKLRPLMNRKMNKSN,Atresia pulmonar/comunicacion interventricular,atresia interventricular pulmonar/comunicacion
+KNFLNTSPLMNRSRMS,Ramas pulmonares confluentes,confluentes pulmonares ramas
+KFNFRRPRPPLTRMPTMRLFN,Probable trombo tumoral en vena cava inferior,cava inferior probable trombo tumoral vena
+ARTRSTNSSSKRTPLMNRRM,Estenosis de la rama izquierda de la arteria pulmonar,arteria estenosis izquierda pulmonar rama
+PLLKTSKTRXFSTLMTFKTP,PO Fistula de Blalock-Taussig modificada derecha,blalock-taussig derecha fistula modificada po
+ATRSPTSTMP,PO Atrioseptostomia,atrioseptostomia po
+STRTLNKKPLKMNTFRTNKTRKSPTFLFL,"Overriding"" cabalgamiento y ""straddling"" de la valvula tricuspide","""straddling"" cabalgamiento overriding"" tricuspide valvula"
+KMNKSNNTRTKRNTNTRFNTRKLRF,Comunicacion interventricular grande de la via de entrada,comunicacion entrada grande interventricular via
+ANMLSNTNTKFKNKSNTRKTPLMNRSSPRRTTLFNFNS,Conexion anomala total de venas pulmonares a la vena cava superior directa sin vena ascendente,anomala ascendente cava conexion directa pulmonares superior total vena venas
+ASNTPLMNRSKSFLFL,Sx de valvula pulmonar ausente,ausente pulmonar sx valvula
+KRTKSKFTTSPPLSSKRTS,Hipoplasia de cavidades cardiacas izquierdas,cardiacas cavidades hipoplasia izquierdas
+TSPLSKNSFSNSMTRLSKNTRSFRFLFL,Insuficiencia mitral severa secundario a valvula mitral displasica,displasica insuficiencia mitral secundario severa valvula
+HSTRMTRPLSXFLFL,Historia de plastia de valvula mitra,historia mitra plastia valvula
+AFNSTPLKNTRTRL,Bloqueo interatrial Avanzado,avanzado bloqueo interatrial
+ARTPPLSLJR,Hipoplasia de aorta ligera,aorta hipoplasia ligera
+ARTKRKTSTLPSTRXNRSTL,Obstruccion de arco aortico distal residual,aortico arco distal obstruccion residual
+ASTMSSRTKRTSNKRXNKSTNTTPRSXNTRMTRML,PO correccion de coartacion de aorta con reseccion y aastomosis termio-termial extendida,aastomosis aorta coartacion correccion extendida po reseccion termio-termial
+AFKNLKMPLTKRSNNFNTRKLR,Corazon univentricular Canal AV completo,av canal completo corazon univentricular
+KMNKSNTRXTPLNTRFNTRKLRRLSNTSLTFNTRKL,Doble salida de ventriculo derecho con comunicacion interventricular no relacionada,comunicacion derecho doble interventricular relacionada salida ventriculo
+HTRTKSSNTRM,Sindrome de heterotaxia,heterotaxia sindrome
+TRXTPLNRMLMNTRLSNTSSLTFSSFNTRKL,Doble salida de ventriculo derecho con vasos normalmente relacionados,derecho doble normalmente relacionados salida vasos ventriculo
+KMNKNNTRTRLRSTRKTF,comunicaion interatrial restrictiva,comunicaion interatrial restrictiva
+ATRLPSPTPLSX,PO Septoplastia Atrial,atrial po septoplastia
+ATRLPLNTNMKTPLSPTSTMTKNK,Septostomia Atrial Con Tecnica De Doble Balon Dinamico,atrial balon dinamico doble septostomia tecnica
+ARTRSKNTKTPSTKLKSNSTTSSTNT,Status post-colocacion de stent en conducto arterioso,arterioso conducto post-colocacion status stent
+ARKLKFTRXSPRRTRMPFN,Trombo en auricula derecha y vena cava superior,auricula cava derecha superior trombo vena
+RTRSKMNTRXMRJTPTRNKFNTRKL,Tronco arterioso comun tipo 1 que emerge de ventriculo derecho,1 arterioso comun derecho emerge tipo tronco ventriculo
+ASTNSSMTRLMTRT,Estenosis mitral moderada,estenosis mitral moderada
+AMPLSFNTRT,CIV de entrada amplia,amplia civ entrada
+ATRSPTRKSPT,Atresia tricuspidea IB,atresia ib tricuspidea
+KTTRSMKKRTKRMFSTLFNFNSSPR,Fistula veno-venosas {por ecocardiograma y cateterismo},cateterismo} ecocardiograma fistula veno-venosas {por
+ARTRSKFKMNSKRTPRSSTNTSPRRTPTRNKFN,tronco arterioso comun tipo I Vena cava superior izquierda persistente,arterioso cava comun i izquierda persistente superior tipo tronco vena
+ANTSTNTPLKPSPRTRSNTRL,Antecedente de bloqueo sino-atrial en el posoperatorio,antecedente bloqueo posoperatorio sino-atrial
+ANSFSNSLPRPLMNR,Insuficiencia pulmonar libre,insuficiencia libre pulmonar
+TRXTSFNSNFNTRKL,Disfuncion de ventriculo derecho,derecho disfuncion ventriculo
+KRTKTSKMPNSTNSFSNS,Insuficiencia cardiaca descompensada,cardiaca descompensada insuficiencia
+APTMNLNFRSSSTS,Situs inversus abdominal,abdominal inversus situs
+APKSKRTTKSTRTRTKS,Dextro cardia dextro apex Heterotaxia,apex cardia dextro heterotaxia
+ARTTRXTRXTPLSKRTLTPLMNRSLTSTTFNTRKL,Doble salida de ventriculo derecho situado a la izquierda con aorta izquierda pulmonar derecha lado a lado,aorta derecha derecho doble izquierda lado pulmonar salida situado ventriculo
+KTTRSMSTNSSMTTMKPLMNR,Estenosis pulmonar medida por cateterismo 70 mmHg,70 cateterismo estenosis medida mmhg pulmonar
+KMNKSNNTRFNTRKLRRLSNT,Comunicacion interventricular no relacionada,comunicacion interventricular relacionada
+HPPLSSKRTFNTRKLR,hipoplasia ventricular izquierdo,hipoplasia izquierdo ventricular
+ARTTRXMRJFNTRKL,Aorta emerge de ventriculo derecho,aorta derecho emerge ventriculo
+ARTKLTRLSPLMNRS,Colaterales aorto pulmonares,aorto colaterales pulmonares
+ARTRKNFLNTSPPLSSKRTPLMNRRMRMS,ramas confluentes con hipoplasia de rama izquierda de arteria pulmonar,arteria confluentes hipoplasia izquierda pulmonar rama ramas
+ARTRSFRMNKRNTSFLPRMPLTRNSPSSN,Transposicion de grandes arterias con foramen oval permeable,arterias foramen grandes oval permeable transposicion
+ARTKSTNSSSFRSPFLFLRFLFLR,Estenosis valvular y subvalvular aortica severa,aortica estenosis severa subvalvular valvular
+ANMNTRTRRTKFN,Vena innominada retro-aortica,innominada retro-aortica vena
+FRMNFL,Foramen oval,foramen oval
+ARTKSTNSSNSFSNSMTRTSFR,Estenosis aortica severa con insuficiencia aortica moderada,aortica estenosis insuficiencia moderada severa
+ASTNSSNSFSNSMTRLMTRT,Estenosis mitral moderada con insuficiencia mitral moderada,estenosis insuficiencia mitral moderada
+AJNSPLMNRSNTRMFLFL,Sindrme de agenesia de valvula pulmonar,agenesia pulmonar sindrme valvula
+KRSNTPSTRMNKSPTNNTLPLKTRPLMNRSRMSFLFL,Historia de plicatura de ramas pulmonares y creacion de valvula monocuspide en etapa neonatal,creacion etapa historia monocuspide neonatal plicatura pulmonares ramas valvula
+TRXTLTSNPRKRSFFNTRKL,Dilatacion progresiva del ventriculo derecho,derecho dilatacion progresiva ventriculo
+RTRSKNTKTKRTSRKTTRXKRNTSKRTMPRSSTNSKS,Persistencia del conducto arterioso grande de 89 x 13 x 64 mm con cortocircuito de izquierda a derecho,13 64 89 arterioso conducto cortocircuito derecho grande izquierda mm persistencia x
+RTKSTNSSKRTNTMKSMMTMKMTRTFLFLR,Estenosis valvular aortica moderada con gradiente maximo de 58 mmHg y medio de 33 mmHg,33 58 aortica estenosis gradiente maximo medio mmhg moderada valvular
+KFTTSTLTSNSKRTSSFR,Dilatacion severa de cavidades izquierdas,cavidades dilatacion izquierdas severa
+ARTKNSFSNSLF,Insuficiencia aortica leve,aortica insuficiencia leve
+ANSFSNSLFMTRLMTRT,Insuficiencia mitral leve a moderada,insuficiencia leve mitral moderada
+ANLTLTSNMTRLMTRTPLMNRPLMNRSRMSTRNK,Dilatacion moderada del anillo mitral pulmonar tronco pulmonar y ramas pulmonares,anillo dilatacion mitral moderada pulmonar pulmonares ramas tronco
+ARKLFNTRKLRTSKRTNS,Discordancia auriculoventricular,auriculoventricular discordancia
+ATRSTRXTPLPLMNRSLTFNTRKLF,Doble via de salida de ventriculo derecho con atresia pulmonar,atresia derecho doble pulmonar salida ventriculo via
+ARTRSKNTKTLRKPRMPLTRTS,Conducto arterioso permeable largo y tortuoso,arterioso conducto largo permeable tortuoso
+ARTKLTRLTSNTNTRJNSSPX,Sospecha de una colateral que se origina de Aorta Descendente,aorta colateral descendente origina sospecha
+KRTKSTNSSPLMNRFLFLR,Estenosis valvular pulmonar critica,critica estenosis pulmonar valvular
+KMNKSNKRTSRKTTRXNTRFNTRKLRSKRTMMPRNSPRSN,Comunicacion interventricular porcion membranosa con cortocircuito de izquierda a derecha,comunicacion cortocircuito derecha interventricular izquierda membranosa porcion
+NTSTNTRTRSKLKSNKNTKTKRNRSPLMNRSTNTSFLFLPLSX,Antecedente de valvuloplastia pulmonar y colocacion de 2 Stents coronarios en conducto arterioso 090322,090322 2 antecedente arterioso colocacion conducto coronarios pulmonar stents valvuloplastia
+ARKLTRXTRMPSS,Trombosis auricula derecha,auricula derecha trombosis
+KTFRMNNSFSNSLFFLPRMPLTRKSPT,Foramen oval permeable e insuficiencia tricuspidea leve por ECOTT 040222,040222 ecott foramen insuficiencia leve oval permeable tricuspidea
+ANTKRTTS,Endocarditis,endocarditis
+HP,HAP,hap
+ATRSTRXPPLSKTRKSPTFNTRKL,Atresia tricuspidea con ventriculo derecho hipoplasico,atresia derecho hipoplasico tricuspidea ventriculo
+ASTNSSPLMNRSFRKRTK,Estenosis pulmonar severa-critica,estenosis pulmonar severa-critica
+TRXPPLSKTRPRTTFNTRKL,Ventriculo derecho hipoplasico tripartita,derecho hipoplasico tripartita ventriculo
+HPPLSLJRTRKSPTFLFL,Valvula tricuspide con hipoplasia ligera,hipoplasia ligera tricuspide valvula
+KRTSRKTTRXFRMNSKRTFLPRMPL,Foramen oval permeable con cortocircuito de derecha a izquierda,cortocircuito derecha foramen izquierda oval permeable
+ARTKRKRTRSKRTPXKNTKTKNJNTKRTKTPNTNTPPLS,Cardiopatia congenita critica dependiente de conducto arterioso hipoplasia de arco aortico,aortico arco arterioso cardiopatia conducto congenita critica dependiente hipoplasia
+PRTRLNSKRTFNTRKL,ventriculo izquierdo borderline,borderline izquierdo ventriculo
+AMPLRTRSPRTRLNKNTKTSKRTPRMPLFNTRKL,conducto arterioso permeable amplio ventriculo izquierdo borderline,amplio arterioso borderline conducto izquierdo permeable ventriculo
+AFFTSKRTNSTPL,Doble discordancia AV-VA,av-va discordancia doble
+TKSTRPKSMSKRT,Mesocardia con dextroapex,dextroapex mesocardia
+KFNFRRNTRPSNFN,Interrupcion de vena cava inferior,cava inferior interrupcion vena
+PLTRLPRNKLKMPRSN,Compresion bronquial bilateral,bilateral bronquial compresion
+ANRSMTKRTKRTKRTRRKLTLTSNTSFNSNKRFNSFSNSSKRTLFMTRLMTRTPLMNRRMSSFRSSTLKTRKTFNTRKL,Dilatacion aneurismatica de todo el trayecto aortico y de la arteria pulmonar y sus ramas dilatacion moderada a severa de auricula y ventriculo izquierdo insuficiencia aortica severa insuficiencia mitral moderada insuficiencia pulmonar leve disfuncion sistolica grave del ventriculo izquierdo,aneurismatica aortica aortico arteria auricula dilatacion disfuncion grave insuficiencia izquierdo leve mitral moderada pulmonar ramas severa sistolica trayecto ventriculo
+ARTRLPRTNSNPLMNR,Hipertension arterial pulmonar,arterial hipertension pulmonar
+HMKMTRLFLFL,Valvula mitral en Hamaca,hamaca mitral valvula
+KPTSNFLTNSFSNSMTRLSFR,Insuficiencia mitral severa por falta de coaptacion,coaptacion falta insuficiencia mitral severa
+SNTKNTSTNTMNTTKRTPXSRKNJNTFLJNTRFNSNSMPKPLMNR,antecedente de cardiopatia congenita acianotica de flujo pulmonar aumentado PCA  se cierra por intervencionismo, acianotica antecedente aumentado cardiopatia cierra congenita flujo intervencionismo pca pulmonar
+ANMLKNKSNPLMNRSSPRKRTKFRTTFNS,Conexion anomalo de venas pulmonares variedad supracardiaca,anomalo conexion pulmonares supracardiaca variedad venas
+SFNTRTKSTNSNMMPRNS,CIV membranosa con extension a la entrada,civ entrada extension membranosa
+TRLPTRXNLKLNPRSTMNTSPTKTM,Estado por porcedimiento de Glenn bidireccional y septectomia atrial , atrial bidireccional glenn porcedimiento septectomia
+TSTRSNPKSMPRSSTNTS,Hipoxemia y desaturacion persistentes,desaturacion hipoxemia persistentes
+ARTRSKLSKKRNTSTRNSPSSN,Transposicion de grandes arterias clasica,arterias clasica grandes transposicion
+MFRMNFLPRMPLRSTRKTF,Foramen oval permeable de 41mm no restrictivo,41mm foramen oval permeable restrictivo
+TRSPTSTMPRXKNT,OP Atrioseptostomia de Rashkind 180422,180422 atrioseptostomia op rashkind
+ARTRSKMNKSNKRNTSNTRFNTRKLRMLLNSNSPTMTRNSPSSN,Transposicion de grandes arterias con comunicacion interventricular por malalineacion del septum,arterias comunicacion grandes interventricular malalineacion septum transposicion
+PTRXNLKMNKSNKRTSRKTNTRFNTRKLRMLLNSNMSPTM,Comunicacion interventricular por malalineacion del septum de 72 mm con cortocircuito bidireccional,72 bidireccional comunicacion cortocircuito interventricular malalineacion mm septum
+ANLTLTSNMTRTPLMNRPLMNRSRMSTRNK,Dilatacion moderada del anillo pulmonar tronco y ramas pulmonares,anillo dilatacion moderada pulmonar pulmonares ramas tronco
+ARTKRKPTP,Arco aortico tipo B,aortico arco b tipo
+ARTRSKNTKTPKN,Conducto arterioso pequeno,arterioso conducto pequeno
+KRTJNKXK,Choque cardiogenico,cardiogenico choque
+AKTSTTLSNRNL,Lesion renal aguda estadio II,aguda estadio ii lesion renal
+ARTKSTNSSRTTSPFLFLR,Estenosis subvalvular aortica por rodete,aortica estenosis rodete subvalvular
+ARTRTRXPSTRXNPLMNRTPFLFLTFNTRKL,Obstruccion de tubo valvulado del ventriculo derecho a la arteria pulmonar,arteria derecho obstruccion pulmonar tubo valvulado ventriculo
+KRTKKMPNSTTRXNSFSNS,Insuficiencia cardiaca derecha compensada,cardiaca compensada derecha insuficiencia
+ARTRKLKSNKNTKRTRXSTRPLMNRTPFLFLTFNTRKL,Historia de colocacion de tubo valvulado Contegra del ventriculo derecho a la arteria pulmonar,arteria colocacion contegra derecho historia pulmonar tubo valvulado ventriculo
+ARTRLSTRSX,Historia de Switch arterial,arterial historia switch
+PRTKRTTTRMNRTLJSNTMTK,Bradicardia sintomatica de etiologia por determinar,bradicardia determinar etiologia sintomatica
+ANLKMPLTFSKLR,Anillo vascular completo,anillo completo vascular
+ARTKRKRTRTRSKSTRXTSTLTPLTMNNTPPLSKSKRTSKRTRJNPKPKNPRSNSPKLF,Doble arco aortico arco derecho dominante casi atresia de porcion distal del arco izquierdo hipoplasico entre origen de arteria subclavia izquierda y porcion distal PCA muy pequeno,aortico arco arteria atresia casi derecho distal doble dominante hipoplasico izquierda izquierdo origen pca pequeno porcion subclavia
+ASNJNRTRSKRTPXKNTKTKNJNTPRFLJPRSSTNSPLMNRTP,Cardiopatia congenita acianogena de hiperflujo pulmonar tipo persistencia del conducto arterioso,acianogena arterioso cardiopatia conducto congenita hiperflujo persistencia pulmonar tipo
+ARTRSTKTSPKNPRSSTNS,Persistencia del ductus arterioso muy pequeno,arterioso ductus pequeno persistencia
+KSLTKMNKSNNTRRKLRMSTMSKNTMTP,Comunicacion interauricular tipo Ostium secundum alta 11x13 mm,11x13 alta comunicacion interauricular mm ostium secundum tipo
+MTRTRKLKRSMNTTRXLFFNTRKL,Crecimiento leve -moderado de auricula y ventriculo derecho,-moderado auricula crecimiento derecho leve ventriculo
+ATRSSSFPTRKSPT,Atresia tricuspidea IB CIV CIA,atresia cia civ ib tricuspidea
+RTRSKLKSNKNTKTSTNT,Colocacion de Stent en conducto arterioso 07072021,07072021 arterioso colocacion conducto stent
+KMNKSNKSTNSNNFNTPLRNTRFNTRKLRMMPRNS,Comunicacion interventricular infunduibular con extension membranosa,comunicacion extension infunduibular interventricular membranosa
+KRNRKRNTSPTLPTRNTRNSPSSNFSS,Transposicion de grandes vasos Patron coronario habitual,coronario grandes habitual patron transposicion vasos
+AMPLKMNKSNNTRRKLRSTMSKNTM,Comuncacion interauricular ostium secundum amplia,amplia comuncacion interauricular ostium secundum
+KRTSRKTTRXSKRTPK,PCA Cortocircuito Izquierda a Derecha,cortocircuito derecha izquierda pca
+KMNKSNKRTSRKTTRXNTRTKSTNSNNTRFNTRKLRSKRTMMPRNSPRSN,Comunicacion interventricular porcion membranosa con extension de entrada con cortocircuito de izquierda a derecha,comunicacion cortocircuito derecha entrada extension interventricular izquierda membranosa porcion
+ARTRSKNTKTKRTSRKTTRXSKRTPRSSTNT,Conducto arterioso persistente cortocircuito de izquierda a derecha,arterioso conducto cortocircuito derecha izquierda persistente
+ARTRPRSNPLMNRSMLRSSTMKSSTLK,Presion sistolica de la arteria pulmonar similar a la sistemica,arteria presion pulmonar similar sistemica sistolica
+KRNRKTS,Ectasia coronaria,coronaria ectasia
+TSFNSNSKRTSFRFNTRKL,Disfuncion severa del ventriculo izquierdo,disfuncion izquierdo severa ventriculo
+ASNJNMPLNSFSNSRTKKRTPXKRTSNKMNKSNKNJNTKRTKKLTTFMNTTRMTSFNSNFLJPPLSNTRRKLRSKRTMTRTNRMLPRKRTKPLMNRSFRSSTLKTRKSPTTRFLFLRTFNTRKL,Cardiopatia congenita acianogena de flujo pulmonar normal: hipoplasia moderada coartacion aortica critica disfuncion sistolica moderada del ventriculo izquierdo valorada cualitativamente comunicacion interauricular ampliainsuficiencia tricuspidea severa derrame pericardico trivial,acianogena ampliainsuficiencia aortica cardiopatia coartacion comunicacion congenita critica cualitativamente derrame disfuncion flujo hipoplasia interauricular izquierdo moderada normal: pericardico pulmonar severa sistolica tricuspidea trivial valorada ventriculo
+FRMNFLPRMPLRSTRKTF,Foramen oval permeable no restrictivo,foramen oval permeable restrictivo
+APSTRXNPLMNRSPFLR,Obstruccion subvaluar pulmonar,obstruccion pulmonar subvaluar
+ARTRSKNTKTTRTS,Conducto arterioso tortuoso,arterioso conducto tortuoso
+ATRSKFKRSNTRXTPLNFRRMTRLSLTSPRRNTRPSNNFNTRKLRFNFNTRKL,Corazon univentricular Atresia mitral doble salida de ventriculo derecho doble vena cava superiorinterrupcion de vena cava inferior,atresia cava corazon derecho doble inferior mitral salida superiorinterrupcion univentricular vena ventriculo
+MPLSNKLKSNTKTNTRFNSNSMSTNTTSFT,Colocacion de STENT en ducto por intervencionismo 05112020- Ampliacion del TSVD,05112020- ampliacion colocacion ducto intervencionismo stent tsvd
+SRPK,cierre PCA,cierre pca
+SSRPRSL,cierre parcial de CIA,cia cierre parcial
+PLLKFSTLMTFKTPLMNRSSTMKTSK,Fistula sistemico pulmonar Blalock Taussig modificada 26112020,26112020 blalock fistula modificada pulmonar sistemico taussig
+ARTRSKRTRJNPLMNRRMTRMPSS,Trombosis del origen de la rama izquierda de la arteria pulmonar,arteria izquierda origen pulmonar rama trombosis
+APSSNSFMMPRNSTJTTRKSPT,CIV membranosa con tejido de aposicion tricuspideo,aposicion civ membranosa tejido tricuspideo
+RTRSKNTKTMPRMPL,Conducto arterioso permeable de 27 mm,27 arterioso conducto mm permeable
+RTRSSRSFKLKSNKNTKRMPPSTKRJKTPTRNKTPFLFLT,Estado postquirugico tronco arterioso tipo II: Op de cierre de CIV y colocacion de tubo valvulado Contegra 12 mm 14062018,12 14062018 arterioso cierre civ colocacion contegra ii: mm op postquirugico tipo tronco tubo valvulado
+ANSFSNSSFRTRNKLFLFL,Insuficiencia severa de la valvula troncal,insuficiencia severa troncal valvula
+APSTRKTFSPRTKTJT,Tejido subaortico no obstructivo,obstructivo subaortico tejido
+KRTPXSNJNKMPLJKNJNTTRXTSMNTTPLFLTFLJPLMNRSLTTPFNTRKL,Cardiopatia congenita cianogena de flujo pulmonar disminuido compleja: tipo Doble salida del ventriculo derecho tipo Fallot,cardiopatia cianogena compleja: congenita derecho disminuido doble fallot flujo pulmonar salida tipo ventriculo
+ASTNSSKSTRMFLTPLMNRPLMNRSRMSSFR,Fallot extremo: estenosis pulmonar estenosis severa de las ramas pulmonares,estenosis extremo: fallot pulmonar pulmonares ramas severa
+ARTKRTKRKKNKRTSNPPLS,"Hipoplasia del arco aortico con
+coartacion aortica","aortica aortico arco con
+coartacion hipoplasia"
+ATRSTRFNTRKLRSNSKNKSNTRXTRKSPT,Ausencia de conexion atrioventricular derecha Atresia tricuspidea,atresia atrioventricular ausencia conexion derecha tricuspidea
+KMNKSNNTRRKLRSTMRSTRKTFSKNTM,Comunicacion interauricular ostium secundum no restrictiva,comunicacion interauricular ostium restrictiva secundum
+KMNKSNKRTSRKTTNTRFNTRKLRMMPRNS,Comunicacion interventricular membranosa con cortocircuito I-D,comunicacion cortocircuito i-d interventricular membranosa
+STNSSKRTNTLFMKPLMNR,Estenosis pulmonar leve gradiente 76 mmHg,76 estenosis gradiente leve mmhg pulmonar
+ATRSPNKLPRSFKNFLNTSMLTPLSKLTRLSPLMNRPLMNRSRMS,Atresia Pulmonar con CIV con ramas pulmonares confluentes de buen calibre y multiplescolaterales,atresia buen calibre civ confluentes multiplescolaterales pulmonar pulmonares ramas
+ANMLKNKSNPSTRTPLMNRSSPRKRTKTTLFNS,Conexion anomala total de las venas pulmonares supracardiaca obstruido,anomala conexion obstruido pulmonares supracardiaca total venas
+RKLRKMNKSNFSMFLTP,Comunicacion auricular tipo fosa oval de 5 mm,5 auricular comunicacion fosa mm oval tipo
+SFNSTRTM,CIA fenestrada 17 mm,17 cia fenestrada mm
+KSLTSFMMSKLR,CIV muscular alta 18x12 mm,18x12 alta civ mm muscular
+MPKPRSNPLMNRSMLRSSTMK,PCA 85 mm presion pulmonar similar a la sistemica,85 mm pca presion pulmonar similar sistemica
+PNKTRXTPLSLTTSNKTPTRNSPSSNFSSFNTRKL,Doble salida del ventriculo derecho con vasos en transposicion tipo Tausing Bing,bing derecho doble salida tausing tipo transposicion vasos ventriculo
+PNTSSFTPJMTRTRMSKLRPKNPLMNRRLSNT,CIV relacionada con la pulmonar con CIV muscular pequena por debajo de la banda moderadora sin CIA,banda cia civ debajo moderadora muscular pequena pulmonar relacionada
+RTRPNTJPTRXNLKTTRSMTNSTKKLNPSTPRTPLMNRSPTSTM,Postoperado de bandaje de la arteria pulmonar 101117 Septostomia 26032018 Cateterismo diagnostico 13072018 Postoperado de Glenn bidireccional,101117 13072018 26032018 arteria bandaje bidireccional cateterismo diagnostico glenn postoperado pulmonar septostomia
+RTRKTTRSMTSPNTJPRFNTNPLMNR,Desbandaje de arteria pulmonar 160818 Cateterismo preFontan 20092021,160818 20092021 arteria cateterismo desbandaje prefontan pulmonar
+AFKNKSNTSKRTNTPPLSTRKSPT,Conexion AV discordante con hipoplasia tricuspidea,av conexion discordante hipoplasia tricuspidea
+KNKSNTSKRTNTF,Conexion VA discordante,conexion discordante va
+KSMMPLPTRXNLSRKTKMNKSNKRTNTRTKSTNSNMTNMKNTRFNTRKLRMSKLRPSTRRRPRKSN,Comunicacion interventricular 14x15mm amplia de muscular posterior con extension de entrada con repercusion hemodinamica corto circuito bidireccional,14x15mm amplia bidireccional circuito comunicacion corto entrada extension hemodinamica interventricular muscular posterior repercusion
+ARTRLPRTNSNPLMNRSMLRSSTMK,Hipertension arterial pulmonar similar a la sistemica,arterial hipertension pulmonar similar sistemica
+ATRLTKSTRSMRFSM,Dextroisomorfismo atrial,atrial dextroisomorfismo
+ATRFNTRKLRKNLKMPLTLS,Canal atrioventricular completo en L-asa,atrioventricular canal completo l-asa
+TRXTPLLTKFSLTFSSFNTRKLF,Doble via de salida del ventriculo derecho con vasos en L-TGV,derecho doble l-tgv salida vasos ventriculo via
+ARTRSTNSSPPLSPLMNRTRNK,Estenosis pulmonar con hipoplasia del tronco de la arteria pulmonar,arteria estenosis hipoplasia pulmonar tronco
+KFTPLNMNTSPRRFN,Doble vena cava superior sin innominada,cava doble innominada superior vena
+ASNTPLMNRSNTRMFLFL,sindrome de valvula pulmonar ausente,ausente pulmonar sindrome valvula
+TPLSTNSSKRTNTNSFSNSLSNMKSMMKPLMNRRTMNTRSFRFLFL,Valvula pulmonar rudimentaria con doble lesion pulmonar Insuficiencia pulmonar severa y estenosis pulmonar con gradiente maximo de 32 mmHg,32 doble estenosis gradiente insuficiencia lesion maximo mmhg pulmonar rudimentaria severa valvula
+ARTRTLTSNPSTSTNTKPLMNRRMSSFRTRNK,dilatacion postestenotica del tronco y ramas de la arteria pulmonar severa,arteria dilatacion postestenotica pulmonar ramas severa tronco
+SFKRTSRKTTRXKRNTSKRT,CIV grande con cortocircuito de derecha a izquierda,civ cortocircuito derecha grande izquierda
+ARTKPLKMNT,Cabalgamiento de la Aorta,aorta cabalgamiento
+TRXTLTSNTSFNSNPRTRFSFRSSTLKFTFNTRKL,Hipertrofia del ventriculo derecho con dilatacion severa del VD y disfuncion sistolica,derecho dilatacion disfuncion hipertrofia severa sistolica vd ventriculo
+ARKLFKNLKMPLTKMNTSPLNSTTMNNTNSFSNSSKRTSFRFLFFNTRKLRFNTRKL,Canal auriculo ventricular complete desbalanceado con ventriculo izquierdo dominante e insuficiencia severa de la valva AV comun,auriculo av canal complete comun desbalanceado dominante insuficiencia izquierdo severa valva ventricular ventriculo
+ANMLKNKSNNTRKRTKMKSTPSTRTSPLMNRSPRKRTKTPTTLFNS,Conexion venosa pulmonar anomala total mixta de tipo supracardiaca e intracardiaca obstruidas,anomala conexion intracardiaca mixta obstruidas pulmonar supracardiaca tipo total venosa
+KMNKSNKRTSRKTTRXNTRRKLRSKRTSTMRSTRKTFSKNTMTP,Comunicacion interauricular de tipo ostium secundum no restrictiva con cortocircuito de derecha a izquierda,comunicacion cortocircuito derecha interauricular izquierda ostium restrictiva secundum tipo
+ANTRRRTRTRSKRNTSKRTSTLTRNSPSSN,Transposicion de grandes arterias con aorta anterior y a la iquierda SDL,anterior aorta arterias grandes iquierda sdl transposicion
+ASTNSSSFRSPPLMNR,Estenosis subpulmonar severa,estenosis severa subpulmonar
+KMNKSNKNTRNKLNTRFNTRKLRSPPLMNR,Comunicacion interventricular subpulmonar conotroncal,comunicacion conotroncal interventricular subpulmonar
+PLLKTSKTRXTMTRFSTLSTRMMTFKT,Historia de Fistula de Blalock-Taussig modificada derecha de 5 mm de diametro,5 blalock-taussig derecha diametro fistula historia mm modificada
+ANMLRTRTRSNTNTTRXRJNPLMNRRM,Origen anomalo de la rama derecha de la arteria pulmonar de aorta ascendente,anomalo aorta arteria ascendente derecha origen pulmonar rama
+PTRXNLKMNKSNKRTSRKTNTRFNTRKLRMTMSKLR,Comunicacion interventricular muscular media con cortocircuito bidireccional,bidireccional comunicacion cortocircuito interventricular media muscular
+ANSFSNSLJRMTRTTRKSPT,Insuficiencia tricuspidea ligera a moderada,insuficiencia ligera moderada tricuspidea
+ARTKKRTSNKRTKKSTTKTL,Coartacion aortica yuxtaductal critica,aortica coartacion critica yuxtaductal
+KTTRSMSRTNSTKKSTS,Cateterismo diagnostico por cierre no exitoso 17112021,17112021 cateterismo cierre diagnostico exitoso
+AJNSFLTPLMNRSNTRMTTRLJFLFL,Tetralogia de Fallot con sindrome de agenesia valvula pulmonar,agenesia fallot pulmonar sindrome tetralogia valvula
+STNSSMKPLMNRSRMS,Estenosis de ramas pulmonares de 80 mmHg,80 estenosis mmhg pulmonares ramas
+AFPLKKMPLTRMTT,Bloqueo AV completo remitido,av bloqueo completo remitido
+ARTKSTNSSSPFLFLRFLFLR,Estenosis subvalvular y valvular aortica,aortica estenosis subvalvular valvular
+KMNKSNNTRFNTRKLRPKNPRMMPRNS,Comunicacion interventricular perimembranosa pequena,comunicacion interventricular pequena perimembranosa
+SNTRMSNTFLTPLMNRTTRLJTFFLFL,Tetralogia de Fallot TOF -Sindrome de valvula pulmonar ausente,-sindrome ausente fallot pulmonar tetralogia tof valvula
+ARTRSTNSSPLMNR,Estenosis de la arteria pulmonar,arteria estenosis pulmonar
