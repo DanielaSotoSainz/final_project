@@ -1,4 +1,5 @@
-# Machine Learning
+# Final Project
+### Machine Learning
 
 Using Logistic Regression as a classifier
 
