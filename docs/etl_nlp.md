@@ -5,7 +5,6 @@
 The data contains multiple columns that include Medical Notes in Natural Language, many of which have multiple irregularities as well as including more than one medical term. For example, in the case of surgical procedures, we get multiple procedures per surgery separated by a "+" delimiter.
 
 ```sql
-kardias-2=# SELECT patient_id, surgical_procedure FROM clean OFFSET 15 LIMIT 5;
  patient_id |                           surgical_procedure                           
 ------------+------------------------------------------------------------------------
          14 | Reparación de CIV con parche + Cierre quirúrgico de Conducto Arterioso
@@ -20,7 +19,6 @@ kardias-2=# SELECT patient_id, surgical_procedure FROM clean OFFSET 15 LIMIT 5;
 The goal was to get to a normalized representation of each of these procedures as well as spreading the relationship with the patient id over many rows. 
 
 ```sql
-kardias-2=# SELECT patient_id, surgical_procedure                                                                                            FROM patient_surgical_procedure                                                                                                              JOIN surgical_procedure                                                                                                                      ON surgical_procedure.token = patient_surgical_procedure.token                                                                               OFFSET 19 LIMIT 7;
  patient_id |           surgical_procedure            
 ------------+-----------------------------------------
          14 | Reparacion de CIV parche
@@ -230,3 +228,10 @@ kardias-2=# \dt
  public | patient_surgical_procedure | table | albertovaldez
  public | surgical_procedure         | table | albertovaldez
 ```
+
+## Footnotes
+
+- Metaphone: https://en.wikipedia.org/wiki/Metaphone
+- Phonetics Python: https://pypi.org/project/phonetics/
+- Kardiasclean: https://pypi.org/project/kardiasclean/
+- Database 3NF: https://en.wikipedia.org/wiki/Database_normalization#Satisfying_3NF
