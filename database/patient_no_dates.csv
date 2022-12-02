@@ -1,0 +1,1998 @@
+patient_id,gender,weight_kg,height_cm,cx_previous,rachs,stay_days,expired,diagnosis_main,date_delta
+0,0,35.0,134.0,0,1,2,0,Comunicacion interauricular secundum,3882
+1,1,18.0,117.0,0,1,2,0,Comunicacion interauricular secundum,3338
+2,0,22.0,120.0,0,1,2,0,Comunicacion interauricular secundum,3193
+3,0,42.0,147.0,0,1,2,0,Comunicacion interauricular secundum,3975
+4,0,40.0,157.0,0,1,3,0,Comunicacion interauricular secundum,5131
+5,1,34.4,134.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,2900
+5,1,34.4,134.0,0,2,2,0,Estenosis aortica subvalvular,2900
+6,0,37.0,141.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,3826
+7,0,13.5,102.0,0,1,2,0,Comunicacion interauricular secundum,1577
+8,1,37.0,137.0,0,2,5,0,Comunicacion interventricular Tipo 1 infundibular,3837
+9,1,62.0,162.0,0,1,2,0,Comunicacion interauricular secundum,5676
+10,1,44.0,142.0,0,2,3,0,Comunicacion interventricular Tipo 2 perimembranosa,4459
+10,1,44.0,142.0,0,2,3,0,Estenosis aortica subvalvular,4459
+11,1,12.5,160.0,0,2,6,0,Comunicacion interventricular Tipo 2 perimembranosa,2487
+11,1,12.5,160.0,0,2,6,0,Estenosis aortica subvalvular,2487
+12,1,14.0,98.0,0,1,2,0,Comunicacion interauricular secundum,1694
+12,1,14.0,98.0,0,1,2,0,Persistencia de conducto arterioso,1694
+13,0,17.6,114.0,0,2,2,0,Comunicacion interventricular Tipo 1 infundibular,2056
+13,0,17.6,114.0,0,2,2,0,Comunicacion interventricular Tipo 2 Membranosa,2056
+13,0,17.6,114.0,0,2,2,0,Estenosis aortica subvalvular,2056
+14,0,8.7,74.0,0,2,3,0,Comunicacion interauricular secundum,897
+14,0,8.7,74.0,0,2,3,0,Comunicacion interventricular Tipo 2 Membranosa,897
+14,0,8.7,74.0,0,2,3,0,Persistencia de conducto arterioso,897
+15,0,9.4,78.0,0,2,3,0,Comunicacion interventricular Tipo 2 Membranosa,930
+15,0,9.4,78.0,0,2,3,0,FOP,930
+16,0,14.6,109.0,0,1,2,0,Persistencia de conducto arterioso,2045
+17,1,25.3,130.0,0,1,2,0,Comunicacion interauricular secundum,3465
+18,0,17.6,110.0,0,1,2,0,Persistencia de conducto arterioso,3185
+19,0,36.5,130.0,0,2,3,0,Estenosis pulmonar valvular,3958
+19,0,36.5,130.0,0,2,3,0,Other,3958
+20,0,18.5,109.0,0,1,2,0,Comunicacion interauricular secundum,1792
+20,0,18.5,109.0,0,1,2,0,Persistencia de conducto arterioso,1792
+21,0,15.4,104.0,0,1,2,0,Persistencia de conducto arterioso,1651
+22,1,12.0,96.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,1493
+23,1,10.6,86.0,0,2,8,0,Comunicacion interventricular Tipo 2 perimembranosa,795
+23,1,10.6,86.0,0,2,8,0,Estenosis aortica subvalvular,795
+24,0,46.0,153.0,0,2,2,0,Comunicacion interventricular Tipo 1 infundibular,4802
+25,1,22.0,130.0,0,1,2,0,Other,2488
+26,0,35.0,144.0,0,1,2,0,Comunicacion interauricular secundum,3397
+27,0,27.0,153.0,0,1,3,0,Comunicacion interauricular secundum,4356
+28,1,12.5,91.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,803
+29,0,19.1,117.0,0,1,3,0,Persistencia de conducto arterioso,1936
+30,1,32.5,152.0,0,1,2,0,Comunicacion interauricular secundum,3929
+31,0,22.0,129.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,2886
+32,0,20.0,117.0,0,1,2,0,Comunicacion interauricular secundum,2007
+34,1,11.0,90.0,0,2,2,0,Comunicacion interauricular secundum,1573
+34,1,11.0,90.0,0,2,2,0,Comunicacion interventricular Tipo 2 Membranosa,1573
+34,1,11.0,90.0,0,2,2,0,Persistencia de conducto arterioso,1573
+35,1,18.5,105.0,0,1,2,0,Comunicacion interauricular secundum,3004
+35,1,18.5,105.0,0,1,2,0,Other,3004
+36,0,16.0,95.0,0,2,5,0,Comunicacion interventricular Tipo 2 Membranosa,2206
+37,0,20.0,117.0,0,1,3,0,Coartacion de Aorta,2578
+38,1,6.6,72.0,0,2,3,0,Comunicacion interventricular membranosa,802
+39,0,21.5,124.0,0,1,2,0,Comunicacion interauricular secundum,2181
+40,0,10.1,86.0,0,1,2,0,Comunicacion interauricular secundum,1149
+41,0,12.0,92.0,0,1,3,0,Comunicacion interauricular secundum,876
+42,0,27.0,132.0,0,2,2,0,Comunicacion interventricular membranosa,3859
+43,1,41.6,156.0,0,1,2,0,Comunicacion interauricular secundum,6703
+44,1,8.5,86.0,0,2,4,0,Comunicacion interventricular Tipo 2 perimembranosa,930
+44,1,8.5,86.0,0,2,4,0,Persistencia de conducto arterioso,930
+45,1,61.0,165.0,0,2,2,0,Doble camara del Ventriculo Derecho,6973
+45,1,61.0,165.0,0,2,2,0,Other,6973
+46,0,13.2,115.0,0,2,2,0,Estenosis aortica subvalvular,2208
+46,0,13.2,115.0,0,2,2,0,Persistencia de conducto arterioso,2208
+47,1,17.0,112.0,0,2,2,0,Comunicacion interventricular membranosa,2346
+48,1,7.0,65.0,0,1,2,0,Persistencia de conducto arterioso,269
+49,1,17.0,98.0,0,1,2,0,Comunicacion interauricular secundum,1499
+50,0,10.0,75.0,0,1,2,0,Persistencia de conducto arterioso,472
+51,0,32.0,131.0,0,3,2,0,Comunicacion interauricular secundum,3253
+51,0,32.0,131.0,0,3,2,0,Comunicacion interventricular Tipo 2 Membranosa,3253
+51,0,32.0,131.0,0,3,2,0,Other,3253
+52,0,5.6,67.0,0,3,2,0,Canal AV transicional,523
+52,0,5.6,67.0,0,3,2,0,Persistencia de conducto arterioso,523
+53,0,14.5,113.0,0,1,2,0,Comunicacion interauricular secundum,1845
+54,1,10.2,84.0,0,2,9,0,Tetralogia de Fallot,940
+55,1,14.0,97.0,0,2,4,0,Tetralogia de Fallot,2105
+56,0,11.0,93.0,0,2,3,0,Tetralogia de Fallot,827
+57,0,5.8,62.0,0,2,3,0,Comunicacion interventricular Tipo 2 Membranosa,581
+57,0,5.8,62.0,0,2,3,0,Persistencia de conducto arterioso,581
+57,0,5.8,62.0,0,2,3,0,FOP,581
+58,1,2.9,50.0,0,1,1,0,Persistencia de conducto arterioso,167
+59,0,7.0,65.0,0,2,3,0,Comunicacion interventricular Tipo 2 Membranosa,539
+59,0,7.0,65.0,0,2,3,0,Persistencia de conducto arterioso,539
+60,0,34.0,135.0,0,1,2,0,Comunicacion interauricular secundum,4098
+61,1,10.6,86.0,0,4,3,0,Coartacion de Aorta,886
+61,1,10.6,86.0,0,4,3,0,Estenosis aortica subvalvular,886
+62,1,66.0,158.0,0,1,3,0,Comunicacion interauricular secundum,6248
+63,0,5.2,75.0,0,3,13,0,Canal AV completo balanceado tipo A rastelli,427
+64,1,13.5,105.0,0,1,3,0,Comunicacion interauricular secundum,1517
+65,0,7.0,67.0,0,2,4,0,Comunicacion interventricular Tipo 2 Membranosa,729
+65,0,7.0,67.0,0,2,4,0,Persistencia de conducto arterioso,729
+66,0,10.1,77.0,1,2,5,0,Other,844
+66,0,10.1,77.0,1,2,5,0,Other,844
+67,0,34.0,147.0,0,1,2,0,Comunicacion interauricular secundum,4492
+68,0,6.0,69.0,0,2,4,0,Comunicacion interauricular secundum,160
+68,0,6.0,69.0,0,2,4,0,Comunicacion interventricular membranosa,160
+68,0,6.0,69.0,0,2,4,0,PCA,160
+69,1,28.0,135.0,0,1,2,0,Comunicacion interauricular secundum,4226
+70,0,4.6,60.0,0,3,2,0,Canal AV completo balanceado tipo A rastelli,256
+70,0,4.6,60.0,0,3,2,0,Persistencia de conducto arterioso,256
+71,0,17.5,107.0,0,2,4,0,Conexion anomala total de venas pulmonares tipo 2 seno coronario,2599
+72,1,14.0,95.0,0,2,3,0,Comunicacion interventricular Tipo 2 perimembranosa,1530
+72,1,14.0,95.0,0,2,3,0,CIV muscular,1530
+72,1,14.0,95.0,0,2,3,0,PCA,1530
+74,0,14.4,93.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,1066
+75,1,29.1,132.0,0,1,2,0,Comunicacion interauricular secundum,3367
+76,1,10.0,82.0,0,1,5,0,Comunicacion interauricular secundum,999
+77,0,14.5,98.0,0,2,16,0,Tetralogia de Fallot,1511
+78,0,10.2,88.0,0,2,7,0,Comunicacion interventricular Tipo 2 Membranosa,926
+78,0,10.2,88.0,0,2,7,0,Persistencia de conducto arterioso,926
+79,1,15.1,112.0,0,2,4,0,Comunicacion interventricular membranosa,1860
+80,0,5.7,62.0,0,3,7,0,Canal AV completo tipo A de Rastelli,279
+81,0,34.3,128.0,0,1,2,0,Comunicacion interauricular secundum,3446
+82,1,8.1,80.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,944
+83,0,8.0,81.0,0,1,3,0,Coartacion de Aorta,839
+84,0,47.0,147.0,0,1,2,0,Comunicacion interauricular secundum,6466
+85,1,13.1,94.0,0,2,7,1,Estenosis pulmonar,944
+85,1,13.1,94.0,0,2,7,1,Comunicacion interventricular membranosa,944
+86,0,6.8,70.0,0,1,2,0,Comunicacion interauricular secundum,483
+87,1,20.0,114.0,0,1,2,0,Comunicacion interauricular secundum,2184
+88,0,41.0,158.0,0,1,2,0,Comunicacion interauricular secundum,4714
+89,0,21.0,117.0,0,1,2,0,Persistencia de conducto arterioso,2170
+90,1,46.0,142.0,0,3,2,0,Canal AV completo,5103
+91,1,12.0,88.0,0,2,4,0,Ventriculo unico atresia triscupidea,1095
+92,0,26.7,126.0,0,1,2,0,Comunicacion interauricular secundum,2469
+93,0,46.6,141.0,0,2,3,0,Comunicacion interventricular membranosa,6784
+93,0,46.6,141.0,0,2,3,0,Persistencia de conducto arterioso,6784
+94,0,16.0,110.0,0,2,6,0,Tetralogia de Fallot,1865
+95,0,2.1,51.0,0,4,129,0,Coartacion de Aorta,-272
+95,0,2.1,51.0,0,4,129,0,Hipoplasia de arco aortico,-272
+95,0,2.1,51.0,0,4,129,0,Ventriculo unico atresia tricuspidea,-272
+95,0,2.1,51.0,0,4,129,0,Transposicion de grandes vasos septum integro,-272
+96,0,8.8,77.0,0,1,2,0,Persistencia de conducto arterioso,809
+97,1,10.4,78.0,0,2,10,0,Tetralogia de Fallot estenosis pulmonar,504
+98,0,28.3,130.0,0,2,3,0,Comunicacion interauricular secundum,3828
+98,0,28.3,130.0,0,2,3,0,Comunicacion interventricular membranosa,3828
+99,0,10.8,93.0,0,1,2,0,Persistencia de conducto arterioso,1080
+100,0,50.0,157.0,0,1,1,0,Comunicacion interauricular secundum,4637
+101,0,9.1,82.0,0,4,7,0,Coartacion de Aorta,820
+101,0,9.1,82.0,0,4,7,0,Hipoplasia de arco aortico,820
+102,1,4.7,61.0,0,2,3,0,Other,-115
+103,0,14.2,101.0,0,2,10,0,Tetralogia de Fallot estenosis pulmonar,1882
+104,0,25.7,142.0,0,1,2,0,Comunicacion interauricular secundum,4966
+105,1,24.5,122.0,0,2,4,0,Tetralogia de Fallot estenosis pulmonar,3250
+106,0,10.0,92.0,0,3,3,0,Persistencia de conducto arterioso,675
+106,0,10.0,92.0,0,3,3,0,Estenosis aortica subvalvular,675
+106,0,10.0,92.0,0,3,3,0,Other,675
+107,0,9.0,89.0,0,2,3,0,Comunicacion interventricular membranosa,1077
+108,0,10.1,78.0,0,3,7,0,Canal AV transicional,662
+108,0,10.1,78.0,0,3,7,0,Persistencia de conducto arterioso,662
+109,1,5.1,55.0,0,4,13,0,Coartacion de arco aortico CIV,172
+109,1,5.1,55.0,0,4,13,0,Hipoplasia de arco aortico CIV,172
+110,0,46.8,151.0,0,1,5,0,Other,4404
+111,1,16.0,100.0,0,1,2,0,Comunicacion interauricular secundum,1798
+111,1,16.0,100.0,0,1,2,0,Persistencia de conducto arterioso,1798
+113,0,21.0,116.0,0,1,3,0,Comunicacion interauricular secundum,2834
+114,1,14.0,103.0,0,2,3,0,Comunicacion interventricular membranosa,1539
+115,0,43.8,159.0,0,1,3,0,Other,4464
+115,0,43.8,159.0,0,1,3,0,Comunicacion interauricular,4464
+116,1,21.5,120.0,0,1,3,0,Comunicacion interauricular secundum,3761
+117,0,2.8,52.0,0,1,2,0,Coartacion de Aorta,-24
+118,1,48.0,155.0,2,3,3,0,Atresia Pulmonar CIV,5537
+118,1,48.0,155.0,2,3,3,0,Other,5537
+118,1,48.0,155.0,2,3,3,0,Status post-Cambio de tubo valvulado,5537
+119,1,7.9,79.0,1,2,9,0,Canal AV completo,844
+121,0,46.0,158.0,0,1,2,0,Comunicacion interauricular secundum,4903
+122,0,11.0,95.0,0,2,2,0,Comunicacion interventricular Tipo 2 perimembranosa,963
+123,1,2.2,45.0,0,3,3,0,Doble entrada al ventriculo izquierdo,45
+123,1,2.2,45.0,0,3,3,0,Transposicion de grandes vasos,45
+123,1,2.2,45.0,0,3,3,0,Foramen bulboventricular,45
+123,1,2.2,45.0,0,3,3,0,Comunicacion interauricular secundum,45
+123,1,2.2,45.0,0,3,3,0,Persistencia de conducto arterioso,45
+124,1,8.3,78.0,0,2,3,0,Comunicacion interventricular membranosa,551
+125,1,8.5,71.0,0,1,5,0,Canal AV parcial,241
+126,0,20.0,117.0,0,1,2,0,Comunicacion interauricular secundum,2603
+127,0,14.0,104.0,0,4,3,0,Hipoplasia de arco aortico,2091
+127,0,14.0,104.0,0,4,3,0,Coartacion de arco aortico,2091
+128,1,45.0,150.0,0,2,5,0,Comunicacion interventricular doblemente relacionada,5088
+128,1,45.0,150.0,0,2,5,0,Other,5088
+128,1,45.0,150.0,0,2,5,0,Comunicacion interauricular ostium secundum,5088
+129,0,22.6,123.0,0,1,2,0,Comunicacion interauricular secundum,2506
+130,1,11.0,100.0,0,1,2,0,Comunicacion interauricular secundum,1493
+131,0,23.0,128.0,0,1,2,0,Comunicacion interauricular secundum,2539
+132,0,12.5,89.0,0,2,4,0,Comunicacion interauricular secundum,1174
+132,0,12.5,89.0,0,2,4,0,Comunicacion interventricular membranosa,1174
+132,0,12.5,89.0,0,2,4,0,PCA,1174
+133,1,12.5,96.0,0,3,18,0,Atresia Pulmonar CIV,1254
+134,1,5.8,59.0,0,3,5,0,Canal AV completo,556
+135,1,18.5,122.0,0,1,2,0,Comunicacion interauricular secundum,2616
+136,0,23.0,128.0,1,1,2,0,Other,2257
+137,0,21.5,124.0,0,1,2,0,Comunicacion interauricular secundum,2552
+138,0,23.5,128.0,0,1,2,0,Comunicacion interauricular secundum,2923
+139,0,10.5,92.0,1,2,7,0,Ventriculo unico atresia tricuspidea,1138
+139,0,10.5,92.0,1,2,7,0,Atresia pulmonar,1138
+139,0,10.5,92.0,1,2,7,0,Status post-FBTM,1138
+140,0,5.9,61.0,0,2,4,0,Comunicacion interventricular membranosa,402
+141,0,11.0,88.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,764
+141,0,11.0,88.0,0,2,6,0,Persistencia de conducto arterioso,764
+142,0,9.4,88.0,0,2,10,1,Tetralogia de Fallot estenosis pulmonar,580
+143,0,20.0,108.0,1,3,11,0,Ventriculo unico atresia tricuspidea,1548
+143,0,20.0,108.0,1,3,11,0,Status post-Procedimiento de Glenn,1548
+144,0,11.7,87.0,0,2,10,0,Estenosis pulmonar valvular,1170
+145,1,22.0,130.0,0,2,5,0,Estenosis aortica subvalvular,3455
+146,0,8.1,76.0,0,2,7,0,Comunicacion interauricular secundum,893
+146,0,8.1,76.0,0,2,7,0,Persistencia de conducto arterioso,893
+147,1,16.5,119.0,0,2,5,0,Conexion anomala total de venas pulmonares tipo 2 seno coronario,2277
+148,0,2.3,47.0,0,3,31,0,Atresia Pulmonar CIV,-233
+149,0,11.0,82.0,0,2,7,0,Comunicacion interventricular membranosa,589
+149,0,11.0,82.0,0,2,7,0,Persistencia de conducto arterioso,589
+150,1,8.7,71.0,0,3,23,0,Doble salida de ventriculo derecho CIV doblemente relacionada,301
+150,1,8.7,71.0,0,3,23,0,Estenosis pulmonar mixta,301
+151,0,21.0,113.0,2,3,12,0,Atresia tricuspidea,2413
+151,0,21.0,113.0,2,3,12,0,Atresia pulmonar,2413
+151,0,21.0,113.0,2,3,12,0,Status post-FBTM,2413
+151,0,21.0,113.0,2,3,12,0,Other,2413
+152,1,15.0,98.0,0,1,4,0,Comunicacion interauricular secundum,962
+153,1,6.0,60.0,0,2,7,0,Ventana aorto-pulmomar,450
+154,0,6.2,68.0,0,3,5,0,Canal AV completo,538
+155,0,11.0,86.0,0,1,2,0,Comunicacion interauricular secundum,882
+156,0,11.9,98.5,0,1,2,0,Comunicacion interauricular secundum,1156
+157,0,10.9,89.0,0,1,2,0,Persistencia de conducto arterioso,868
+158,1,8.7,68.0,0,2,3,0,Canal AV parcial,508
+159,1,16.2,115.0,0,1,2,0,Comunicacion interauricular secundum,1804
+159,1,16.2,115.0,0,1,2,0,Persistencia de conducto arterioso,1804
+160,0,23.0,120.0,0,2,3,0,Comunicacion interventricular membranosa,2369
+161,0,10.4,94.0,0,3,8,0,Other,741
+163,0,7.8,71.0,0,2,14,0,Comunicacion interventricular muscular,829
+163,0,7.8,71.0,0,2,14,0,Persistencia de conducto arterioso,829
+164,1,54.9,169.0,0,4,7,0,Hipoplasia de arco aortico,5160
+164,1,54.9,169.0,0,4,7,0,Coartacion de arco aortico,5160
+164,1,54.9,169.0,0,4,7,0,Membrana subaortica,5160
+165,0,16.7,107.0,0,1,2,0,Comunicacion interauricular secundum,1598
+166,1,13.5,97.0,0,3,7,0,Other,1202
+166,1,13.5,97.0,0,3,7,0,Other,1202
+167,0,9.3,88.0,0,2,3,0,Comunicacion interventricular membranosa,766
+168,0,8.5,74.0,0,2,4,0,Estenosis aortica subvalvular,1085
+168,0,8.5,74.0,0,2,4,0,PCA,1085
+169,1,19.0,110.0,0,1,2,0,Comunicacion interauricular secundum,3904
+170,1,9.0,78.0,0,3,29,0,Doble salida de ventriculo derecho CIV doblemente relacionada Tipo Fallot,898
+170,1,9.0,78.0,0,3,29,0,Estenosis pulmonar,898
+171,0,29.5,130.0,0,1,2,0,Comunicacion interauricular secundum,2904
+172,1,18.9,120.0,0,2,2,0,Comunicacion interventricular membranosa,1824
+173,0,14.7,106.0,0,2,11,0,Tetralogia de Fallot estenosis pulmonar,1583
+174,1,38.5,136.0,0,2,3,0,Comunicacion interventricular membranosa,3853
+175,0,3.8,52.0,0,2,21,0,Comunicacion interventricular membranosa,437
+176,1,28.0,135.0,0,1,1,0,Comunicacion interauricular secundum,4093
+177,0,12.3,98.0,0,2,2,0,Comunicacion interventricular membranosa,1151
+178,1,70.0,172.0,2,3,4,0,Other,15520
+178,1,70.0,172.0,2,3,4,0,Status post-Cambio de tubo valvulado,15520
+179,0,7.1,75.0,0,3,11,0,Canal AV completo,741
+180,0,6.0,67.0,0,2,3,0,Comunicacion interventricular membranosa,533
+180,0,6.0,67.0,0,2,3,0,Persistencia de conducto arterioso,533
+181,1,10.0,82.0,1,2,6,0,Other,682
+181,1,10.0,82.0,1,2,6,0,Status post-Bandaje de la AP,682
+182,1,11.0,88.0,0,2,2,0,Comunicacion interventricular membranosa,652
+183,1,24.0,120.0,1,4,10,0,Other,2550
+183,1,24.0,120.0,1,4,10,0,Status post-Glenn,2550
+184,0,15.0,107.0,0,2,2,0,Comunicacion interventricular membranosa,1537
+185,1,11.5,83.0,0,1,2,0,Comunicacion interauricular secundum,1115
+185,1,11.5,83.0,0,1,2,0,Persistencia de conducto arterioso,1115
+187,1,19.0,127.0,0,1,3,0,Canal AV parcial,3275
+187,1,19.0,127.0,0,1,3,0,Insuficiencia mitral severa,3275
+188,0,14.8,103.0,0,1,3,0,Comunicacion interauricular secundum,1529
+189,0,16.2,103.0,1,2,3,0,Estenosis aortica subvalvular,1999
+189,0,16.2,103.0,1,2,3,0,Other,1999
+190,0,7.3,72.0,0,4,9,0,Coartacion de arco aortico CIV,310
+190,0,7.3,72.0,0,4,9,0,Hipoplasia de arco aortico CIV,310
+191,0,5.4,62.0,0,2,4,0,Conexion anomala total de venas pulmonares al seno coronario,112
+192,1,12.4,99.0,0,1,4,0,Comunicacion interauricular secundum,1760
+193,1,8.6,73.0,0,2,3,1,Tetralogia de Fallot estenosis pulmonar,458
+193,1,8.6,73.0,0,2,3,1,Persistencia de conducto arterioso,458
+194,0,4.8,65.0,0,2,3,0,Comunicacion interventricular membranosa,607
+194,0,4.8,65.0,0,2,3,0,Persistencia de conducto arterioso,607
+195,0,10.8,81.0,0,1,2,0,Comunicacion interauricular secundum,1282
+196,0,15.0,105.0,0,2,3,0,Estenosis aortica subvalvular,1094
+197,0,6.3,62.0,0,3,12,0,Canal AV completo,283
+198,1,9.6,79.0,0,2,3,0,Comunicacion interventricular membranosa,583
+199,0,19.2,105.0,0,4,4,0,Coartacion de arco aortico,3552
+199,0,19.2,105.0,0,4,4,0,Hipoplasia de arco aortico,3552
+200,1,18.0,112.0,2,3,7,0,Ventriculo unico atresia tricuspidea,1416
+200,1,18.0,112.0,2,3,7,0,Other,1416
+200,1,18.0,112.0,2,3,7,0,CIV,1416
+200,1,18.0,112.0,2,3,7,0,CIA secundum,1416
+200,1,18.0,112.0,2,3,7,0,Other,1416
+200,1,18.0,112.0,2,3,7,0,Other,1416
+201,1,33.0,131.0,0,2,3,0,Coartacion de Aorta,3965
+201,1,33.0,131.0,0,2,3,0,Estenosis aortica subvalvular,3965
+201,1,33.0,131.0,0,2,3,0,Other,3965
+202,0,47.0,156.0,0,1,3,0,Comunicacion interauricular secundum,5382
+203,1,25.0,136.0,2,3,8,0,Other,3507
+203,1,25.0,136.0,2,3,8,0,Atresia pulmonar,3507
+203,1,25.0,136.0,2,3,8,0,Other,3507
+203,1,25.0,136.0,2,3,8,0,Other,3507
+204,1,14.0,90.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,1025
+204,1,14.0,90.0,0,2,6,0,PCA,1025
+205,1,21.0,115.0,0,1,3,0,Comunicacion interauricular secundum,3471
+206,1,19.5,118.0,2,3,14,0,Ventriculo unico atresia tricuspidea,3531
+206,1,19.5,118.0,2,3,14,0,Atresia pulmonar,3531
+206,1,19.5,118.0,2,3,14,0,Auricula unica,3531
+206,1,19.5,118.0,2,3,14,0,Dextrocardia,3531
+206,1,19.5,118.0,2,3,14,0,Interrupcion de vena cava inferior con continuacion a la acigos,3531
+206,1,19.5,118.0,2,3,14,0,Status post-FBTM,3531
+206,1,19.5,118.0,2,3,14,0,Other,3531
+207,1,6.1,74.0,0,1,2,0,Persistencia de conducto arterioso,399
+208,0,5.0,79.0,0,2,6,0,Conexion anomala total de venas pulmonares supracardiaca,-22
+209,0,11.5,97.0,0,3,24,0,Other,1147
+210,1,24.0,122.0,0,2,9,0,Tetralogia de Fallot estenosis pulmonar,3217
+211,0,10.2,75.0,0,1,1,0,Persistencia de conducto arterioso,669
+212,0,54.0,155.0,0,2,4,0,Comunicacion interventricular membranosa,5883
+212,0,54.0,155.0,0,2,4,0,Estenosis aortica subvalvular,5883
+213,1,21.0,128.0,0,2,6,0,Coartacion de arco aortico,3276
+213,1,21.0,128.0,0,2,6,0,PCA,3276
+213,1,21.0,128.0,0,2,6,0,Other,3276
+213,1,21.0,128.0,0,2,6,0,Estenosis mitral,3276
+214,1,17.0,102.0,0,2,4,0,Comunicacion interventricular Tipo 2 Membranosa,2144
+214,1,17.0,102.0,0,2,4,0,Comunicacion interauricular secundum,2144
+214,1,17.0,102.0,0,2,4,0,PCA,2144
+215,0,7.0,67.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,-173
+215,0,7.0,67.0,0,2,5,0,Persistencia de conducto arterioso,-173
+216,1,6.1,65.0,0,2,7,0,Conexion anomala total de venas pulmonares al seno coronario,304
+217,1,9.6,77.0,0,2,9,0,Tetralogia de Fallot estenosis pulmonar,290
+218,0,5.5,60.0,0,2,12,0,Tetralogia de Fallot estenosis pulmonar,39
+219,0,20.5,120.0,1,2,3,0,Estenosis aortica subvalvular,2233
+219,0,20.5,120.0,1,2,3,0,Other,2233
+220,0,13.0,101.0,0,1,3,0,Comunicacion interauricular secundum,1440
+221,1,16.5,103.0,0,1,2,0,Comunicacion interauricular secundum,1817
+222,1,7.2,70.0,0,2,3,0,Comunicacion interventricular membranosa,588
+223,0,11.2,96.0,0,3,4,0,Other,983
+223,0,11.2,96.0,0,3,4,0,PCA,983
+224,1,8.3,78.0,0,2,8,0,Comunicacion interventricular membranosa,460
+225,1,10.5,91.0,0,3,8,0,Other,959
+226,1,16.0,99.0,0,1,3,0,Comunicacion interauricular secundum,1763
+226,1,16.0,99.0,0,1,3,0,Persistencia de conducto arterioso,1763
+227,0,14.0,102.0,0,2,4,0,Tetralogia de Fallot estenosis pulmonar,2118
+228,1,54.0,152.0,1,4,6,0,Hipoplasia de arco aortico,4374
+228,1,54.0,152.0,1,4,6,0,Other,4374
+228,1,54.0,152.0,1,4,6,0,Other,4374
+230,1,15.0,102.0,0,2,3,0,Comunicacion interventricular infundibular,1740
+231,1,10.4,95.0,0,2,11,0,Other,2051
+232,1,27.2,130.0,2,3,5,0,Other,3099
+232,1,27.2,130.0,2,3,5,0,Status post-FBTM,3099
+232,1,27.2,130.0,2,3,5,0,Status post-Glenn,3099
+233,1,14.1,98.0,0,2,4,0,Comunicacion interventricular Tipo 2 Membranosa,1409
+233,1,14.1,98.0,0,2,4,0,Persistencia de conducto arterioso,1409
+234,0,28.6,123.0,1,3,6,0,Doble via de salida del VD con CIV subaortica,3517
+234,0,28.6,123.0,1,3,6,0,Other,3517
+234,0,28.6,123.0,1,3,6,0,PCA,3517
+234,0,28.6,123.0,1,3,6,0,Status post-Bandaje de la AP,3517
+235,0,12.8,106.0,0,2,3,0,Comunicacion interventricular membranosa,1853
+236,0,8.6,76.0,0,2,5,0,Comunicacion interventricular Tipo 2 Membranosa,635
+236,0,8.6,76.0,0,2,5,0,Persistencia de conducto arterioso,635
+237,0,36.7,149.0,0,2,4,0,Comunicacion interventricular infundibular,4866
+238,0,14.2,106.0,0,3,10,0,DVSVD tipo Fallot,2599
+239,0,21.8,124.0,0,3,6,0,Anomalia de Ebstein,2809
+240,0,17.0,109.0,0,3,7,0,Anomalia de Ebstein,2661
+241,1,2.7,52.0,0,3,12,0,Transposicion de grandes arterias septum integro,20
+242,1,8.0,76.0,0,2,3,0,Comunicacion interventricular membranosa,581
+242,1,8.0,76.0,0,2,3,0,FOP,581
+243,0,25.0,124.0,0,2,3,0,Conexion anomala total de venas pulmonares supracardiaca,3469
+244,0,6.8,68.0,0,2,7,0,Comunicacion interventricular Tipo 2 Membranosa,253
+244,0,6.8,68.0,0,2,7,0,Persistencia de conducto arterioso,253
+245,0,50.0,160.0,0,1,1,0,Comunicacion interauricular secundum,5948
+246,0,4.8,59.0,0,2,15,0,Ventriculo unico atresia tricuspidea,125
+246,0,4.8,59.0,0,2,15,0,Estenosis pulmonar valvular,125
+246,0,4.8,59.0,0,2,15,0,CIV perimembranosa tipo 2,125
+247,0,18.0,101.0,0,2,3,0,Comunicacion interventricular muscular,1652
+247,0,18.0,101.0,0,2,3,0,Persistencia de conducto arterioso,1652
+248,1,3.0,58.0,0,4,18,0,Coartacion de Aorta,-91
+248,1,3.0,58.0,0,4,18,0,Hipoplasia de arco aortico,-91
+248,1,3.0,58.0,0,4,18,0,Comunicacion interventricular membranosa,-91
+249,1,2.7,48.0,0,3,1,1,Transposicion de grandes arterias septum integro,25
+250,1,6.0,68.0,0,2,5,0,Comunicacion interventricular membranosa,407
+250,1,6.0,68.0,0,2,5,0,CIA secundum,407
+250,1,6.0,68.0,0,2,5,0,Other,407
+251,0,6.8,70.0,0,3,7,0,Canal AV completo,606
+251,0,6.8,70.0,0,3,7,0,PCA,606
+252,0,17.0,106.0,1,3,36,1,Other,2233
+252,0,17.0,106.0,1,3,36,1,Auricula unica,2233
+252,0,17.0,106.0,1,3,36,1,Status post-Glenn,2233
+252,0,17.0,106.0,1,3,36,1,Other,2233
+253,0,3.9,48.0,0,6,39,0,Other,-51
+254,0,5.7,62.0,0,2,4,0,Comunicacion interventricular membranosa,756
+254,0,5.7,62.0,0,2,4,0,PCA,756
+255,0,60.0,147.0,0,2,2,0,Comunicacion interventricular infundibular,3788
+255,0,60.0,147.0,0,2,2,0,Other,3788
+256,0,2.6,45.0,0,3,39,0,Atresia Pulmonar CIV,-229
+257,0,17.0,120.0,0,2,3,0,Comunicacion interventricular membranosa,2740
+257,0,17.0,120.0,0,2,3,0,Comunicacion interauricular secundum,2740
+258,1,4.0,60.0,0,2,58,0,Other,291
+259,0,8.6,79.0,0,2,3,0,Comunicacion interventricular membranosa,616
+259,0,8.6,79.0,0,2,3,0,PCA,616
+260,1,4.0,53.0,0,3,6,0,Tetralogia de Fallot estenosis pulmonar,-42
+260,1,4.0,53.0,0,3,6,0,PCA,-42
+261,0,5.4,68.0,0,2,6,0,Comunicacion interventricular perimembranosa,470
+261,0,5.4,68.0,0,2,6,0,PCA,470
+262,1,38.0,132.0,1,2,3,0,Comunicacion interauricular secundum,5277
+262,1,38.0,132.0,1,2,3,0,Other,5277
+262,1,38.0,132.0,1,2,3,0,Other,5277
+263,0,13.7,104.0,0,1,2,0,Comunicacion interauricular secundum,1426
+263,0,13.7,104.0,0,1,2,0,Persistencia de conducto arterioso,1426
+264,0,18.0,112.0,1,3,4,0,Other,2020
+264,0,18.0,112.0,1,3,4,0,Other,2020
+265,1,11.1,83.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,740
+266,0,14.4,94.0,0,1,1,0,Comunicacion interauricular secundum,1917
+267,0,21.0,117.0,2,3,6,0,Atresia pulmonar septum integro,2462
+267,0,21.0,117.0,2,3,6,0,Other,2462
+267,0,21.0,117.0,2,3,6,0,Status post-Glenn,2462
+268,1,7.8,71.0,0,2,3,0,Comunicacion interventricular membranosa,194
+269,0,6.3,67.0,0,2,10,0,Tetralogia de Fallot estenosis pulmonar,526
+270,1,7.6,78.0,0,3,6,0,Canal AV completo,790
+270,1,7.6,78.0,0,3,6,0,PCA,790
+271,0,8.0,76.0,0,2,2,0,Comunicacion interventricular membranosa,888
+271,0,8.0,76.0,0,2,2,0,PCA,888
+272,0,16.5,116.0,0,1,1,0,Comunicacion interauricular secundum,1848
+273,0,11.4,93.0,0,2,3,0,Conexion anomala total de venas pulmonares al seno coronario,841
+274,1,3.4,52.0,0,3,30,0,Transposicion de grandes arterias septum integro,-23
+275,1,3.2,51.0,0,4,20,0,Coartacion de Aorta,92
+275,1,3.2,51.0,0,4,20,0,Hipoplasia de arco aortico,92
+275,1,3.2,51.0,0,4,20,0,Comunicacion interventricular muscular,92
+276,1,12.3,100.0,1,2,3,0,Other,1931
+276,1,12.3,100.0,1,2,3,0,Other,1931
+277,1,8.3,64.0,0,2,1,1,Tetralogia de Fallot estenosis pulmonar,234
+278,1,13.4,104.0,0,1,2,0,Comunicacion interauricular secundum,1737
+279,1,5.7,67.0,0,2,2,0,Comunicacion interventricular perimembranosa,608
+279,1,5.7,67.0,0,2,2,0,Persistencia de conducto arterioso,608
+280,1,3.4,52.0,0,4,16,0,Hipoplasia de arco aortico CIV,-273
+280,1,3.4,52.0,0,4,16,0,Coartacion de arco aortico CIV,-273
+281,1,6.1,61.0,0,2,9,0,Other,122
+283,1,17.4,110.0,1,3,6,0,Doble entrada al ventriculo izquierdo,1986
+283,1,17.4,110.0,1,3,6,0,Transposicion de grandes vasos,1986
+283,1,17.4,110.0,1,3,6,0,Foramen bulboventricular,1986
+283,1,17.4,110.0,1,3,6,0,Other,1986
+284,1,8.2,80.0,0,1,6,0,Comunicacion interauricular secundum,757
+285,0,7.7,69.0,0,2,7,0,Tetralogia de Fallot estenosis pulmonar,217
+286,0,27.0,127.0,0,2,1,0,Estenosis aortica subvalvular,2571
+286,0,27.0,127.0,0,2,1,0,PCA,2571
+287,0,9.0,78.0,1,2,5,0,Tetralogia de Fallot estenosis pulmonar,269
+288,0,18.5,113.0,0,3,13,0,Other,2219
+288,0,18.5,113.0,0,3,13,0,Doble salida del ventriculo derecho,2219
+288,0,18.5,113.0,0,3,13,0,Estenosis pulmonar mixta,2219
+288,0,18.5,113.0,0,3,13,0,Situs inversus,2219
+289,0,21.5,124.0,0,2,3,0,Comunicacion interventricular infundibular,2179
+289,0,21.5,124.0,0,2,3,0,Other,2179
+290,1,54.0,167.0,0,4,5,0,Coartacion de Aorta,5373
+290,1,54.0,167.0,0,4,5,0,Hipoplasia de arco aortico,5373
+291,0,11.8,108.0,0,2,3,0,Comunicacion interventricular membranosa,1246
+292,1,12.6,92.0,0,4,4,0,Coartacion de Aorta,799
+292,1,12.6,92.0,0,4,4,0,Hipoplasia de arco aortico,799
+292,1,12.6,92.0,0,4,4,0,CIA secundum,799
+292,1,12.6,92.0,0,4,4,0,PCA,799
+293,1,6.2,68.0,0,2,12,0,Comunicacion interventricular perimembranosa,402
+293,1,6.2,68.0,0,2,12,0,PCA,402
+294,0,14.0,100.0,1,3,9,0,Atresia pulmonar septum integro,1804
+294,0,14.0,100.0,1,3,9,0,Other,1804
+295,1,14.5,102.0,0,1,2,0,Persistencia de conducto arterioso,1801
+295,1,14.5,102.0,0,1,2,0,Other,1801
+296,0,2.6,48.0,0,4,7,0,Coartacion aortica,-132
+296,0,2.6,48.0,0,4,7,0,Hipoplasia de arco aortico,-132
+296,0,2.6,48.0,0,4,7,0,CIV muscular,-132
+297,1,6.2,68.0,1,2,6,0,Other,296
+297,1,6.2,68.0,1,2,6,0,Estenosis aortica subvalvular,296
+297,1,6.2,68.0,1,2,6,0,Other,296
+298,1,31.0,142.0,3,3,7,0,Ventriculo unico atresia tricuspidea,4683
+298,1,31.0,142.0,3,3,7,0,Other,4683
+298,1,31.0,142.0,3,3,7,0,Other,4683
+299,1,2.9,48.0,0,3,16,0,Other,2
+299,1,2.9,48.0,0,3,16,0,PCA,2
+300,1,3.0,50.0,0,3,21,0,Atresia pulmonar septum integro,29
+300,1,3.0,50.0,0,3,21,0,Other,29
+300,1,3.0,50.0,0,3,21,0,PCA,29
+301,0,48.0,147.0,0,1,1,0,Comunicacion interauricular secundum,3671
+302,1,22.8,118.0,0,2,2,0,Estenosis aortica subvalvular,2356
+303,1,11.9,86.0,0,2,8,0,Tetralogia de Fallot estenosis pulmonar,658
+304,1,6.0,63.0,0,2,11,0,Tetralogia de Fallot estenosis pumonar,166
+304,1,6.0,63.0,0,2,11,0,PCA,166
+305,0,7.0,85.0,0,2,6,0,Other,386
+305,0,7.0,85.0,0,2,6,0,Comunicacion intrventricular por malalineacion,386
+305,0,7.0,85.0,0,2,6,0,PCA,386
+306,1,15.6,100.0,0,1,1,0,Comunicacion interauricular secundum,2161
+307,0,7.2,73.0,0,1,1,0,Persistencia de conducto arterioso,479
+308,0,16.5,106.0,1,3,27,0,Other,1988
+308,0,16.5,106.0,1,3,27,0,Estenosis pulmonar,1988
+308,0,16.5,106.0,1,3,27,0,Status post-Glenn,1988
+309,1,4.3,57.0,0,3,27,1,Canal AV completo tipo A de Rastelli,187
+310,0,17.5,103.0,0,1,2,0,Comunicacion interauricular secundum,1754
+311,0,5.5,61.0,0,2,6,0,Other,185
+312,0,6.3,64.0,0,2,2,0,Comunicacion interventricular membranosa,-4
+313,1,10.0,78.0,0,1,2,0,Persistencia de conducto arterioso,347
+314,1,21.3,129.0,0,2,2,0,Comunicacion interventricular infundibular,2474
+314,1,21.3,129.0,0,2,2,0,Insuficiencia valvular aortica secundaria,2474
+316,0,15.1,104.0,0,1,3,0,Comunicacion interauricular secundum,1604
+317,0,7.7,66.0,0,2,18,0,Comunicacion interventricular membranosa,571
+317,0,7.7,66.0,0,2,18,0,Other,571
+318,0,8.1,72.0,0,2,3,0,Comunicacion interventricular membranosa,418
+318,0,8.1,72.0,0,2,3,0,PCA,418
+319,0,16.2,100.0,0,1,2,0,Comunicacion interauricular ostium secundum,1220
+319,0,16.2,100.0,0,1,2,0,Other,1220
+320,1,19.2,116.0,2,3,4,0,Ventriculo unico atresia tricuspidea,2209
+320,1,19.2,116.0,2,3,4,0,Atresia pulmonar,2209
+320,1,19.2,116.0,2,3,4,0,Status post-FBTM,2209
+320,1,19.2,116.0,2,3,4,0,Status post-Glenn,2209
+321,0,8.0,67.0,0,3,10,0,Other,351
+322,1,7.7,69.0,0,2,3,0,Other,593
+323,0,8.9,76.0,0,2,9,0,Other,849
+324,1,5.6,70.0,0,1,3,0,Persistencia de conducto arterioso,920
+325,1,6.7,68.0,1,2,26,0,Tetralogia de Fallot estenosis pulmonar,196
+325,1,6.7,68.0,1,2,26,0,Status post-FBTM,196
+326,0,24.0,140.0,0,1,3,0,Persistencia de conducto arterioso,4786
+327,0,10.5,72.0,1,2,20,0,Atresia pulmonar septum integro,296
+327,0,10.5,72.0,1,2,20,0,Other,296
+328,0,22.6,122.0,0,2,2,0,Other,2915
+329,0,13.5,103.0,0,1,2,0,Comunicacion interauricular secundum,1908
+330,0,15.8,99.0,1,3,4,0,Ventriculo unico atresia tricuspidea,1407
+330,0,15.8,99.0,1,3,4,0,Estenosis subvalvular pulmonar,1407
+330,0,15.8,99.0,1,3,4,0,Status post-Bandaje de la AP Extra INP,1407
+331,1,14.5,91.0,0,3,19,0,Canal AV completo tipo A de Rastelli,1653
+331,1,14.5,91.0,0,3,19,0,PCA,1653
+332,0,11.0,96.0,0,4,6,0,Other,963
+332,0,11.0,96.0,0,4,6,0,Coartacion,963
+332,0,11.0,96.0,0,4,6,0,Hipoplasia de arco aortico,963
+332,0,11.0,96.0,0,4,6,0,Other,963
+333,1,5.0,62.0,0,1,1,0,Persistencia de conducto arterioso,214
+334,1,7.7,83.0,0,2,4,0,Comunicacion interventricular Tipo 2 Membranosa,872
+334,1,7.7,83.0,0,2,4,0,PCA,872
+335,0,14.5,106.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,2033
+336,0,13.0,93.0,0,1,3,0,Comunicacion interauricular secundum,2066
+337,0,11.0,93.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,1230
+337,0,11.0,93.0,0,2,6,0,Other,1230
+338,0,6.5,62.0,0,2,3,0,Ventriculo unico atresia tricuspidea tipo IB,235
+338,0,6.5,62.0,0,2,3,0,CIV restrictiva,235
+339,1,16.0,113.0,2,3,8,0,Other,1965
+339,1,16.0,113.0,2,3,8,0,Other,1965
+339,1,16.0,113.0,2,3,8,0,Status post-Glenn,1965
+341,1,11.7,57.0,1,1,4,0,Other,1507
+341,1,11.7,57.0,1,1,4,0,Other,1507
+342,0,6.2,66.0,0,2,3,0,Comunicacion interventricular membranosa,276
+344,0,2.7,48.0,0,3,39,1,Other,2
+346,1,14.2,95.0,0,1,3,0,Comunicacion interauricular secundum,1737
+347,0,7.7,86.0,1,4,1,1,Atresia Pulmonar CIV,145
+347,0,7.7,86.0,1,4,1,1,Status post-FBTM,145
+348,1,21.5,114.0,1,3,8,0,Ventriculo unico atresia tricuspidea,1983
+348,1,21.5,114.0,1,3,8,0,CIA ostium secundum,1983
+348,1,21.5,114.0,1,3,8,0,Other,1983
+348,1,21.5,114.0,1,3,8,0,Status post-Glenn,1983
+349,0,3.7,52.0,0,2,146,0,Other,63
+349,0,3.7,52.0,0,2,146,0,Other,63
+349,0,3.7,52.0,0,2,146,0,Other,63
+350,1,10.0,83.0,0,3,7,0,DVSVD tipo Fallot,547
+351,1,13.3,77.0,0,2,4,0,Other,1237
+351,1,13.3,77.0,0,2,4,0,PCA,1237
+351,1,13.3,77.0,0,2,4,0,Estenosis aortica subvalvular,1237
+352,0,22.5,127.0,0,2,3,0,Comunicacion interventricular membranosa,3925
+353,1,11.1,76.0,0,2,7,0,Tetralogia de Fallot,448
+353,1,11.1,76.0,0,2,7,0,Other,448
+354,0,7.7,80.0,1,2,3,0,Ventriculo unico atresia tricuspidea,876
+354,0,7.7,80.0,1,2,3,0,Status post-Bandaje de la AP Extra INP,876
+355,1,14.0,109.0,0,1,7,0,Comunicacion interauricular secundum,3337
+356,1,3.2,52.0,0,4,5,0,Coartacion de arco aortico,-112
+356,1,3.2,52.0,0,4,5,0,Hipoplasia de arco aortico,-112
+357,1,22.3,111.0,1,3,8,0,Ventriculo unico atresia tricuspidea tipo IB,1862
+357,1,22.3,111.0,1,3,8,0,CIA amplia,1862
+357,1,22.3,111.0,1,3,8,0,CIV restrictiva,1862
+357,1,22.3,111.0,1,3,8,0,Status post-Glenn,1862
+358,0,20.0,117.0,0,1,2,0,Comunicacion interauricular secundum,1829
+359,1,14.8,108.0,2,3,8,0,Corazon univentricular,1859
+359,1,14.8,108.0,2,3,8,0,Other,1859
+359,1,14.8,108.0,2,3,8,0,Other,1859
+359,1,14.8,108.0,2,3,8,0,Other,1859
+360,1,3.5,50.0,0,6,115,0,Sindrome de corazon izquierdo hipoplasico,59
+360,1,3.5,50.0,0,6,115,0,PCA,59
+360,1,3.5,50.0,0,6,115,0,Other,59
+361,1,3.2,50.0,0,6,105,0,Sindrome de corazon izquierdo hipoplasico,31
+362,1,15.0,110.0,0,1,2,0,Comunicacion interauricular secundum,1616
+363,1,16.5,110.0,0,1,2,0,Comunicacion interauricular secundum,1521
+364,0,4.1,61.0,0,1,2,0,Persistencia de conducto arterioso,374
+365,0,3.1,50.0,0,3,24,0,Atresia pulmonar septum integro,214
+365,0,3.1,50.0,0,3,24,0,PCA,214
+366,1,14.6,90.0,0,1,4,0,Canal AV parcial,1108
+366,1,14.6,90.0,0,1,4,0,Other,1108
+366,1,14.6,90.0,0,1,4,0,CIA,1108
+367,0,8.3,86.0,0,2,3,0,Comunicacion interventricular membranosa,719
+367,0,8.3,86.0,0,2,3,0,Comunicacion interauricular secundum,719
+367,0,8.3,86.0,0,2,3,0,PCA,719
+368,1,12.4,102.0,0,2,2,0,Comunicacion interventricular membranosa,1879
+369,1,3.1,50.0,0,3,13,0,Tetralogia de Fallot estenosis pulmonar,9
+370,0,20.0,129.0,0,2,3,0,Estenosis aortica subvalvular,2789
+371,0,13.5,102.0,0,2,3,0,Comunicacion interventricular membranosa,2747
+371,0,13.5,102.0,0,2,3,0,Persistencia de conducto arterioso,2747
+372,1,11.3,87.0,0,2,2,0,Comunicacion interventricular membranosa,660
+373,0,15.7,102.0,0,1,2,0,Comunicacion interauricular secundum,1571
+374,1,8.5,80.0,0,2,3,0,Comunicacion interventricular membranosa,540
+374,1,8.5,80.0,0,2,3,0,Persistencia de conducto arterioso,540
+376,1,11.0,97.0,0,3,22,0,Atresia tricuspidea,1202
+376,1,11.0,97.0,0,3,22,0,Atresia pulmonar,1202
+377,0,5.5,61.0,0,4,5,0,Coartacion de Aorta,67
+377,0,5.5,61.0,0,4,5,0,Hipoplasia de arco aortico,67
+377,0,5.5,61.0,0,4,5,0,Other,67
+378,0,37.0,153.0,0,2,2,0,Comunicacion interventricular infundibular,4798
+379,1,6.2,65.0,0,2,10,0,Comunicacion interventricular perimembranosa,172
+380,1,12.1,94.0,0,2,2,0,Comunicacion interventricular membranosa,978
+381,1,3.6,52.0,0,3,12,0,Transposicion de grandes vasos,3
+382,1,3.2,52.0,0,6,12,1,Other,3
+383,1,17.0,108.0,1,3,5,0,Doble salida de ventriculo derecho CIV doblemente relacionada Tipo Fallot,1943
+383,1,17.0,108.0,1,3,5,0,Other,1943
+383,1,17.0,108.0,1,3,5,0,Status post-Glenn,1943
+384,1,9.3,82.0,1,2,5,0,Ventriculo unico atresia tricuspidea,654
+384,1,9.3,82.0,1,2,5,0,Status post-Bandaje de la AP,654
+385,1,17.0,107.0,1,3,6,0,Ventriculo unico atresia tricuspidea,1698
+385,1,17.0,107.0,1,3,6,0,Estenosis pulmonar valvular,1698
+385,1,17.0,107.0,1,3,6,0,CIV perimembranosa tipo 2,1698
+385,1,17.0,107.0,1,3,6,0,Status post-Glenn,1698
+387,1,11.0,95.0,0,2,3,0,Comunicacion interventricular membranosa,1101
+387,1,11.0,95.0,0,2,3,0,Persistencia de conducto arterioso,1101
+390,1,12.0,82.0,0,2,3,0,Comunicacion interventricular membranosa,803
+390,1,12.0,82.0,0,2,3,0,PCA,803
+391,1,18.2,104.0,0,1,2,0,Comunicacion interauricular secundum,1831
+392,1,10.0,83.0,0,2,2,0,Comunicacion interventricular infundibular,914
+393,0,20.6,121.0,0,1,2,0,Comunicacion interauricular secundum,2176
+394,1,13.0,95.0,0,2,7,0,Tetralogia de Fallot estenosis pulmonar,852
+395,1,6.8,65.0,1,2,5,0,Sindrome de corazon izquierdo hipoplasico,235
+395,1,6.8,65.0,1,2,5,0,Other,235
+396,1,6.7,64.0,0,2,7,0,Conexion anomala total de venas pulmonares al seno coronario,558
+397,0,12.3,93.0,0,3,3,0,Estenosis supravalvular aortica,1993
+397,0,12.3,93.0,0,3,3,0,Other,1993
+398,0,53.0,163.0,1,3,3,0,Insuficiencia mitral severa,7801
+398,0,53.0,163.0,1,3,3,0,Other,7801
+400,0,20.1,116.0,1,3,13,0,Atresia tricuspidea,2753
+400,0,20.1,116.0,1,3,13,0,Status post-Procedimiento de Glenn,2753
+401,0,9.4,76.0,0,2,2,0,Comunicacion interventricular membranosa,661
+401,0,9.4,76.0,0,2,2,0,Estenosis subaortica,661
+402,0,27.6,125.0,0,2,2,0,Comunicacion interventricular membranosa,2499
+403,0,15.6,105.0,0,2,3,0,Comunicacion interventricular membranosa,1923
+403,0,15.6,105.0,0,2,3,0,Persistencia de conducto arterioso,1923
+404,1,8.0,64.0,0,2,19,0,Conexion anomala total de venas pulmonares supracardiaca,563
+405,0,5.8,57.0,0,3,6,0,Canal AV completo balanceado tipo A rastelli,360
+406,0,5.6,59.0,0,3,28,0,Canal AV completo balanceado,244
+407,0,7.7,75.0,0,2,2,0,Comunicacion interventricular perimembranosa,1016
+407,0,7.7,75.0,0,2,2,0,PCA,1016
+408,0,9.0,76.0,0,2,2,0,Comunicacion interventricular perimembranosa,745
+408,0,9.0,76.0,0,2,2,0,PCA,745
+409,1,18.8,117.0,1,3,8,0,Ventriculo unico atresia triscupidea,2322
+409,1,18.8,117.0,1,3,8,0,Other,2322
+410,1,12.1,87.0,0,2,9,0,Tetralogia de Fallot estenosis pulmonar,814
+411,1,3.1,51.0,0,6,27,0,Sindrome de corazon izquierdo hipoplasico,5
+411,1,3.1,51.0,0,6,27,0,Other,5
+411,1,3.1,51.0,0,6,27,0,Estenosis mitral,5
+411,1,3.1,51.0,0,6,27,0,Other,5
+411,1,3.1,51.0,0,6,27,0,Other,5
+412,1,7.8,77.0,0,2,4,0,Comunicacion interventricular membranosa,335
+413,0,21.8,123.0,0,2,6,0,Tetralogia de Fallot estenosis pulmonar,2684
+414,0,23.5,127.0,0,1,2,0,Comunicacion interauricular secundum,3954
+415,1,9.6,72.0,0,2,18,0,Tetralogia de Fallot estenosis pulmonar,481
+416,1,7.6,69.0,1,2,5,0,Tetralogia de Fallot estenosis pulmonar,216
+416,1,7.6,69.0,1,2,5,0,Status post-FBTM,216
+417,1,19.0,117.0,0,2,2,0,Comunicacion interventricular infundibular,2363
+417,1,19.0,117.0,0,2,2,0,Insuficiencia valvular aortica secundaria,2363
+418,0,14.2,104.0,0,2,3,0,Comunicacion interventricular membranosa,1764
+419,0,9.2,74.0,0,2,45,0,Tetralogia de Fallot estenosis pulmonar,623
+420,1,2.3,47.0,0,4,16,1,Coartacion de Aorta,183
+420,1,2.3,47.0,0,4,16,1,Hipoplasia de arco aortico,183
+420,1,2.3,47.0,0,4,16,1,Estenosis aortica,183
+420,1,2.3,47.0,0,4,16,1,Estenosis mitral,183
+421,1,7.2,73.0,0,2,2,0,Comunicacion interventricular infundibular,362
+422,0,11.7,92.0,0,2,2,0,Other,860
+423,1,6.6,69.0,0,2,2,0,Other,387
+423,1,6.6,69.0,0,2,2,0,PCA,387
+424,1,6.2,67.0,0,2,3,0,Other,386
+424,1,6.2,67.0,0,2,3,0,Membrana subaortica no obstructiva,386
+425,0,26.4,124.0,0,1,2,0,Comunicacion interauricular secundum,3042
+426,1,9.6,69.0,0,3,11,0,Atresia pulmonar septum integro,364
+426,1,9.6,69.0,0,3,11,0,Status post-Colocacion de Stent en PCA,364
+427,1,25.1,130.0,0,2,2,0,Comunicacion interventricular infundibular,3115
+428,1,18.0,114.0,2,3,2,0,Other,2460
+428,1,18.0,114.0,2,3,2,0,Other,2460
+429,1,17.1,102.0,0,2,2,0,Comunicacion interventricular membranosa,2311
+429,1,17.1,102.0,0,2,2,0,CIA,2311
+430,1,9.6,69.0,1,0,7,0,Atresia pulmonar septum integro,434
+430,1,9.6,69.0,1,0,7,0,Status post-Colocacion de Stent en PCA,434
+430,1,9.6,69.0,1,0,7,0,Status post-FBTM,434
+431,0,12.5,95.0,0,2,12,0,Tetralogia de Fallot estenosis pulmonar,956
+432,0,9.2,74.0,1,4,16,0,Other,520
+433,0,10.4,79.0,1,2,4,0,Doble entrada al ventriculo izquierdo,587
+433,0,10.4,79.0,1,2,4,0,Status post-Bandaje de la AP,587
+434,0,14.6,108.0,1,3,23,0,Other,1748
+434,0,14.6,108.0,1,3,23,0,Other,1748
+435,1,2.8,51.0,0,3,20,0,Transposicion de grandes vasos septum integro,184
+436,1,18.0,117.0,0,2,3,0,Comunicacion interventricular membranosa,2393
+436,1,18.0,117.0,0,2,3,0,Estenosis aortica subvalvular,2393
+437,1,9.5,76.0,1,2,3,0,Comunicacion interventricular membranosa,484
+437,1,9.5,76.0,1,2,3,0,Other,484
+438,1,17.3,120.0,0,3,9,0,Other,1807
+438,1,17.3,120.0,0,3,9,0,Other,1807
+438,1,17.3,120.0,0,3,9,0,Other,1807
+440,0,9.5,76.0,0,2,5,0,Comunicacion interventricular por mala alineacion,382
+440,0,9.5,76.0,0,2,5,0,Other,382
+441,0,14.5,105.0,2,3,9,0,Ventriculo unico atresia tricuspidea,2422
+441,0,14.5,105.0,2,3,9,0,Atresia pulmonar,2422
+441,0,14.5,105.0,2,3,9,0,Other,2422
+442,0,39.8,139.0,0,1,2,0,Comunicacion interauricular,4946
+443,1,12.5,90.0,0,2,3,0,Other,1448
+443,1,12.5,90.0,0,2,3,0,Other,1448
+444,0,14.7,108.0,0,2,6,0,Estenosis aortica subvalvular,1914
+444,0,14.7,108.0,0,2,6,0,Persistencia de conducto arterioso,1914
+445,0,11.5,85.0,0,2,3,0,Comunicacion interauricular secundum,1191
+445,0,11.5,85.0,0,2,3,0,Comunicacion interventricular membranosa,1191
+446,0,8.0,73.0,0,2,3,0,Tetralogia de Fallot estenosis pulmonar,416
+447,1,11.0,92.0,0,1,2,0,Comunicacion interauricular secundum,939
+448,0,26.0,137.0,0,1,3,0,Comunicacion interauricular secundum,3771
+449,1,6.2,70.0,0,2,3,0,Comunicacion interventricular perimembranosa,633
+449,1,6.2,70.0,0,2,3,0,PCA,633
+450,0,19.2,121.0,0,1,3,0,Comunicacion interauricular secundum,2917
+451,1,5.9,65.0,0,3,7,0,Canal AV completo balanceado,314
+453,1,7.4,70.0,0,4,11,0,Coartacion de Aorta,276
+453,1,7.4,70.0,0,4,11,0,Hipoplasia de arco aortico,276
+453,1,7.4,70.0,0,4,11,0,PCA,276
+454,0,11.3,93.0,0,1,3,0,Comunicacion interauricular secundum,1298
+455,0,16.0,109.0,0,1,4,0,Comunicacion interauricular secundum,2276
+456,1,9.6,82.0,0,2,3,0,Comunicacion interventricular membranosa,682
+456,1,9.6,82.0,0,2,3,0,Persistencia de conducto arterioso,682
+457,0,7.5,76.0,0,2,5,0,Other,676
+458,0,24.3,139.0,0,1,3,0,Comunicacion interauricular secundum,4485
+459,1,3.7,56.0,0,4,10,0,Coartacion de Aorta,50
+459,1,3.7,56.0,0,4,10,0,Hipoplasia de arco aortico,50
+459,1,3.7,56.0,0,4,10,0,Other,50
+459,1,3.7,56.0,0,4,10,0,PCA,50
+460,0,11.5,84.0,0,2,3,0,Comunicacion interventricular membranosa,928
+460,0,11.5,84.0,0,2,3,0,PCA,928
+461,1,4.4,58.0,0,4,11,0,Coartacion de Aorta,-302
+461,1,4.4,58.0,0,4,11,0,Hipoplasia de arco aortico,-302
+462,0,19.4,114.0,0,1,2,0,Comunicacion interauricular secundum,1786
+463,0,4.7,62.0,0,3,23,0,Canal AV completo balanceado tipo A rastelli,358
+464,0,3.2,51.0,0,4,12,0,Coartacion de Aorta,21
+464,0,3.2,51.0,0,4,12,0,Hipoplasia de arco aortico,21
+465,0,6.7,79.0,0,1,5,0,Comunicacion interauricular secundum,1348
+466,1,2.8,48.0,0,3,38,0,Other,-260
+466,1,2.8,48.0,0,3,38,0,PCA,-260
+466,1,2.8,48.0,0,3,38,0,Other,-260
+467,0,11.6,88.0,0,2,9,0,Other,941
+467,0,11.6,88.0,0,2,9,0,PCA,941
+468,1,10.7,88.0,0,2,8,0,Tetralogia de Fallot estenosis pulmonar,904
+468,1,10.7,88.0,0,2,8,0,CIA,904
+469,0,6.6,74.0,0,1,3,0,Comunicacion interauricular secundum,500
+469,0,6.6,74.0,0,1,3,0,Persistencia de conducto arterioso,500
+470,0,8.0,66.0,0,2,4,0,Comunicacion interventricular muscular,595
+471,1,8.6,67.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,212
+471,1,8.6,67.0,0,2,5,0,PCA,212
+472,0,5.9,66.0,0,2,3,0,Comunicacion interventricular membranosa,-176
+472,0,5.9,66.0,0,2,3,0,PCA,-176
+473,1,8.9,82.0,0,2,5,0,Comunicacion interventricular membranosa por mala alineacion,481
+473,1,8.9,82.0,0,2,5,0,VCS izquierda persistente,481
+474,0,6.5,77.0,0,2,4,0,Comunicacion interventricular membranosa,381
+475,0,14.8,97.0,0,1,4,0,Comunicacion interauricular secundum,1636
+477,0,13.8,94.0,0,1,5,0,Comunicacion interauricular secundum,1587
+478,0,16.3,113.0,0,2,3,0,Comunicacion interventricular membranosa,2700
+479,0,13.0,90.0,0,2,5,0,Comunicacion interventricular membranosa,1450
+480,0,25.6,111.0,2,3,9,0,Sindrome de corazon izquierdo hipoplasico,3692
+480,0,25.6,111.0,2,3,9,0,Estenosis aortica critica,3692
+480,0,25.6,111.0,2,3,9,0,Other,3692
+480,0,25.6,111.0,2,3,9,0,Coartacion de Aorta,3692
+480,0,25.6,111.0,2,3,9,0,Other,3692
+481,0,7.3,72.0,0,2,3,0,Comunicacion interventricular membranosa,847
+481,0,7.3,72.0,0,2,3,0,CIA secundum,847
+481,0,7.3,72.0,0,2,3,0,PCA,847
+482,1,7.4,69.0,0,2,11,0,Tetralogia de Fallot estenosis pulmonar,363
+483,1,12.6,93.0,0,2,3,0,Other,929
+483,1,12.6,93.0,0,2,3,0,Other,929
+483,1,12.6,93.0,0,2,3,0,Situs inversus,929
+483,1,12.6,93.0,0,2,3,0,Other,929
+483,1,12.6,93.0,0,2,3,0,Interrupcion de vena cava inferior con continuacion a la acigos,929
+484,1,7.4,69.0,1,3,7,0,Tetralogia de Fallot estenosis pulmonar,374
+484,1,7.4,69.0,1,3,7,0,Other,374
+485,1,7.5,70.0,0,2,4,0,Comunicacion intrventricular por malalineacion,262
+486,0,12.5,107.0,0,2,6,0,Comunicacion interventricular membranosa,2702
+486,0,12.5,107.0,0,2,6,0,Other,2702
+487,1,11.0,79.0,0,3,6,0,Canal AV completo,1061
+487,1,11.0,79.0,0,3,6,0,CIA secundum,1061
+487,1,11.0,79.0,0,3,6,0,PCA,1061
+488,1,4.9,96.0,0,2,5,0,Comunicacion interventricular membranosa por mala alineacion,280
+489,1,21.0,126.0,0,2,7,0,Comunicacion interauricular secundum,3450
+489,1,21.0,126.0,0,2,7,0,Estenosis pulmonar valvular,3450
+490,1,6.9,69.0,0,1,5,0,Coartacion de Aorta,274
+491,1,13.0,92.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,1114
+491,1,13.0,92.0,0,2,5,0,PCA,1114
+492,0,15.5,104.0,1,3,8,0,Other,2056
+492,0,15.5,104.0,1,3,8,0,Status post-Glenn,2056
+493,0,25.5,128.0,1,3,6,0,Other,4114
+493,0,25.5,128.0,1,3,6,0,Status post-Glenn,4114
+494,1,25.0,120.0,1,3,5,0,Other,2583
+494,1,25.0,120.0,1,3,5,0,Other,2583
+495,1,15.8,104.0,0,1,3,0,Comunicacion interauricular secundum,1821
+496,1,3.7,54.0,0,2,9,0,Ventana aorto-pulmomar tipo III,-133
+497,0,2.7,50.0,0,3,1,1,Ventriculo unico atresia tricuspidea,5
+497,0,2.7,50.0,0,3,1,1,Atresia pulmonar,5
+498,0,7.2,70.0,0,2,4,0,Comunicacion interventricular membranosa,633
+499,0,3.0,51.0,0,2,13,0,Other,18
+500,0,8.9,86.0,0,1,3,0,Comunicacion interauricular secundum,1529
+501,0,15.1,102.0,0,2,3,0,Conexion anomala total de venas pulmonares al seno coronario,1447
+502,0,4.8,65.0,0,3,16,0,Canal AV completo,458
+503,1,12.1,87.0,0,2,3,0,Comunicacion interventricular membranosa,1731
+503,1,12.1,87.0,0,2,3,0,Estenosis aortica subvalvular,1731
+504,1,15.8,104.0,1,3,11,0,Atresia tricuspidea,2199
+504,1,15.8,104.0,1,3,11,0,Atresia pulmonar,2199
+504,1,15.8,104.0,1,3,11,0,Status post-FBTM,2199
+505,0,4.8,75.0,0,2,3,0,Other,361
+505,0,4.8,75.0,0,2,3,0,Comunicacion interventricular membranosa,361
+505,0,4.8,75.0,0,2,3,0,Persistencia de conducto arterioso,361
+506,0,10.4,79.0,0,2,5,0,Comunicacion interauricular secundum,1084
+506,0,10.4,79.0,0,2,5,0,Persistencia de conducto arterioso,1084
+507,0,10.0,86.0,0,3,6,0,Other,1083
+508,1,5.0,60.0,0,4,18,0,Other,129
+509,0,7.9,75.0,1,1,2,0,Comunicacion interauricular secundum,548
+509,0,7.9,75.0,1,1,2,0,Other,548
+510,1,2.7,49.0,0,4,18,0,Other,80
+510,1,2.7,49.0,0,4,18,0,PCA,80
+511,0,6.5,60.0,0,3,6,0,Other,302
+511,0,6.5,60.0,0,3,6,0,CIV subaortica,302
+511,0,6.5,60.0,0,3,6,0,Estenosis aortica subvalvular,302
+512,0,42.0,120.0,0,2,2,0,Comunicacion interventricular infundibular,3268
+512,0,42.0,120.0,0,2,2,0,Formane oval permeable,3268
+512,0,42.0,120.0,0,2,2,0,Persistencia de conducto arterioso,3268
+513,1,14.0,99.0,2,3,11,0,Atresia mitral,1788
+513,1,14.0,99.0,2,3,11,0,Doble salida del ventriculo derecho,1788
+513,1,14.0,99.0,2,3,11,0,Estenosis pulmonar,1788
+513,1,14.0,99.0,2,3,11,0,Other,1788
+513,1,14.0,99.0,2,3,11,0,Other,1788
+513,1,14.0,99.0,2,3,11,0,Other,1788
+514,0,16.0,104.0,0,1,2,0,Comunicacion interauricular secundum,1685
+515,0,21.0,115.0,2,3,13,0,Ventriculo unico atresia tricuspidea,2543
+515,0,21.0,115.0,2,3,13,0,Other,2543
+516,1,2.4,50.0,1,0,10,0,Other,98
+516,1,2.4,50.0,1,0,10,0,PCA,98
+516,1,2.4,50.0,1,0,10,0,Other,98
+517,0,12.0,90.0,0,2,2,0,Other,1043
+518,1,19.0,116.0,0,1,2,0,Comunicacion interauricular secundum,2427
+519,1,9.0,110.0,0,2,4,0,Tetralogia de Fallot estenosis pulmonar,790
+520,0,15.0,92.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,1251
+521,0,5.5,67.0,0,3,18,0,Canal AV completo,281
+521,0,5.5,67.0,0,3,18,0,Comunicacion interauricular ostium secundum,281
+522,0,11.5,81.0,0,2,2,0,Conexion anomala total de venas pulmonares al seno coronario,1207
+523,1,7.8,72.0,0,2,3,0,Comunicacion interventricular membranosa,611
+524,1,11.8,91.0,0,1,2,0,Comunicacion interauricular secundum,1424
+524,1,11.8,91.0,0,1,2,0,PCA,1424
+525,1,4.6,62.0,0,4,21,0,Hipoplasia de arco aortico,17
+525,1,4.6,62.0,0,4,21,0,Coartacion de arco aortico CIV,17
+526,0,7.4,65.0,0,2,26,1,Tetralogia de Fallot estenosis pulmonar,456
+527,1,5.2,64.0,0,2,3,0,Conexion anomala total de venas pulmonares supracardiaca,341
+528,0,5.0,66.0,0,2,2,0,Other,593
+528,0,5.0,66.0,0,2,2,0,Persistencia de conducto arterioso,593
+529,1,12.1,98.0,0,2,5,0,Comunicacion interventricular membranosa,2134
+530,0,5.0,66.0,1,0,10,0,Other,482
+530,0,5.0,66.0,1,0,10,0,Other,482
+530,0,5.0,66.0,1,0,10,0,Persistencia de conducto arterioso,482
+531,0,9.7,87.0,0,3,8,0,Other,1130
+531,0,9.7,87.0,0,3,8,0,CIV subaortica,1130
+531,0,9.7,87.0,0,3,8,0,Other,1130
+531,0,9.7,87.0,0,3,8,0,Estenosis aortica subvalvular,1130
+532,0,14.0,95.0,0,3,11,0,Other,1626
+532,0,14.0,95.0,0,3,11,0,Estenosis pulmonar mixta,1626
+533,1,13.2,90.0,1,2,3,0,Estenosis aortica subvalvular,1152
+533,1,13.2,90.0,1,2,3,0,Status post-TOF,1152
+533,1,13.2,90.0,1,2,3,0,Tetralogia de Fallot estenosis pumonar,1152
+533,1,13.2,90.0,1,2,3,0,PCA,1152
+534,0,3.9,58.0,0,2,4,0,Comunicacion interventricular membranosa,306
+534,0,3.9,58.0,0,2,4,0,Formane oval permeable,306
+535,0,21.0,126.0,0,2,4,0,Persistencia de conducto arterioso,4378
+535,0,21.0,126.0,0,2,4,0,Estenosis aortica subvalvular,4378
+536,0,5.3,74.0,0,2,9,0,Tetralogia de Fallot estenosis pulmonar,111
+536,0,5.3,74.0,0,2,9,0,Persistencia de conducto arterioso,111
+537,0,33.8,114.0,0,2,4,0,Comunicacion interventricular membranosa,4458
+537,0,33.8,114.0,0,2,4,0,Membrana subvalvular aortica,4458
+538,1,6.5,65.0,0,2,7,0,Comunicacion interventricular membranosa,262
+539,0,2.5,42.0,0,1,8,0,Coartacion de Aorta,140
+540,1,9.8,83.0,0,2,7,0,Other,1091
+541,1,6.6,71.0,0,2,12,0,Comunicacion interventricular por mala alineacion,387
+541,1,6.6,71.0,0,2,12,0,PCA,387
+541,1,6.6,71.0,0,2,12,0,Other,387
+541,1,6.6,71.0,0,2,12,0,Situs inversus total,387
+541,1,6.6,71.0,0,2,12,0,Other,387
+542,1,43.0,134.0,0,2,4,0,Tetralogia de Fallot estenosis pulmonar,4367
+542,1,43.0,134.0,0,2,4,0,PCA,4367
+543,1,29.0,127.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,3659
+543,1,29.0,127.0,0,2,5,0,CIA,3659
+543,1,29.0,127.0,0,2,5,0,Diverticulo pericardico,3659
+543,1,29.0,127.0,0,2,5,0,Dextroapex,3659
+543,1,29.0,127.0,0,2,5,0,Pentalogia de Cantrell,3659
+544,0,5.5,66.0,0,2,6,0,Other,771
+544,0,5.5,66.0,0,2,6,0,Other,771
+544,0,5.5,66.0,0,2,6,0,PCA,771
+544,0,5.5,66.0,0,2,6,0,Insuficiencia tricuspidea moderada,771
+545,1,29.0,127.0,1,0,39,0,Status post-TOF,3664
+545,1,29.0,127.0,1,0,39,0,CIA,3664
+545,1,29.0,127.0,1,0,39,0,Diverticulo pericardico,3664
+545,1,29.0,127.0,1,0,39,0,Dextroapex,3664
+545,1,29.0,127.0,1,0,39,0,Pentalogia de Cantrell,3664
+546,0,12.2,93.0,0,2,4,0,Other,1635
+546,0,12.2,93.0,0,2,4,0,PCA,1635
+547,1,17.2,116.0,0,3,2,0,Ventriculo unico DEVI,2594
+548,1,2.6,46.0,0,4,14,0,Coartacion de Aorta,5
+548,1,2.6,46.0,0,4,14,0,Hipoplasia de arco aortico,5
+549,1,16.3,107.0,0,3,3,0,Ventriculo unico DEVI,1651
+549,1,16.3,107.0,0,3,3,0,Other,1651
+549,1,16.3,107.0,0,3,3,0,Foramen bulboventricular no restrictivo,1651
+550,0,8.4,78.0,0,2,4,0,Comunicacion interventricular membranosa,708
+551,1,7.5,85.0,1,2,7,0,Tetralogia de Fallot estenosis pulmonar,618
+552,0,14.7,96.0,0,2,4,0,Comunicacion interventricular membranosa,1527
+552,0,14.7,96.0,0,2,4,0,CIA,1527
+552,0,14.7,96.0,0,2,4,0,PCA,1527
+553,1,13.2,87.0,0,3,7,0,Other,1394
+554,0,8.3,74.0,0,1,7,0,Comunicacion interauricular secundum,944
+554,0,8.3,74.0,0,1,7,0,Estenosis pulmonar valvular,944
+555,1,13.4,94.0,0,1,6,0,Comunicacion interauricular secundum,1114
+556,1,7.7,65.0,0,2,5,0,Comunicacion interventricular membranosa,481
+557,0,11.2,92.0,0,1,4,0,Other,1310
+558,1,29.0,127.0,2,3,23,1,Other,3500
+558,1,29.0,127.0,2,3,23,1,CIA,3500
+558,1,29.0,127.0,2,3,23,1,Diverticulo pericardico,3500
+558,1,29.0,127.0,2,3,23,1,Dextroapex,3500
+558,1,29.0,127.0,2,3,23,1,Pentalogia de Cantrell,3500
+559,0,5.5,67.0,0,2,4,0,Comunicacion interventricular membranosa con extension a la via de entrada,199
+560,0,2.9,52.0,0,4,4,0,Coartacion de Aorta,31
+560,0,2.9,52.0,0,4,4,0,Hipoplasia de arco aortico,31
+561,0,19.6,123.0,0,1,2,0,Comunicacion interauricular secundum,2822
+562,1,9.6,63.0,0,2,9,0,Comunicacion interventricular muscular con extension membranosa,677
+563,0,7.2,71.0,1,2,78,0,Canal AV completo,663
+563,0,7.2,71.0,1,2,78,0,Other,663
+563,0,7.2,71.0,1,2,78,0,Other,663
+564,0,9.1,77.0,0,2,5,0,Tetralogia de Fallot estenosis pulmonar,284
+564,0,9.1,77.0,0,2,5,0,Other,284
+565,0,24.5,131.0,0,1,3,0,Comunicacion interauricular secundum,3518
+568,0,4.1,64.0,0,2,4,0,Comunicacion interventricular membranosa,177
+568,0,4.1,64.0,0,2,4,0,PCA,177
+569,1,11.4,85.0,0,3,3,0,Canal AV parcial,1218
+570,1,19.1,107.0,1,3,20,1,Status post-Glenn,1698
+570,1,19.1,107.0,1,3,20,1,Ventriculo unico DEVI,1698
+570,1,19.1,107.0,1,3,20,1,Other,1698
+570,1,19.1,107.0,1,3,20,1,Other,1698
+571,0,6.0,69.0,0,3,15,0,Doble via de salida del VD con CIV subaortica,552
+572,0,25.2,133.0,0,1,2,0,CIA secundum,4309
+572,0,25.2,133.0,0,1,2,0,PCA,4309
+573,1,9.1,80.0,0,2,3,0,Comunicacion interventricular membranosa,955
+574,0,8.7,76.0,0,2,14,0,Comunicacion interventricular membranosa,334
+575,0,5.0,69.0,1,0,12,0,Other,274
+576,1,3.7,58.0,0,4,43,0,Coartacion de aorta con hipoplasia de arco aortico,-179
+577,0,6.5,76.0,0,1,3,0,Comunicacion interauricular secundum,711
+578,1,3.9,52.0,0,3,7,0,Ventriculo unico DEVI Inversion ventricular Transposicion de grandes vasos foramen oval permeable foramen bulboventricular no restrictivo,96
+579,0,5.49,57.0,0,0,7,0,Other,21
+580,1,7.085,75.0,0,1,1,0,Persistencia de conducto arterioso,586
+581,1,15.3,94.0,0,2,4,0,Other,2487
+581,1,15.3,94.0,0,2,4,0,Membrana subaortica,2487
+582,1,18.0,106.0,0,1,2,0,CIA tipo Ostium Secundum,2270
+583,1,14.5,103.0,0,2,3,0,Membrana subaortica,1076
+583,1,14.5,103.0,0,2,3,0,Conducto arterioso persistente,1076
+584,0,6.9,72.0,0,2,3,0,Comunicacion interventricular membranosa,120
+585,0,16.5,102.0,0,2,3,0,Comunicacion interventricular membranosa,2912
+586,0,15.0,100.0,3,2,3,0,Other,2302
+586,0,15.0,100.0,3,2,3,0,Membrana subaortica no obstructiva,2302
+587,1,12.6,96.0,0,3,5,0,Doble salida del ventriculo derecho,1589
+587,1,12.6,96.0,0,3,5,0,Estenosis pulmonar,1589
+587,1,12.6,96.0,0,3,5,0,Other,1589
+588,1,8.3,77.0,0,3,9,0,Other,541
+588,1,8.3,77.0,0,3,9,0,VCS izquierda persistente,541
+589,0,3.5,51.0,0,1,2,0,Persistencia de conducto arterioso,51
+590,1,9.3,82.0,0,2,4,0,Comunicacion interventricular membranosa,750
+590,1,9.3,82.0,0,2,4,0,Membrana subaortica,750
+590,1,9.3,82.0,0,2,4,0,PCA,750
+591,0,18.5,115.0,0,1,3,0,Comunicacion interauricular ostium secundum,2351
+592,0,9.5,76.0,0,2,16,0,Comunicacion interventricular membranosa,671
+592,0,9.5,76.0,0,2,16,0,CIA secundum,671
+592,0,9.5,76.0,0,2,16,0,PCA,671
+593,1,13.4,110.0,0,2,4,0,Comunicacion interventricular membranosa,2410
+593,1,13.4,110.0,0,2,4,0,Estenosis aortica subvalvular,2410
+594,0,12.2,80.0,0,2,3,0,Comunicacion interventricular membranosa,1515
+595,1,9.3,76.0,0,1,2,0,Coartacion de aorta yuxtaductal,753
+596,0,10.9,86.0,0,2,3,0,Membrana subvalvular aortica,1803
+596,0,10.9,86.0,0,2,3,0,Persistencia de conducto arterioso,1803
+597,1,2.9,48.0,0,4,22,0,Other,-262
+597,1,2.9,48.0,0,4,22,0,Coartacion de Aorta,-262
+597,1,2.9,48.0,0,4,22,0,Hipoplasia de arco aortico,-262
+598,1,16.5,103.0,0,4,2,0,Coartacion de Aorta,1551
+598,1,16.5,103.0,0,4,2,0,Hipoplasia de arco aortico,1551
+599,1,3.4,52.0,0,1,3,0,Coartacion de aorta yuxtaductal,93
+600,1,33.0,110.0,0,2,4,0,Comunicacion interventricular,3427
+601,0,36.6,143.0,0,2,3,0,Comunicacion interventricular membranosa,4295
+602,1,12.5,101.0,0,2,3,0,Other,1664
+602,1,12.5,101.0,0,2,3,0,CIA secundum,1664
+602,1,12.5,101.0,0,2,3,0,Hendidura mitral,1664
+603,1,6.2,64.0,0,2,2,0,Comunicacion interventricular,368
+603,1,6.2,64.0,0,2,2,0,Estenosis aortica subvalvular,368
+604,0,5.0,65.0,0,2,6,0,Comunicacion interventricular membranosa,564
+604,0,5.0,65.0,0,2,6,0,CIA,564
+604,0,5.0,65.0,0,2,6,0,PCA,564
+605,1,28.6,122.0,0,3,14,1,Other,2845
+605,1,28.6,122.0,0,3,14,1,Other,2845
+605,1,28.6,122.0,0,3,14,1,Other,2845
+606,0,5.9,69.0,0,2,3,0,Comunicacion interventricular muscular con extension membranosa,491
+607,0,9.0,76.0,0,1,2,0,Other,1099
+608,0,4.72,65.0,0,2,5,0,Other,172
+608,0,4.72,65.0,0,2,5,0,Persistencia de conducto arterioso,172
+609,1,2.47,48.0,0,3,42,0,Other,4
+609,1,2.47,48.0,0,3,42,0,Persistencia de conducto arterioso,4
+609,1,2.47,48.0,0,3,42,0,foramen oval no restrictivo,4
+610,1,5.3,65.0,0,2,6,0,Conexion anomala total de venas pulmonares al seno coronario,238
+610,1,5.3,65.0,0,2,6,0,Other,238
+611,0,16.5,102.0,0,3,3,0,Doble salida del ventriculo derecho,2262
+611,0,16.5,102.0,0,3,3,0,Other,2262
+611,0,16.5,102.0,0,3,3,0,Other,2262
+612,0,4.9,63.0,0,1,2,0,Persistencia de conducto arterioso,450
+613,1,39.1,139.0,0,1,3,0,Comunicacion interauricular secundum,4124
+614,1,32.3,137.0,0,1,4,0,Other,4171
+614,1,32.3,137.0,0,1,4,0,Conexion anomala parcial de venas pulmonares,4171
+614,1,32.3,137.0,0,1,4,0,Comunicacion interauricular ostium secundum,4171
+614,1,32.3,137.0,0,1,4,0,vena cava superior izquierda persistente,4171
+615,0,13.5,103.0,0,1,16,0,Persistencia de conducto arterioso,1899
+615,0,13.5,103.0,0,1,16,0,Other,1899
+616,1,7.1,65.0,0,2,48,0,Other,222
+616,1,7.1,65.0,0,2,48,0,Other,222
+616,1,7.1,65.0,0,2,48,0,Other,222
+616,1,7.1,65.0,0,2,48,0,Formane oval permeable,222
+616,1,7.1,65.0,0,2,48,0,Colateral aortopulmonar,222
+617,1,2.89,51.0,0,4,69,1,Other,99
+617,1,2.89,51.0,0,4,69,1,Other,99
+617,1,2.89,51.0,0,4,69,1,Atresia pulmonar,99
+617,1,2.89,51.0,0,4,69,1,Other,99
+617,1,2.89,51.0,0,4,69,1,CATVP supracardiaca,99
+617,1,2.89,51.0,0,4,69,1,PCA,99
+618,1,2.7,43.0,0,6,46,0,Atresia tricuspidea con TGA foramen bulboventricular limitrofe,19
+618,1,2.7,43.0,0,6,46,0,Coartacion de aorta con hipoplasia de arco aortico,19
+618,1,2.7,43.0,0,6,46,0,foramen oval no restrictivo,19
+619,0,4.34,52.0,0,3,19,0,Atresia tricuspidea,46
+619,0,4.34,52.0,0,3,19,0,Other,46
+619,0,4.34,52.0,0,3,19,0,Foramen bulboventricular no restrictivo,46
+619,0,4.34,52.0,0,3,19,0,PCA,46
+620,1,2.8,48.0,0,4,2,1,Other,1
+621,1,8.3,73.0,1,2,4,0,Ventriculo unico DEVI Inversion ventricular Transposicion de grandes vasos foramen oval permeable foramen bulboventricular no restrictivo,313
+622,1,8.6,72.0,0,2,3,0,Other,541
+623,1,3.1,53.0,1,2,8,1,Atresia tricuspidea con TGA foramen bulboventricular limitrofe,39
+623,1,3.1,53.0,1,2,8,1,Coartacion de aorta con hipoplasia de arco aortico,39
+623,1,3.1,53.0,1,2,8,1,foramen oval no restrictivo,39
+623,1,3.1,53.0,1,2,8,1,Other,39
+623,1,3.1,53.0,1,2,8,1,Other,39
+624,0,16.8,96.0,0,2,2,0,Other,2063
+625,1,49.4,153.0,0,2,2,0,Comunicacion interventricular membranosa,5598
+626,1,24.7,131.0,0,3,3,0,Other,2961
+627,1,14.0,104.0,1,0,5,0,Atresia pulmonar septum integro,1379
+627,1,14.0,104.0,1,0,5,0,Other,1379
+628,1,4.45,65.0,0,2,3,0,Other,503
+629,1,5.5,63.0,0,2,6,0,Tetralogia de Fallot,192
+630,1,2.46,51.0,0,2,3,0,Other,-132
+631,0,4.0,61.0,0,3,2,0,Corazon funcionalmente univentricular; Discordancia atrioventricular; Doble salida del ventriculo derecho; Ausencia de conexion atrioventricular derecha; Inversion ventricular; Vasos normalmente relacionados; Conexion anomala total de venas pulmonares al seno coronario; Vena cava superior izquierda persistente; yuxtaposicion de auriculas,213
+632,1,6.8,69.0,0,2,3,0,Other,225
+633,0,6.75,66.0,0,3,7,0,Other,359
+634,1,53.5,175.0,0,2,15,0,Other,5912
+635,1,2.85,50.0,0,4,13,1,Other,6
+636,0,4.7,62.0,0,0,3,0,Other,235
+636,0,4.7,62.0,0,0,3,0,Status post-Bandaje de la AP,235
+636,0,4.7,62.0,0,0,3,0,Corazon funcionalmente univentricular; Discordancia atrioventricular; Doble salida del ventriculo derecho; Ausencia de conexion atrioventricular derecha; Inversion ventricular; Vasos normalmente relacionados; Conexion anomala total de venas pulmonares al seno coronario; Vena cava superior izquierda persistente; yuxtaposicion de auriculas,235
+637,0,5.8,66.0,0,2,20,1,Other,217
+638,1,2.56,50.0,0,4,69,1,Conexion anomala total de venas pulmonares supracardiaca,-74
+639,0,33.0,142.0,0,2,2,0,Comunicacion interventricular,3616
+639,0,33.0,142.0,0,2,2,0,Estenosis aortica subvalvular,3616
+640,0,5.11,53.0,0,3,18,0,Other,-5
+640,0,5.11,53.0,0,3,18,0,Comunicacion interauricular ostium secundum,-5
+641,1,8.9,77.0,0,3,6,0,Estenosis supravalvular aortica,576
+641,1,8.9,77.0,0,3,6,0,Other,576
+641,1,8.9,77.0,0,3,6,0,Other,576
+642,0,2.52,49.0,0,3,59,0,Atresia pulmonar,183
+642,0,2.52,49.0,0,3,59,0,Comunicacion interventricular,183
+642,0,2.52,49.0,0,3,59,0,Other,183
+642,0,2.52,49.0,0,3,59,0,Persistencia de conducto arterioso,183
+643,1,87.0,176.0,0,0,1,0,Other,16619
+644,0,8.0,70.0,3,2,4,0,Other,395
+644,0,8.0,70.0,3,2,4,0,Other,395
+644,0,8.0,70.0,3,2,4,0,CIA,395
+644,0,8.0,70.0,3,2,4,0,Other,395
+644,0,8.0,70.0,3,2,4,0,Other,395
+645,1,6.4,70.0,0,2,3,0,Other,425
+645,1,6.4,70.0,0,2,3,0,Comunicacion interventricular,425
+645,1,6.4,70.0,0,2,3,0,Other,425
+646,0,5.18,65.0,0,3,14,0,Other,108
+647,0,23.9,115.0,0,2,6,0,Comunicacion interventricular,3483
+647,0,23.9,115.0,0,2,6,0,PCA,3483
+648,1,17.5,109.0,0,2,4,0,Conexion anomala total de venas pulmonares supracardiaca,2254
+649,1,11.8,57.0,0,2,3,0,Comunicacion interventricular membranosa,628
+650,1,13.9,103.0,0,1,3,0,Comunicacion interauricular secundum,1600
+651,0,45.5,153.0,0,1,3,0,Comunicacion interauricular secundum,5974
+652,1,17.8,105.0,0,2,4,0,Tetralogia de Fallot,1186
+653,0,8.2,79.0,0,2,3,0,Comunicacion interventricular membranosa,542
+654,0,19.6,113.0,0,2,3,0,Other,2136
+654,0,19.6,113.0,0,2,3,0,Other,2136
+654,0,19.6,113.0,0,2,3,0,Other,2136
+655,0,6.7,67.0,0,2,4,0,Comunicacion interventricular membranosa,591
+655,0,6.7,67.0,0,2,4,0,Conducto arterioso permeable,591
+656,0,11.7,87.0,0,2,17,0,Comunicacion interventricular muscular,759
+656,0,11.7,87.0,0,2,17,0,Comunicacion interauricular,759
+656,0,11.7,87.0,0,2,17,0,Conducto arterioso permeable,759
+657,0,13.7,96.0,0,2,3,0,Tetralogia de Fallot,1493
+658,1,6.2,79.0,0,2,3,0,Other,915
+658,1,6.2,79.0,0,2,3,0,Other,915
+659,0,42.65,151.0,0,1,3,0,Comunicacion interauricular tipo ostium secundum,3980
+660,1,10.5,80.0,0,2,7,0,Tetralogia de Fallot,800
+661,1,22.5,116.0,0,2,3,0,Comunicacion interventricular,3726
+661,1,22.5,116.0,0,2,3,0,Estenosis subaortica,3726
+662,1,15.9,102.0,2,3,6,0,Corazon univentricular atresia tricuspidea,1819
+662,1,15.9,102.0,2,3,6,0,PO de Glenn,1819
+662,1,15.9,102.0,2,3,6,0,Other,1819
+663,0,18.8,103.0,3,3,6,0,Other,1626
+663,0,18.8,103.0,3,3,6,0,PO de Glenn,1626
+664,1,9.7,83.0,0,3,20,0,Other,903
+664,1,9.7,83.0,0,3,20,0,Insuficiencia mitral severa,903
+665,0,15.7,97.0,0,1,4,0,CIA ostium secundum,1342
+666,0,16.5,97.0,0,1,4,0,CIA ostium secundum,1547
+667,1,8.3,71.0,0,2,16,0,Comunicacion interventricular,771
+667,1,8.3,71.0,0,2,16,0,Comunicacion interauricular,771
+667,1,8.3,71.0,0,2,16,0,Other,771
+668,1,16.2,96.0,0,3,7,0,Estenosis mitral,1305
+669,0,7.71,66.0,1,2,4,0,Atresia tricuspidea,318
+669,0,7.71,66.0,1,2,4,0,Foramen bulboventricular no restrictivo,318
+669,0,7.71,66.0,1,2,4,0,CIA parcialmente restrictiva,318
+670,0,8.3,78.0,0,3,4,0,Coartacion de Aorta,687
+670,0,8.3,78.0,0,3,4,0,Comunicacion interventricular membranosa,687
+670,0,8.3,78.0,0,3,4,0,Persistencia de conducto arterioso,687
+671,1,36.5,153.0,0,1,3,0,Comunicacion interauricular tipo ostium secundum,4668
+672,1,5.5,67.0,0,2,8,0,Comunicacion interventricular membranosa,377
+672,1,5.5,67.0,0,2,8,0,Comunicacion interauricular ostium secundum,377
+672,1,5.5,67.0,0,2,8,0,Persistencia de conducto arterioso,377
+673,0,13.8,96.0,0,2,6,0,Tetralogia de Fallot,1422
+674,1,25.7,112.0,3,3,9,0,Other,2245
+675,0,6.19,66.0,0,3,6,0,Other,274
+675,0,6.19,66.0,0,3,6,0,Persistencia de conducto arterioso,274
+676,0,2.65,51.0,0,4,28,0,Hipoplasia de arco aortico,315
+676,0,2.65,51.0,0,4,28,0,Coartacion de Aorta,315
+676,0,2.65,51.0,0,4,28,0,CIV,315
+676,0,2.65,51.0,0,4,28,0,PCA,315
+677,1,14.0,97.0,0,1,2,0,Other,1390
+677,1,14.0,97.0,0,1,2,0,PCA,1390
+678,1,8.5,73.0,0,2,10,0,Other,391
+679,0,9.5,83.0,1,3,13,0,Other,1048
+679,0,9.5,83.0,1,3,13,0,Conducto arterioso persistente muy pequeno,1048
+679,0,9.5,83.0,1,3,13,0,Comunicacion interauricular tipo ostium secundum,1048
+679,0,9.5,83.0,1,3,13,0,Other,1048
+680,0,13.0,91.0,0,3,3,0,Comunicacion interventricular perimembranosa,1855
+680,0,13.0,91.0,0,3,3,0,Other,1855
+681,0,18.6,115.0,0,2,2,0,Other,3200
+681,0,18.6,115.0,0,2,2,0,Persistencia de conducto arterioso,3200
+682,1,20.6,110.0,1,3,8,0,Other,2348
+682,1,20.6,110.0,1,3,8,0,Other,2348
+682,1,20.6,110.0,1,3,8,0,PO de Glenn,2348
+683,1,7.5,68.0,0,3,8,0,Other,426
+684,0,19.4,110.0,2,3,6,0,Doble entrada al ventriculo izquierdo,1635
+684,0,19.4,110.0,2,3,6,0,Other,1635
+684,0,19.4,110.0,2,3,6,0,Other,1635
+684,0,19.4,110.0,2,3,6,0,Other,1635
+685,0,21.0,124.0,0,1,2,0,Comunicacion interauricular ostium secundum,2707
+686,0,2.24,47.0,0,6,70,1,Other,4
+686,0,2.24,47.0,0,6,70,1,Estenosis mitral,4
+686,0,2.24,47.0,0,6,70,1,Estenosis aortica,4
+686,0,2.24,47.0,0,6,70,1,aorta ascendente y arco hipoplasicos,4
+686,0,2.24,47.0,0,6,70,1,PCA,4
+686,0,2.24,47.0,0,6,70,1,CIA no restrictiva,4
+687,1,13.6,94.0,0,2,4,0,Tetralogia de Fallot,1469
+687,1,13.6,94.0,0,2,4,0,Conducto arterioso persistente muy pequeno,1469
+688,0,2.49,44.5,0,6,38,1,Sindrome de corazon izquierdo hipoplasico,10
+688,0,2.49,44.5,0,6,38,1,Atresia aortica,10
+688,0,2.49,44.5,0,6,38,1,Atresia mitral,10
+688,0,2.49,44.5,0,6,38,1,aorta ascendente y arco hipoplasicos,10
+688,0,2.49,44.5,0,6,38,1,Coartacion de Aorta,10
+688,0,2.49,44.5,0,6,38,1,Other,10
+689,1,4.9,64.0,0,2,3,0,Conexion anomala total de venas pulmonares al seno coronario,187
+689,1,4.9,64.0,0,2,3,0,Comunicacion interauricular amplia,187
+690,1,11.3,91.0,0,4,5,0,Coartacion e hipoplasia de arco aortico,880
+690,1,11.3,91.0,0,4,5,0,Other,880
+691,0,11.5,93.0,0,1,3,0,Comunicacion interauricular ostium secundum,1617
+692,0,5.65,61.0,0,1,2,0,Coartacion aortica,263
+693,1,7.2,76.0,1,3,11,0,Other,334
+693,1,7.2,76.0,1,3,11,0,Other,334
+694,1,7.5,70.0,0,2,29,0,Tetralogia de Fallot,361
+694,1,7.5,70.0,0,2,29,0,CIA ostium secundum,361
+695,0,6.0,63.0,0,2,6,0,Comunicacion interventricular perimembranosa,310
+695,0,6.0,63.0,0,2,6,0,Comunicacion interauricular ostium secundum,310
+696,0,8.2,78.0,0,3,12,0,Canal AV completo,637
+696,0,8.2,78.0,0,3,12,0,Comunicacion interauricular ostium secundum,637
+697,1,5.7,62.0,0,2,5,0,Ventana aorto-pulmomar,299
+697,1,5.7,62.0,0,2,5,0,Comunicacion interventricular perimembranosa,299
+698,0,6.6,70.0,0,2,3,0,Comunicacion interventricular infundibular,524
+699,1,10.1,80.0,0,0,2,0,Foramen bulboventricular no restrictivo,677
+699,1,10.1,80.0,0,0,2,0,Doble entrada al ventriculo izquierdo,677
+699,1,10.1,80.0,0,0,2,0,inversion ventricular,677
+699,1,10.1,80.0,0,0,2,0,Transposicion de grandes vasos,677
+699,1,10.1,80.0,0,0,2,0,Comunicacion interventricular,677
+700,0,6.7,71.0,0,2,4,0,Comunicacion interventricular membranosa,399
+701,1,20.5,116.0,0,3,3,1,Doble entrada al ventriculo izquierdo,2549
+701,1,20.5,116.0,0,3,3,1,Other,2549
+701,1,20.5,116.0,0,3,3,1,PCA,2549
+702,1,69.0,164.0,0,2,3,0,Comunicacion interventricular perimembranosa,5211
+703,1,7.3,70.0,0,2,7,0,Tetralogia de Fallot,415
+704,0,20.6,120.0,0,2,2,0,Comunicacion interventricular membranosa,2665
+705,1,60.5,166.0,0,3,3,0,Doble salida del ventriculo derecho,4870
+706,1,10.3,80.0,0,2,4,0,Comunicacion interventricular membranosa,635
+707,1,15.3,106.0,2,3,48,1,Sindrome de corazon izquierdo hipoplasico,1724
+707,1,15.3,106.0,2,3,48,1,arco aortico derecho PO Norwood,1724
+707,1,15.3,106.0,2,3,48,1,PO de Glenn,1724
+708,1,5.7,63.0,0,2,6,0,Comunicacion interventricular membranosa por mala alineacion,240
+708,1,5.7,63.0,0,2,6,0,Membrana subaortica no obstructiva,240
+709,0,9.7,86.0,0,2,3,0,Atresia tricuspidea,1278
+709,0,9.7,86.0,0,2,3,0,Estenosis pulmonar,1278
+710,0,12.3,91.0,0,1,2,0,Comunicacion interauricular ostium secundum,903
+711,0,13.8,107.0,0,2,2,0,Conexion anomala total de venas pulmonares supracardiaca,1760
+712,1,15.3,106.0,2,0,48,0,Sindrome de corazon izquierdo hipoplasico,1758
+712,1,15.3,106.0,2,0,48,0,arco aortico derecho PO Norwood,1758
+712,1,15.3,106.0,2,0,48,0,PO de Glenn,1758
+713,0,11.3,94.0,0,3,7,0,Doble salida de ventriculo derecho con CIV subaortica,992
+713,0,11.3,94.0,0,3,7,0,CIA ostium secundum,992
+713,0,11.3,94.0,0,3,7,0,PCA,992
+714,0,11.3,94.0,0,0,3,0,Doble salida de ventriculo derecho con CIV subaortica,996
+714,0,11.3,94.0,0,0,3,0,CIA ostium secundum,996
+714,0,11.3,94.0,0,0,3,0,PCA,996
+714,0,11.3,94.0,0,0,3,0,Other,996
+714,0,11.3,94.0,0,0,3,0,CIV residual,996
+715,0,6.5,67.0,0,2,3,0,Cominicacion interventricular de la via de entrada,352
+715,0,6.5,67.0,0,2,3,0,PCA,352
+716,1,9.3,78.0,0,2,2,0,Atresia tricuspidea,661
+717,0,6.0,72.0,1,2,4,0,Corazon univentricular,557
+717,0,6.0,72.0,1,2,4,0,Other,557
+717,0,6.0,72.0,1,2,4,0,inversion ventricular,557
+717,0,6.0,72.0,1,2,4,0,Doble salida de VD,557
+717,0,6.0,72.0,1,2,4,0,Other,557
+717,0,6.0,72.0,1,2,4,0,Other,557
+717,0,6.0,72.0,1,2,4,0,doble vena cava superior,557
+718,1,18.7,104.0,2,2,3,0,Atresia pulmonar septum integro,1648
+718,1,18.7,104.0,2,2,3,0,Other,1648
+718,1,18.7,104.0,2,2,3,0,Other,1648
+719,1,3.5,41.0,0,4,9,0,Coartacion de Aorta,-25
+719,1,3.5,41.0,0,4,9,0,Persistencia de conducto arterioso,-25
+720,1,6.33,62.0,0,2,14,0,Atresia pulmonar septum integro,150
+720,1,6.33,62.0,0,2,14,0,Estenosis del origen de la rama pulmonar izquierda con hipoplasia difusa,150
+720,1,6.33,62.0,0,2,14,0,Estado post colocacion de stent intraductal en etapa neonatal,150
+721,0,4.4,59.0,0,4,9,0,Transposicion de grandes arterias,-45
+721,0,4.4,59.0,0,4,9,0,Other,-45
+722,1,6.33,62.0,1,0,11,0,Atresia pulmonar septum integro,152
+722,1,6.33,62.0,1,0,11,0,Estenosis del origen de la rama pulmonar izquierda con hipoplasia difusa,152
+722,1,6.33,62.0,1,0,11,0,Estado post colocacion de stent intraductal en etapa neonatal,152
+723,1,11.76,79.0,0,2,9,0,Tetralogia de Fallot,807
+724,1,9.2,79.0,0,2,20,0,Tetralogia de Fallot,312
+725,0,17.8,121.0,0,2,2,0,Comunicacion interventricular infundibular,3278
+726,1,8.15,82.0,0,2,3,0,Comunicacion interventricular membranosa con extension a la via de entrada,597
+727,1,17.5,119.0,0,2,11,0,Tetralogia de Fallot,2368
+727,1,17.5,119.0,0,2,11,0,Other,2368
+727,1,17.5,119.0,0,2,11,0,Other,2368
+728,1,16.0,104.0,0,3,9,0,Other,1099
+728,1,16.0,104.0,0,3,9,0,Other,1099
+728,1,16.0,104.0,0,3,9,0,Other,1099
+728,1,16.0,104.0,0,3,9,0,Insuficiencia tricuspidea moderada,1099
+728,1,16.0,104.0,0,3,9,0,Situs inversus total,1099
+729,0,8.7,72.0,0,2,4,0,Tetralogia de Fallot,365
+730,0,23.4,123.0,2,3,7,0,Corazon univentricular,2142
+730,0,23.4,123.0,2,3,7,0,Other,2142
+730,0,23.4,123.0,2,3,7,0,Other,2142
+730,0,23.4,123.0,2,3,7,0,Other,2142
+730,0,23.4,123.0,2,3,7,0,Other,2142
+730,0,23.4,123.0,2,3,7,0,Other,2142
+731,0,7.8,74.0,0,2,2,0,Comunicacion interventricular perimembranosa,385
+732,0,40.5,157.0,0,1,4,0,Comunicacion interauricular ostium secundum,6205
+733,1,7.8,76.0,0,3,5,0,Cominicacion interventricular de la via de entrada,628
+733,1,7.8,76.0,0,3,5,0,CIA ostium secundum,628
+733,1,7.8,76.0,0,3,5,0,Hendidura mitral,628
+734,0,5.9,64.0,0,1,2,0,Comunicacion interauricular ostium secundum,180
+735,0,18.5,105.0,0,2,2,0,Comunicacion interventricular perimembranosa,1615
+736,0,7.9,67.0,0,3,4,0,Comunicacion interventricular perimembranosa,403
+736,0,7.9,67.0,0,3,4,0,Insuficiencia tricuspidea moderada,403
+736,0,7.9,67.0,0,3,4,0,vena cava superior izquierda persistente,403
+737,0,10.7,85.0,0,2,2,0,Other,642
+737,0,10.7,85.0,0,2,2,0,Other,642
+737,0,10.7,85.0,0,2,2,0,Membrana subaortica,642
+738,0,9.5,82.0,0,2,6,0,Comunicacion interventricular perimembranosa,741
+738,0,9.5,82.0,0,2,6,0,PCA,741
+739,1,8.8,92.0,0,2,5,0,Comunicacion interventricular,587
+740,0,6.8,71.0,0,2,1,0,Estenosis aortica subvalvular,908
+740,0,6.8,71.0,0,2,1,0,PCA,908
+741,0,25.9,112.0,0,1,1,0,Comunicacion interauricular ostium secundum,2316
+742,0,15.6,110.0,0,1,2,0,Comunicacion interauricular ostium secundum,2176
+743,0,2.78,41.0,0,4,75,0,Other,106
+743,0,2.78,41.0,0,4,75,0,Other,106
+743,0,2.78,41.0,0,4,75,0,Other,106
+743,0,2.78,41.0,0,4,75,0,Other,106
+743,0,2.78,41.0,0,4,75,0,Coartacion e hipoplasia de arco aortico,106
+743,0,2.78,41.0,0,4,75,0,PCA grande,106
+744,1,32.5,125.0,0,2,3,0,Other,4118
+744,1,32.5,125.0,0,2,3,0,Other,4118
+744,1,32.5,125.0,0,2,3,0,PCA,4118
+745,0,25.8,131.0,0,1,2,0,Comunicacion interauricular amplia,3351
+746,1,15.8,103.0,0,3,4,0,Other,2564
+746,1,15.8,103.0,0,3,4,0,Other,2564
+747,0,11.9,88.0,1,2,3,0,Doble salida del ventriculo derecho,1272
+747,0,11.9,88.0,1,2,3,0,Estenosis pulmonar,1272
+747,0,11.9,88.0,1,2,3,0,Other,1272
+748,1,8.8,85.0,0,1,2,0,Comunicacion interauricular ostium secundum,1471
+749,1,10.1,83.0,0,2,3,0,Other,1088
+749,1,10.1,83.0,0,2,3,0,Comunicacion interventricular membranosa,1088
+750,0,11.9,79.0,0,3,213,0,Tetralogia de Fallot,570
+750,0,11.9,79.0,0,3,213,0,Persistencia de conducto arterioso,570
+751,1,5.5,67.0,0,2,21,0,Comunicacion interventricular membranosa,754
+751,1,5.5,67.0,0,2,21,0,Persistencia de conducto arterioso,754
+752,0,28.0,142.0,0,2,2,0,Comunicacion interventricular membranosa con extension a la via de entrada,5227
+753,1,56.0,170.0,1,3,2,0,Insuficiencia aortica severa,7873
+753,1,56.0,170.0,1,3,2,0,Other,7873
+753,1,56.0,170.0,1,3,2,0,Other,7873
+754,0,34.5,145.0,2,3,6,0,Other,3975
+754,0,34.5,145.0,2,3,6,0,Other,3975
+754,0,34.5,145.0,2,3,6,0,Other,3975
+754,0,34.5,145.0,2,3,6,0,Other,3975
+755,1,22.0,120.0,0,2,3,0,Tetralogia de Fallot,3058
+756,0,11.8,85.0,0,1,1,0,Persistencia de conducto arterioso,1087
+757,0,10.7,83.0,1,3,3,0,Other,1609
+757,0,10.7,83.0,1,3,3,0,Other,1609
+757,0,10.7,83.0,1,3,3,0,Other,1609
+758,1,10.0,76.0,0,2,3,0,Tetralogia de Fallot,756
+758,1,10.0,76.0,0,2,3,0,Other,756
+759,1,3.4,51.0,0,4,20,0,Coartacion aortica,59
+759,1,3.4,51.0,0,4,20,0,Hipoplasia de arco aortico,59
+759,1,3.4,51.0,0,4,20,0,Persistencia de conducto arterioso,59
+760,0,9.1,79.0,0,2,9,0,CIV perimembranosa,1211
+760,0,9.1,79.0,0,2,9,0,Membrana subaortica,1211
+761,1,8.3,72.0,0,1,2,0,Coartacion de aorta yuxtaductal,554
+762,0,35.4,144.0,0,1,2,0,Other,3750
+762,0,35.4,144.0,0,1,2,0,Other,3750
+763,0,6.2,70.0,0,2,5,0,Comunicacion interventricular perimembranosa,369
+763,0,6.2,70.0,0,2,5,0,Persistencia de conducto arterioso,369
+764,1,6.0,69.0,0,2,5,0,Ventana aorto-pulmomar tipo III,368
+764,1,6.0,69.0,0,2,5,0,Estenosis aortica subvalvular,368
+765,1,8.6,70.0,0,4,3,0,Hipoplasia de arco aortico,327
+765,1,8.6,70.0,0,4,3,0,Coartacion de Aorta,327
+766,0,4.5,63.0,0,2,2,0,Comunicacion interventricular perimembranosa,300
+766,0,4.5,63.0,0,2,2,0,Formane oval permeable,300
+767,1,18.0,107.0,0,2,4,0,Tetralogia de Fallot,1919
+768,1,43.0,162.0,1,2,2,0,Other,6082
+768,1,43.0,162.0,1,2,2,0,Other,6082
+769,1,3.1,48.0,0,6,173,0,Sindrome de corazon izquierdo hipoplasico,-144
+769,1,3.1,48.0,0,6,173,0,Atresia mitral,-144
+769,1,3.1,48.0,0,6,173,0,Other,-144
+769,1,3.1,48.0,0,6,173,0,Doble salida del ventriculo derecho,-144
+769,1,3.1,48.0,0,6,173,0,CIV,-144
+769,1,3.1,48.0,0,6,173,0,Estenosis aortica,-144
+769,1,3.1,48.0,0,6,173,0,Estenosis subaortica,-144
+769,1,3.1,48.0,0,6,173,0,Other,-144
+769,1,3.1,48.0,0,6,173,0,Other,-144
+769,1,3.1,48.0,0,6,173,0,Coartacion aortica,-144
+769,1,3.1,48.0,0,6,173,0,CIA parcialmente restrictiva,-144
+769,1,3.1,48.0,0,6,173,0,Other,-144
+770,1,20.5,125.0,1,1,2,0,Other,2717
+771,1,27.5,109.0,0,1,2,0,Other,2362
+771,1,27.5,109.0,0,1,2,0,Conexion anomala parcial de venas pulmonares,2362
+772,0,7.5,70.0,0,3,4,0,Canal AV completo balanceado,556
+772,0,7.5,70.0,0,3,4,0,Persistencia de conducto arterioso,556
+772,0,7.5,70.0,0,3,4,0,Other,556
+773,0,7.2,71.5,0,2,3,0,Other,336
+773,0,7.2,71.5,0,2,3,0,Doble camara del Ventriculo Derecho,336
+773,0,7.2,71.5,0,2,3,0,Other,336
+774,1,8.8,79.0,0,3,-357,0,Canal AV completo balanceado tipo A rastelli,901
+775,0,15.5,96.0,0,1,2,0,Comunicacion interauricular ostium secundum,1700
+776,1,8.6,79.0,1,0,26,1,Canal AV completo,993
+776,1,8.6,79.0,1,0,26,1,Other,993
+776,1,8.6,79.0,1,0,26,1,CIV residual,993
+777,0,19.3,117.0,0,1,1,0,Comunicacion interauricular ostium secundum,2399
+778,1,3.8,54.0,0,2,9,0,Conexion anomala total de venas pulmonares supracardiaca,-19
+779,1,14.0,96.0,0,2,4,0,Tetralogia de Fallot,1372
+780,1,7.4,80.0,1,2,10,0,Tetralogia de Fallot,1629
+780,1,7.4,80.0,1,2,10,0,Other,1629
+780,1,7.4,80.0,1,2,10,0,Other,1629
+781,0,25.1,120.0,0,2,2,0,Comunicacion interventricular membranosa,2838
+781,0,25.1,120.0,0,2,2,0,Persistencia de conducto arterioso,2838
+781,0,25.1,120.0,0,2,2,0,Membrana subvalvular aortica,2838
+782,1,17.5,107.0,0,2,2,0,Comunicacion interventricular membranosa,2269
+782,1,17.5,107.0,0,2,2,0,Membrana subaortica,2269
+783,0,5.8,61.0,0,3,16,0,Canal AV completo balanceado tipo A rastelli,361
+783,0,5.8,61.0,0,3,16,0,Conducto arterioso persistente,361
+783,0,5.8,61.0,0,3,16,0,Other,361
+783,0,5.8,61.0,0,3,16,0,Other,361
+784,0,8.5,82.0,0,2,2,0,Comunicacion interventricular muscular con extension membranosa,976
+784,0,8.5,82.0,0,2,2,0,Comunicacion interauricular ostium secundum,976
+785,1,51.5,154.0,0,2,3,0,Other,4553
+786,1,9.3,79.0,0,4,5,0,Atresia pulmonar,989
+786,1,9.3,79.0,0,4,5,0,Comunicacion interventricular,989
+787,1,12.1,93.0,0,2,3,0,Comunicacion interventricular membranosa,1814
+787,1,12.1,93.0,0,2,3,0,Conducto arterioso persistente,1814
+788,1,34.0,148.0,0,2,2,0,Comunicacion interventricular membranosa,4421
+788,1,34.0,148.0,0,2,2,0,Membrana subvalvular aortica,4421
+789,1,9.5,83.0,0,2,2,0,Conducto arterioso permeable,880
+789,1,9.5,83.0,0,2,2,0,Membrana subaortica,880
+789,1,9.5,83.0,0,2,2,0,Other,880
+790,0,16.2,111.0,0,2,2,0,Comunicacion interventricular perimembranosa,2529
+790,0,16.2,111.0,0,2,2,0,Persistencia de conducto arterioso,2529
+790,0,16.2,111.0,0,2,2,0,Estenosis subaortica,2529
+790,0,16.2,111.0,0,2,2,0,vena cava superior izquierda persistente,2529
+791,1,12.0,98.0,0,1,1,0,Conducto arterioso permeable,1436
+792,1,11.0,84.0,0,2,2,0,Comunicacion interventricular perimembranosa,792
+793,1,21.5,120.0,0,1,4,0,Comunicacion interauricular ostium secundum,2357
+794,0,7.4,70.0,0,2,4,0,Conexion anomala total de venas pulmonares supracardiaca,427
+794,0,7.4,70.0,0,2,4,0,Other,427
+795,0,11.0,84.0,0,2,2,0,Comunicacion interventricular membranosa,1137
+795,0,11.0,84.0,0,2,2,0,Conducto arterioso persistente,1137
+796,0,13.8,91.0,0,1,7,0,Coartacion de aorta yuxtaductal,1109
+796,0,13.8,91.0,0,1,7,0,Conducto arterioso permeable,1109
+797,1,13.4,96.0,0,3,1,0,Comunicacion interventricular membranosa,968
+797,1,13.4,96.0,0,3,1,0,Insuficiencia tricuspidea moderada,968
+798,0,7.4,74.0,0,4,14,0,Other,420
+798,0,7.4,74.0,0,4,14,0,Interrupcion de arco aortico tipo A,420
+798,0,7.4,74.0,0,4,14,0,Other,420
+798,0,7.4,74.0,0,4,14,0,Other,420
+798,0,7.4,74.0,0,4,14,0,Estenosis subaortica,420
+799,0,6.4,65.0,0,2,2,0,Comunicacion interventricular membranosa,179
+800,0,18.0,102.0,0,2,3,0,Comunicacion interventricular perimembranosa,1713
+801,1,19.0,110.0,0,2,2,0,Comunicacion interventricular perimembranosa,2660
+801,1,19.0,110.0,0,2,2,0,Doble camara del Ventriculo Derecho,2660
+801,1,19.0,110.0,0,2,2,0,Estenosis subaortica,2660
+802,1,12.5,88.0,1,3,3,1,Canal AV completo tipo A de Rastelli,1392
+802,1,12.5,88.0,1,3,3,1,Other,1392
+802,1,12.5,88.0,1,3,3,1,Other,1392
+802,1,12.5,88.0,1,3,3,1,Other,1392
+803,0,11.5,97.0,1,2,8,0,Comunicacion interventricular perimembranosa,1136
+803,0,11.5,97.0,1,2,8,0,Other,1136
+804,0,11.7,90.0,0,2,2,0,Comunicacion interventricular membranosa,1297
+804,0,11.7,90.0,0,2,2,0,Persistencia de conducto arterioso,1297
+804,0,11.7,90.0,0,2,2,0,Membrana subvalvular aortica,1297
+805,1,18.0,110.0,1,3,6,0,Doble salida de ventriculo derecho tipo Fallot,1367
+805,1,18.0,110.0,1,3,6,0,PO de Fistula sistemica pulmonar,1367
+806,1,22.5,118.0,0,2,1,0,Comunicacion interventricular infundibular,2765
+806,1,22.5,118.0,0,2,1,0,Other,2765
+807,1,8.0,71.0,0,2,2,0,Other,306
+807,1,8.0,71.0,0,2,2,0,Estenosis pulmonar,306
+808,1,9.0,75.0,0,2,3,0,Comunicacion interventricular membranosa con extension a la via de entrada,819
+809,1,17.0,104.0,0,2,362,0,CIV perimembranosa,3470
+809,1,17.0,104.0,0,2,362,0,Persistencia de conducto arterioso,3470
+810,0,10.0,85.0,0,2,3,0,Comunicacion interauricular secundum,943
+810,0,10.0,85.0,0,2,3,0,Other,943
+811,1,17.0,106.0,0,2,2,0,Comunicacion interventricular perimembranosa,1987
+812,0,10.3,87.0,0,4,3,0,Coartacion de Aorta,900
+812,0,10.3,87.0,0,4,3,0,Other,900
+813,1,15.8,102.0,0,2,2,0,Comunicacion interventricular infundibular,1940
+813,1,15.8,102.0,0,2,2,0,Membrana subaortica,1940
+814,0,7.7,74.0,0,3,7,0,Other,532
+814,0,7.7,74.0,0,3,7,0,Other,532
+815,1,30.3,129.0,0,1,1,0,Comunicacion interauricular ostium secundum,3641
+816,1,10.9,81.0,1,2,4,0,Other,762
+816,1,10.9,81.0,1,2,4,0,Other,762
+817,1,6.5,63.0,1,2,-44196,0,Other,-86
+817,1,6.5,63.0,1,2,-44196,0,Atresia mitral,-86
+817,1,6.5,63.0,1,2,-44196,0,Doble salida del ventriculo derecho,-86
+817,1,6.5,63.0,1,2,-44196,0,Other,-86
+817,1,6.5,63.0,1,2,-44196,0,Hipoplasia de arco aortico,-86
+817,1,6.5,63.0,1,2,-44196,0,Coartacion aortica,-86
+817,1,6.5,63.0,1,2,-44196,0,Other,-86
+817,1,6.5,63.0,1,2,-44196,0,Other,-86
+818,1,5.2,64.0,0,2,12,0,Other,211
+818,1,5.2,64.0,0,2,12,0,Other,211
+819,1,5.8,67.0,0,4,6,0,Other,323
+819,1,5.8,67.0,0,4,6,0,Other,323
+820,0,7.2,74.0,0,2,2,0,Comunicacion interventricular perimembranosa,674
+821,1,10.3,79.0,0,2,4,0,Other,512
+821,1,10.3,79.0,0,2,4,0,Foramen bulboventricular no restrictivo,512
+821,1,10.3,79.0,0,2,4,0,Other,512
+821,1,10.3,79.0,0,2,4,0,Other,512
+822,1,15.2,104.0,0,2,2,0,Comunicacion interventricular membranosa con extension a la via de entrada,1542
+823,0,17.0,114.0,2,3,-44218,0,Atresia pulmonar septum integro,1940
+823,0,17.0,114.0,2,3,-44218,0,Other,1940
+823,0,17.0,114.0,2,3,-44218,0,Other,1940
+823,0,17.0,114.0,2,3,-44218,0,Other,1940
+824,1,5.6,62.5,0,3,14,0,Other,373
+824,1,5.6,62.5,0,3,14,0,Other,373
+824,1,5.6,62.5,0,3,14,0,Other,373
+824,1,5.6,62.5,0,3,14,0,Other,373
+824,1,5.6,62.5,0,3,14,0,Other,373
+824,1,5.6,62.5,0,3,14,0,Other,373
+825,1,2.3,48.0,0,4,2,1,Conexion anomala total de venas pulmonares al seno coronario,219
+825,1,2.3,48.0,0,4,2,1,Other,219
+825,1,2.3,48.0,0,4,2,1,Other,219
+826,1,19.5,130.0,0,2,4,0,Tetralogia de Fallot,4046
+826,1,19.5,130.0,0,2,4,0,Other,4046
+826,1,19.5,130.0,0,2,4,0,Estenosis subvalvular pulmonar,4046
+826,1,19.5,130.0,0,2,4,0,Other,4046
+827,1,9.5,68.0,0,2,6,0,Other,397
+827,1,9.5,68.0,0,2,6,0,Other,397
+827,1,9.5,68.0,0,2,6,0,Doble salida de VD,397
+827,1,9.5,68.0,0,2,6,0,Other,397
+827,1,9.5,68.0,0,2,6,0,Other,397
+827,1,9.5,68.0,0,2,6,0,Other,397
+828,0,8.2,77.0,0,1,3,0,Other,711
+829,1,8.0,77.0,0,2,7,0,Conexion anomala total de venas pulmonares al seno coronario,463
+829,1,8.0,77.0,0,2,7,0,CIA no restrictiva,463
+830,1,8.7,73.0,0,2,22,0,Other,533
+831,0,1.08,41.0,0,0,59,0,Conducto arterioso permeable,43
+832,0,4.9,56.0,0,6,3,1,Atresia aortica,128
+832,0,4.9,56.0,0,6,3,1,Other,128
+832,0,4.9,56.0,0,6,3,1,Coartacion de Aorta,128
+832,0,4.9,56.0,0,6,3,1,Comunicacion interventricular,128
+833,1,13.0,95.0,0,1,4,0,Other,1510
+833,1,13.0,95.0,0,1,4,0,Conexion anomala parcial de venas pulmonares,1510
+834,0,5.5,64.0,0,2,40,1,Other,702
+835,1,12.0,100.0,0,3,7,0,Other,1634
+836,1,4.0,55.0,0,2,6,0,Other,313
+836,1,4.0,55.0,0,2,6,0,Other,313
+837,0,6.9,70.0,0,3,24,0,Ventriculo izquierdo no compactado,451
+837,0,6.9,70.0,0,3,24,0,Insuficiencia mitral severa,451
+837,0,6.9,70.0,0,3,24,0,Hipertension pulmonar severa,451
+837,0,6.9,70.0,0,3,24,0,Other,451
+837,0,6.9,70.0,0,3,24,0,Other,451
+837,0,6.9,70.0,0,3,24,0,Other,451
+837,0,6.9,70.0,0,3,24,0,Other,451
+838,1,4.4,54.0,0,3,17,0,Other,105
+839,0,14.5,110.0,0,2,4,0,Comunicacion interventricular perimembranosa,2572
+840,1,6.0,59.0,1,2,12,0,Other,273
+840,1,6.0,59.0,1,2,12,0,Conexion anomala parcial de venas pulmonares,273
+840,1,6.0,59.0,1,2,12,0,doble vena cava superior,273
+840,1,6.0,59.0,1,2,12,0,Other,273
+840,1,6.0,59.0,1,2,12,0,Other,273
+840,1,6.0,59.0,1,2,12,0,Other,273
+840,1,6.0,59.0,1,2,12,0,Other,273
+841,0,8.0,74.0,1,2,12,0,Dextrocardia,727
+841,0,8.0,74.0,1,2,12,0,Other,727
+841,0,8.0,74.0,1,2,12,0,Conexion anomala parcial de venas pulmonares,727
+841,0,8.0,74.0,1,2,12,0,Other,727
+841,0,8.0,74.0,1,2,12,0,Other,727
+842,1,5.4,57.0,0,1,7,0,Conexion anomala parcial de venas pulmonares,542
+842,1,5.4,57.0,0,1,7,0,Other,542
+843,1,7.0,65.0,1,3,7,0,Atresia Pulmonar CIV,794
+843,1,7.0,65.0,1,3,7,0,Other,794
+844,0,4.6,56.0,0,3,39,0,Other,81
+844,0,4.6,56.0,0,3,39,0,CATVP supracardiaca,81
+845,0,2.6,50.8,0,4,56,0,Other,5
+845,0,2.6,50.8,0,4,56,0,foramen oval no restrictivo,5
+846,1,6.2,62.0,0,2,16,0,Other,125
+847,0,2.6,45.0,0,4,49,0,Interrupcion de arco aortico tipo B,10
+847,0,2.6,45.0,0,4,49,0,Comunicacion interventricular,10
+847,0,2.6,45.0,0,4,49,0,Persistencia de conducto arterioso,10
+848,0,2.8,51.0,0,4,13,0,Coartacion aortica,-129
+848,0,2.8,51.0,0,4,13,0,Hipoplasia de arco aortico,-129
+849,1,1.3,37.0,0,0,50,0,Other,18
+849,1,1.3,37.0,0,0,50,0,Other,18
+850,1,3.3,51.0,0,5,34,0,Other,104
+850,1,3.3,51.0,0,5,34,0,Interrupcion de arco aortico tipo A,104
+850,1,3.3,51.0,0,5,34,0,Comunicacion interventricular,104
+850,1,3.3,51.0,0,5,34,0,Formane oval permeable,104
+851,0,10.0,71.0,0,2,5,0,Other,399
+852,0,3.4,52.0,0,3,100,1,Other,262
+853,1,5.7,62.0,0,3,5,0,Other,284
+854,0,11.0,84.0,1,2,5,0,Other,674
+855,1,3.0,50.0,0,4,68,0,Conexion anomala total de venas pulmonares infracardiaca,7
+856,1,15.0,103.0,0,3,9,0,heterotaxia,970
+856,1,15.0,103.0,0,3,9,0,Other,970
+857,1,3.7,51.0,0,3,1,1,Other,-60
+857,1,3.7,51.0,0,3,1,1,Other,-60
+857,1,3.7,51.0,0,3,1,1,Other,-60
+857,1,3.7,51.0,0,3,1,1,Comunicacion interventricular restrictiva,-60
+857,1,3.7,51.0,0,3,1,1,Other,-60
+857,1,3.7,51.0,0,3,1,1,Conexion anomala total de venas pulmonares supracardiacas,-60
+857,1,3.7,51.0,0,3,1,1,Other,-60
+858,0,18.0,116.0,1,3,40,0,Insuficiencia aortica severa,2904
+858,0,18.0,116.0,1,3,40,0,Other,2904
+858,0,18.0,116.0,1,3,40,0,Other,2904
+860,1,3.3,54.0,0,1,23,0,CIA tipo Ostium Secundum,331
+860,1,3.3,54.0,0,1,23,0,PCA grande,331
+860,1,3.3,54.0,0,1,23,0,Other,331
+860,1,3.3,54.0,0,1,23,0,Other,331
+861,0,4.8,55.0,0,1,3,0,Coartacion aortica yuxtaductal,104
+861,0,4.8,55.0,0,1,3,0,CIV muscular,104
+862,1,9.3,80.0,0,2,7,0,Tetralogia de Fallot,871
+862,1,9.3,80.0,0,2,7,0,Colateral aortopulmonar,871
+863,1,8.0,70.0,0,2,4,0,CIV,743
+863,1,8.0,70.0,0,2,4,0,Conducto arterioso persistente,743
+864,0,3.0,55.0,0,3,31,0,Other,64
+864,0,3.0,55.0,0,3,31,0,Atresia pulmonar,64
+865,0,22.5,118.0,4,0,6,0,Doble entrada al ventriculo izquierdo,2683
+865,0,22.5,118.0,4,0,6,0,Discordancia ventriculoarteriales,2683
+865,0,22.5,118.0,4,0,6,0,Comunicacion interventricular restrictiva,2683
+866,0,4.4,64.0,1,3,14,0,Other,349
+867,1,13.4,103.0,1,3,7,0,Other,1538
+867,1,13.4,103.0,1,3,7,0,Other,1538
+868,0,5.3,65.0,0,3,6,0,Other,304
+869,0,7.3,75.0,0,2,3,0,Other,767
+869,0,7.3,75.0,0,2,3,0,Other,767
+869,0,7.3,75.0,0,2,3,0,Other,767
+870,1,6.5,70.0,0,2,3,0,Other,495
+871,0,4.2,55.0,0,4,21,0,Other,90
+872,0,5.6,62.0,0,2,9,0,Conexion Anomala Total de Venas Pulmonares variedad Supracardiaca,198
+872,0,5.6,62.0,0,2,9,0,CIA amplia,198
+873,1,8.1,78.0,0,2,3,0,Other,582
+874,0,7.8,70.0,0,2,4,0,Other,537
+874,0,7.8,70.0,0,2,4,0,Other,537
+875,1,29.5,136.0,0,1,4,0,Comunicacion interauricular,2598
+875,1,29.5,136.0,0,1,4,0,Persistencia de conducto arterioso,2598
+876,0,51.0,154.0,0,2,8,0,Tetralogia de Fallot,5776
+877,1,12.5,97.0,0,1,3,0,Other,1609
+878,1,3.2,53.0,0,3,30,0,Other,173
+878,1,3.2,53.0,0,3,30,0,CIA parcialmente restrictiva,173
+878,1,3.2,53.0,0,3,30,0,Other,173
+878,1,3.2,53.0,0,3,30,0,PCA,173
+878,1,3.2,53.0,0,3,30,0,Other,173
+879,0,23.5,129.0,0,3,13,0,Other,3554
+879,0,23.5,129.0,0,3,13,0,Dextrocardia,3554
+879,0,23.5,129.0,0,3,13,0,Doble salida del ventriculo derecho,3554
+879,0,23.5,129.0,0,3,13,0,CIV restrictiva,3554
+879,0,23.5,129.0,0,3,13,0,arco aortico derecho,3554
+879,0,23.5,129.0,0,3,13,0,Other,3554
+880,0,5.7,65.0,0,3,9,0,Insuficiencia mitral severa por acortamiento de la valva posterior,320
+880,0,5.7,65.0,0,3,9,0,Dilatacion moderada del anillo mitral,320
+881,0,4.4,57.5,0,3,15,0,Other,373
+881,0,4.4,57.5,0,3,15,0,Persistencia de conducto arterioso,373
+882,0,17.0,108.0,0,3,4,0,Comunicacion interventricular membranosa con extension a la via de entrada,2746
+882,0,17.0,108.0,0,3,4,0,Hendidura mitral,2746
+882,0,17.0,108.0,0,3,4,0,Comunicacion interauricular ostium secundum,2746
+883,1,16.5,111.0,0,2,6,0,Tetralogia de Fallot,1541
+884,0,7.0,65.0,0,3,28,0,Other,613
+885,1,70.0,162.0,0,1,4,0,Other,6402
+886,1,8.1,63.0,0,2,32,0,Other,548
+886,1,8.1,63.0,0,2,32,0,Comunicacion interatrial tipo ostium secundum,548
+887,1,25.8,123.0,0,1,2,0,Comunicacion interauricular,2390
+889,1,11.0,90.0,0,3,10,0,Atresia pulmonar con comunicacion interventricular,891
+889,1,11.0,90.0,0,3,10,0,CIA,891
+889,1,11.0,90.0,0,3,10,0,PCA,891
+890,1,18.5,112.0,0,1,5,0,Comunicacion interauricular ostium secundum,3867
+890,1,18.5,112.0,0,1,5,0,Other,3867
+891,1,10.0,85.0,0,4,13,0,Other,713
+891,1,10.0,85.0,0,4,13,0,Other,713
+891,1,10.0,85.0,0,4,13,0,Other,713
+892,1,3.1,54.0,0,2,20,0,Other,66
+892,1,3.1,54.0,0,2,20,0,Other,66
+892,1,3.1,54.0,0,2,20,0,Comunicacion interventricular perimembranosa,66
+893,0,4.9,75.0,1,3,35,0,Insuficiencia mitral severa por acortamiento de la valva posterior,360
+893,0,4.9,75.0,1,3,35,0,Dilatacion moderada del anillo mitral,360
+893,0,4.9,75.0,1,3,35,0,Other,360
+894,1,4.3,56.0,0,4,16,0,Coartacion,-106
+894,1,4.3,56.0,0,4,16,0,Hipoplasia de arco aortico,-106
+894,1,4.3,56.0,0,4,16,0,Other,-106
+894,1,4.3,56.0,0,4,16,0,Other,-106
+895,1,6.2,53.0,0,2,6,0,Tetralogia de Fallot,213
+896,1,10.5,83.0,0,3,7,0,Other,645
+896,1,10.5,83.0,0,3,7,0,Comunicacion interventricular doblemente relacionada,645
+896,1,10.5,83.0,0,3,7,0,Other,645
+897,1,12.2,86.0,1,4,0,1,Atresia pulmonar con comunicacion interventricular,685
+897,1,12.2,86.0,1,4,0,1,Other,685
+897,1,12.2,86.0,1,4,0,1,Other,685
+897,1,12.2,86.0,1,4,0,1,Other,685
+898,0,3.0,55.0,0,2,18,0,Comunicacion interventricular membranosa,-18
+898,0,3.0,55.0,0,2,18,0,Other,-18
+898,0,3.0,55.0,0,2,18,0,Comunicacion interauricular ostium secundum,-18
+898,0,3.0,55.0,0,2,18,0,Other,-18
+898,0,3.0,55.0,0,2,18,0,Conducto arterioso persistente,-18
+899,0,4.7,51.0,0,3,8,0,Doble entrada al ventriculo izquierdo,-8
+899,0,4.7,51.0,0,3,8,0,Other,-8
+900,0,2.4,46.0,0,3,1,1,Other,-7
+900,0,2.4,46.0,0,3,1,1,Other,-7
+900,0,2.4,46.0,0,3,1,1,Dextrocardia/ Dextroapex,-7
+901,0,3.6,55.0,0,1,13,0,Coartacion de aorta yuxtaductal,-27
+901,0,3.6,55.0,0,1,13,0,PCA,-27
+902,0,6.8,68.0,1,2,9,0,Corazon univentricular atresia tricuspidea,381
+902,0,6.8,68.0,1,2,9,0,PO de FBT,381
+903,0,20.5,119.0,0,1,2,0,Other,4097
+904,1,31.9,100.0,0,2,4,0,Comunicacion interventricular infundibular,2611
+905,1,7.5,65.0,0,2,11,0,Other,188
+906,1,5.1,57.0,0,2,29,0,Other,130
+906,1,5.1,57.0,0,2,29,0,foramen oval no restrictivo,130
+906,1,5.1,57.0,0,2,29,0,Other,130
+907,0,35.0,131.0,0,3,6,0,Other,2476
+908,0,19.0,115.0,0,3,10,0,Other,2967
+909,1,2.6,46.0,0,3,2,0,Other,30
+910,1,2.3,46.0,0,2,90,0,Conexion Anomala Total de Venas Pulmonares variedad Supracardiaca,32
+910,1,2.3,46.0,0,2,90,0,Other,32
+911,1,8.0,67.0,0,2,7,0,Other,408
+911,1,8.0,67.0,0,2,7,0,Colateral aortopulmonar,408
+912,0,12.4,92.0,1,2,8,0,Tetralogia de Fallot,784
+912,0,12.4,92.0,1,2,8,0,PO de Fistula sistemica pulmonar,784
+913,1,6.3,65.0,0,3,8,0,Other,39
+914,1,14.6,104.0,1,3,7,0,Corazon univentricular,1315
+914,1,14.6,104.0,1,3,7,0,Doble entrada al ventriculo izquierdo,1315
+914,1,14.6,104.0,1,3,7,0,Transposicion de grandes arterias,1315
+914,1,14.6,104.0,1,3,7,0,Foramen bulboventricular no restrictivo,1315
+914,1,14.6,104.0,1,3,7,0,Other,1315
+914,1,14.6,104.0,1,3,7,0,Other,1315
+915,1,19.5,119.0,0,2,4,0,Other,3365
+915,1,19.5,119.0,0,2,4,0,Other,3365
+916,0,18.0,115.0,0,3,20,0,Other,2603
+916,0,18.0,115.0,0,3,20,0,Canal AV parcial,2603
+916,0,18.0,115.0,0,3,20,0,Hendidura mitral,2603
+916,0,18.0,115.0,0,3,20,0,Interrupcion de vena cava inferior con continuacion a la acigos,2603
+916,0,18.0,115.0,0,3,20,0,Other,2603
+917,0,30.5,132.0,0,3,0,1,Other,3691
+917,0,30.5,132.0,0,3,0,1,Other,3691
+918,0,13.6,104.0,0,1,1,0,Conducto arterioso persistente,2339
+918,0,13.6,104.0,0,1,1,0,Other,2339
+919,1,17.5,107.0,2,3,24,0,Other,1905
+919,1,17.5,107.0,2,3,24,0,PO de FBT,1905
+919,1,17.5,107.0,2,3,24,0,Other,1905
+919,1,17.5,107.0,2,3,24,0,Other,1905
+919,1,17.5,107.0,2,3,24,0,Other,1905
+919,1,17.5,107.0,2,3,24,0,Other,1905
+919,1,17.5,107.0,2,3,24,0,Other,1905
+920,1,12.0,86.5,0,2,3,0,Comunicacion interventricular membranosa,1528
+920,1,12.0,86.5,0,2,3,0,Conducto arterioso persistente,1528
+921,1,4.0,55.0,0,2,22,0,Estenosis aortica critica,124
+922,1,8.0,68.5,0,2,7,0,Tetralogia de Fallot,432
+922,1,8.0,68.5,0,2,7,0,Other,432
+923,1,2.6,50.0,0,4,1,1,Other,5
+923,1,2.6,50.0,0,4,1,1,Persistencia de conducto arterioso,5
+924,0,5.6,68.0,0,2,6,0,Conexion anomala total de venas pulmonares supracardiaca,285
+924,0,5.6,68.0,0,2,6,0,Other,285
+924,0,5.6,68.0,0,2,6,0,Persistencia de conducto arterioso,285
+925,0,14.5,120.0,0,3,5,0,Other,2343
+926,1,2.3,45.0,0,3,5,0,Other,91
+926,1,2.3,45.0,0,3,5,0,Ramas pulmonares confluentes,91
+926,1,2.3,45.0,0,3,5,0,Persistencia de conducto arterioso,91
+927,0,15.1,99.0,0,3,4,0,Other,1279
+928,1,2.3,45.0,1,2,93,1,Other,244
+928,1,2.3,45.0,1,2,93,1,Other,244
+928,1,2.3,45.0,1,2,93,1,Atresia pulmonar con comunicacion interventricular,244
+929,1,3.5,55.0,0,3,33,0,Transposicion de grandes arterias,334
+929,1,3.5,55.0,0,3,33,0,Other,334
+930,0,6.35,58.0,0,3,15,0,Other,416
+930,0,6.35,58.0,0,3,15,0,Other,416
+931,0,6.7,50.0,0,2,34,0,Other,725
+932,0,5.9,63.0,0,3,6,0,Tetralogia de Fallot,367
+932,0,5.9,63.0,0,3,6,0,Other,367
+933,1,15.0,86.0,0,2,3,0,Comunicacion interventricular infundibular,846
+934,1,3.9,52.0,0,1,15,0,Coartacion aortica yuxtaductal,-226
+935,0,14.0,101.0,0,2,4,0,Tetralogia de Fallot,1231
+936,1,2.4,50.0,0,4,51,0,Coartacion de Aorta,-12
+936,1,2.4,50.0,0,4,51,0,Other,-12
+937,0,7.6,73.0,1,3,8,0,Other,747
+937,0,7.6,73.0,1,3,8,0,Other,747
+937,0,7.6,73.0,1,3,8,0,Ventriculo izquierdo no compactado,747
+937,0,7.6,73.0,1,3,8,0,Other,747
+938,0,4.7,58.0,0,2,3,0,Persistencia de conducto arterioso,290
+938,0,4.7,58.0,0,2,3,0,Formane oval permeable,290
+938,0,4.7,58.0,0,2,3,0,Comunicacion interventricular membranosa,290
+939,0,2.6,46.0,0,2,1,0,Coartacion de Aorta,284
+939,0,2.6,46.0,0,2,1,0,Other,284
+940,0,2.6,46.0,1,4,11,0,Other,285
+940,0,2.6,46.0,1,4,11,0,Other,285
+941,0,12.0,94.0,0,2,11,0,Other,869
+941,0,12.0,94.0,0,2,11,0,Other,869
+941,0,12.0,94.0,0,2,11,0,Estenosis pulmonar,869
+941,0,12.0,94.0,0,2,11,0,Conexion anomala total de venas pulmonares supracardiaca,869
+941,0,12.0,94.0,0,2,11,0,Other,869
+941,0,12.0,94.0,0,2,11,0,Dextrocardia/ Dextroapex,869
+942,1,3.8,54.0,0,3,78,0,Other,41
+942,1,3.8,54.0,0,3,78,0,Atresia mitral,41
+942,1,3.8,54.0,0,3,78,0,Other,41
+942,1,3.8,54.0,0,3,78,0,Other,41
+942,1,3.8,54.0,0,3,78,0,Other,41
+944,0,10.5,80.0,0,2,7,0,Atresia pulmonar septum integro,759
+944,0,10.5,80.0,0,2,7,0,Other,759
+945,1,15.3,100.0,0,2,16,0,Tetralogia de Fallot,1249
+945,1,15.3,100.0,0,2,16,0,Persistencia de conducto arterioso,1249
+946,1,4.5,55.0,0,1,13,0,Other,85
+946,1,4.5,55.0,0,1,13,0,Comunicacion interatrial tipo ostium secundum,85
+948,0,8.4,80.0,0,1,5,0,CIA ostium secundum,915
+948,0,8.4,80.0,0,1,5,0,Persistencia de conducto arterioso,915
+950,1,4.5,56.0,0,2,24,0,Other,234
+950,1,4.5,56.0,0,2,24,0,Other,234
+950,1,4.5,56.0,0,2,24,0,Other,234
+952,0,14.11,97.0,1,3,43,0,Atresia tricuspidea IB,1609
+952,0,14.11,97.0,1,3,43,0,Other,1609
+953,1,8.4,62.0,1,2,6,0,Atresia tricuspidea,585
+953,1,8.4,62.0,1,2,6,0,Other,585
+953,1,8.4,62.0,1,2,6,0,Other,585
+954,1,9.2,75.0,0,2,6,0,Tetralogia de Fallot,784
+954,1,9.2,75.0,0,2,6,0,Formane oval permeable,784
+955,1,8.53,82.0,1,2,16,0,Other,1129
+955,1,8.53,82.0,1,2,16,0,Other,1129
+955,1,8.53,82.0,1,2,16,0,Other,1129
+956,1,154.0,48.0,0,3,11,0,Other,6127
+956,1,154.0,48.0,0,3,11,0,Other,6127
+956,1,154.0,48.0,0,3,11,0,Other,6127
+956,1,154.0,48.0,0,3,11,0,Other,6127
+956,1,154.0,48.0,0,3,11,0,Comunicacion interventricular no relacionada,6127
+957,0,8.5,75.0,0,2,13,0,CIV perimembranosa,569
+957,0,8.5,75.0,0,2,13,0,Persistencia de conducto arterioso,569
+958,0,6.9,68.0,0,3,38,0,Atresia Pulmonar CIV,84
+958,0,6.9,68.0,0,3,38,0,Other,84
+958,0,6.9,68.0,0,3,38,0,Other,84
+958,0,6.9,68.0,0,3,38,0,Other,84
+958,0,6.9,68.0,0,3,38,0,Other,84
+960,1,51.0,159.0,2,3,7,0,Atresia tricuspidea IB,5147
+961,1,2.6,48.0,0,3,1,1,Other,222
+961,1,2.6,48.0,0,3,1,1,Conducto arterioso permeable,222
+962,0,3.0,47.0,0,6,119,0,Interrupcion de arco aortico tipo B,14
+962,0,3.0,47.0,0,6,119,0,Other,14
+962,0,3.0,47.0,0,6,119,0,Comunicacion interauricular ostium secundum,14
+962,0,3.0,47.0,0,6,119,0,Comunicacion interventricular membranosa con extension a la via de entrada,14
+962,0,3.0,47.0,0,6,119,0,Other,14
+963,1,2.3,45.0,0,4,15,0,Conexion anomala total de venas pulmonares infracardiaca,9
+963,1,2.3,45.0,0,4,15,0,Other,9
+963,1,2.3,45.0,0,4,15,0,Persistencia de conducto arterioso,9
+964,1,19.5,116.0,1,2,5,0,Other,2389
+964,1,19.5,116.0,1,2,5,0,Other,2389
+965,1,2.5,51.0,0,2,5,0,Comunicacion interventricular membranosa,288
+965,1,2.5,51.0,0,2,5,0,Formane oval permeable,288
+966,1,8.5,70.0,0,2,1,1,Tetralogia de Fallot,534
+967,0,10.3,90.0,1,3,11,0,Other,1699
+967,0,10.3,90.0,1,3,11,0,Comunicacion interventricular infundibular,1699
+967,0,10.3,90.0,1,3,11,0,Comunicacion interauricular ostium secundum,1699
+967,0,10.3,90.0,1,3,11,0,Other,1699
+967,0,10.3,90.0,1,3,11,0,Other,1699
+968,0,4.1,63.0,0,1,1,0,Other,564
+968,0,4.1,63.0,0,1,1,0,Other,564
+968,0,4.1,63.0,0,1,1,0,Other,564
+968,0,4.1,63.0,0,1,1,0,Other,564
+968,0,4.1,63.0,0,1,1,0,Other,564
+968,0,4.1,63.0,0,1,1,0,Other,564
+969,1,3.0,49.0,0,3,16,0,Other,6
+969,1,3.0,49.0,0,3,16,0,Other,6
+969,1,3.0,49.0,0,3,16,0,Comunicacion interventricular no relacionada,6
+969,1,3.0,49.0,0,3,16,0,Other,6
+969,1,3.0,49.0,0,3,16,0,Other,6
+969,1,3.0,49.0,0,3,16,0,arco aortico derecho,6
+970,1,5.0,61.0,0,2,14,0,Other,237
+970,1,5.0,61.0,0,2,14,0,Other,237
+970,1,5.0,61.0,0,2,14,0,Other,237
+971,0,5.9,67.0,0,0,20,0,Other,728
+971,0,5.9,67.0,0,0,20,0,Other,728
+971,0,5.9,67.0,0,0,20,0,Other,728
+971,0,5.9,67.0,0,0,20,0,HAP,728
+972,0,4.2,55.0,0,2,40,0,Other,204
+973,1,2.77,48.0,0,3,28,0,Other,142
+973,1,2.77,48.0,0,3,28,0,Other,142
+973,1,2.77,48.0,0,3,28,0,Other,142
+973,1,2.77,48.0,0,3,28,0,Other,142
+974,1,3.17,49.0,0,4,37,1,Other,244
+974,1,3.17,49.0,0,4,37,1,Coartacion de Aorta,244
+974,1,3.17,49.0,0,4,37,1,Comunicacion interventricular perimembranosa,244
+974,1,3.17,49.0,0,4,37,1,ventriculo izquierdo borderline,244
+974,1,3.17,49.0,0,4,37,1,Other,244
+975,0,6.8,65.0,0,2,14,0,Other,216
+975,0,6.8,65.0,0,2,14,0,Comunicacion interventricular,216
+975,0,6.8,65.0,0,2,14,0,Persistencia de conducto arterioso,216
+975,0,6.8,65.0,0,2,14,0,Other,216
+975,0,6.8,65.0,0,2,14,0,Other,216
+975,0,6.8,65.0,0,2,14,0,Other,216
+976,1,30.5,147.0,1,0,22,1,Other,5126
+977,0,6.0,69.0,0,2,8,0,Comunicacion interventricular membranosa,493
+977,0,6.0,69.0,0,2,8,0,Persistencia de conducto arterioso,493
+977,0,6.0,69.0,0,2,8,0,Other,493
+978,1,12.0,102.0,0,3,17,0,Other,1428
+978,1,12.0,102.0,0,3,17,0,Other,1428
+978,1,12.0,102.0,0,3,17,0,Other,1428
+980,0,3.1,54.0,0,2,18,0,Other,129
+981,0,3.5,57.0,0,2,9,0,Other,457
+981,0,3.5,57.0,0,2,9,0,CIA,457
+981,0,3.5,57.0,0,2,9,0,PCA,457
+981,0,3.5,57.0,0,2,9,0,HAP,457
+982,0,4.2,55.0,1,3,0,1,Atresia tricuspidea,185
+982,0,4.2,55.0,1,3,0,1,Other,185
+982,0,4.2,55.0,1,3,0,1,Other,185
+983,0,2.5,49.0,0,3,14,0,Other,29
+983,0,2.5,49.0,0,3,14,0,Conducto arterioso permeable,29
+983,0,2.5,49.0,0,3,14,0,Other,29
+983,0,2.5,49.0,0,3,14,0,Other,29
+984,1,2.86,48.0,0,4,15,0,Coartacion de Aorta,-171
+984,1,2.86,48.0,0,4,15,0,Hipoplasia de arco aortico,-171
+985,0,3.0,45.0,0,4,64,0,Other,-41
+985,0,3.0,45.0,0,4,64,0,Other,-41
+985,0,3.0,45.0,0,4,64,0,Other,-41
+986,1,2.42,46.0,0,4,25,0,Other,10
+986,1,2.42,46.0,0,4,25,0,Comunicacion interventricular,10
+986,1,2.42,46.0,0,4,25,0,Other,10
+986,1,2.42,46.0,0,4,25,0,Other,10
+986,1,2.42,46.0,0,4,25,0,Other,10
+987,1,29.6,137.0,0,2,3,0,Comunicacion interventricular membranosa,3606
+987,1,29.6,137.0,0,2,3,0,Other,3606
+988,1,37.4,146.0,2,3,4,1,Other,5328
+988,1,37.4,146.0,2,3,4,1,Other,5328
+988,1,37.4,146.0,2,3,4,1,Other,5328
+988,1,37.4,146.0,2,3,4,1,Other,5328
+988,1,37.4,146.0,2,3,4,1,Transposicion de grandes arterias,5328
+988,1,37.4,146.0,2,3,4,1,Other,5328
+989,0,8.0,71.0,0,2,7,0,Tetralogia de Fallot,509
+990,1,11.6,90.0,0,2,3,0,Tetralogia de Fallot,893
+991,1,9.5,63.0,0,2,5,0,Other,475
+991,1,9.5,63.0,0,2,5,0,Other,475
+992,0,15.9,114.0,0,1,3,0,Comunicacion interauricular tipo ostium secundum,2663
+993,0,1.6,39.0,0,1,9,0,Other,-175
+993,0,1.6,39.0,0,1,9,0,Comunicacion interauricular,-175
+994,1,28.6,113.0,0,2,7,0,Comunicacion interventricular perimembranosa,2477
+994,1,28.6,113.0,0,2,7,0,Other,2477
+995,1,44.0,145.0,0,1,4,0,Other,4142
+995,1,44.0,145.0,0,1,4,0,Other,4142
+996,1,3.6,47.0,0,4,22,0,Conexion anomala total de venas pulmonares supracardiaca,107
+996,1,3.6,47.0,0,4,22,0,Persistencia de conducto arterioso,107
+997,1,9.7,64.0,0,2,4,0,Other,429
+997,1,9.7,64.0,0,2,4,0,Persistencia de conducto arterioso,429
+997,1,9.7,64.0,0,2,4,0,Other,429
+998,0,21.0,121.0,0,2,4,0,Other,3088
+999,0,2.9,47.0,0,3,13,0,Other,6
+999,0,2.9,47.0,0,3,13,0,Other,6
+999,0,2.9,47.0,0,3,13,0,Other,6
+1000,0,15.0,103.0,0,2,3,0,Other,2421
+1000,0,15.0,103.0,0,2,3,0,Other,2421
+1000,0,15.0,103.0,0,2,3,0,Other,2421
+1001,1,2.95,50.0,0,4,9,0,Coartacion e hipoplasia de arco aortico,54
+1001,1,2.95,50.0,0,4,9,0,Other,54
+1001,1,2.95,50.0,0,4,9,0,Other,54
+1002,0,3.0,52.0,0,4,19,0,Other,-146
+1003,0,10.4,85.0,0,1,3,0,Comunicacion interauricular ostium secundum,981
+1004,1,2.97,49.0,0,3,47,0,Doble salida del ventriculo derecho,192
+1004,1,2.97,49.0,0,3,47,0,Other,192
+1004,1,2.97,49.0,0,3,47,0,Other,192
+1004,1,2.97,49.0,0,3,47,0,Other,192
+1004,1,2.97,49.0,0,3,47,0,Ramas pulmonares confluentes,192
+1005,1,5.4,62.0,0,3,5,0,Other,312
+1005,1,5.4,62.0,0,3,5,0,heterotaxia,312
+1006,0,4.3,53.0,1,2,11,0,Atresia pulmonar septum integro,589
+1006,0,4.3,53.0,1,2,11,0,Other,589
+1006,0,4.3,53.0,1,2,11,0,Other,589
+1006,0,4.3,53.0,1,2,11,0,Other,589
+1006,0,4.3,53.0,1,2,11,0,Other,589
+1006,0,4.3,53.0,1,2,11,0,Other,589
+1007,1,8.0,77.0,0,2,3,0,Other,639
+1007,1,8.0,77.0,0,2,3,0,Conducto arterioso persistente muy pequeno,639
+1008,0,3.33,52.0,0,3,4,0,Doble salida de ventriculo derecho tipo Fallot,-119
+1008,0,3.33,52.0,0,3,4,0,Comunicacion interventricular,-119
+1008,0,3.33,52.0,0,3,4,0,Formane oval permeable,-119
+1008,0,3.33,52.0,0,3,4,0,Conducto arterioso permeable de 27 mm,-119
+1009,0,14.0,100.0,1,3,7,0,Other,1511
+1009,0,14.0,100.0,1,3,7,0,Other,1511
+1009,0,14.0,100.0,1,3,7,0,Other,1511
+1010,0,3.3,52.0,1,2,46,0,Other,1
+1010,0,3.3,52.0,1,2,46,0,Comunicacion interventricular,1
+1010,0,3.3,52.0,1,2,46,0,Formane oval permeable,1
+1010,0,3.3,52.0,1,2,46,0,Conducto arterioso permeable de 27 mm,1
+1012,1,2.4,48.0,0,3,-44139,0,Other,153
+1012,1,2.4,48.0,0,3,-44139,0,Persistencia de conducto arterioso,153
+1013,0,8.8,70.0,0,2,11,0,Other,535
+1013,0,8.8,70.0,0,2,11,0,Other,535
+1013,0,8.8,70.0,0,2,11,0,Other,535
+1013,0,8.8,70.0,0,2,11,0,Other,535
+1013,0,8.8,70.0,0,2,11,0,Conducto arterioso persistente,535
+1014,0,9.0,60.0,0,3,10,1,Other,549
+1015,1,3.16,51.0,0,4,21,0,Other,9
+1015,1,3.16,51.0,0,4,21,0,Conducto arterioso permeable,9
+1015,1,3.16,51.0,0,4,21,0,Other,9
+1016,0,3.7,60.0,0,2,5,0,Other,-71
+1016,0,3.7,60.0,0,2,5,0,Other,-71
+1016,0,3.7,60.0,0,2,5,0,Other,-71
+1018,1,7.5,70.0,0,3,12,0,Other,433
+1018,1,7.5,70.0,0,3,12,0,Other,433
+1019,1,19.0,109.0,2,3,7,0,Other,1723
+1019,1,19.0,109.0,2,3,7,0,Other,1723
+1019,1,19.0,109.0,2,3,7,0,Other,1723
+1019,1,19.0,109.0,2,3,7,0,Other,1723
+1020,1,11.0,86.0,0,2,364,0,Other,831
+1020,1,11.0,86.0,0,2,364,0,Other,831
+1021,0,23.7,125.0,4,0,1,0,Doble entrada al ventriculo izquierdo,3245
+1021,0,23.7,125.0,4,0,1,0,Discordancia ventriculoarteriales,3245
+1021,0,23.7,125.0,4,0,1,0,Comunicacion interventricular restrictiva,3245
+1022,0,8.17,64.0,0,2,22,0,Other,296
+1022,0,8.17,64.0,0,2,22,0,Other,296
+1022,0,8.17,64.0,0,2,22,0,Other,296
+1022,0,8.17,64.0,0,2,22,0,Other,296
+1022,0,8.17,64.0,0,2,22,0,Conexion anomala total de venas pulmonares supracardiacas,296
+1022,0,8.17,64.0,0,2,22,0,Other,296
+1023,1,8.0,78.0,1,3,6,0,Tetralogia de Fallot,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1023,1,8.0,78.0,1,3,6,0,Other,943
+1026,1,7.3,70.0,1,2,24,0,Other,540
+1027,1,3.4,52.0,0,2,11,0,Other,141
+1027,1,3.4,52.0,0,2,11,0,Other,141
+1027,1,3.4,52.0,0,2,11,0,Insuficiencia tricuspidea moderada,141
+1028,1,9.5,85.0,0,3,10,0,Doble salida de ventriculo derecho CIV doblemente relacionada,860
+1029,0,16.6,115.0,1,4,0,1,Other,1539
+1029,0,16.6,115.0,1,4,0,1,Other,1539
+1029,0,16.6,115.0,1,4,0,1,Other,1539
+1029,0,16.6,115.0,1,4,0,1,Other,1539
+1030,1,3.5,60.0,0,3,6,0,Other,-107
+1030,1,3.5,60.0,0,3,6,0,Other,-107
+1030,1,3.5,60.0,0,3,6,0,Persistencia de conducto arterioso,-107
+1030,1,3.5,60.0,0,3,6,0,Hipertension pulmonar severa,-107
+1030,1,3.5,60.0,0,3,6,0,Other,-107
+1031,1,3.4,52.0,0,4,6,0,Other,124
+1032,0,2.9,50.0,0,3,14,0,Transposicion de grandes vasos,11
+1032,0,2.9,50.0,0,3,14,0,Dextrocardia,11
+1032,0,2.9,50.0,0,3,14,0,Comunicacion interauricular,11
+1033,0,19.5,109.0,0,1,2,0,Comunicacion interauricular tipo ostium secundum,2098
+1033,0,19.5,109.0,0,1,2,0,Other,2098
+1034,0,21.4,123.0,1,3,15,0,Other,3706
+1034,0,21.4,123.0,1,3,15,0,Other,3706
+1034,0,21.4,123.0,1,3,15,0,Other,3706
+1035,1,3.23,50.0,0,4,-44214,0,ventriculo izquierdo borderline,14
+1035,1,3.23,50.0,0,4,-44214,0,Other,14
+1035,1,3.23,50.0,0,4,-44214,0,Other,14
+1035,1,3.23,50.0,0,4,-44214,0,Other,14
+1035,1,3.23,50.0,0,4,-44214,0,Conducto arterioso permeable,14
+1037,1,3.8,53.5,0,3,-44220,0,Other,68
+1037,1,3.8,53.5,0,3,-44220,0,Other,68
+1037,1,3.8,53.5,0,3,-44220,0,Comunicacion interventricular,68
+1037,1,3.8,53.5,0,3,-44220,0,Comunicacion interauricular,68

@@ -1,0 +1,2001 @@
+patient_id,diagnosis_main,categories
+0,Comunicacion interauricular secundum,CIA
+1,Comunicacion interauricular secundum,CIA
+2,Comunicacion interauricular secundum,CIA
+3,Comunicacion interauricular secundum,CIA
+4,Comunicacion interauricular secundum,CIA
+5,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+5,Estenosis aortica subvalvular,Estenosis
+6,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+7,Comunicacion interauricular secundum,CIA
+8,Comunicacion interventricular Tipo 1 infundibular,CIV
+9,Comunicacion interauricular secundum,CIA
+10,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+10,Estenosis aortica subvalvular,Estenosis
+11,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+11,Estenosis aortica subvalvular,Estenosis
+12,Comunicacion interauricular secundum,CIA
+12,Persistencia de conducto arterioso,PCA
+13,Comunicacion interventricular Tipo 1 infundibular,CIV
+13,Comunicacion interventricular Tipo 2 Membranosa,CIV
+13,Estenosis aortica subvalvular,Estenosis
+14,Comunicacion interauricular secundum,CIA
+14,Comunicacion interventricular Tipo 2 Membranosa,CIV
+14,Persistencia de conducto arterioso,PCA
+15,Comunicacion interventricular Tipo 2 Membranosa,CIV
+15,FOP,Other
+16,Persistencia de conducto arterioso,PCA
+17,Comunicacion interauricular secundum,CIA
+18,Persistencia de conducto arterioso,PCA
+19,Estenosis pulmonar valvular,Estenosis
+19,Estenosis pulmonar supravalvular,Estenosis
+20,Comunicacion interauricular secundum,CIA
+20,Persistencia de conducto arterioso,PCA
+21,Persistencia de conducto arterioso,PCA
+22,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+23,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+23,Estenosis aortica subvalvular,Estenosis
+24,Comunicacion interventricular Tipo 1 infundibular,CIV
+25,Comunicacion interauricular secumdum,CIA
+26,Comunicacion interauricular secundum,CIA
+27,Comunicacion interauricular secundum,CIA
+28,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+29,Persistencia de conducto arterioso,PCA
+30,Comunicacion interauricular secundum,CIA
+31,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+32,Comunicacion interauricular secundum,CIA
+34,Comunicacion interauricular secundum,CIA
+34,Comunicacion interventricular Tipo 2 Membranosa,CIV
+34,Persistencia de conducto arterioso,PCA
+35,Comunicacion interauricular secundum,CIA
+35,Persistencia de Conducto arterioro,PCA
+36,Comunicacion interventricular Tipo 2 Membranosa,CIV
+37,Coartacion de Aorta,Coartacion Aortica
+38,Comunicacion interventricular membranosa,CIV
+39,Comunicacion interauricular secundum,CIA
+40,Comunicacion interauricular secundum,CIA
+41,Comunicacion interauricular secundum,CIA
+42,Comunicacion interventricular membranosa,CIV
+43,Comunicacion interauricular secundum,CIA
+44,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+44,Persistencia de conducto arterioso,PCA
+45,Doble camara del Ventriculo Derecho,Other
+45,CIV tipo 2 membranosa,CIV
+46,Estenosis aortica subvalvular,Estenosis
+46,Persistencia de conducto arterioso,PCA
+47,Comunicacion interventricular membranosa,CIV
+48,Persistencia de conducto arterioso,PCA
+49,Comunicacion interauricular secundum,CIA
+50,Persistencia de conducto arterioso,PCA
+51,Comunicacion interauricular secundum,CIA
+51,Comunicacion interventricular Tipo 2 Membranosa,CIV
+51,Insuficiencia tricuspidea,Other
+52,Canal AV transicional,CAV
+52,Persistencia de conducto arterioso,PCA
+53,Comunicacion interauricular secundum,CIA
+54,Tetralogia de Fallot,Tetralogia de Fallot
+55,Tetralogia de Fallot,Tetralogia de Fallot
+56,Tetralogia de Fallot,Tetralogia de Fallot
+57,Comunicacion interventricular Tipo 2 Membranosa,CIV
+57,Persistencia de conducto arterioso,PCA
+57,FOP,Other
+58,Persistencia de conducto arterioso,PCA
+59,Comunicacion interventricular Tipo 2 Membranosa,CIV
+59,Persistencia de conducto arterioso,PCA
+60,Comunicacion interauricular secundum,CIA
+61,Coartacion de Aorta,Coartacion Aortica
+61,Estenosis aortica subvalvular,Estenosis
+62,Comunicacion interauricular secundum,CIA
+63,Canal AV completo balanceado tipo A rastelli,CAV
+64,Comunicacion interauricular secundum,CIA
+65,Comunicacion interventricular Tipo 2 Membranosa,CIV
+65,Persistencia de conducto arterioso,PCA
+66,Atresia pulmonar CIV TOF,Atresia
+66,Status post- FBTM,Post-Surgical Procedure
+67,Comunicacion interauricular secundum,CIA
+68,Comunicacion interauricular secundum,CIA
+68,Comunicacion interventricular membranosa,CIV
+68,PCA,PCA
+69,Comunicacion interauricular secundum,CIA
+70,Canal AV completo balanceado tipo A rastelli,CAV
+70,Persistencia de conducto arterioso,PCA
+71,Conexion anomala total de venas pulmonares tipo 2 seno coronario,Conexion Anomala
+72,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+72,CIV muscular,CIV
+72,PCA,PCA
+74,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+75,Comunicacion interauricular secundum,CIA
+76,Comunicacion interauricular secundum,CIA
+77,Tetralogia de Fallot,Tetralogia de Fallot
+78,Comunicacion interventricular Tipo 2 Membranosa,CIV
+78,Persistencia de conducto arterioso,PCA
+79,Comunicacion interventricular membranosa,CIV
+80,Canal AV completo tipo A de Rastelli,CAV
+81,Comunicacion interauricular secundum,CIA
+82,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+83,Coartacion de Aorta,Coartacion Aortica
+84,Comunicacion interauricular secundum,CIA
+85,Estenosis pulmonar,Estenosis
+85,Comunicacion interventricular membranosa,CIV
+86,Comunicacion interauricular secundum,CIA
+87,Comunicacion interauricular secundum,CIA
+88,Comunicacion interauricular secundum,CIA
+89,Persistencia de conducto arterioso,PCA
+90,Canal AV completo,CAV
+91,Ventriculo unico atresia triscupidea,Corazon Univentricular
+92,Comunicacion interauricular secundum,CIA
+93,Comunicacion interventricular membranosa,CIV
+93,Persistencia de conducto arterioso,PCA
+94,Tetralogia de Fallot,Tetralogia de Fallot
+95,Coartacion de Aorta,Coartacion Aortica
+95,Hipoplasia de arco aortico,Hipoplasia
+95,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+95,Transposicion de grandes vasos septum integro,Other
+96,Persistencia de conducto arterioso,PCA
+97,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+98,Comunicacion interauricular secundum,CIA
+98,Comunicacion interventricular membranosa,CIV
+99,Persistencia de conducto arterioso,PCA
+100,Comunicacion interauricular secundum,CIA
+101,Coartacion de Aorta,Coartacion Aortica
+101,Hipoplasia de arco aortico,Hipoplasia
+102,Conexion anoma total de venas pulmonares tipo 2 intracardiaca seno coronario,Conexion Anomala
+103,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+104,Comunicacion interauricular secundum,CIA
+105,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+106,Persistencia de conducto arterioso,PCA
+106,Estenosis aortica subvalvular,Estenosis
+106,insuficiencia mitral,Other
+107,Comunicacion interventricular membranosa,CIV
+108,Canal AV transicional,CAV
+108,Persistencia de conducto arterioso,PCA
+109,Coartacion de arco aortico CIV,Coartacion Aortica
+109,Hipoplasia de arco aortico CIV,Hipoplasia
+110,Conexion anomala parcial de venas pulmonares derechas a auricula derecha,Conexion Anomala
+111,Comunicacion interauricular secundum,CIA
+111,Persistencia de conducto arterioso,PCA
+113,Comunicacion interauricular secundum,CIA
+114,Comunicacion interventricular membranosa,CIV
+115,Conexion anomala parcial de vena pulmonar supeior izquierda a la innominada,Conexion Anomala
+115,Comunicacion interauricular,CIA
+116,Comunicacion interauricular secundum,CIA
+117,Coartacion de Aorta,Coartacion Aortica
+118,Atresia Pulmonar CIV,Atresia
+118,Status post-Unifocalizacion,Post-Surgical Procedure
+118,Status post-Cambio de tubo valvulado,Post-Surgical Procedure
+119,Canal AV completo,CAV
+121,Comunicacion interauricular secundum,CIA
+122,Comunicacion interventricular Tipo 2 perimembranosa,CIV
+123,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+123,Transposicion de grandes vasos,Other
+123,Foramen bulboventricular,Other
+123,Comunicacion interauricular secundum,CIA
+123,Persistencia de conducto arterioso,PCA
+124,Comunicacion interventricular membranosa,CIV
+125,Canal AV parcial,CAV
+126,Comunicacion interauricular secundum,CIA
+127,Hipoplasia de arco aortico,Hipoplasia
+127,Coartacion de arco aortico,Coartacion Aortica
+128,Comunicacion interventricular doblemente relacionada,CIV
+128,Estenosis subpulmonar,Estenosis
+128,Comunicacion interauricular ostium secundum,CIA
+129,Comunicacion interauricular secundum,CIA
+130,Comunicacion interauricular secundum,CIA
+131,Comunicacion interauricular secundum,CIA
+132,Comunicacion interauricular secundum,CIA
+132,Comunicacion interventricular membranosa,CIV
+132,PCA,PCA
+133,Atresia Pulmonar CIV,Atresia
+134,Canal AV completo,CAV
+135,Comunicacion interauricular secundum,CIA
+136,Status post-Reparacion de CIA secundum,Post-Surgical Procedure
+137,Comunicacion interauricular secundum,CIA
+138,Comunicacion interauricular secundum,CIA
+139,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+139,Atresia pulmonar,Atresia
+139,Status post-FBTM,Post-Surgical Procedure
+140,Comunicacion interventricular membranosa,CIV
+141,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+141,Persistencia de conducto arterioso,PCA
+142,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+143,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+143,Status post-Procedimiento de Glenn,Post-Surgical Procedure
+144,Estenosis pulmonar valvular,Estenosis
+145,Estenosis aortica subvalvular,Estenosis
+146,Comunicacion interauricular secundum,CIA
+146,Persistencia de conducto arterioso,PCA
+147,Conexion anomala total de venas pulmonares tipo 2 seno coronario,Conexion Anomala
+148,Atresia Pulmonar CIV,Atresia
+149,Comunicacion interventricular membranosa,CIV
+149,Persistencia de conducto arterioso,PCA
+150,Doble salida de ventriculo derecho CIV doblemente relacionada,Doble Salida VD
+150,Estenosis pulmonar mixta,Estenosis
+151,Atresia tricuspidea,Atresia
+151,Atresia pulmonar,Atresia
+151,Status post-FBTM,Post-Surgical Procedure
+151,Status post-GBD,Post-Surgical Procedure
+152,Comunicacion interauricular secundum,CIA
+153,Ventana aorto-pulmomar,Other
+154,Canal AV completo,CAV
+155,Comunicacion interauricular secundum,CIA
+156,Comunicacion interauricular secundum,CIA
+157,Persistencia de conducto arterioso,PCA
+158,Canal AV parcial,CAV
+159,Comunicacion interauricular secundum,CIA
+159,Persistencia de conducto arterioso,PCA
+160,Comunicacion interventricular membranosa,CIV
+161,Doble lesion mitral,Other
+163,Comunicacion interventricular muscular,CIV
+163,Persistencia de conducto arterioso,PCA
+164,Hipoplasia de arco aortico,Hipoplasia
+164,Coartacion de arco aortico,Coartacion Aortica
+164,Membrana subaortica,Other
+165,Comunicacion interauricular secundum,CIA
+166,Tumor intracardiaco,Other
+166,Obstruccion del tracto de salida del VD,Other
+167,Comunicacion interventricular membranosa,CIV
+168,Estenosis aortica subvalvular,Estenosis
+168,PCA,PCA
+169,Comunicacion interauricular secundum,CIA
+170,Doble salida de ventriculo derecho CIV doblemente relacionada Tipo Fallot,Doble Salida VD
+170,Estenosis pulmonar,Estenosis
+171,Comunicacion interauricular secundum,CIA
+172,Comunicacion interventricular membranosa,CIV
+173,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+174,Comunicacion interventricular membranosa,CIV
+175,Comunicacion interventricular membranosa,CIV
+176,Comunicacion interauricular secundum,CIA
+177,Comunicacion interventricular membranosa,CIV
+178,Status post-Correccion de TOF,Post-Surgical Procedure
+178,Status post-Cambio de tubo valvulado,Post-Surgical Procedure
+179,Canal AV completo,CAV
+180,Comunicacion interventricular membranosa,CIV
+180,Persistencia de conducto arterioso,PCA
+181,Canal AV pacial,CAV
+181,Status post-Bandaje de la AP,Post-Surgical Procedure
+182,Comunicacion interventricular membranosa,CIV
+183,Ventriculo unico doble entrada al ventriculo izquierdo,Corazon Univentricular
+183,Status post-Glenn,Post-Surgical Procedure
+184,Comunicacion interventricular membranosa,CIV
+185,Comunicacion interauricular secundum,CIA
+185,Persistencia de conducto arterioso,PCA
+187,Canal AV parcial,CAV
+187,Insuficiencia mitral severa,Other
+188,Comunicacion interauricular secundum,CIA
+189,Estenosis aortica subvalvular,Estenosis
+189,Status Post-Avance de arco aortico,Other
+190,Coartacion de arco aortico CIV,Coartacion Aortica
+190,Hipoplasia de arco aortico CIV,Hipoplasia
+191,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+192,Comunicacion interauricular secundum,CIA
+193,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+193,Persistencia de conducto arterioso,PCA
+194,Comunicacion interventricular membranosa,CIV
+194,Persistencia de conducto arterioso,PCA
+195,Comunicacion interauricular secundum,CIA
+196,Estenosis aortica subvalvular,Estenosis
+197,Canal AV completo,CAV
+198,Comunicacion interventricular membranosa,CIV
+199,Coartacion de arco aortico,Coartacion Aortica
+199,Hipoplasia de arco aortico,Hipoplasia
+200,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+200,DSVD tipo CIV,Other
+200,CIV,CIV
+200,CIA secundum,CIA
+200,Status post- Bandaje de la AP,Post-Surgical Procedure
+200,Status post- Damus con glenn,Post-Surgical Procedure
+201,Coartacion de Aorta,Coartacion Aortica
+201,Estenosis aortica subvalvular,Estenosis
+201,Hipoplasia ligera de arco aortico,Hipoplasia
+202,Comunicacion interauricular secundum,CIA
+203,Corazon univentricular canal AV completo no balanceado,Corazon Univentricular
+203,Atresia pulmonar,Atresia
+203,Status post-Genn y CATVP supracardiaca,Post-Surgical Procedure
+203,Status post-FBTM de 5 mm de diametro,Post-Surgical Procedure
+204,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+204,PCA,PCA
+205,Comunicacion interauricular secundum,CIA
+206,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+206,Atresia pulmonar,Atresia
+206,Auricula unica,Other
+206,Dextrocardia,Other
+206,Interrupcion de vena cava inferior con continuacion a la acigos,Other
+206,Status post-FBTM,Post-Surgical Procedure
+206,Status post-Glenn kawashima,Post-Surgical Procedure
+207,Persistencia de conducto arterioso,PCA
+208,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+209,Tetralogia de Fallot agenesia de valvas pulmonares,Tetralogia de Fallot
+210,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+211,Persistencia de conducto arterioso,PCA
+212,Comunicacion interventricular membranosa,CIV
+212,Estenosis aortica subvalvular,Estenosis
+213,Coartacion de arco aortico,Coartacion Aortica
+213,PCA,PCA
+213,Estenosis aortica valvular,Estenosis
+213,Estenosis mitral,Estenosis
+214,Comunicacion interventricular Tipo 2 Membranosa,CIV
+214,Comunicacion interauricular secundum,CIA
+214,PCA,PCA
+215,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+215,Persistencia de conducto arterioso,PCA
+216,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+217,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+218,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+219,Estenosis aortica subvalvular,Estenosis
+219,Status Post-Ciere quirurgico de PCA,Other
+220,Comunicacion interauricular secundum,CIA
+221,Comunicacion interauricular secundum,CIA
+222,Comunicacion interventricular membranosa,CIV
+223,Doble salida de ventriculo derecho estenosis pulmonar tipo fallot,Doble Salida VD
+223,PCA,PCA
+224,Comunicacion interventricular membranosa,CIV
+225,Doble via de salida del ventriculo derecho CIV,Doble Salida VD
+226,Comunicacion interauricular secundum,CIA
+226,Persistencia de conducto arterioso,PCA
+227,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+228,Hipoplasia de arco aortico,Hipoplasia
+228,Status post-Cartectomia,Post-Surgical Procedure
+228,Dilatacion de coartacion de aorta y colocacion de Stent,Other
+230,Comunicacion interventricular infundibular,CIV
+231,Tetralogia de Fallot agenesia de valvula pulmonar,Tetralogia de Fallot
+232,Doble via de salida del VD tipo CIV,Doble Salida VD
+232,Status post-FBTM,Post-Surgical Procedure
+232,Status post-Glenn,Post-Surgical Procedure
+233,Comunicacion interventricular Tipo 2 Membranosa,CIV
+233,Persistencia de conducto arterioso,PCA
+234,Doble via de salida del VD con CIV subaortica,Doble Salida VD
+234,Estenosis de la rama izquierda de la AP,Estenosis
+234,PCA,PCA
+234,Status post-Bandaje de la AP,Post-Surgical Procedure
+235,Comunicacion interventricular membranosa,CIV
+236,Comunicacion interventricular Tipo 2 Membranosa,CIV
+236,Persistencia de conducto arterioso,PCA
+237,Comunicacion interventricular infundibular,CIV
+238,DVSVD tipo Fallot,Other
+239,Anomalia de Ebstein,Other
+240,Anomalia de Ebstein,Other
+241,Transposicion de grandes arterias septum integro,Other
+242,Comunicacion interventricular membranosa,CIV
+242,FOP,Other
+243,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+244,Comunicacion interventricular Tipo 2 Membranosa,CIV
+244,Persistencia de conducto arterioso,PCA
+245,Comunicacion interauricular secundum,CIA
+246,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+246,Estenosis pulmonar valvular,Estenosis
+246,CIV perimembranosa tipo 2,CIV
+247,Comunicacion interventricular muscular,CIV
+247,Persistencia de conducto arterioso,PCA
+248,Coartacion de Aorta,Coartacion Aortica
+248,Hipoplasia de arco aortico,Hipoplasia
+248,Comunicacion interventricular membranosa,CIV
+249,Transposicion de grandes arterias septum integro,Other
+250,Comunicacion interventricular membranosa,CIV
+250,CIA secundum,CIA
+250,CIV muscular pequena restrictiva,CIV
+251,Canal AV completo,CAV
+251,PCA,PCA
+252,Ventriculo unico canal AV desbalanceado,Corazon Univentricular
+252,Auricula unica,Other
+252,Status post-Glenn,Post-Surgical Procedure
+252,Insuficiencia de valvula AV severa,Other
+253,Complejo de ventriculo izquierdo hipoplasico,Hipoplasia
+254,Comunicacion interventricular membranosa,CIV
+254,PCA,PCA
+255,Comunicacion interventricular infundibular,CIV
+255,Insuficiencia aortica,Other
+256,Atresia Pulmonar CIV,Atresia
+257,Comunicacion interventricular membranosa,CIV
+257,Comunicacion interauricular secundum,CIA
+258,Conexion anomal total de venas pulmonares tipo 2 cardiaca,Conexion Anomala
+259,Comunicacion interventricular membranosa,CIV
+259,PCA,PCA
+260,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+260,PCA,PCA
+261,Comunicacion interventricular perimembranosa,CIV
+261,PCA,PCA
+262,Comunicacion interauricular secundum,CIA
+262,Anillo vascular por doble arco aortico,Other
+262,Status post-Coartectomia en INC,Post-Surgical Procedure
+263,Comunicacion interauricular secundum,CIA
+263,Persistencia de conducto arterioso,PCA
+264,Atresia Pulmonar con septum intacto,Atresia
+264,Status post-Fistula y Glenn,Post-Surgical Procedure
+265,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+266,Comunicacion interauricular secundum,CIA
+267,Atresia pulmonar septum integro,Atresia
+267,Status post- FBTM y ampliacion del TSVD,Post-Surgical Procedure
+267,Status post-Glenn,Post-Surgical Procedure
+268,Comunicacion interventricular membranosa,CIV
+269,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+270,Canal AV completo,CAV
+270,PCA,PCA
+271,Comunicacion interventricular membranosa,CIV
+271,PCA,PCA
+272,Comunicacion interauricular secundum,CIA
+273,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+274,Transposicion de grandes arterias septum integro,Other
+275,Coartacion de Aorta,Coartacion Aortica
+275,Hipoplasia de arco aortico,Hipoplasia
+275,Comunicacion interventricular muscular,CIV
+276,1 CIV perimembranosa 2 Estenosis aortica subvalvular 3Isomerismo atrial izquierdo 4 Interrupcion de la vena cava inferior con continuacion a la acigos anomalia venosa sistemica 5 L-loop 6 Dextrocardia,Other
+276,Status post-Reparacion de CIV y reseccion de membrana,Post-Surgical Procedure
+277,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+278,Comunicacion interauricular secundum,CIA
+279,Comunicacion interventricular perimembranosa,CIV
+279,Persistencia de conducto arterioso,PCA
+280,Hipoplasia de arco aortico CIV,Hipoplasia
+280,Coartacion de arco aortico CIV,Coartacion Aortica
+281,Conexion anoma total de venas pulmonares tipo 4 mixta,Conexion Anomala
+283,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+283,Transposicion de grandes vasos,Other
+283,Foramen bulboventricular,Other
+283,Estado postoperado de bandaje de arteria pulmonar,Other
+284,Comunicacion interauricular secundum,CIA
+285,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+286,Estenosis aortica subvalvular,Estenosis
+286,PCA,PCA
+287,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+288,Discordancia atrioventricular,Other
+288,Doble salida del ventriculo derecho,Doble Salida VD
+288,Estenosis pulmonar mixta,Estenosis
+288,Situs inversus,Other
+289,Comunicacion interventricular infundibular,CIV
+289,Insuficiencia aortica ligera,Other
+290,Coartacion de Aorta,Coartacion Aortica
+290,Hipoplasia de arco aortico,Hipoplasia
+291,Comunicacion interventricular membranosa,CIV
+292,Coartacion de Aorta,Coartacion Aortica
+292,Hipoplasia de arco aortico,Hipoplasia
+292,CIA secundum,CIA
+292,PCA,PCA
+293,Comunicacion interventricular perimembranosa,CIV
+293,PCA,PCA
+294,Atresia pulmonar septum integro,Atresia
+294,Status post-FBTM y ampliacion de TSVD,Post-Surgical Procedure
+295,Persistencia de conducto arterioso,PCA
+295,Valvula mitral en paracaidas,Other
+296,Coartacion aortica,Coartacion Aortica
+296,Hipoplasia de arco aortico,Hipoplasia
+296,CIV muscular,CIV
+297,Comunicacion interventricular residual,CIV
+297,Estenosis aortica subvalvular,Estenosis
+297,Status post-Reparacion de CIV y PCA,Post-Surgical Procedure
+298,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+298,Status post-FBTM en el IMSS siglo XXI 2004 derecha 2005 izquierda,Post-Surgical Procedure
+298,Status post-Glenn IMSS 2008,Post-Surgical Procedure
+299,Sindrome de ventriculo derecho hipoplasico estenosis pulmonar critica,Hipoplasia
+299,PCA,PCA
+300,Atresia pulmonar septum integro,Atresia
+300,VD hipoplasico,Hipoplasia
+300,PCA,PCA
+301,Comunicacion interauricular secundum,CIA
+302,Estenosis aortica subvalvular,Estenosis
+303,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+304,Tetralogia de Fallot estenosis pumonar,Tetralogia de Fallot
+304,PCA,PCA
+305,Comunicacion interventricular foramen oval,CIV
+305,Comunicacion intrventricular por malalineacion,CIV
+305,PCA,PCA
+306,Comunicacion interauricular secundum,CIA
+307,Persistencia de conducto arterioso,PCA
+308,Doble salida de VD con Canal AV completo balanceado,Doble Salida VD
+308,Estenosis pulmonar,Estenosis
+308,Status post-Glenn,Post-Surgical Procedure
+309,Canal AV completo tipo A de Rastelli,CAV
+310,Comunicacion interauricular secundum,CIA
+311,CATVP al seno coronario,Other
+312,Comunicacion interventricular membranosa,CIV
+313,Persistencia de conducto arterioso,PCA
+314,Comunicacion interventricular infundibular,CIV
+314,Insuficiencia valvular aortica secundaria,Other
+316,Comunicacion interauricular secundum,CIA
+317,Comunicacion interventricular membranosa,CIV
+317,Estenosis valvular pulmonar leve,Estenosis
+318,Comunicacion interventricular membranosa,CIV
+318,PCA,PCA
+319,Comunicacion interauricular ostium secundum,CIA
+319,Conexion anomala parcial de venas pulmonares a la AD,Conexion Anomala
+320,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+320,Atresia pulmonar,Atresia
+320,Status post-FBTM,Post-Surgical Procedure
+320,Status post-Glenn,Post-Surgical Procedure
+321,TOF vs DSVD tipo Fallot,Tetralogia de Fallot
+322,Conexion anomala total de venas pulmonares a seno coronario intracardiaca,Conexion Anomala
+323,Tetralogia de Fallot con estenosis de la valvula pulmonar,Tetralogia de Fallot
+324,Persistencia de conducto arterioso,PCA
+325,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+325,Status post-FBTM,Post-Surgical Procedure
+326,Persistencia de conducto arterioso,PCA
+327,Atresia pulmonar septum integro,Atresia
+327,Status post-FBTM En la Raza IMSS,Post-Surgical Procedure
+328,Comunicacion interventricular muscular con extension membranosa y a la via de entrada,CIV
+329,Comunicacion interauricular secundum,CIA
+330,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+330,Estenosis subvalvular pulmonar,Estenosis
+330,Status post-Bandaje de la AP Extra INP,Post-Surgical Procedure
+331,Canal AV completo tipo A de Rastelli,CAV
+331,PCA,PCA
+332,DVSVD con CIV no relacionada,Other
+332,Coartacion,Coartacion Aortica
+332,Hipoplasia de arco aortico,Hipoplasia
+332,Subclavia derecha aberrante,Other
+333,Persistencia de conducto arterioso,PCA
+334,Comunicacion interventricular Tipo 2 Membranosa,CIV
+334,PCA,PCA
+335,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+336,Comunicacion interauricular secundum,CIA
+337,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+337,Ventana aorto-pulmonar,Other
+338,Ventriculo unico atresia tricuspidea tipo IB,Corazon Univentricular
+338,CIV restrictiva,CIV
+339,Ventriculo unico DVEVI,Corazon Univentricular
+339,Status post-Bandaje de la arteria pulmonar,Post-Surgical Procedure
+339,Status post-Glenn,Post-Surgical Procedure
+341,Comunicacion interauricular residual,CIA
+341,Status post-CATVP seno,Post-Surgical Procedure
+342,Comunicacion interventricular membranosa,CIV
+344,Transposicion de grandes vasos septum integro Patron doble looping,Other
+346,Comunicacion interauricular secundum,CIA
+347,Atresia Pulmonar CIV,Atresia
+347,Status post-FBTM,Post-Surgical Procedure
+348,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+348,CIA ostium secundum,CIA
+348,CIV tipo 4 muscular,CIV
+348,Status post-Glenn,Post-Surgical Procedure
+349,Agenesia de valvula pulmonar,Other
+349,Dilatacion de ramas de arteria pulmonar,Other
+349,CIV infundibular restrictiva,CIV
+350,DVSVD tipo Fallot,Other
+351,Comunicacion ventricular membranosa,CIV
+351,PCA,PCA
+351,Estenosis aortica subvalvular,Estenosis
+352,Comunicacion interventricular membranosa,CIV
+353,Tetralogia de Fallot,Tetralogia de Fallot
+353,Comunicacion interventricular muscular multiples,CIV
+354,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+354,Status post-Bandaje de la AP Extra INP,Post-Surgical Procedure
+355,Comunicacion interauricular secundum,CIA
+356,Coartacion de arco aortico,Coartacion Aortica
+356,Hipoplasia de arco aortico,Hipoplasia
+357,Ventriculo unico atresia tricuspidea tipo IB,Corazon Univentricular
+357,CIA amplia,CIA
+357,CIV restrictiva,CIV
+357,Status post-Glenn,Post-Surgical Procedure
+358,Comunicacion interauricular secundum,CIA
+359,Corazon univentricular,Corazon Univentricular
+359,CATVP,Other
+359,Status post-Reparacion de CATVP con Bandaje de arteria pulmonar,Post-Surgical Procedure
+359,Status post-Glen con plastia de AP,Post-Surgical Procedure
+360,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+360,PCA,PCA
+360,Insuficiencia tricuspidea trivial,Other
+361,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+362,Comunicacion interauricular secundum,CIA
+363,Comunicacion interauricular secundum,CIA
+364,Persistencia de conducto arterioso,PCA
+365,Atresia pulmonar septum integro,Atresia
+365,PCA,PCA
+366,Canal AV parcial,CAV
+366,Insuficiencia de la valvula atrioventricular izquierda,Other
+366,CIA,CIA
+367,Comunicacion interventricular membranosa,CIV
+367,Comunicacion interauricular secundum,CIA
+367,PCA,PCA
+368,Comunicacion interventricular membranosa,CIV
+369,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+370,Estenosis aortica subvalvular,Estenosis
+371,Comunicacion interventricular membranosa,CIV
+371,Persistencia de conducto arterioso,PCA
+372,Comunicacion interventricular membranosa,CIV
+373,Comunicacion interauricular secundum,CIA
+374,Comunicacion interventricular membranosa,CIV
+374,Persistencia de conducto arterioso,PCA
+376,Atresia tricuspidea,Atresia
+376,Atresia pulmonar,Atresia
+377,Coartacion de Aorta,Coartacion Aortica
+377,Hipoplasia de arco aortico,Hipoplasia
+377,CIV membranosa restrictiva,CIV
+378,Comunicacion interventricular infundibular,CIV
+379,Comunicacion interventricular perimembranosa,CIV
+380,Comunicacion interventricular membranosa,CIV
+381,Transposicion de grandes vasos,Other
+382,Sindrome de ventriculo izquierdo hipoplasico,Hipoplasia
+383,Doble salida de ventriculo derecho CIV doblemente relacionada Tipo Fallot,Doble Salida VD
+383,Estenosis pulmonar infundibular y subinfundibular,Estenosis
+383,Status post-Glenn,Post-Surgical Procedure
+384,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+384,Status post-Bandaje de la AP,Post-Surgical Procedure
+385,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+385,Estenosis pulmonar valvular,Estenosis
+385,CIV perimembranosa tipo 2,CIV
+385,Status post-Glenn,Post-Surgical Procedure
+387,Comunicacion interventricular membranosa,CIV
+387,Persistencia de conducto arterioso,PCA
+390,Comunicacion interventricular membranosa,CIV
+390,PCA,PCA
+391,Comunicacion interauricular secundum,CIA
+392,Comunicacion interventricular infundibular,CIV
+393,Comunicacion interauricular secundum,CIA
+394,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+395,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+395,Status post-Norwood,Post-Surgical Procedure
+396,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+397,Estenosis supravalvular aortica,Estenosis
+397,Estenosis de la arteria carotida izquierda,Estenosis
+398,Insuficiencia mitral severa,Other
+398,Status post-Cierre de hendidura mitral y colocacion de anillo mitral 14-2-12,Post-Surgical Procedure
+400,Atresia tricuspidea,Atresia
+400,Status post-Procedimiento de Glenn,Post-Surgical Procedure
+401,Comunicacion interventricular membranosa,CIV
+401,Estenosis subaortica,Estenosis
+402,Comunicacion interventricular membranosa,CIV
+403,Comunicacion interventricular membranosa,CIV
+403,Persistencia de conducto arterioso,PCA
+404,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+405,Canal AV completo balanceado tipo A rastelli,CAV
+406,Canal AV completo balanceado,CAV
+407,Comunicacion interventricular perimembranosa,CIV
+407,PCA,PCA
+408,Comunicacion interventricular perimembranosa,CIV
+408,PCA,PCA
+409,Ventriculo unico atresia triscupidea,Corazon Univentricular
+409,Status post-Glenn bidireccional,Post-Surgical Procedure
+410,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+411,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+411,Anillo aortico y aorta ascendente hipoplasicos,Hipoplasia
+411,Estenosis mitral,Estenosis
+411,Fibroelastosis endocardica grado III,Other
+411,Disfuncion del VI severa,Other
+412,Comunicacion interventricular membranosa,CIV
+413,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+414,Comunicacion interauricular secundum,CIA
+415,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+416,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+416,Status post-FBTM,Post-Surgical Procedure
+417,Comunicacion interventricular infundibular,CIV
+417,Insuficiencia valvular aortica secundaria,Other
+418,Comunicacion interventricular membranosa,CIV
+419,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+420,Coartacion de Aorta,Coartacion Aortica
+420,Hipoplasia de arco aortico,Hipoplasia
+420,Estenosis aortica,Estenosis
+420,Estenosis mitral,Estenosis
+421,Comunicacion interventricular infundibular,CIV
+422,Conexion anomala total de venas pumonares seno coronario,Conexion Anomala
+423,Comunicacion interventricular multiples 1 membranosa 1 via de entrada y 1 muscular,CIV
+423,PCA,PCA
+424,Comunicacion interventricular por mala alineacion tipo Eisenmenger,CIV
+424,Membrana subaortica no obstructiva,Other
+425,Comunicacion interauricular secundum,CIA
+426,Atresia pulmonar septum integro,Atresia
+426,Status post-Colocacion de Stent en PCA,Post-Surgical Procedure
+427,Comunicacion interventricular infundibular,CIV
+428,Doble Salida del Ventriculo Derecho tipo TGA,Doble Salida VD
+428,Status post-Bandaje de la arteria pulmonar y Glenn,Post-Surgical Procedure
+429,Comunicacion interventricular membranosa,CIV
+429,CIA,CIA
+430,Atresia pulmonar septum integro,Atresia
+430,Status post-Colocacion de Stent en PCA,Post-Surgical Procedure
+430,Status post-FBTM,Post-Surgical Procedure
+431,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+432,Status post-Reparacion de TOF,Post-Surgical Procedure
+433,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+433,Status post-Bandaje de la AP,Post-Surgical Procedure
+434,Doble discordancia AV y VA ventriculo unico otros,Other
+434,Status post-Avance y Bandaje de la AP,Post-Surgical Procedure
+435,Transposicion de grandes vasos septum integro,Other
+436,Comunicacion interventricular membranosa,CIV
+436,Estenosis aortica subvalvular,Estenosis
+437,Comunicacion interventricular membranosa,CIV
+437,Status post-Coartectormia extrakardias,Post-Surgical Procedure
+438,Doble salida del VD tipo Fallot con estenosis subpulmonar,Doble Salida VD
+438,Stradding de valvula tricuspidea,Other
+438,Overriding de la valvula tricuspide,Other
+440,Comunicacion interventricular por mala alineacion,CIV
+440,Estenosis valvular pulmonar ausencia de valvula pulmonar,Estenosis
+441,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+441,Atresia pulmonar,Atresia
+441,Status post-FBTM y Glenn,Post-Surgical Procedure
+442,Comunicacion interauricular,CIA
+443,Ventriculo unico atresia tricuspidea IB,Corazon Univentricular
+443,Vena cava izquierda persistente,Other
+444,Estenosis aortica subvalvular,Estenosis
+444,Persistencia de conducto arterioso,PCA
+445,Comunicacion interauricular secundum,CIA
+445,Comunicacion interventricular membranosa,CIV
+446,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+447,Comunicacion interauricular secundum,CIA
+448,Comunicacion interauricular secundum,CIA
+449,Comunicacion interventricular perimembranosa,CIV
+449,PCA,PCA
+450,Comunicacion interauricular secundum,CIA
+451,Canal AV completo balanceado,CAV
+453,Coartacion de Aorta,Coartacion Aortica
+453,Hipoplasia de arco aortico,Hipoplasia
+453,PCA,PCA
+454,Comunicacion interauricular secundum,CIA
+455,Comunicacion interauricular secundum,CIA
+456,Comunicacion interventricular membranosa,CIV
+456,Persistencia de conducto arterioso,PCA
+457,Tetralogia de Fallot estenosis pulmonar colateral aorto-pulmonar,Tetralogia de Fallot
+458,Comunicacion interauricular secundum,CIA
+459,Coartacion de Aorta,Coartacion Aortica
+459,Hipoplasia de arco aortico,Hipoplasia
+459,CIV pequena restrictiva,CIV
+459,PCA,PCA
+460,Comunicacion interventricular membranosa,CIV
+460,PCA,PCA
+461,Coartacion de Aorta,Coartacion Aortica
+461,Hipoplasia de arco aortico,Hipoplasia
+462,Comunicacion interauricular secundum,CIA
+463,Canal AV completo balanceado tipo A rastelli,CAV
+464,Coartacion de Aorta,Coartacion Aortica
+464,Hipoplasia de arco aortico,Hipoplasia
+465,Comunicacion interauricular secundum,CIA
+466,Estenosis pulmonar critica,Estenosis
+466,PCA,PCA
+466,Intento de cierre por cate perforacion del VD,Other
+467,Comunicacion interventricular multiple,CIV
+467,PCA,PCA
+468,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+468,CIA,CIA
+469,Comunicacion interauricular secundum,CIA
+469,Persistencia de conducto arterioso,PCA
+470,Comunicacion interventricular muscular,CIV
+471,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+471,PCA,PCA
+472,Comunicacion interventricular membranosa,CIV
+472,PCA,PCA
+473,Comunicacion interventricular membranosa por mala alineacion,CIV
+473,VCS izquierda persistente,Other
+474,Comunicacion interventricular membranosa,CIV
+475,Comunicacion interauricular secundum,CIA
+477,Comunicacion interauricular secundum,CIA
+478,Comunicacion interventricular membranosa,CIV
+479,Comunicacion interventricular membranosa,CIV
+480,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+480,Estenosis aortica critica,Estenosis
+480,Hipoplasia de aorta ascendente y del arco aortico,Hipoplasia
+480,Coartacion de Aorta,Coartacion Aortica
+480,Status post-Norwood y Glenn,Post-Surgical Procedure
+481,Comunicacion interventricular membranosa,CIV
+481,CIA secundum,CIA
+481,PCA,PCA
+482,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+483,Doble salida del VD tipo Fallot,Doble Salida VD
+483,CATVP a la auricula morfologicamente derecha,Other
+483,Situs inversus,Other
+483,Isomerismo auricualr pb izquierdo,Other
+483,Interrupcion de vena cava inferior con continuacion a la acigos,Other
+484,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+484,Status post-Fallot y colocacion de ECMO,Post-Surgical Procedure
+485,Comunicacion intrventricular por malalineacion,CIV
+486,Comunicacion interventricular membranosa,CIV
+486,comunicacion interauricular tipo seno venoso inferior,CIA
+487,Canal AV completo,CAV
+487,CIA secundum,CIA
+487,PCA,PCA
+488,Comunicacion interventricular membranosa por mala alineacion,CIV
+489,Comunicacion interauricular secundum,CIA
+489,Estenosis pulmonar valvular,Estenosis
+490,Coartacion de Aorta,Coartacion Aortica
+491,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+491,PCA,PCA
+492,Ventriculo unico atresia tricuspidea CIA y CIV restrictiva,Corazon Univentricular
+492,Status post-Glenn,Post-Surgical Procedure
+493,Ventriculo unico atresia tricuspidea con atresia pulmonar,Corazon Univentricular
+493,Status post-Glenn,Post-Surgical Procedure
+494,Ventriculo unico doble entrada al VI,Corazon Univentricular
+494,Status post Glenn sep 12? en el IMSS,Other
+495,Comunicacion interauricular secundum,CIA
+496,Ventana aorto-pulmomar tipo III,Other
+497,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+497,Atresia pulmonar,Atresia
+498,Comunicacion interventricular membranosa,CIV
+499,Conexion anomala total de venas pulmonares supracardiaca parcialmente obstruida,Conexion Anomala
+500,Comunicacion interauricular secundum,CIA
+501,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+502,Canal AV completo,CAV
+503,Comunicacion interventricular membranosa,CIV
+503,Estenosis aortica subvalvular,Estenosis
+504,Atresia tricuspidea,Atresia
+504,Atresia pulmonar,Atresia
+504,Status post-FBTM,Post-Surgical Procedure
+505,Comunicacion interauricular FOP,CIA
+505,Comunicacion interventricular membranosa,CIV
+505,Persistencia de conducto arterioso,PCA
+506,Comunicacion interauricular secundum,CIA
+506,Persistencia de conducto arterioso,PCA
+507,Cor Triatriatum sinester,Other
+508,Tronco arterioso tipo I,Other
+509,Comunicacion interauricular secundum,CIA
+509,Status post-Cierre quirurgico de PCA externo,Post-Surgical Procedure
+510,Interrupcion de arco aortico CIV,Other
+510,PCA,PCA
+511,DSVD,Other
+511,CIV subaortica,CIV
+511,Estenosis aortica subvalvular,Estenosis
+512,Comunicacion interventricular infundibular,CIV
+512,Formane oval permeable,Formane oval permeable
+512,Persistencia de conducto arterioso,PCA
+513,Atresia mitral,Atresia
+513,Doble salida del ventriculo derecho,Doble Salida VD
+513,Estenosis pulmonar,Estenosis
+513,Historia de fistula de Blalock Taussig?,Post-Surgical Procedure
+513,Estatus post procedimiendo de Glenn y desmantelamiento de fistula de Blalock Taussig,Other
+513,Historia de septectomia atrial,Post-Surgical Procedure
+514,Comunicacion interauricular secundum,CIA
+515,Ventriculo unico atresia tricuspidea,Corazon Univentricular
+515,Status post-FBTM glenn bidireccional,Post-Surgical Procedure
+516,Interrupcion de arco aortico tipo B CIV membranosa conotroncal,Other
+516,PCA,PCA
+516,Status post Correccion de interrupcion de arco tipo B cierre de CIV membranosa conotroncal cierre quirurgico de PCA,Other
+517,Anillo vascular completo por doble arco aortico,Other
+518,Comunicacion interauricular secundum,CIA
+519,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+520,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+521,Canal AV completo,CAV
+521,Comunicacion interauricular ostium secundum,CIA
+522,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+523,Comunicacion interventricular membranosa,CIV
+524,Comunicacion interauricular secundum,CIA
+524,PCA,PCA
+525,Hipoplasia de arco aortico,Hipoplasia
+525,Coartacion de arco aortico CIV,Coartacion Aortica
+526,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+527,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+528,Comunicacion interventricular muscular con extension a la via de entrada,CIV
+528,Persistencia de conducto arterioso,PCA
+529,Comunicacion interventricular membranosa,CIV
+530,Status post-Cierre de CIV,Post-Surgical Procedure
+530,Comunicacion interventricular por rutura de sutura,CIV
+530,Persistencia de conducto arterioso,PCA
+531,Doble via de salida del VD,Doble Salida VD
+531,CIV subaortica,CIV
+531,Doble camara del VD,Other
+531,Estenosis aortica subvalvular,Estenosis
+532,Doble via de salida del VD con CIV no relacionada,Doble Salida VD
+532,Estenosis pulmonar mixta,Estenosis
+533,Estenosis aortica subvalvular,Estenosis
+533,Status post-TOF,Post-Surgical Procedure
+533,Tetralogia de Fallot estenosis pumonar,Tetralogia de Fallot
+533,PCA,PCA
+534,Comunicacion interventricular membranosa,CIV
+534,Formane oval permeable,Formane oval permeable
+535,Persistencia de conducto arterioso,PCA
+535,Estenosis aortica subvalvular,Estenosis
+536,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+536,Persistencia de conducto arterioso,PCA
+537,Comunicacion interventricular membranosa,CIV
+537,Membrana subvalvular aortica,Other
+538,Comunicacion interventricular membranosa,CIV
+539,Coartacion de Aorta,Coartacion Aortica
+540,Comunicacion interventricular multiple membranosa y musculares,CIV
+541,Comunicacion interventricular por mala alineacion,CIV
+541,PCA,PCA
+541,Conexion anomal parcial de venas pulmonares izquierda,Conexion Anomala
+541,Situs inversus total,Other
+541,VCS izqueirda,Other
+542,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+542,PCA,PCA
+543,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+543,CIA,CIA
+543,Diverticulo pericardico,Other
+543,Dextroapex,Other
+543,Pentalogia de Cantrell,Other
+544,Comunicacion interventricular multiple membranaosa,CIV
+544,muscular,Other
+544,PCA,PCA
+544,Insuficiencia tricuspidea moderada,Other
+545,Status post-TOF,Post-Surgical Procedure
+545,CIA,CIA
+545,Diverticulo pericardico,Other
+545,Dextroapex,Other
+545,Pentalogia de Cantrell,Other
+546,Estenosis subvalvuar aortica,Estenosis
+546,PCA,PCA
+547,Ventriculo unico DEVI,Corazon Univentricular
+548,Coartacion de Aorta,Coartacion Aortica
+548,Hipoplasia de arco aortico,Hipoplasia
+549,Ventriculo unico DEVI,Corazon Univentricular
+549,Discoardancia ventriculo arterial,Other
+549,Foramen bulboventricular no restrictivo,Other
+550,Comunicacion interventricular membranosa,CIV
+551,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+552,Comunicacion interventricular membranosa,CIV
+552,CIA,CIA
+552,PCA,PCA
+553,Canal AV completo balanceado tipo A  de Rastelli,CAV
+554,Comunicacion interauricular secundum,CIA
+554,Estenosis pulmonar valvular,Estenosis
+555,Comunicacion interauricular secundum,CIA
+556,Comunicacion interventricular membranosa,CIV
+557,Comunicacion interauricular tipo seno venoso superior de 11mm,CIA
+558,Status post-TOF y CIV residual,Post-Surgical Procedure
+558,CIA,CIA
+558,Diverticulo pericardico,Other
+558,Dextroapex,Other
+558,Pentalogia de Cantrell,Other
+559,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+560,Coartacion de Aorta,Coartacion Aortica
+560,Hipoplasia de arco aortico,Hipoplasia
+561,Comunicacion interauricular secundum,CIA
+562,Comunicacion interventricular muscular con extension membranosa,CIV
+563,Canal AV completo,CAV
+563,Status post bandaje de arteria pulmonar extrakardias a los 21 dias,Other
+563,Cateterismo diagnostico el 14-9,Other
+564,Tetralogia de Fallot estenosis pulmonar,Tetralogia de Fallot
+564,CIA fenestrada,CIA
+565,Comunicacion interauricular secundum,CIA
+568,Comunicacion interventricular membranosa,CIV
+568,PCA,PCA
+569,Canal AV parcial,CAV
+570,Status post-Glenn,Post-Surgical Procedure
+570,Ventriculo unico DEVI,Corazon Univentricular
+570,TGV,Other
+570,Estenosis subaortica funcional pb a nivel de las cuerdas de la valvula tricuspidea,Estenosis
+571,Doble via de salida del VD con CIV subaortica,Doble Salida VD
+572,CIA secundum,CIA
+572,PCA,PCA
+573,Comunicacion interventricular membranosa,CIV
+574,Comunicacion interventricular membranosa,CIV
+575,Status post-Reparacion de Doble via de salida del VD CIV subaortica,Post-Surgical Procedure
+576,Coartacion de aorta con hipoplasia de arco aortico,Coartacion Aortica
+577,Comunicacion interauricular secundum,CIA
+578,Ventriculo unico DEVI Inversion ventricular Transposicion de grandes vasos foramen oval permeable foramen bulboventricular no restrictivo,Corazon Univentricular
+579,Trombo en AD,Other
+580,Persistencia de conducto arterioso,PCA
+581,CIV membranosa,CIV
+581,Membrana subaortica,Other
+582,CIA tipo Ostium Secundum,CIA
+583,Membrana subaortica,Other
+583,Conducto arterioso persistente,PCA
+584,Comunicacion interventricular membranosa,CIV
+585,Comunicacion interventricular membranosa,CIV
+586,CIV membranosa con extension a la via de entrada,CIV
+586,Membrana subaortica no obstructiva,Other
+587,Doble salida del ventriculo derecho,Doble Salida VD
+587,Estenosis pulmonar,Estenosis
+587,Hipoplasia de ramas pulmonares,Hipoplasia
+588,Doble salida del VD con estenosis pulmonar mixto tipo Fallot,Doble Salida VD
+588,VCS izquierda persistente,Other
+589,Persistencia de conducto arterioso,PCA
+590,Comunicacion interventricular membranosa,CIV
+590,Membrana subaortica,Other
+590,PCA,PCA
+591,Comunicacion interauricular ostium secundum,CIA
+592,Comunicacion interventricular membranosa,CIV
+592,CIA secundum,CIA
+592,PCA,PCA
+593,Comunicacion interventricular membranosa,CIV
+593,Estenosis aortica subvalvular,Estenosis
+594,Comunicacion interventricular membranosa,CIV
+595,Coartacion de aorta yuxtaductal,Coartacion Aortica
+596,Membrana subvalvular aortica,Other
+596,Persistencia de conducto arterioso,PCA
+597,Ventriculo izquierdo limitrofe,Other
+597,Coartacion de Aorta,Coartacion Aortica
+597,Hipoplasia de arco aortico,Hipoplasia
+598,Coartacion de Aorta,Coartacion Aortica
+598,Hipoplasia de arco aortico,Hipoplasia
+599,Coartacion de aorta yuxtaductal,Coartacion Aortica
+600,Comunicacion interventricular,CIV
+601,Comunicacion interventricular membranosa,CIV
+602,Comunicacion interventricular con extension a via de entrada,CIV
+602,CIA secundum,CIA
+602,Hendidura mitral,Other
+603,Comunicacion interventricular,CIV
+603,Estenosis aortica subvalvular,Estenosis
+604,Comunicacion interventricular membranosa,CIV
+604,CIA,CIA
+604,PCA,PCA
+605,Corazon univentricularestenosis tricuspidea severa,Corazon Univentricular
+605,estenosis pulmonar con ramas confluentes,Estenosis
+605,colaeral aorto-pulmonar,Other
+606,Comunicacion interventricular muscular con extension membranosa,CIV
+607,Conducto arterioso permeable se descarta tipo ventana,PCA
+608,Comunicacion interventricular membranosa y muscular,CIV
+608,Persistencia de conducto arterioso,PCA
+609,Trasposicon de grandes arterias,Other
+609,Persistencia de conducto arterioso,PCA
+609,foramen oval no restrictivo,Other
+610,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+610,comunicacion auricular no restrictiva,CIA
+611,Doble salida del ventriculo derecho,Doble Salida VD
+611,comunicacion interventricular subaortica,CIV
+611,membrana subaortica estenosis subvalvular aortica,Other
+612,Persistencia de conducto arterioso,PCA
+613,Comunicacion interauricular secundum,CIA
+614,Comunicacion interauricular tipo seno venoso,CIA
+614,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+614,Comunicacion interauricular ostium secundum,CIA
+614,vena cava superior izquierda persistente,Other
+615,Persistencia de conducto arterioso,PCA
+615,Arco aortico izquierdo con aorta circunfleja y porcion descendente derecha,Other
+616,Tetralogia de Fallot patron coronario habitual y arco aortico izquierdo,Tetralogia de Fallot
+616,CIV cortocircuito bidireccional,CIV
+616,Estenosis pulmonar moderada de predominio infundibular,Estenosis
+616,Formane oval permeable,Formane oval permeable
+616,Colateral aortopulmonar,Other
+617,Canal AV desbalanceado,CAV
+617,Corazon univentricular heterotaxia,Corazon Univentricular
+617,Atresia pulmonar,Atresia
+617,AP confluentes con estenosis en su origen,Other
+617,CATVP supracardiaca,Other
+617,PCA,PCA
+618,Atresia tricuspidea con TGA foramen bulboventricular limitrofe,Atresia
+618,Coartacion de aorta con hipoplasia de arco aortico,Coartacion Aortica
+618,foramen oval no restrictivo,Other
+619,Atresia tricuspidea,Atresia
+619,Conexion ventriculo arterial concordante,Conexion Anomala
+619,Foramen bulboventricular no restrictivo,Other
+619,PCA,PCA
+620,Coartacion de aorta; Hipoplasia de arco aortico; Conexion anomala total de venas pulmonares infracardiaca obstruida,Coartacion Aortica
+621,Ventriculo unico DEVI Inversion ventricular Transposicion de grandes vasos foramen oval permeable foramen bulboventricular no restrictivo,Corazon Univentricular
+622,CIV tipo membranosa con extension a la via de entrada,CIV
+623,Atresia tricuspidea con TGA foramen bulboventricular limitrofe,Atresia
+623,Coartacion de aorta con hipoplasia de arco aortico,Coartacion Aortica
+623,foramen oval no restrictivo,Other
+623,PO de Damus/Kaye/Stansel con avance de arco aortico,Other
+623,fistula de Blalock Taussig hiperfuncionante,Other
+624,Comunicacion interventricular membranosa; Estenosis subarotica; Insuficiencia aortica ligera,CIV
+625,Comunicacion interventricular membranosa,CIV
+626,Coartacion de aorta; Insuficiencia mitral congenita,Coartacion Aortica
+627,Atresia pulmonar septum integro,Atresia
+627,PO de ampliacion del tracto de salida del VD con fistula de Blalock Taussig,Other
+628,Comunicacion interventricular mebranosa; Comunicacion interventricular muscular apical; Persistencia se conducto arterioso,PCA
+629,Tetralogia de Fallot,Tetralogia de Fallot
+630,Coartacion de aorta yuxtaductal; Conducto arterioso pequeno,PCA
+631,Corazon funcionalmente univentricular; Discordancia atrioventricular; Doble salida del ventriculo derecho; Ausencia de conexion atrioventricular derecha; Inversion ventricular; Vasos normalmente relacionados; Conexion anomala total de venas pulmonares al seno coronario; Vena cava superior izquierda persistente; yuxtaposicion de auriculas,Corazon Univentricular
+632,Atresia pulmonar/septum integro; PO de colocaccion de stent intraductal en etapa neonatal y stent sobre stent a los 8 meses de edad,Atresia
+633,Canal AV transicional Rastelli A; CIA primum 12 mm; CIV entrada 5mm,CAV
+634,Comunicacion interventricular membranosa; Persistencia de conducto arterioso,PCA
+635,Trasposicion de grandes arterias; Coronaria unica naciendo del seno 1; Ventana aorto-pulmonar tipo 2; Comunicacion interventricular membranosa: Vena cava superior persistente,Other
+636,Mediastinitis,Other
+636,Status post-Bandaje de la AP,Post-Surgical Procedure
+636,Corazon funcionalmente univentricular; Discordancia atrioventricular; Doble salida del ventriculo derecho; Ausencia de conexion atrioventricular derecha; Inversion ventricular; Vasos normalmente relacionados; Conexion anomala total de venas pulmonares al seno coronario; Vena cava superior izquierda persistente; yuxtaposicion de auriculas,Corazon Univentricular
+637,Cierre de comunicacion interventricular por mala alineacion,Other
+638,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+639,Comunicacion interventricular,CIV
+639,Estenosis aortica subvalvular,Estenosis
+640,Canal atrioventicular Rastelli C,CAV
+640,Comunicacion interauricular ostium secundum,CIA
+641,Estenosis supravalvular aortica,Estenosis
+641,Pb estenosis supravalvular pulmonar,Other
+641,Hipertrofia subvalvular aortica,Other
+642,Atresia pulmonar,Atresia
+642,Comunicacion interventricular,CIV
+642,Estenosis de la rama izquierda de lla arteria pulmonar,Estenosis
+642,Persistencia de conducto arterioso,PCA
+643,Anomalia de Ebstein; PO de implante de protesis tricuspidea 1991; PO de implante de celulas madre y colocacion de alambres de marcapasos 2008: Flutter paroxistico; Bloqueo AV avanzado,Other
+644,Estenosis pulmonar severa septum interventricular integro,Estenosis
+644,Ventriculo derecho limitrofe hipoplasia e hipertrofia ventricular derecha,Other
+644,CIA,CIA
+644,PO valvuloplastia percutanea 2 veces,Other
+644,PO de FBTM,Other
+645,Comunicaicon interauricular,CIA
+645,Comunicacion interventricular,CIV
+645,Estenosis subaortica por desviacion posterior del septum,Estenosis
+646,Canal atrioventricular completo balanceado tipo A Rastelli; Comunicacion interauricular ostium secundum; Conducto arterioso permeable; Insuficiencia del componente derecho ligera,PCA
+647,Comunicacion interventricular,CIV
+647,PCA,PCA
+648,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+649,Comunicacion interventricular membranosa,CIV
+650,Comunicacion interauricular secundum,CIA
+651,Comunicacion interauricular secundum,CIA
+652,Tetralogia de Fallot,Tetralogia de Fallot
+653,Comunicacion interventricular membranosa,CIV
+654,Estenosis valvular aortica severa,Estenosis
+654,Aorta bivalva,Other
+654,Conducto arterioso pequeno permeable,PCA
+655,Comunicacion interventricular membranosa,CIV
+655,Conducto arterioso permeable,PCA
+656,Comunicacion interventricular muscular,CIV
+656,Comunicacion interauricular,CIA
+656,Conducto arterioso permeable,PCA
+657,Tetralogia de Fallot,Tetralogia de Fallot
+658,Antecedente de comunicacion interauricular pequena cerro de forma espontanea,Other
+658,Comunicacion interventricular perimembranosa de 3x5 mm,CIV
+659,Comunicacion interauricular tipo ostium secundum,CIA
+660,Tetralogia de Fallot,Tetralogia de Fallot
+661,Comunicacion interventricular,CIV
+661,Estenosis subaortica,Estenosis
+662,Corazon univentricular atresia tricuspidea,Corazon Univentricular
+662,PO de Glenn,Other
+662,PO de bandaje de AP,Other
+663,Corazon con fisiologia univentricular secundario a atresia tricuspidea,Corazon Univentricular
+663,PO de Glenn,Other
+664,Comunicacion interventricular de entrada con extension membranosa 14x15mm,CIV
+664,Insuficiencia mitral severa,Other
+665,CIA ostium secundum,CIA
+666,CIA ostium secundum,CIA
+667,Comunicacion interventricular,CIV
+667,Comunicacion interauricular,CIA
+667,Pesistencia de Conducto Arterioso,PCA
+668,Estenosis mitral,Estenosis
+669,Atresia tricuspidea,Atresia
+669,Foramen bulboventricular no restrictivo,Other
+669,CIA parcialmente restrictiva,CIA
+670,Coartacion de Aorta,Coartacion Aortica
+670,Comunicacion interventricular membranosa,CIV
+670,Persistencia de conducto arterioso,PCA
+671,Comunicacion interauricular tipo ostium secundum,CIA
+672,Comunicacion interventricular membranosa,CIV
+672,Comunicacion interauricular ostium secundum,CIA
+672,Persistencia de conducto arterioso,PCA
+673,Tetralogia de Fallot,Tetralogia de Fallot
+674,Corazon con fisiologia univentricular secundario a atresia pulmonar con comunicacion interventricular no septable,Corazon Univentricular
+675,Canal AV balanceado intermedio 1 anillo 2 orificios Rastelli A,CAV
+675,Persistencia de conducto arterioso,PCA
+676,Hipoplasia de arco aortico,Hipoplasia
+676,Coartacion de Aorta,Coartacion Aortica
+676,CIV,CIV
+676,PCA,PCA
+677,Comunicacion interauricula ostium secundumr,CIA
+677,PCA,PCA
+678,Tetralogia de Fallot con ventana aortopulmonar,Tetralogia de Fallot
+679,Doble salida del VI tipo Tetralogia de Fallot,Doble Salida VD
+679,Conducto arterioso persistente muy pequeno,PCA
+679,Comunicacion interauricular tipo ostium secundum,CIA
+679,PO Fistula Blalock Taussig,Other
+680,Comunicacion interventricular perimembranosa,CIV
+680,Estenosis mitral Anillo intramitral,Estenosis
+681,Comunciacion interventricular perimembranosa,CIV
+681,Persistencia de conducto arterioso,PCA
+682,Doble entrada del VI,Other
+682,Estenossi pulmonar,Other
+682,PO de Glenn,Other
+683,Doble via de salida del ventriculo derecho con comunicacion interventricular subaortica y persistencia de conducto arterioso,PCA
+684,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+684,Corazon con fisiologia univentricular,Corazon Univentricular
+684,Conexiones AV concordantes,Conexion Anomala
+684,Historia de bandaje pulmonar y Post Glenn,Post-Surgical Procedure
+685,Comunicacion interauricular ostium secundum,CIA
+686,Sindrome de corazon izquierdo hipolasico,Other
+686,Estenosis mitral,Estenosis
+686,Estenosis aortica,Estenosis
+686,aorta ascendente y arco hipoplasicos,Hipoplasia
+686,PCA,PCA
+686,CIA no restrictiva,CIA
+687,Tetralogia de Fallot,Tetralogia de Fallot
+687,Conducto arterioso persistente muy pequeno,PCA
+688,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+688,Atresia aortica,Atresia
+688,Atresia mitral,Atresia
+688,aorta ascendente y arco hipoplasicos,Hipoplasia
+688,Coartacion de Aorta,Coartacion Aortica
+688,Vena levo-atrio-cardinal persistente,Other
+689,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+689,Comunicacion interauricular amplia,CIA
+690,Coartacion e hipoplasia de arco aortico,Coartacion Aortica
+690,Comunicacion interventricular muscular apical,CIV
+691,Comunicacion interauricular ostium secundum,CIA
+692,Coartacion aortica,Coartacion Aortica
+693,Atresia pulmonar con comunicacion interventricular Tetralogia de Fallot,Atresia
+693,Estado post fistula de Blalock- Taussig,Other
+694,Tetralogia de Fallot,Tetralogia de Fallot
+694,CIA ostium secundum,CIA
+695,Comunicacion interventricular perimembranosa,CIV
+695,Comunicacion interauricular ostium secundum,CIA
+696,Canal AV completo,CAV
+696,Comunicacion interauricular ostium secundum,CIA
+697,Ventana aorto-pulmomar,Other
+697,Comunicacion interventricular perimembranosa,CIV
+698,Comunicacion interventricular infundibular,CIV
+699,Foramen bulboventricular no restrictivo,Other
+699,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+699,inversion ventricular,Other
+699,Transposicion de grandes vasos,Other
+699,Comunicacion interventricular,CIV
+700,Comunicacion interventricular membranosa,CIV
+701,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+701,PO bandaje de arteria pulmonar,Other
+701,PCA,PCA
+702,Comunicacion interventricular perimembranosa,CIV
+703,Tetralogia de Fallot,Tetralogia de Fallot
+704,Comunicacion interventricular membranosa,CIV
+705,Doble salida del ventriculo derecho,Doble Salida VD
+706,Comunicacion interventricular membranosa,CIV
+707,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+707,arco aortico derecho PO Norwood,Other
+707,PO de Glenn,Other
+708,Comunicacion interventricular membranosa por mala alineacion,CIV
+708,Membrana subaortica no obstructiva,Other
+709,Atresia tricuspidea,Atresia
+709,Estenosis pulmonar,Estenosis
+710,Comunicacion interauricular ostium secundum,CIA
+711,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+712,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+712,arco aortico derecho PO Norwood,Other
+712,PO de Glenn,Other
+713,Doble salida de ventriculo derecho con CIV subaortica,Doble Salida VD
+713,CIA ostium secundum,CIA
+713,PCA,PCA
+714,Doble salida de ventriculo derecho con CIV subaortica,Doble Salida VD
+714,CIA ostium secundum,CIA
+714,PCA,PCA
+714,PO cierre de CIV,Other
+714,CIV residual,CIV
+715,Cominicacion interventricular de la via de entrada,Other
+715,PCA,PCA
+716,Atresia tricuspidea,Atresia
+717,Corazon univentricular,Corazon Univentricular
+717,Ausencia de conexion AV derecha,Other
+717,inversion ventricular,Other
+717,Doble salida de VD,Doble Salida VD
+717,CIV amplia no restrictiva,CIV
+717,conexion anomala de venas pulmonares a seno coronario,Conexion Anomala
+717,doble vena cava superior,Other
+718,Atresia pulmonar septum integro,Atresia
+718,PO FBT cierre parcial de CIA,Other
+718,colocacion de Stent intraductal en etapa neonatal,Other
+719,Coartacion de Aorta,Coartacion Aortica
+719,Persistencia de conducto arterioso,PCA
+720,Atresia pulmonar septum integro,Atresia
+720,Estenosis del origen de la rama pulmonar izquierda con hipoplasia difusa,Estenosis
+720,Estado post colocacion de stent intraductal en etapa neonatal,Other
+721,Transposicion de grandes arterias,Other
+721,Comunicacion interventricular muscular media,CIV
+722,Atresia pulmonar septum integro,Atresia
+722,Estenosis del origen de la rama pulmonar izquierda con hipoplasia difusa,Estenosis
+722,Estado post colocacion de stent intraductal en etapa neonatal,Other
+723,Tetralogia de Fallot,Tetralogia de Fallot
+724,Tetralogia de Fallot,Tetralogia de Fallot
+725,Comunicacion interventricular infundibular,CIV
+726,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+727,Tetralogia de Fallot,Tetralogia de Fallot
+727,Insuficiencia valvular aortica prolapso de valva coronaria derecha,Other
+727,Persistenciad de conducto arterioso,PCA
+728,Comunicacion interauricular residual con conexion anomala parcial de venas pulmonares,CIA
+728,PO cierre CIV membranosa y PCA,Other
+728,PO Correccion CAPVP a auricula morfologicamente izquierda,Other
+728,Insuficiencia tricuspidea moderada,Other
+728,Situs inversus total,Other
+729,Tetralogia de Fallot,Tetralogia de Fallot
+730,Corazon univentricular,Corazon Univentricular
+730,atresia pulmonar con CIV multiples no septables,Atresia
+730,Aorta dextropuesta,Other
+730,Valvula tricuspide en straddling,Other
+730,Historia de fistula BT,Post-Surgical Procedure
+730,historia de Glenn bidireccioneal,Post-Surgical Procedure
+731,Comunicacion interventricular perimembranosa,CIV
+732,Comunicacion interauricular ostium secundum,CIA
+733,Cominicacion interventricular de la via de entrada,Other
+733,CIA ostium secundum,CIA
+733,Hendidura mitral,Other
+734,Comunicacion interauricular ostium secundum,CIA
+735,Comunicacion interventricular perimembranosa,CIV
+736,Comunicacion interventricular perimembranosa,CIV
+736,Insuficiencia tricuspidea moderada,Other
+736,vena cava superior izquierda persistente,Other
+737,Coartacion aotica,Coartacion Aortica
+737,PO avanca aortico,Other
+737,Membrana subaortica,Other
+738,Comunicacion interventricular perimembranosa,CIV
+738,PCA,PCA
+739,Comunicacion interventricular,CIV
+740,Estenosis aortica subvalvular,Estenosis
+740,PCA,PCA
+741,Comunicacion interauricular ostium secundum,CIA
+742,Comunicacion interauricular ostium secundum,CIA
+743,Canal atrioventricular balanceado,CAV
+743,insuficiencia severa de valvula AV comun,Other
+743,dilatacion moderada-severa de auricula derecha,Other
+743,vasos normalmente relacionados,Other
+743,Coartacion e hipoplasia de arco aortico,Coartacion Aortica
+743,PCA grande,PCA
+744,CIV  de via de entrada,CIV
+744,CIA ostium secundum fenestrada,CIA
+744,PCA,PCA
+745,Comunicacion interauricular amplia,CIA
+746,Canal atrioventricular completo balanceado,CAV
+746,hipertension pulmonar,Other
+747,Doble salida del ventriculo derecho,Doble Salida VD
+747,Estenosis pulmonar,Estenosis
+747,PO Blalock-Taussig,Other
+748,Comunicacion interauricular ostium secundum,CIA
+749,Comunicacion interventricular muscular alta,CIV
+749,Comunicacion interventricular membranosa,CIV
+750,Tetralogia de Fallot,Tetralogia de Fallot
+750,Persistencia de conducto arterioso,PCA
+751,Comunicacion interventricular membranosa,CIV
+751,Persistencia de conducto arterioso,PCA
+752,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+753,Insuficiencia aortica severa,Other
+753,dilatacion aneurismatica de aorta ascendente,Other
+753,historia de valvuloplastia aortica por estenosis aortica congenita en etapa neonatal,Post-Surgical Procedure
+754,Atresia tricuspidea con estenosis pulmonar,Atresia
+754,Historia de Fistula de Blalock-Taussing modificada,Post-Surgical Procedure
+754,Historia de procedimiento Glenn bidireccional,Post-Surgical Procedure
+754,Cateterismo dignostico evaluacion resistencias vasculares pulmonares,Other
+755,Tetralogia de Fallot,Tetralogia de Fallot
+756,Persistencia de conducto arterioso,PCA
+757,Insuficiencia de la vavula atrioventricular izquierda severa,Other
+757,CIV residual pequena,CIV
+757,Historia de coreccion de canal AV,Post-Surgical Procedure
+758,Tetralogia de Fallot,Tetralogia de Fallot
+758,CIA tipo foramen oval muy pequena,CIA
+759,Coartacion aortica,Coartacion Aortica
+759,Hipoplasia de arco aortico,Hipoplasia
+759,Persistencia de conducto arterioso,PCA
+760,CIV perimembranosa,CIV
+760,Membrana subaortica,Other
+761,Coartacion de aorta yuxtaductal,Coartacion Aortica
+762,CIA ostium secundum grande 25 x 15 mm con borde posterior mas pequeno,CIA
+762,Cardiomegalia,Other
+763,Comunicacion interventricular perimembranosa,CIV
+763,Persistencia de conducto arterioso,PCA
+764,Ventana aorto-pulmomar tipo III,Other
+764,Estenosis aortica subvalvular,Estenosis
+765,Hipoplasia de arco aortico,Hipoplasia
+765,Coartacion de Aorta,Coartacion Aortica
+766,Comunicacion interventricular perimembranosa,CIV
+766,Formane oval permeable,Formane oval permeable
+767,Tetralogia de Fallot,Tetralogia de Fallot
+768,Insuficiencia pulmonar severa,Other
+768,Historia de correccion de Tetralogia de Fallot con parche  no transanular,Other
+769,Sindrome de corazon izquierdo hipoplasico,Hipoplasia
+769,Atresia mitral,Atresia
+769,Ventriculo izquierdo hipoplasico,Hipoplasia
+769,Doble salida del ventriculo derecho,Doble Salida VD
+769,CIV,CIV
+769,Estenosis aortica,Estenosis
+769,Estenosis subaortica,Estenosis
+769,Aorta ascendente con hipoplasia moderada,Other
+769,Arco aortico hipoplasico,Hipoplasia
+769,Coartacion aortica,Coartacion Aortica
+769,CIA parcialmente restrictiva,CIA
+769,Insuficiencia tricuspidea moderada a severa,Other
+770,Comunicacion interauricular ostium secundum GRANDE eliptica 25 X 15 mm de diametro aproximadamente,CIA
+771,Comunicacion interauricular seno venoso,CIA
+771,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+772,Canal AV completo balanceado,CAV
+772,Persistencia de conducto arterioso,PCA
+772,Hipertension Arterial Pulmonar Severa,Other
+773,Comunicacion interventricular perimembranosa por mala alineacion,CIV
+773,Doble camara del Ventriculo Derecho,Other
+773,Vena cava superior izquierda persistente al seno coronario,Other
+774,Canal AV completo balanceado tipo A rastelli,CAV
+775,Comunicacion interauricular ostium secundum,CIA
+776,Canal AV completo,CAV
+776,OP de correccion de canal AV,Other
+776,CIV residual,CIV
+777,Comunicacion interauricular ostium secundum,CIA
+778,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+779,Tetralogia de Fallot,Tetralogia de Fallot
+780,Tetralogia de Fallot,Tetralogia de Fallot
+780,Antecedente de colocacion de stent ductal 11/02/2018,Other
+780,Estado Op de Fistula de Blalock Taussing 18/02/2019,Other
+781,Comunicacion interventricular membranosa,CIV
+781,Persistencia de conducto arterioso,PCA
+781,Membrana subvalvular aortica,Other
+782,Comunicacion interventricular membranosa,CIV
+782,Membrana subaortica,Other
+783,Canal AV completo balanceado tipo A rastelli,CAV
+783,Conducto arterioso persistente,PCA
+783,Coartacion yuxtaductal,Coartacion Aortica
+783,Displasia de valvula atrioventricular comun,Other
+784,Comunicacion interventricular muscular con extension membranosa,CIV
+784,Comunicacion interauricular ostium secundum,CIA
+785,Comunicacion interventricular por mal- alineacion anterior tipo Eisenmenger,CIV
+786,Atresia pulmonar,Atresia
+786,Comunicacion interventricular,CIV
+787,Comunicacion interventricular membranosa,CIV
+787,Conducto arterioso persistente,PCA
+788,Comunicacion interventricular membranosa,CIV
+788,Membrana subvalvular aortica,Other
+789,Conducto arterioso permeable,PCA
+789,Membrana subaortica,Other
+789,Comunicacion interventricular apical,CIV
+790,Comunicacion interventricular perimembranosa,CIV
+790,Persistencia de conducto arterioso,PCA
+790,Estenosis subaortica,Estenosis
+790,vena cava superior izquierda persistente,Other
+791,Conducto arterioso permeable,PCA
+792,Comunicacion interventricular perimembranosa,CIV
+793,Comunicacion interauricular ostium secundum,CIA
+794,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+794,Comunicacion interventricular muscular muy pequena restrictiva,CIV
+795,Comunicacion interventricular membranosa,CIV
+795,Conducto arterioso persistente,PCA
+796,Coartacion de aorta yuxtaductal,Coartacion Aortica
+796,Conducto arterioso permeable,PCA
+797,Comunicacion interventricular membranosa,CIV
+797,Insuficiencia tricuspidea moderada,Other
+798,Sindrome de Berry,Other
+798,Interrupcion de arco aortico tipo A,Other
+798,Ventana aorto pulmonar tipo II,Other
+798,Origen de la rama derecha de la arteria pulmonar de la aorta,Other
+798,Estenosis subaortica,Estenosis
+799,Comunicacion interventricular membranosa,CIV
+800,Comunicacion interventricular perimembranosa,CIV
+801,Comunicacion interventricular perimembranosa,CIV
+801,Doble camara del Ventriculo Derecho,Other
+801,Estenosis subaortica,Estenosis
+802,Canal AV completo tipo A de Rastelli,CAV
+802,Insuficiencia del componente valvular derecho moderado,Other
+802,Historia de bandaje de la arteria pulmonar,Post-Surgical Procedure
+802,Probable persistencia del conducto arterioso,PCA
+803,Comunicacion interventricular perimembranosa,CIV
+803,Historia de ligadura de conducto arterioso,PCA
+804,Comunicacion interventricular membranosa,CIV
+804,Persistencia de conducto arterioso,PCA
+804,Membrana subvalvular aortica,Other
+805,Doble salida de ventriculo derecho tipo Fallot,Doble Salida VD
+805,PO de Fistula sistemica pulmonar,Other
+806,Comunicacion interventricular infundibular,CIV
+806,Insuficiencia aortica moderada,Other
+807,Corazon con fisiologia univentricular Doble entrada de ventriculo izquierdo,Corazon Univentricular
+807,Estenosis pulmonar,Estenosis
+808,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+809,CIV perimembranosa,CIV
+809,Persistencia de conducto arterioso,PCA
+810,Comunicacion interauricular secundum,CIA
+810,Comunicacion interventricular por mal-alineacion Eisenmenger,CIV
+811,Comunicacion interventricular perimembranosa,CIV
+812,Coartacion de Aorta,Coartacion Aortica
+812,Hipoplasia moderada de arco aortico,Hipoplasia
+813,Comunicacion interventricular infundibular,CIV
+813,Membrana subaortica,Other
+814,Canal AV completo balanceado tipo C,CAV
+814,Comunicacion interauricular ostium secundum pequena,CIA
+815,Comunicacion interauricular ostium secundum,CIA
+816,Corazon univentricular Atresia tricusidea/Atresia pulmonar,Corazon Univentricular
+816,Estado postoperado de Fistula sistemico pulmonar y plastia de ramas pulmonares,Other
+817,Corazon izquierdo hipoplasico,Hipoplasia
+817,Atresia mitral,Atresia
+817,Doble salida del ventriculo derecho,Doble Salida VD
+817,Estenosis valvular y subvalvular aortica severas,Estenosis
+817,Hipoplasia de arco aortico,Hipoplasia
+817,Coartacion aortica,Coartacion Aortica
+817,Historia de Procedimiento de Damus/Kaye/Stansel con avance de arco aortico,Post-Surgical Procedure
+817,Fistula de Blalock - Taussing y plastia tricusidea,Other
+818,Conexion anomala total de venas pulmonares mixta las dos venas derechas y la inferior izquierda al seno coronario la superior izquierda a la vena inmominada,Conexion Anomala
+818,Comunicacion interauricular tipo foramen oval restrictiva,CIA
+819,Transposicion de grandes vasos con aorta anterior e izquierda SDL  y  Comunicacion interventricular doblemente relacionada,Other
+819,Arteria coronaria izquierda intramural retrocomisural,Other
+820,Comunicacion interventricular perimembranosa,CIV
+821,Atresia tricuspidea con vasos normalmente relacionados,Atresia
+821,Foramen bulboventricular no restrictivo,Other
+821,Estenosis pulmonar valvular y supravalvular,Estenosis
+821,Posible conducto arterioso permeable,PCA
+822,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+823,Atresia pulmonar septum integro,Atresia
+823,Historia de Fistula de Blalock - Taussing,Post-Surgical Procedure
+823,Historia de procedimiento de Glenn bidireccional y desmantelamiento de la Fistula de Blalock - Taussing,Post-Surgical Procedure
+823,Hipoplasia moderada del ventriculo derecho,Hipoplasia
+824,Atresia tricuspidea IC,Atresia
+824,Comunicacion interauricular tipo ostium secundum con corto circuito de derecha a ziquierda,CIA
+824,Comunicacion interventricular muscular con cortocircuito de izquierda a derecha,CIV
+824,Dilatacion de cavidades izquierdas,Other
+824,Dilatacion del tronco de la arteria pulmonar,Other
+824,Insuficiencia mitral ligera,Other
+825,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+825,Comunicacion interauricular tipo ostium secundum de 33 mm con cortocircuito de derecha a izquierda,CIA
+825,Conducto arterioso restrictivo con cortocircuito de derecha a izquierda,PCA
+826,Tetralogia de Fallot,Tetralogia de Fallot
+826,CIV perimembranosa amplia,CIV
+826,Estenosis subvalvular pulmonar,Estenosis
+826,Valva pulmonar bicomisural anillo normal,Other
+827,Canal AV desbalanceado VD dominante,CAV
+827,Auricula unica con remanente de septum interauricular,Other
+827,Doble salida de VD,Doble Salida VD
+827,Estenosis valvar y subvalvar pulmonar,Estenosis
+827,Marcapasos migratorio,Other
+827,Conexion anomala parcial de venas pulmonares izquierdas,Conexion Anomala
+828,CIA ostium secundum grande y yuxtaposicion de orejuelas hacia el lado derecho,CIA
+829,Conexion anomala total de venas pulmonares al seno coronario,Conexion Anomala
+829,CIA no restrictiva,CIA
+830,Tetralogia de Fallot con estenosis pulmonar infundibular,Tetralogia de Fallot
+831,Conducto arterioso permeable,PCA
+832,Atresia aortica,Atresia
+832,Hipoplasia de aorta ascendente,Hipoplasia
+832,Coartacion de Aorta,Coartacion Aortica
+832,Comunicacion interventricular,CIV
+833,Comunicacion interauricular no corregida,CIA
+833,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+834,Comunicacion interventricular grande muscular de entrada con extension perimembranosa  Comunicacion interauricular tipo ostium secundum de 5mm Falla cardiaca cronica descompensada con FEVI conservada,CIV
+835,Tetralogia de Fallot  extremo con hipoplasia de ramas pulmonares,Tetralogia de Fallot
+836,Conexion anomala total de venas pulmonares variedad supra cardiaca,Conexion Anomala
+836,Comunicacion interventricular muscular media pequena restrictiva,CIV
+837,Ventriculo izquierdo no compactado,Other
+837,Insuficiencia mitral severa,Other
+837,Hipertension pulmonar severa,Other
+837,Disfuncion sistolica y diastolica del ventriculo izquierdo,Other
+837,Falla cardiaca cronica descompensada,Other
+837,Edema agudo pulmonar,Other
+837,Qt prolongado 541 Bazzet,Other
+838,Coartacion de la aorta Q251 Estenosis mitral moderada,Coartacion Aortica
+839,Comunicacion interventricular perimembranosa,CIV
+840,Doble salida del ventriculo derecho pulmonar derecha aorta izquierda con arco aortico derecho,Doble Salida VD
+840,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+840,doble vena cava superior,Other
+840,Situs bronquial levomorfismo higado central,Other
+840,Comunicacion interatrial,CIA
+840,Sindrome Criss Cross,Other
+840,Ritmo atrial bajo,Other
+841,Dextrocardia,Other
+841,Situs solitus de vasos abdominales conexion atrioventricular discordante conexion ventriculoarterial discordante doble discordancia atresia pulmonar comunicacion interventricular amplia,Other
+841,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+841,Colateral a nivel del istmo vs conducto arterioso persistente,PCA
+841,Ramas pulmonares aparentemente confluentes,Other
+842,Conexion anomala parcial de venas pulmonares,Conexion Anomala
+842,ICC grado estadio funcional NYHA/ROSS III,Other
+843,Atresia Pulmonar CIV,Atresia
+843,Hipertrofia de Ventriculo derecho,Other
+843,,
+844,Corazon univentricular Canal AV balanceado DSVD con CIV no septable estenosis pulmonar vena cava izquierda persistente sindrome de hetortaxia,Corazon Univentricular
+844,CATVP supracardiaca,Other
+845,Conexion anomala venosa pulmonar total infracardiaca,Conexion Anomala
+845,foramen oval no restrictivo,Other
+846,Corazon univentricular Sindrome de heterotaxia situs abdominal inversus dextromorfismo canal AV dextrocardia dextroapex doble salida de ventriculo derecho  2 Estenosis pulmonar mixta valvular/supravalvular pulmonar,Corazon Univentricular
+847,Interrupcion de arco aortico tipo B,Other
+847,Comunicacion interventricular,CIV
+847,Persistencia de conducto arterioso,PCA
+848,Coartacion aortica,Coartacion Aortica
+848,Hipoplasia de arco aortico,Hipoplasia
+849,Persistencia de conducto arterioso hemodinamicamente significativa,PCA
+849,Insuficiencia cardiaca,Other
+850,Tronco arterioso comun tipo II,Other
+850,Interrupcion de arco aortico tipo A,Other
+850,Comunicacion interventricular,CIV
+850,Formane oval permeable,Formane oval permeable
+851,Transposicion de grandes vasos corregida con atresia pulmonar Corazon con fisiologia univentricular,Corazon Univentricular
+852,Canal Atrioventricular con ventriculo derecho dominante doble salida del ventriculo derecho y estenosis infundibular pulmonar,CAV
+853,Displasia de valvula tricuspide Insuficiencia tricuspidea severa,Other
+854,Corazon con fisiologia univentricular Heterotaxia situs invsersus discordancia AV aorta unica via de salida,Corazon Univentricular
+855,Conexion anomala total de venas pulmonares infracardiaca,Conexion Anomala
+856,heterotaxia,Other
+856,Situs inversus atrial ventriculos en asa en D doble salida del ventriculo derecho estenosis pulmonar moderada CIV,Other
+857,Canal auriculoventricular desbalanceado con dominancia Izquierda tipo C de Rastelli,CAV
+857,Ventriculo derecho hipoplasico,Hipoplasia
+857,Comunicaion interauricular tipo Op,CIA
+857,Comunicacion interventricular restrictiva,CIV
+857,Estenosis pulmonar severa subvalvular,Estenosis
+857,Conexion anomala total de venas pulmonares supracardiacas,Conexion Anomala
+857,Ausencia de vena innominada y arco aortico derecho,Other
+858,Insuficiencia aortica severa,Other
+858,Insuficiencia pulmonar grave,Other
+858,OP correccion de tronco arterioso tipo I y procedimiento de Rastelli,Other
+860,CIA tipo Ostium Secundum,CIA
+860,PCA grande,PCA
+860,Trombosis de vena cava inferior,Other
+860,Trombosis en arteria pulmonar,Other
+861,Coartacion aortica yuxtaductal,Coartacion Aortica
+861,CIV muscular,CIV
+862,Tetralogia de Fallot,Tetralogia de Fallot
+862,Colateral aortopulmonar,Other
+863,CIV,CIV
+863,Conducto arterioso persistente,PCA
+864,Canal AV,CAV
+864,Atresia pulmonar,Atresia
+865,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+865,Discordancia ventriculoarteriales,Other
+865,Comunicacion interventricular restrictiva,CIV
+866,Dextromorfismo dextrocardiaDefecto de la tabicacion atrioventricular desbalanceado CIA Ostium primum CIV entrada con cortocircuito bidireccional  Insuficiencia grave de la valvula atrioventricular comun en region central e insuficiencia ligera en porcion derecha Auricula comun Conexion anomala de venas pulmonares total,Other
+867,Corazon univentricular atresia mital,Corazon Univentricular
+867,Dextrocardia Doble salida del ventriculo derecho Discordancia atrioventricular Estenosis pulmonar mixta OP Glenn 17/05/2018 Cateterismo Dx 25/09/20,Other
+868,Multiples comunicaciones interventriculares musculares,Other
+869,Corazon univentricular Doble salida de ventriculo derecho con comunicacion interventricular no relacionada,Corazon Univentricular
+869,Estenosis pulmonar severa,Estenosis
+869,Comunicacion interauricular tipo ostium Secundum amplia,CIA
+870,Corazon univentricularAtresia tricuspidea vasos normalmente relacionados Comunicacion interventricular restrictiva,Corazon Univentricular
+871,Coartacion de aorta Hipoplasia de arco aortico transverso Aorta bivalva Conexion anomala parcial de venas pulmonares supracardiaca,Coartacion Aortica
+872,Conexion Anomala Total de Venas Pulmonares variedad Supracardiaca,Conexion Anomala
+872,CIA amplia,CIA
+873,CIV con mala alineacion tipo eisenmenger,CIV
+874,Atresia pulmonar con septum interventricular integro,Atresia
+874,Ventriculo derecho hipoplasico bipartita con infundibulo angosto muy hipertrofico,Hipoplasia
+875,Comunicacion interauricular,CIA
+875,Persistencia de conducto arterioso,PCA
+876,Tetralogia de Fallot,Tetralogia de Fallot
+877,Conexion anomala parcial de venas pulmonares derechas,Conexion Anomala
+878,Transposicion de Grandes Arterias loop posterior 1L-2CxR,Other
+878,CIA parcialmente restrictiva,CIA
+878,CIV muscular alta,CIV
+878,PCA,PCA
+878,PO procedimiento de Rashking,Other
+879,Dextroposicion,Other
+879,Dextrocardia,Other
+879,Doble salida del ventriculo derecho,Doble Salida VD
+879,CIV restrictiva,CIV
+879,arco aortico derecho,Other
+879,Estenosis pulmonar infundibular severa,Estenosis
+880,Insuficiencia mitral severa por acortamiento de la valva posterior,Other
+880,Dilatacion moderada del anillo mitral,Other
+881,Canal auriculo-ventricular tipo C de Rastelli,CAV
+881,Persistencia de conducto arterioso,PCA
+882,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+882,Hendidura mitral,Other
+882,Comunicacion interauricular ostium secundum,CIA
+883,Tetralogia de Fallot,Tetralogia de Fallot
+884,Transposicion de grandes vasos con CIV subpulmonbar,Other
+885,CIA amplia de malos bordes,CIA
+886,Conexion anomala de venas pulmonares supracardica,Conexion Anomala
+886,Comunicacion interatrial tipo ostium secundum,CIA
+887,Comunicacion interauricular,CIA
+889,Atresia pulmonar con comunicacion interventricular,Atresia
+889,CIA,CIA
+889,PCA,PCA
+890,Comunicacion interauricular ostium secundum,CIA
+890,Hipertrofia concentrica de VI,Other
+891,Coartacion aortica critica postductal,Coartacion Aortica
+891,Hipoplasia severa del arco aortico,Hipoplasia
+891,Displasia mitral pb en hamaca con estenosis leve,Other
+892,Conexion anomala total de venas pulmonares variedad supracardiaca obstruida,Conexion Anomala
+892,Comunicacion interatrial secundum,CIA
+892,Comunicacion interventricular perimembranosa,CIV
+893,Insuficiencia mitral severa por acortamiento de la valva posterior,Other
+893,Dilatacion moderada del anillo mitral,Other
+893,Status post-Valvuloplastia mitral,Post-Surgical Procedure
+894,Coartacion,Coartacion Aortica
+894,Hipoplasia de arco aortico,Hipoplasia
+894,Comunicacion interventricular perimembranosa con cortocircuito bidireccional,CIV
+894,FO permeable,Other
+895,Tetralogia de Fallot,Tetralogia de Fallot
+896,Doble via de salida del ventriculo derecho con vasos en mal posicion,Doble Salida VD
+896,Comunicacion interventricular doblemente relacionada,CIV
+896,Yuxtaposicion de orejuelas,Other
+897,Atresia pulmonar con comunicacion interventricular,Atresia
+897,Rama derecha de arteria pulmonar hipoplasico,Hipoplasia
+897,Historia de fistula de Blalock Taussig mdificada,Post-Surgical Procedure
+897,Colateral aorto pulmonar mayor MAPCA que irriga la totalidad del pulmon deerecho,Other
+898,Comunicacion interventricular membranosa,CIV
+898,Comunicacion interventricular muscular apical pequena restrictiva,CIV
+898,Comunicacion interauricular ostium secundum,CIA
+898,Estensosis e insuficiencia pulmonar ligera,Other
+898,Conducto arterioso persistente,PCA
+899,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+899,Estenosis pulmonar ligera,Estenosis
+900,Corazon univentricular Canal AV completo con CIV no septable,Corazon Univentricular
+900,Discordancia ventriculo-arterial con estenosis pulmonar severa,Other
+900,Dextrocardia/ Dextroapex,Other
+901,Coartacion de aorta yuxtaductal,Coartacion Aortica
+901,PCA,PCA
+902,Corazon univentricular atresia tricuspidea,Corazon Univentricular
+902,PO de FBT,Other
+903,Comunicacion interauricular fenestrada,CIA
+904,Comunicacion interventricular infundibular,CIV
+905,Dextrocardia dextroapex situs isomorfico atrial Sx Heterotaxia  canal AV completo unica via de salida del ventriculo derecho atresia pulmonar ramas pulmonares confluentes  stent en conducto arterioso-colateralaortopulmonar,PCA
+906,Conexion anomala total de las venas pulmonares variedad mixta,Conexion Anomala
+906,foramen oval no restrictivo,Other
+906,PO Septostomia,Other
+907,Doble salida del ventriculo derecho con CIV infundibular doblemente relacionada,Doble Salida VD
+908,Doble entrada ventriculo izquierdo TGA foramen bulbo ventricular no restrictivo Insuficiencia mitral y pulmonar ligera,Other
+909,Masa cardiaca en estudio,Other
+910,Conexion Anomala Total de Venas Pulmonares variedad Supracardiaca,Conexion Anomala
+910,Foramen oval permeable probablemente restrictivo,Other
+911,Corazon univentricular Atresia tricuspidea/ septum interventricular integro/ vasos normalmente relacionados,Corazon Univentricular
+911,Colateral aortopulmonar,Other
+912,Tetralogia de Fallot,Tetralogia de Fallot
+912,PO de Fistula sistemica pulmonar,Other
+913,Corazon univentricular Canal AV completo desbalanceado con dominancia izquierda  sin restriccion al flujo pulmonar,Corazon Univentricular
+914,Corazon univentricular,Corazon Univentricular
+914,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+914,Transposicion de grandes arterias,Other
+914,Foramen bulboventricular no restrictivo,Other
+914,PO de bandaje de arteria  pulmonar ´,Other
+914,PO cateterismo 2,Other
+915,Sindrome de Noonan,Other
+915,Estenosis supravalvular pulmonar severa,Estenosis
+916,Sindrome de heterotaxia levomorfismo,Other
+916,Canal AV parcial,CAV
+916,Hendidura mitral,Other
+916,Interrupcion de vena cava inferior con continuacion a la acigos,Other
+916,Auricula unica drenaje anomalo de venas pulmonares,Other
+917,Insuficiencia valvular aortica,Other
+917,Valvuloplastia con balon por intervencionismo por estenosis aortica 2011,Other
+918,Conducto arterioso persistente,PCA
+918,PO Cateterismo terapeutico no exitoso y diagnsotico 111021,Other
+919,Corazon univentricular Atresia pulmonar con septum integro,Corazon Univentricular
+919,PO de FBT,Other
+919,Fistula central,Other
+919,- PO de Glenn bidireccional derecho,Other
+919,Septostomia intertrial con balon,Other
+919,Septostomia interatrial con doble balon,Other
+919,Trombo en rama derecha de arteria pulmonar,Other
+920,Comunicacion interventricular membranosa,CIV
+920,Conducto arterioso persistente,PCA
+921,Estenosis aortica critica,Estenosis
+922,Tetralogia de Fallot,Tetralogia de Fallot
+922,Comunicacion interauricular ostium secundum fenestrada,CIA
+923,Conexion anomala total de venas pulmonares infracardiaca parcialmente obstruida en la vena dsscendente,Conexion Anomala
+923,Persistencia de conducto arterioso,PCA
+924,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+924,Comunicacion interauricular restrictiva,CIA
+924,Persistencia de conducto arterioso,PCA
+925,Insuficiencia mitral severa secundaria a ruptura de cuerdas tendinosas; antecedente de endocarditis infecciosa Abiotrophia defectiva,Other
+926,Atresia pulmonar/comunicacion interventricular,Atresia
+926,Ramas pulmonares confluentes,Other
+926,Persistencia de conducto arterioso,PCA
+927,Probable trombo tumoral en vena cava inferior,Other
+928,Estenosis de la rama izquierda de la arteria pulmonar,Estenosis
+928,PO Fistula de Blalock-Taussig modificada derecha,Other
+928,Atresia pulmonar con comunicacion interventricular,Atresia
+929,Transposicion de grandes arterias,Other
+929,PO Atrioseptostomia,Other
+930,"Overriding"" cabalgamiento y ""straddling"" de la valvula tricuspide",Other
+930,Comunicacion interventricular grande de la via de entrada,CIV
+931,Conexion anomala total de venas pulmonares a la vena cava superior directa sin vena ascendente,Conexion Anomala
+932,Tetralogia de Fallot,Tetralogia de Fallot
+932,Sx de valvula pulmonar ausente,Other
+933,Comunicacion interventricular infundibular,CIV
+934,Coartacion aortica yuxtaductal,Coartacion Aortica
+935,Tetralogia de Fallot,Tetralogia de Fallot
+936,Coartacion de Aorta,Coartacion Aortica
+936,Hipoplasia de cavidades cardiacas izquierdas,Hipoplasia
+937,Insuficiencia mitral severa secundario a valvula mitral displasica,Other
+937,Historia de plastia de valvula mitra,Post-Surgical Procedure
+937,Ventriculo izquierdo no compactado,Other
+937,Bloqueo interatrial Avanzado,Other
+938,Persistencia de conducto arterioso,PCA
+938,Formane oval permeable,Formane oval permeable
+938,Comunicacion interventricular membranosa,CIV
+939,Coartacion de Aorta,Coartacion Aortica
+939,Hipoplasia de aorta ligera,Hipoplasia
+940,Obstruccion de arco aortico distal residual,Other
+940,PO correccion de coartacion de aorta con reseccion y aastomosis termio-termial extendida,Other
+941,Corazon univentricular Canal AV completo,Corazon Univentricular
+941,Doble salida de ventriculo derecho con comunicacion interventricular no relacionada,Doble Salida VD
+941,Estenosis pulmonar,Estenosis
+941,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+941,Sindrome de heterotaxia,Other
+941,Dextrocardia/ Dextroapex,Other
+942,Doble salida de ventriculo derecho con vasos normalmente relacionados,Doble Salida VD
+942,Atresia mitral,Atresia
+942,comunicaion interatrial restrictiva,CIA
+942,PO Septoplastia Atrial,Other
+942,Septostomia Atrial Con Tecnica De Doble Balon Dinamico,Other
+944,Atresia pulmonar septum integro,Atresia
+944,Status post-colocacion de stent en conducto arterioso,PCA
+945,Tetralogia de Fallot,Tetralogia de Fallot
+945,Persistencia de conducto arterioso,PCA
+946,Trombo en auricula derecha y vena cava superior,Other
+946,Comunicacion interatrial tipo ostium secundum,CIA
+946,,
+948,CIA ostium secundum,CIA
+948,Persistencia de conducto arterioso,PCA
+950,Tronco arterioso comun tipo 1 que emerge de ventriculo derecho,Other
+950,Estenosis mitral moderada,Estenosis
+950,CIV de entrada amplia,CIV
+952,Atresia tricuspidea IB,Atresia
+952,Fistula veno-venosas {por ecocardiograma y cateterismo},Other
+953,Atresia tricuspidea,Atresia
+953,tronco arterioso comun tipo I Vena cava superior izquierda persistente,Other
+953,Antecedente de bloqueo sino-atrial en el posoperatorio,Other
+954,Tetralogia de Fallot,Tetralogia de Fallot
+954,Formane oval permeable,Formane oval permeable
+955,Insuficiencia pulmonar libre,Other
+955,Disfuncion de ventriculo derecho,Other
+955,Insuficiencia cardiaca descompensada,Other
+956,Situs inversus abdominal,Other
+956,Dextro cardia dextro apex Heterotaxia,Other
+956,Doble salida de ventriculo derecho situado a la izquierda con aorta izquierda pulmonar derecha lado a lado,Doble Salida VD
+956,Estenosis pulmonar medida por cateterismo 70 mmHg,Estenosis
+956,Comunicacion interventricular no relacionada,CIV
+957,CIV perimembranosa,CIV
+957,Persistencia de conducto arterioso,PCA
+958,Atresia Pulmonar CIV,Atresia
+958,hipoplasia ventricular izquierdo,Other
+958,Aorta emerge de ventriculo derecho,Other
+958,Colaterales aorto pulmonares,Other
+958,ramas confluentes con hipoplasia de rama izquierda de arteria pulmonar,Other
+960,Atresia tricuspidea IB,Atresia
+961,Transposicion de grandes arterias con foramen oval permeable,Other
+961,Conducto arterioso permeable,PCA
+962,Interrupcion de arco aortico tipo B,Other
+962,Estenosis valvular y subvalvular aortica severa,Estenosis
+962,Comunicacion interauricular ostium secundum,CIA
+962,Comunicacion interventricular membranosa con extension a la via de entrada,CIV
+962,Vena innominada retro-aortica,Other
+963,Conexion anomala total de venas pulmonares infracardiaca,Conexion Anomala
+963,Foramen oval,Other
+963,Persistencia de conducto arterioso,PCA
+964,Estenosis aortica severa con insuficiencia aortica moderada,Estenosis
+964,Estenosis mitral moderada con insuficiencia mitral moderada,Estenosis
+965,Comunicacion interventricular membranosa,CIV
+965,Formane oval permeable,Formane oval permeable
+966,Tetralogia de Fallot,Tetralogia de Fallot
+967,Sindrme de agenesia de valvula pulmonar,Other
+967,Comunicacion interventricular infundibular,CIV
+967,Comunicacion interauricular ostium secundum,CIA
+967,Historia de plicatura de ramas pulmonares y creacion de valvula monocuspide en etapa neonatal,Post-Surgical Procedure
+967,Dilatacion progresiva del ventriculo derecho,Other
+968,Persistencia del conducto arterioso grande de 89 x 13 x 64 mm con cortocircuito de izquierda a derecho,PCA
+968,Estenosis valvular aortica moderada con gradiente maximo de 58 mmHg y medio de 33 mmHg,Estenosis
+968,Dilatacion severa de cavidades izquierdas,Other
+968,Insuficiencia aortica leve,Other
+968,Insuficiencia mitral leve a moderada,Other
+968,Dilatacion moderada del anillo mitral pulmonar tronco pulmonar y ramas pulmonares,Other
+969,Discordancia auriculoventricular,Other
+969,Doble via de salida de ventriculo derecho con atresia pulmonar,Doble Salida VD
+969,Comunicacion interventricular no relacionada,CIV
+969,Conducto arterioso permeable largo y tortuoso,PCA
+969,Sospecha de una colateral que se origina de Aorta Descendente,Other
+969,arco aortico derecho,Other
+970,Estenosis valvular pulmonar critica,Estenosis
+970,Comunicacion interventricular porcion membranosa con cortocircuito de izquierda a derecha,CIV
+970,Antecedente de valvuloplastia pulmonar y colocacion de 2 Stents coronarios en conducto arterioso 090322,PCA
+971,Trombosis auricula derecha,Other
+971,Foramen oval permeable e insuficiencia tricuspidea leve por ECOTT 040222,Other
+971,Endocarditis,Other
+971,HAP,Other
+972,Atresia tricuspidea con ventriculo derecho hipoplasico,Hipoplasia
+973,Estenosis pulmonar severa-critica,Estenosis
+973,Ventriculo derecho hipoplasico tripartita,Hipoplasia
+973,Valvula tricuspide con hipoplasia ligera,Other
+973,Foramen oval permeable con cortocircuito de derecha a izquierda,Other
+974,Cardiopatia congenita critica dependiente de conducto arterioso hipoplasia de arco aortico,PCA
+974,Coartacion de Aorta,Coartacion Aortica
+974,Comunicacion interventricular perimembranosa,CIV
+974,ventriculo izquierdo borderline,Other
+974,conducto arterioso permeable amplio ventriculo izquierdo borderline,PCA
+975,Doble discordancia AV-VA,Other
+975,Comunicacion interventricular,CIV
+975,Persistencia de conducto arterioso,PCA
+975,Mesocardia con dextroapex,Other
+975,Interrupcion de vena cava inferior,Other
+975,Compresion bronquial bilateral,Other
+976,Dilatacion aneurismatica de todo el trayecto aortico y de la arteria pulmonar y sus ramas dilatacion moderada a severa de auricula y ventriculo izquierdo insuficiencia aortica severa insuficiencia mitral moderada insuficiencia pulmonar leve disfuncion sistolica grave del ventriculo izquierdo,Other
+977,Comunicacion interventricular membranosa,CIV
+977,Persistencia de conducto arterioso,PCA
+977,Hipertension arterial pulmonar,Other
+978,Valvula mitral en Hamaca,Other
+978,Insuficiencia mitral severa por falta de coaptacion,Other
+978,antecedente de cardiopatia congenita acianotica de flujo pulmonar aumentado PCA  se cierra por intervencionismo,Other
+980,Conexion anomalo de venas pulmonares variedad supracardiaca,Conexion Anomala
+981,CIV membranosa con extension a la entrada,CIV
+981,CIA,CIA
+981,PCA,PCA
+981,HAP,Other
+982,Atresia tricuspidea,Atresia
+982,Estado por porcedimiento de Glenn bidireccional y septectomia atrial ,Other
+982,Hipoxemia y desaturacion persistentes,Other
+983,Transposicion de grandes arterias clasica,Other
+983,Conducto arterioso permeable,PCA
+983,Foramen oval permeable de 41mm no restrictivo,Other
+983,OP Atrioseptostomia de Rashkind 180422,Other
+984,Coartacion de Aorta,Coartacion Aortica
+984,Hipoplasia de arco aortico,Hipoplasia
+985,Transposicion de grandes arterias con comunicacion interventricular por malalineacion del septum,Other
+985,Comunicacion interventricular por malalineacion del septum de 72 mm con cortocircuito bidireccional,CIV
+985,Dilatacion moderada del anillo pulmonar tronco y ramas pulmonares,Other
+986,Arco aortico tipo B,Other
+986,Comunicacion interventricular,CIV
+986,Conducto arterioso pequeno,PCA
+986,Choque cardiogenico,Other
+986,Lesion renal aguda estadio II,Other
+987,Comunicacion interventricular membranosa,CIV
+987,Estenosis subvalvular aortica por rodete,Estenosis
+988,Obstruccion de tubo valvulado del ventriculo derecho a la arteria pulmonar,Other
+988,Insuficiencia cardiaca derecha compensada,Other
+988,Historia de colocacion de tubo valvulado Contegra del ventriculo derecho a la arteria pulmonar,Post-Surgical Procedure
+988,Historia de Switch arterial,Post-Surgical Procedure
+988,Transposicion de grandes arterias,Other
+988,Bradicardia sintomatica de etiologia por determinar,Other
+989,Tetralogia de Fallot,Tetralogia de Fallot
+990,Tetralogia de Fallot,Tetralogia de Fallot
+991,Anillo vascular completo,Other
+991,Doble arco aortico arco derecho dominante casi atresia de porcion distal del arco izquierdo hipoplasico entre origen de arteria subclavia izquierda y porcion distal PCA muy pequeno,Hipoplasia
+992,Comunicacion interauricular tipo ostium secundum,CIA
+993,Cardiopatia congenita acianogena de hiperflujo pulmonar tipo persistencia del conducto arterioso,PCA
+993,Comunicacion interauricular,CIA
+994,Comunicacion interventricular perimembranosa,CIV
+994,Persistencia del ductus arterioso muy pequeno,PCA
+995,Comunicacion interauricular tipo Ostium secundum alta 11x13 mm,CIA
+995,Crecimiento leve -moderado de auricula y ventriculo derecho,Other
+996,Conexion anomala total de venas pulmonares supracardiaca,Conexion Anomala
+996,Persistencia de conducto arterioso,PCA
+997,Atresia tricuspidea IB CIV CIA,Atresia
+997,Persistencia de conducto arterioso,PCA
+997,Colocacion de Stent en conducto arterioso 07072021,PCA
+998,Comunicacion interventricular infunduibular con extension membranosa,CIV
+999,Transposicion de grandes vasos Patron coronario habitual,Other
+999,Comuncacion interauricular ostium secundum amplia,CIA
+999,PCA Cortocircuito Izquierda a Derecha,PCA
+1000,Comunicacion interventricular porcion membranosa con extension de entrada con cortocircuito de izquierda a derecha,CIV
+1000,Conducto arterioso persistente cortocircuito de izquierda a derecha,PCA
+1000,Presion sistolica de la arteria pulmonar similar a la sistemica,Other
+1001,Coartacion e hipoplasia de arco aortico,Coartacion Aortica
+1001,Ectasia coronaria,Other
+1001,Disfuncion severa del ventriculo izquierdo,Other
+1002,Cardiopatia congenita acianogena de flujo pulmonar normal: hipoplasia moderada coartacion aortica critica disfuncion sistolica moderada del ventriculo izquierdo valorada cualitativamente comunicacion interauricular ampliainsuficiencia tricuspidea severa derrame pericardico trivial,Other
+1003,Comunicacion interauricular ostium secundum,CIA
+1004,Doble salida del ventriculo derecho,Doble Salida VD
+1004,Foramen oval permeable no restrictivo,Other
+1004,Obstruccion subvaluar pulmonar,Other
+1004,Conducto arterioso tortuoso,PCA
+1004,Ramas pulmonares confluentes,Other
+1005,Corazon univentricular Atresia mitral doble salida de ventriculo derecho doble vena cava superiorinterrupcion de vena cava inferior,Corazon Univentricular
+1005,heterotaxia,Other
+1006,Atresia pulmonar septum integro,Atresia
+1006,Colocacion de STENT en ducto por intervencionismo 05112020- Ampliacion del TSVD,Other
+1006,cierre PCA,Other
+1006,cierre parcial de CIA,Other
+1006,Fistula sistemico pulmonar Blalock Taussig modificada 26112020,Other
+1006,Trombosis del origen de la rama izquierda de la arteria pulmonar,Other
+1007,CIV membranosa con tejido de aposicion tricuspideo,CIV
+1007,Conducto arterioso persistente muy pequeno,PCA
+1008,Doble salida de ventriculo derecho tipo Fallot,Doble Salida VD
+1008,Comunicacion interventricular,CIV
+1008,Formane oval permeable,Formane oval permeable
+1008,Conducto arterioso permeable de 27 mm,PCA
+1009,Estado postquirugico tronco arterioso tipo II: Op de cierre de CIV y colocacion de tubo valvulado Contegra 12 mm 14062018,Other
+1009,Insuficiencia severa de la valvula troncal,Other
+1009,Tejido subaortico no obstructivo,Other
+1010,Cardiopatia congenita cianogena de flujo pulmonar disminuido compleja: tipo Doble salida del ventriculo derecho tipo Fallot,Other
+1010,Comunicacion interventricular,CIV
+1010,Formane oval permeable,Formane oval permeable
+1010,Conducto arterioso permeable de 27 mm,PCA
+1012,Fallot extremo: estenosis pulmonar estenosis severa de las ramas pulmonares,Tetralogia de Fallot
+1012,Persistencia de conducto arterioso,PCA
+1013,Ausencia de conexion atrioventricular derecha Atresia tricuspidea,Other
+1013,Comunicacion interauricular ostium secundum no restrictiva,CIA
+1013,Comunicacion interventricular membranosa con cortocircuito I-D,CIV
+1013,Estenosis pulmonar leve gradiente 76 mmHg,Estenosis
+1013,Conducto arterioso persistente,PCA
+1014,Atresia Pulmonar con CIV con ramas pulmonares confluentes de buen calibre y multiplescolaterales,Atresia
+1015,Conexion anomala total de las venas pulmonares supracardiaca obstruido,Conexion Anomala
+1015,Conducto arterioso permeable,PCA
+1015,Comunicacion auricular tipo fosa oval de 5 mm,CIA
+1016,CIA fenestrada 17 mm,CIA
+1016,CIV muscular alta 18x12 mm,CIV
+1016,PCA 85 mm presion pulmonar similar a la sistemica,PCA
+1018,Doble salida del ventriculo derecho con vasos en transposicion tipo Tausing Bing,Doble Salida VD
+1018,CIV relacionada con la pulmonar con CIV muscular pequena por debajo de la banda moderadora sin CIA,CIV
+1019,Postoperado de bandaje de la arteria pulmonar 101117 Septostomia 26032018 Cateterismo diagnostico 13072018 Postoperado de Glenn bidireccional,Other
+1019,Desbandaje de arteria pulmonar 160818 Cateterismo preFontan 20092021,Other
+1019,Conexion AV discordante con hipoplasia tricuspidea,Conexion Anomala
+1019,Conexion VA discordante,Conexion Anomala
+1020,Comunicacion interventricular 14x15mm amplia de muscular posterior con extension de entrada con repercusion hemodinamica corto circuito bidireccional,CIV
+1020,Hipertension arterial pulmonar similar a la sistemica,Other
+1021,Doble entrada al ventriculo izquierdo,Doble entrada al ventriculo izquierdo
+1021,Discordancia ventriculoarteriales,Other
+1021,Comunicacion interventricular restrictiva,CIV
+1022,Dextroisomorfismo atrial,Other
+1022,Canal atrioventricular completo en L-asa,CAV
+1022,Doble via de salida del ventriculo derecho con vasos en L-TGV,Doble Salida VD
+1022,Estenosis pulmonar con hipoplasia del tronco de la arteria pulmonar,Estenosis
+1022,Conexion anomala total de venas pulmonares supracardiacas,Conexion Anomala
+1022,Doble vena cava superior sin innominada,Other
+1023,Tetralogia de Fallot,Tetralogia de Fallot
+1023,sindrome de valvula pulmonar ausente,Other
+1023,Valvula pulmonar rudimentaria con doble lesion pulmonar Insuficiencia pulmonar severa y estenosis pulmonar con gradiente maximo de 32 mmHg,Other
+1023,dilatacion postestenotica del tronco y ramas de la arteria pulmonar severa,Other
+1023,CIV grande con cortocircuito de derecha a izquierda,CIV
+1023,Cabalgamiento de la Aorta,Other
+1023,Hipertrofia del ventriculo derecho con dilatacion severa del VD y disfuncion sistolica,Other
+1026,Canal auriculo ventricular complete desbalanceado con ventriculo izquierdo dominante e insuficiencia severa de la valva AV comun,CAV
+1027,Conexion venosa pulmonar anomala total mixta de tipo supracardiaca e intracardiaca obstruidas,Conexion Anomala
+1027,Comunicacion interauricular de tipo ostium secundum no restrictiva con cortocircuito de derecha a izquierda,CIA
+1027,Insuficiencia tricuspidea moderada,Other
+1028,Doble salida de ventriculo derecho CIV doblemente relacionada,Doble Salida VD
+1029,Transposicion de grandes arterias con aorta anterior y a la iquierda SDL,Other
+1029,Estenosis subpulmonar severa,Estenosis
+1029,Comunicacion interventricular subpulmonar conotroncal,CIV
+1029,Historia de Fistula de Blalock-Taussig modificada derecha de 5 mm de diametro,Post-Surgical Procedure
+1030,Origen anomalo de la rama derecha de la arteria pulmonar de aorta ascendente,Other
+1030,Comunicacion interventricular muscular media con cortocircuito bidireccional,CIV
+1030,Persistencia de conducto arterioso,PCA
+1030,Hipertension pulmonar severa,Other
+1030,Insuficiencia tricuspidea ligera a moderada,Other
+1031,Coartacion aortica yuxtaductal critica,Coartacion Aortica
+1032,Transposicion de grandes vasos,Other
+1032,Dextrocardia,Other
+1032,Comunicacion interauricular,CIA
+1033,Comunicacion interauricular tipo ostium secundum,CIA
+1033,Cateterismo diagnostico por cierre no exitoso 17112021,Other
+1034,Tetralogia de Fallot con sindrome de agenesia valvula pulmonar,Tetralogia de Fallot
+1034,Estenosis de ramas pulmonares de 80 mmHg,Estenosis
+1034,Bloqueo AV completo remitido,Other
+1035,ventriculo izquierdo borderline,Other
+1035,Estenosis subvalvular y valvular aortica,Estenosis
+1035,"Hipoplasia del arco aortico con
+coartacion aortica",Other
+1035,Comunicacion interventricular perimembranosa pequena,CIV
+1035,Conducto arterioso permeable,PCA
+1037,Tetralogia de Fallot TOF -Sindrome de valvula pulmonar ausente,Tetralogia de Fallot
+1037,Estenosis de la arteria pulmonar,Estenosis
+1037,Comunicacion interventricular,CIV
+1037,Comunicacion interauricular,CIA
