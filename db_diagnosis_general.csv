@@ -1,0 +1,584 @@
+token,diagnosis_general,keywords
+NNKN,Ninguno,ninguno
+FKTR,VACTER,vacter
+TRSM,Trisomia 21,21 trisomia
+TSMRFLJKSNTRM,Sindrome Dismorfologico E/E,dismorfologico e/e sindrome
+SKMTRRTRS,Retraso Psicomotor,psicomotor retraso
+TRMTSN,Seno dermoide,dermoide seno
+ANFRMTTRXSPRNK,Enfermedad de Hirschsprung,enfermedad hirschsprung
+TNSNTRM,Sindrome de Down,down sindrome
+ANTSTNTPFTNTKRTTSSPNKLT,Espina bifida oculta/ Antecedente de endocarditis,antecedente bifida endocarditis espina oculta/
+HNTTLPPLTR,Labio y paladar hendido,hendido labio paladar
+KRFLTLSFN,Ellis Van Creveld,creveld ellis van
+HNMPLKL,Henia umbilical,henia umbilical
+TSRLPSKMTRRTRS,Retraso en el desarrollo psicomotor,desarrollo psicomotor retraso
+ANFRSSSTSTTL,Situs inversus total,inversus situs total
+KLPLNRTSRLRTRS,Retraso global del neurodesarrollo,global neurodesarrollo retraso
+PLTRLKRPTRKT,Criptorquidea bilateral,bilateral criptorquidea
+KLTFNNTLSPSS,Sepsis neonatal cultivo?,cultivo? neonatal sepsis
+ANRKTLMLFRMSN,Malformacion anorectal,anorectal malformacion
+PSKSFKTR,Pb Sx VACTER,pb sx vacter
+PNNRLRFLKPSKS,Sx de Bannayan-Riley-Ruvalcaba,bannayan-riley-ruvalcaba sx
+KRPTJNKPLPS,Epilepsia criptogenica,criptogenica epilepsia
+ANTSTNTTRSTTNL,Antecedente de atresia duodenal,antecedente atresia duodenal
+SNTRM,Sindrome,sindrome
+KRNTMPKTMTRKS,Torax con pectum carinatum,carinatum pectum torax
+NNNSNTRM,Sindrome de Noonan,noonan sindrome
+TSMRFLJKSTTSNTRM,Sindrome dismorfologico en estudio,dismorfologico estudio sindrome
+TFRKMTKRNMRKN,Hernia diafragmatica de Morgagni,diafragmatica hernia morgagni
+SNTRMTRNR,Sindrome de Turner,sindrome turner
+AKSFTMPKTM,Pectum excavatum,excavatum pectum
+TPTKMTR,Madre diabetica,diabetica madre
+MLFRMSNTRKS,malformacion de torax,malformacion torax
+TSMRFLJKSKS,Sx dismorfologico,dismorfologico sx
+KLTNRSKS,Sx de Goldenhar,goldenhar sx
+ALTRSNLNKJ,Alteracion en el lenguaje,alteracion lenguaje
+AKSNFLTRJRSNTRM,Sindrome de Axenfeld Rieger,axenfeld rieger sindrome
+TFRMTTTRSK,Deformidad toracica,deformidad toracica
+PKNFR,Pie quinovaro,pie quinovaro
+HPTRTSM,Hipotiroidismo,hipotiroidismo
+APLPS,Epilepsia,epilepsia
+KTNTLKRTLSNMLFRMSNP,Delecion 13q Pb malformacion de Dandy-Walker,13q dandy-walker delecion malformacion pb
+NRTSRLRTRS,Retraso del neurodesarrollo,neurodesarrollo retraso
+ANTSTNTPKSPRNTL,Antecedente de hipoxia perinatal,antecedente hipoxia perinatal
+ANTSTNTKLSTSKNNTLSPSSSNTRM,Antecedente sindrome colestasico y sepsis neonatal,antecedente colestasico neonatal sepsis sindrome
+KRJTNTTLPPLTR,Labio y paladar hendido corregido,corregido hendido labio paladar
+ASTSSRNLTPLR,Acidosis tubular renal,acidosis renal tubular
+TRXMKRX,microtia derecha,derecha microtia
+TPRSFSKS,Sx depresivo,depresivo sx
+HPKS,Hipoacusia,hipoacusia
+HTRTKSSNTRM,Sindrome de Heterotaxia,heterotaxia sindrome
+PSFR,HP severa UW?,hp severa uw?
+KFXSNTRMFLKRTFSL,Sindrome Velocardiofacial FISH 22q11,22q11 fish sindrome velocardiofacial
+ASSSNFKTR,Asociacion VACTER,asociacion vacter
+MR,MARA,mara
+ANMPRFRT,Ano imperforado,ano imperforado
+ASKRTNFRKTMP,PO nefrectomia izquierda,izquierda nefrectomia po
+RMPLNTFSKRTRL,Reimplante vesicoureteral,reimplante vesicoureteral
+P,HP,hp
+LNKJRTRS,Retraso en el lenguaje,lenguaje retraso
+TJRJPSKS,Pb sx de Di George,di george pb sx
+ANTSTNTTRNJPTRLMTMTS,Antecedente de drenaje de hematoma epidural por TCE,antecedente drenaje epidural hematoma tce
+ANRKTLNRKTPLSXMLFRMSNPPSTRRSJTL,Malformacion anorectal PO de anorectoplastia sagital posterior,anorectal anorectoplastia malformacion po posterior sagital
+ANTSTNTKNFLSFKRSS,Antecedente de crisis convulsiva,antecedente convulsiva crisis
+ANTSTNTNNTLSPSSTMPRN,Antecedente de sepsis neonatal temprana,antecedente neonatal sepsis temprana
+APSSSRPRLP,PO de absceso cerebral,absceso cerebral po
+TFRMTTSKLSSTRKS,Deformidad del torax escoliosis,deformidad escoliosis torax
+RSLKTTF,Lactato 8 ph 71 24 hrs antes,24 71 8 hrs lactato ph
+KRNFRSPSTF,Coronavirus positivo,coronavirus positivo
+KRSNKRSKRS,Corazon en Criss-Cross,corazon criss-cross
+TKSTRKRT,Dextrocardia,dextrocardia
+ANTSTNTNNTLSPSS,Antecedente de sepsis neonatal,antecedente neonatal sepsis
+TSMRFSSTT,Dismorfias en estudio,dismorfias estudio
+ANTMTPLLMN,Anatomia doble lumen,anatomia doble lumen
+ATLKTSTRXPLMNTTLNK,Atelectasia total derecha Pulmon unico,atelectasia derecha pulmon total unico
+ANTSTNTTRMPRKRTK,Antecedente Derrame pericardico,antecedente derrame pericardico
+ANFRSSSTS,Situs inversus,inversus situs
+TKSTRSMRSM,Dextroisomerismo,dextroisomerismo
+KRTRSPRTRRSPR,Paro cardiorespiratorio 48 hrs antes,48 cardiorespiratorio hrs paro
+ANFXNPPRKKS,Pb infeccion preqx,infeccion pb preqx
+APRNTSJLNKJTRSTRN,Trastorno de aprendizaje y lenguaje,aprendizaje lenguaje trastorno
+ATKRTKLNSSNKMNTTKRMNMNPSTF,Neumonia Adquirida en la Comunidad con colonizacion positivo por gram,adquirida colonizacion comunidad gram neumonia positivo
+,,
+KTP,HP sin cate,cate hp
+XRJSKS,Sx de CHARGE,charge sx
+PLTRLPRMPLNTFSKRTRL,PO de reimplante vesicoureteral bilateral 2009,2009 bilateral po reimplante vesicoureteral
+ANMTRSNMNLJK,Inmadurez inmunologica,inmadurez inmunologica
+KRNKSNSTS,Sinusitis cronica,cronica sinusitis
+ANTSTNTKRNKNMPX,Antecedente de neumopatia cronica,antecedente cronica neumopatia
+PRSNTTRKSTM,Traqueostomia presente,presente traqueostomia
+KTTRNTRPKTRMKLTFNKRS,Enterobacter en hemocultivo de cateter al ingreso,cateter enterobacter hemocultivo ingreso
+ASKRTMKRX,Microtia izquierda,izquierda microtia
+ARKLFRTPRLFS,Fascia auriculovertebral,auriculovertebral fascia
+PLTRLRFLJRTRLFSK,Reflujo vesico ureteral bilateral,bilateral reflujo ureteral vesico
+FPRSL,Fiebre en sala,fiebre sala
+KTTRSMSRSRJPRFPRSTMNT,Procedimiento por cateterismo para cierre previo a la cirugia,cateterismo cierre cirugia previo procedimiento
+MFPKKSRSNTRPK,Apoyo de inotropico y AMV 24 horas antes de la cx,24 amv apoyo cx horas inotropico
+NNTLSPSSSSPX,Sospecha de sepsis neonatal,neonatal sepsis sospecha
+NTSTNTFK,Antecedente de EVC en 2004,2004 antecedente evc
+HPKSSKRTPRFNT,Hipoacusia profunda izquierda,hipoacusia izquierda profunda
+ATRSPTSTMFLT,Atrioseptostomia fallida,atrioseptostomia fallida
+TTSPTRTSM,Datos de hipotiroidismo,datos hipotiroidismo
+KTTRKLTFNFXNFTKS,Infeccion en tx IVU y cateter cultivo,cateter cultivo infeccion ivu tx
+NNTLSPSSSPSTFLKKSTRT, Staphylococcus sp sepsis neonatal tardia, neonatal sepsis sp staphylococcus tardia
+SRJRSNTRPK,Inotropico 24 hrs antes de la cirugia,24 cirugia hrs inotropico
+ANTSTNTKTPR,Antecedente de paro en el cate,antecedente cate paro
+ANMTFSNSFLTSR,Anemia por deficiencia de hierro y folatos,anemia deficiencia folatos hierro
+ANTMKSPLNTRTKSSNTRM,Sindrome de heterotaxia Asplenia anatomica,anatomica asplenia heterotaxia sindrome
+ANTSTNTNTSTNLNFJNSN,Antecedente de invaginacion intestinal,antecedente intestinal invaginacion
+ASKRSSPTPRS,Pb esclerosis tuberosa,esclerosis pb tuberosa
+KTRPRSSPSTKKLPLLFNRTSRLRTRS,Retraso global del neurodesarrollo cuadriparesia espastica leve,cuadriparesia espastica global leve neurodesarrollo retraso
+PLTRLTSMRFLJKFNPKSPSKS,Hipoacusia bilateral por FAN con pb sx dismorfologico,bilateral dismorfologico fan hipoacusia pb sx
+TMMTR,Madre con DM II,dm ii madre
+ANTSTNTKNFLSFSKRSS,Antecedente de crisis convulsivas,antecedente convulsivas crisis
+NTSTNTKRKRNKTNFKTKRNL,Antecedente de dano renal cronico KDOQI IV cr 06,06 antecedente cr cronico dano iv kdoqi renal
+ARJ,ERGE,erge
+AKNFXNPLMNRFS,IC vs infeccion pulmonar,ic infeccion pulmonar vs
+ARJNSTRSN,ERGE recien nacido,erge nacido recien
+PJTL,Talla baja,baja talla
+ANTSTNTSMTKKRSSNMN,Antecedente de crisis asmatica y neumonia,antecedente asmatica crisis neumonia
+PLTRLPKS,Hipoacusia bilateral,bilateral hipoacusia
+HPSFR,HAP severa,hap severa
+KNJNTPTRTSM,Hipotiroidismo congenito,congenito hipotiroidismo
+KRNKKSTRSNMPXNSNNFP,Neumopatia cronica PO nissen y gastros nov 2016,2016 cronica gastros neumopatia nissen nov po
+KRNFRSFPRPSTFSL,Fiebre en sala positivo para coronavirus,coronavirus fiebre positivo sala
+TTSMRFLJKSTTJRJPSNTRMSKS,Sindrome dismorfologico en estudio pb sx Di George,di dismorfologico estudio george pb sindrome sx
+MKRSFL,Microcefalia,microcefalia
+SKMTRRTRSSFR,Retraso psicomotor severo,psicomotor retraso severo
+KSTRNSNP,PO gastro y nissen,gastro nissen po
+KTRPRSSPSTK,Cuadriparesia espastica,cuadriparesia espastica
+LKTT,Lactato de 35,35 lactato
+TPTSJSTSNLMTR,Madre con Diabetes gestacional,diabetes gestacional madre
+ANTSTNTPRNKPLMNRTSPLSPKS,Antecedente de displasia broncopulmonar e hipoacusia,antecedente broncopulmonar displasia hipoacusia
+ANTSTNTKTTRMPRKRTKPSTRR,Antecedente de cate posterior derrame pericardico,antecedente cate derrame pericardico posterior
+PTRTSMTRSM,Trisomia 21/ Hipotiroidismo,21/ hipotiroidismo trisomia
+SNTRMLMS,Sindrome de Williams,sindrome williams
+NRKNTFRTRS,Retraso neurocognitivo,neurocognitivo retraso
+KTRTSPLSLFRPM,Displasia de cadera/ RPM leve,cadera/ displasia leve rpm
+PFTNTTPLTRFL,Paladar hendido con uvula bifida,bifida hendido paladar uvula
+ALTRSNLTRSNSTNMSKLSKLRSSKS,Alteraciones de Sx de Duane alteracion en los musculos oculares,alteracion alteraciones duane musculos oculares sx
+KSTRSPRSNT,Gastros presente,gastros presente
+KRSMNTTTNSN,Detencion de crecimiento,crecimiento detencion
+SKMTRSRTRS,Retraso psicomotriz,psicomotriz retraso
+TJRJSKS,Sx DiGeorge,digeorge sx
+HP,HAP,hap
+KRKTRSTKSTSMRFS,Dismorfias caracteristicas,caracteristicas dismorfias
+KP,Pb 22q112,22q112 pb
+ASM,Asma,asma
+ALRJKRNTS,Rinitis Alergica,alergica rinitis
+TSMRFS,Dismorfias,dismorfias
+ANTSTNTPRNKNMN,Antecedente de bronconeumonia,antecedente bronconeumonia
+ANRKTLMLFRMSNFKTRL,Malformacion anorectal VACTERL,anorectal malformacion vacterl
+KLSTMSTR,Historia de colostomia,colostomia historia
+AFPRKRRJK,IVU prequirurgica,ivu prequirurgica
+HRNPMPLKL,PO Hernia umbilical,hernia po umbilical
+MPSTKTSTTS,Status post-Cate may17,may17 post-cate status
+ANTSTNTPLRPLSXP,Antecedente de PO piloroplastia,antecedente piloroplastia po
+FKNFXNPPLMNR,Pb infeccion de foco pulmonar,foco infeccion pb pulmonar
+LK,Lac 42,42 lac
+ANRMLSTPTPT,PT/PTT anormal CID,anormal cid pt/ptt
+MLMRTRNSMNSS,Transaminasas mayor a 2mil,2mil mayor transaminasas
+ANTSTNTPNTSKTMNTSTNLKLSNP,Antecedente de oclusion intestinal PO Apendicectomia,antecedente apendicectomia intestinal oclusion po
+KNJNTPTRTSMTX,Hipotiroidismo congenito TSH 068,068 congenito hipotiroidismo tsh
+KRNKNMPX,Neumopatia cronica,cronica neumopatia
+TSM,Tisomia 21,21 tisomia
+NRTSRLRTRSSFR,Retraso neurodesarrollo severo,neurodesarrollo retraso severo
+PLTKTLPRKSLNLTRL,Polidactilia preaxial unilateral,polidactilia preaxial unilateral
+HPPLSNJL,Hipoplasia ungeal,hipoplasia ungeal
+KRPTRKTTRX,Criptorquidea derecha,criptorquidea derecha
+TSMRFKSKS,Sx dismorfico EE,dismorfico ee sx
+ARKSSNSPRKLSTRXTSMRFLJKFSLPKSSKMKRXPRLSSSKS,Sx dismorfologico EE ausencia de arcos braquiales microtia derecha hipoacusia derecha paralisis facial izq,arcos ausencia braquiales derecha dismorfologico ee facial hipoacusia izq microtia paralisis sx
+APNTSSKMSRLPLPLSXPPRRKLRSRTR,PO de retiro de apendices preauriculares y plastia de comisura labial,apendices comisura labial plastia po preauriculares retiro
+ANRKTLSSSNFSTLMLFRMSNRKTFKTRLFSTPLR,Asociacion VACTERL malformacion anorectal con fistula recto vestibular,anorectal asociacion fistula malformacion recto vacterl vestibular
+NRKTPLSXNTSTNTKSTRNSNPPSTRRSJTL,Antecedente de PO anorectoplastia sagital posterior 23-8-12 gastro y nissen 10-09,10-09 23-8-12 anorectoplastia antecedente gastro nissen po posterior sagital
+TLSSTSFNSNRNL,Disfuncion renal con dialisis,dialisis disfuncion renal
+ANFXN,Infeccion,infeccion
+TRMPSTPN,Trombocitopenia,trombocitopenia
+PSKSFLKRTFSL,Pb Sx velocardiofacial,pb sx velocardiofacial
+PSLFRRSLSKS,Pb sx de Silver-Russell,pb silver-russell sx
+HNTTLP,Labio hendido,hendido labio
+NNNSKS,Sx de Noonan,noonan sx
+KRPTRKTSKRT,Criptorquidia izquierda,criptorquidia izquierda
+NTSTNTKNFLSFKRSSTSRLSPTLSSNMSSNMNKPRSS,Antecedente de proceso neumonico a los 3 meses desarrollo crisis convulsiva durante hospitalizacion,3 antecedente convulsiva crisis desarrollo hospitalizacion meses neumonico proceso
+PRNKLPRKTFTT,Hiperreactividad bronquial,bronquial hiperreactividad
+TSNTSTNTKNJNTTSPKSSPTLSSNNTPTNNTLNMNSPSS,Antecedente de neumonia congenita sepsis e hipoxia neonatal 56dias de hospitalizacion 15 dias intubada,15 56dias antecedente congenita dias hipoxia hospitalizacion intubada neonatal neumonia sepsis
+RJ,RGE,rge
+ASTSSRNLTRTMNTTPLR,Acidosis tubular renal en tratamiento,acidosis renal tratamiento tubular
+ANTSTNTSSPTLSSNMSNMN,Antecedente de hospitalizacion por neumonia hace un mes,antecedente hace hospitalizacion mes neumonia
+NTSTNTSMSSNMN,Antecedente de neumonia hace 5 meses,5 antecedente hace meses neumonia
+KTLSNTJRJSNTRM,Sindrome Di George delecion 22q11,22q11 delecion di george sindrome
+FXSNTRMFLKRTFSL,Sindrome Velocardiofacial FISH,fish sindrome velocardiofacial
+TNFRSKLTFPSTFFSR,Cultivo positivo para VSR y adenovirus 23-4-19,23-4-19 adenovirus cultivo positivo vsr
+PLTRLMKRX,Microtia bilateral,bilateral microtia
+TSFLSNLSKMRJNTRKRNNPTK,Hallazago en la TAC PO de hemarragia intracraneana de 30-60 dias de evolucion,30-60 dias evolucion hallazago hemarragia intracraneana po tac
+KMPLTPRTTRKLPLTSKSS,Portador de queilopalatosquisis completa,completa portador queilopalatosquisis
+ASKLSSTRKLMPR,Escoliosis Toracolumbar,escoliosis toracolumbar
+KLKLPSLPSTFRPRTTRKLTF,Urocultivo positivo para E Coli y Klebsiella del 5-7 reportado el 10-7,10-7 5-7 coli klebsiella positivo reportado urocultivo
+PRNKPLMNRTSPLSSFR,Displasia broncopulmonar severa,broncopulmonar displasia severa
+NTSTNTTSSRNFRS,Antecedente de rinovirus hace 21 dias,21 antecedente dias hace rinovirus
+SLRTSNSPRMR,Discinesia ciliar primaria,ciliar discinesia primaria
+KNTRLPNTLJ,Pentalogia de Cantrell,cantrell pentalogia
+ANTSTNTSPTLSSNNMN,Antecedente de hospitalizacion por neumonia,antecedente hospitalizacion neumonia
+NNNPSKS,Pb sx de Noonan,noonan pb sx
+KRTJNKXKLKTTMR,Choque cardiogenico con lactato mayor a 4,4 cardiogenico choque lactato mayor
+FLRNL,Falla renal,falla renal
+ATKRTSTKKLSNTSRTN,CID desorden de coagulacion adquirida,adquirida cid coagulacion desorden
+HSPTLSTNSMNTNMNNSKML,Hospitalizada desde el nacimiento con neumonia nosocomial,hospitalizada nacimiento neumonia nosocomial
+APLPSTRTMNT,Epilepsia con tratamiento,epilepsia tratamiento
+NTSTNTSSPTLSSNMSSNMN,Antecedente de hospitalizacion por neumonia hace 4 meses,4 antecedente hace hospitalizacion meses neumonia
+FF,FEVI 23%,23% fevi
+NNTLSPSS,Sepsis neonatal,neonatal sepsis
+HLPMTRSKS,Madre con Sx HELLP,hellp madre sx
+NNTLSPSSTMPRN,sepsis neonatal temprana,neonatal sepsis temprana
+AKTRSNFNTLRSLT,ictericia infantil resuelta,ictericia infantil resuelta
+HPTRTSMTRTMNT,Hipotiroidismo sin tratamiento,hipotiroidismo tratamiento
+KNJNTKNTRLTPTRTSM,Hipotiroidismo congenito controlado,congenito controlado hipotiroidismo
+TSMRFKKPKSNTRM,Sindrome de Kabuki sindrome dismorfico,dismorfico kabuki sindrome
+MNRTLSM,Talasemia menor,menor talasemia
+KRNSNSTSSP,PO de craneosinostosis,craneosinostosis po
+HRTRRNN,Rinon en herradura,herradura rinon
+AKTRSLKTNSSKNTR,Ictericia secundaria a lactancia,ictericia lactancia secundaria
+PTRTSMPPRMRTX,Hipotiroidismo pb primario TSH 2160,2160 hipotiroidismo pb primario tsh
+KR,Cr 15,15 cr
+NTSTNTKRTKTTFLSPTLSSNMSSNMN,Antecedente de hospitalizacion por falla cardiaca y neumonia a los 4 y 6 meses de edad,4 6 antecedente cardiaca edad falla hospitalizacion meses neumonia
+KNFLSFKRSSTKS,Crisis convulsiva en tx,convulsiva crisis tx
+PRNKMLSLRNKMLS,Laringomalasia y broncomalasia,broncomalasia laringomalasia
+TPTKTMMTR,Madre diabetica DM 1,1 diabetica dm madre
+ARKNTKRXNKRNFSLSTTNTTLPPLTRKSTSNTRM,Sindrome craneofacial en estudio correccion de labio y paladar hendido quiste aracnoideo,aracnoideo correccion craneofacial estudio hendido labio paladar quiste sindrome
+KRMNTSKRTRSKMPLMTRMMPRNSNNKNPRMTRRFRNRPTRSPSS,Ninguno Refieren madre con ruptura prematura de membranas pero no cumple criterios de sepsis ni corioamnioitis,corioamnioitis criterios cumple madre membranas ninguno prematura refieren ruptura sepsis
+ASKLSS,escoliosis,escoliosis
+NSNTSTNTTPTKMTRNMN,Madre diabetica; 3 anos antecedente de neumonia,3 anos antecedente diabetica; madre neumonia
+ALTRSNNSKMNKRTKTSRLTSNSFSNSPSKMTR,insuficiencia cardiaca; Alteracion del desarrollo piscomotor camina hasta los dos anos,alteracion anos camina cardiaca; desarrollo dos insuficiencia piscomotor
+TRXMLFRMSNRTL,Malformacion radial derecha,derecha malformacion radial
+AKJRPLNTL,agujero pilonidal,agujero pilonidal
+HTRTKSPPNMN,Heterotaxia; Pb pneumonia,heterotaxia; pb pneumonia
+KLKSNKFKTS,Colocacion de CVC a los 9 dias,9 colocacion cvc dias
+XKNKRSMTRMPRKLMSSFRRJNSS,Madre con preclamsia severa; 9 de mayo ingresa a urgencias por choque,9 choque ingresa madre mayo preclamsia severa; urgencias
+KRTRSPRTRMNPR,paro cardiorespiratorio 10 min,10 cardiorespiratorio min paro
+KRTRSMTRPRKLMSSFRTT,Madre con preeclamsia con criterios de severidad,criterios madre preeclamsia severidad
+AKRTKLSSKRKRPTRXTSRLTSJNSTSMRFSJNTKKLPLPPLSPTNNFLKRSKRTMRSMKRSFLMKRFTLMMLTPLSNRLJKJRPTPRTRSSKS,Multiples dismorfias mayores Pb sx genetico con involucro neurologico microcefalia hipoplasia de orbita derecha hipotonia retraso global del desarrollo Pb SX de Aicard disgenesia de cuerpo calloso microcefalia microoftalmia pb ceguera en ojo izquierdo,aicard calloso ceguera cuerpo derecha desarrollo disgenesia dismorfias genetico global hipoplasia hipotonia involucro izquierdo mayores microcefalia microoftalmia multiples neurologico ojo orbita pb retraso sx
+NTSRTRLPRTNSNLRKPPLMNRKTRPTKKRTFNTRKLR,Hipertension arterial pulmonar 248 RP; pb QT largo; Ants de taquicardia ventricular,248 ants arterial hipertension largo; pb pulmonar qt rp; taquicardia ventricular
+APRNTTRXSPKLF,Subclavia derecha aberrante,aberrante derecha subclavia
+ATKTTTJSTSNLPS,Peso adecuado para la edad gestacional,adecuado edad gestacional peso
+KRSMNTNTRTRNRSTRXN,Restriccion de crecimiento intrauterino,crecimiento intrauterino restriccion
+ALJLSNTRM,Sindrome de Allagille,allagille sindrome
+TRXKLKMJ,Glaucoma de ojo derecho,derecho glaucoma ojo
+FLMTR,Falla de Medro,falla medro
+PTKLSS,Pediculosis,pediculosis
+KTRTSRLTSPLS,Displasia del desarrollo de la cadera 2019,2019 cadera desarrollo displasia
+KTRKNJNTTRXTSPLS,Displasia congenita de cadera derecha,cadera congenita derecha displasia
+APLPSSPSFKT,Epilepsia no especificada,epilepsia especificada
+TSNTRSNMTRT,Desnutricion moderada,desnutricion moderada
+ANFNTLPSTT,Obesidad infantil,infantil obesidad
+TSNTRSNKRF,Desnutricion grave,desnutricion grave
+PJTTPS,Bajo peso para la edad,bajo edad peso
+LNKJMTRRTRS,Retraso motor y del lenguaje,lenguaje motor retraso
+PJTTJSTSNLPS,Peso bajo para la edad gestacional,bajo edad gestacional peso
+TSNTRSN,Desnutricion,desnutricion
+JKPSNSKSTRMPSTPN,Trombocitopenia Sx de Jacobsen,jacobsen sx trombocitopenia
+KPKPSNTRM,Pbe sindrome de Kabuki,kabuki pbe sindrome
+HPRNSLNMKPRNSLNSM,hiperinsulinismo hiperinsulinemico,hiperinsulinemico hiperinsulinismo
+HPRTRTSM,Hiportiroidismo,hiportiroidismo
+TSRLTJRJKLPLRTRSSNTRM,Retraso global del desarrollo Sindrome de DiGeorge,desarrollo digeorge global retraso sindrome
+KLKNTRPKTRNNTLSPSS,Sepsis neonatal  Enterobacter cloacae, cloacae enterobacter neonatal sepsis
+HPTRTSMPRMR,Hipotiroidismo primario,hipotiroidismo primario
+ANFRMTTRFLJ,Enfermedad por reflujo,enfermedad reflujo
+ANKRSF,IVU de ingreso,ingreso ivu
+KNJNTTNSTKTSTNSSSPTLSSNTRKL,Estenosis traqueal congenita diagnosticada en esta hospitalizacion,congenita diagnosticada estenosis hospitalizacion traqueal
+PRLKFP,PO ACV abril 2018,2018 abril acv po
+KRSTNTL,caries dental,caries dental
+ARLPRHPLTSN,PO rehabilitacion oral,oral po rehabilitacion
+HPRTNSNMTRTPLMNR,Hipertension pulmonar moderada,hipertension moderada pulmonar
+KTLSNTSMRFFSLFXPPNTNTSRSLTTS,Dismorfia facial Pb delecion 22q11 FISH pendientes resultados 28/03/2022,22q11 28/03/2022 delecion dismorfia facial fish pb pendientes resultados
+NSTRSNSTKTRMN,Recien nacido de termino 37 SDG,37 nacido recien sdg termino
+ATKTTTJSTSNLPSTL,Adecuado Peso y Talla para edad gestacional,adecuado edad gestacional peso talla
+KPPLKSRF,Llega al servio con CPAP,cpap llega servio
+TSRLRTRS,Retraso en el desarrollo,desarrollo retraso
+KRSMNTTSRLTTRTRS,Crecimiento y desarrollo con retraso para edad,crecimiento desarrollo edad retraso
+ATPKTRMTTS,Dermatitis atopica,atopica dermatitis
+AFKTSNTSNTRSNSFRTL,Desnutricion severa sin afectacion a la talla,afectacion desnutricion severa talla
+NK,17/11/21 NAC,17/11/21 nac
+KNTTRSPSS,urosepsis por candida,candida urosepsis
+KRTJNKTSNTPSNMKSTRTRKLRKRNTSPTKXK,shock mixto septico y cardiogenico requiriendo intubacion orotraqueal por 10 dias,10 cardiogenico dias intubacion mixto orotraqueal requiriendo septico shock
+ALPNTSTNTSTNSSPTRSSRTRL,Antecedente de estenosis uretral y pitiriasis alba,alba antecedente estenosis pitiriasis uretral
+LRJNTSTNTKRJTTRFSNKTSRSNKNTNNSMLMNNKSLNSTPRTPSTPRSPLNPRTTRRTRNRFFLFNTRKLPRTNL,Mielomeningocele roto corregido y portador de vavula de derivacion ventriculoperitoneal operado a las 6 horas de nacido antecedente de Incontinencia urinaria Alergia a perros gatos pasto y polen,6 alergia antecedente corregido derivacion gatos horas incontinencia mielomeningocele nacido operado pasto perros polen portador roto urinaria vavula ventriculoperitoneal
+ANTSTNLMTLTTTRSTRNS,Trastornos de la motilidad intestinal,intestinal motilidad trastornos
+ANKNTNNSRNR,Incontienencia urinaria,incontienencia urinaria
+AFKTSNKRNKTSNTRSNTL,Desnutricion cronica con afectacion de la talla,afectacion cronica desnutricion talla
+ARNSKTRTRXTSPLSMSMSMPFLKRSLSNTRTMNTLTMKNTRLSK,"Displasia de cadera derecha en tratamiento con Arnes de Pavlock durante un mes con ultimo
+control USG con resolucion de la misma","arnes cadera derecha displasia mes misma pavlock resolucion tratamiento ultimo
+control usg"
+KTPNKLTSFSR,Bonquiolitis aguda por VSR 22/12/21,22/12/21 aguda bonquiolitis vsr
+ANRKTLKRJTMLFRMSN,Malformacion anorrectal corregida,anorrectal corregida malformacion
+NNPLSXNRKTLNSKLSTMKRXNTRFSNTSNTSTNLMLFRMSNMSSMSSRKNKSNF,Correccion de malformacion anorrectal 1 Derivacion con colestomia 19/09/19;  2 Anoplastia 24/04/21; 3 Reconexion intestinal 16/07/21 1 3 dias de VEU; 2 1 anos 7 meses; 3 1 ano 10 meses, 1 10 16/07/21 19/09/19; 2 24/04/21; 3 7 ano anoplastia anorrectal anos colestomia correccion derivacion dias intestinal malformacion meses meses; reconexion veu;
+NTSTNTSPRTRMNRNSTK,Antecedentes de RN muy pretermino 29 SDG,29 antecedentes pretermino rn sdg
+ANTRKLTSNSMNTNKRTSNT,Enterocolitis necrotizante al nacimiento,enterocolitis nacimiento necrotizante
+ANRKTLKRSNMLFRMSN,Correcion de malformacion anorrectal,anorrectal correcion malformacion
+AKTPKRNN,Rinon ectopico,ectopico rinon
+ALRJTTRSKLN,Alergia a tetraciclina,alergia tetraciclina
+ANTSTNTPRMTRS,Antecedente de prematurez,antecedente prematurez
+HPKSNNTL,Hipoxia neonatal,hipoxia neonatal
+SPTKXK,shock septico,septico shock
+KNFLSNS,convulsiones,convulsiones
+NMN,neumonia 2017,2017 neumonia
+RFLJ,Reflujo,reflujo
+NFXNRTFRS,Infeccion por rotavirus 2019,2019 infeccion rotavirus
+ALTRSNSKRTPKSTNTTTMS,cariotipo tamiz extendido sin alteraciones,alteraciones cariotipo extendido tamiz
+ARSPSTSNFXNRKRNTSSPRRSFS,Episodios recurrentes de infeccion de vias aereas superiores/,aereas episodios infeccion recurrentes superiores/ vias
+NJLSTSKTKMPRSFNTLTTSJMLRJMLJNTKNNNPPRTKTSSPXSKSFLRSNFLRT,Producto de embarazo gemelar dicigotico Gemelo I Angel ya valorado por Genetica sin eventualidades gemelo II en valoracion por sospecha de CIAy  pb Sx Noonan en valoracion por Genetica, angel ciay dicigotico embarazo eventualidades gemelar gemelo genetica i ii noonan pb producto sospecha sx valoracion valorado
+KLTSKSTRNTRTSNFXS,Gastroenteritis y colitis infecciosa 29/03/2022,29/03/2022 colitis gastroenteritis infecciosa
+TSSPTLSPRPPLSPSSF,A los 3 dias de VEU se hospitaliza por probable sepsis,3 dias hospitaliza probable sepsis veu
+KPTFRKTRSKRTSTSNTSSRTR,Fractura de cubito izquierdo 2017 con osteosintesis 2018 retiro de osteosintesis,2017 2018 cubito fractura izquierdo osteosintesis retiro
+NTTSTNTTTSTNSNTRHSPTLRMSSNSMNTNMNPRMTRSFT,Antedecedente de prematurez estancia intrahospitalaria desde el nacimiento hasta los 4 meses de edad Neumonia intrahospitalaria a los 2 meses de vida,2 4 antedecedente edad estancia intrahospitalaria meses nacimiento neumonia prematurez vida
+KRSTNTLTRTMNT,Caries dental ya en tratamiento,caries dental tratamiento
+PJKRSMNTTSRLPSTL,Peso y Talla baja en el crecimiento y desarrollo,baja crecimiento desarrollo peso talla
+PSTSFRSMRSMLTPLSNK,NAC marzo 2018  multiples episodios de IVRS, 2018 episodios ivrs marzo multiples nac
+ALRJLXPRTNRMTTFK,Alergia a la proteina de la leche de vaca ya remitida,alergia leche proteina remitida vaca
+AKTTFKLTTLNKJTRP,Dificultad para el lenguaje ya acude a terapia de lenguaje,acude dificultad lenguaje terapia
+PRSNTRM,Sindrome de Berry,berry sindrome
+TJRJSNTRM,Sindrome de Di George,di george sindrome
+TRXPPLTKTLPRKSL,Polidactilia preaxial derecha PO,derecha po polidactilia preaxial
+NTSTNTMSSNMN,Antecedente de Neumonia a los 6 y a los 12 meses 2016,12 2016 6 antecedente meses neumonia
+ALRJLXPRTNFK,Alergia a la proteina de la lecha de vaca,alergia lecha proteina vaca
+FTTRPPRPLRPNMNSMNTPSTRRTRTT,Hiperbilirrubinemia tratada con fototerapia posterior a nacimiento,fototerapia hiperbilirrubinemia nacimiento posterior tratada
+HRNMPLKL,Hernia umbilical,hernia umbilical
+KRPTRKTSKRTNLTRL,Criptorquidia unilateral izquierda,criptorquidia izquierda unilateral
+ALRJKRNTSTRTMNT,Rinitis alergica en tratamiento,alergica rinitis tratamiento
+TSKTNRTSRLRTRS,Discreto retraso en el neurodesarollo,discreto neurodesarollo retraso
+ALRJKNTRSTMTT,Alergia al Yodo medio de contraste,alergia contraste medio yodo
+TPLNTTPLTRFL,Paladar hendido y doble uvula,doble hendido paladar uvula
+HPSPTS,Hipospadias,hipospadias
+NTSTNTNRKTTRKLKSNKFKTLSSFNSNLPRRSMSPTLSSNMSNFRLJPTTRKPRTNLRFSNTRTMNTFT,Antecedente de 2 hospitalizacion al mes de vida por anuria colocacion de CVC y cateter dialisis peritoneal no funcional hiperuricemia en tratamiento y revision por nefrologia pediatrica,2 antecedente anuria cateter colocacion cvc dialisis funcional hiperuricemia hospitalizacion mes nefrologia pediatrica peritoneal revision tratamiento vida
+ANTRKLTSTRTMNT,Enterocolitis en tratamiento,enterocolitis tratamiento
+FNTPLKTRKSTRSTMLPRSKPKNSNP,PO Funduplicatura de Nissen y Gastrostomia laparoscopica 13/06/22,13/06/22 funduplicatura gastrostomia laparoscopica nissen po
+PLKLRMTTSPTKXK,Shock septico por E coli BLEE remitido,blee coli remitido septico shock
+HMTMPTK,Hematoma Hepatico,hematoma hepatico
+TRNJPRKTNP,PO Drenaje percutaneo  29/06/22, 29/06/22 drenaje percutaneo po
+TRNJPTKRTR,Retiro de drenaje Hepatico 12/07/22,12/07/22 drenaje hepatico retiro
+ALRJSTTNMNTFSNSLXPRPPLPRTNTRTMNTFK,Inmunodeficiencia en estudio Probable Alergia a la proteina de la leche de vaca en tratamiento,alergia estudio inmunodeficiencia leche probable proteina tratamiento vaca
+KLNTRTKSJNKKSTRNTSTNLNFXNRMTT,Infeccion gastrointestinal por E coli enterotoxigenica Remitida,coli enterotoxigenica gastrointestinal infeccion remitida
+LPP,PO LAPE,lape po
+FKNTSTNLRMTTSPTKXK,Shock septico de foco intestinal remitido,foco intestinal remitido septico shock
+ARTRLTRXLSNMMPRPLFKRMTTSSPXFSKLR,Sospecha de lesion vascular arterial en miembro pelvico derecho remitida,arterial derecho lesion miembro pelvico remitida sospecha vascular
+FKRMTTSPSS,Sepsis sin foco  remitida, foco remitida sepsis
+KNFLSFSKRSSFKLSTRTMNT,Crisis convulsivas focales en tratamiento,convulsivas crisis focales tratamiento
+SRPLSTRXFRNTLJRMSFRNFRTSSKMKSSKRTLKNRSRMN,Infartos isquemicos lacunares en hemisferio cerebeloso  izquierdo y giro frontal derecho RMN 29/09/22, 29/09/22 cerebeloso derecho frontal giro hemisferio infartos isquemicos izquierdo lacunares rmn
+ALRJLXPPRTNFK,Pb Alergia a la proteina de la leche de vaca,alergia leche pb proteina vaca
+TSSPTLSTNNTLSPSSTMPRN,Sepsis neonatal temprana hospitalizado por 5 dias,5 dias hospitalizado neonatal sepsis temprana
+TFRKMTKRJSKRTPLKTRPTRKSKP,ERGE PO plicatura diafragmatica izquierda por toracoscopia 20/10/22,20/10/22 diafragmatica erge izquierda plicatura po toracoscopia
+KRSMNTNRTSRLRTRS,Retraso en el crecimiento y en el neurodesarrollo,crecimiento neurodesarrollo retraso
+TSNTRSNMTRTNRTSRLRTRS,Retraso en el neurodesarrollo y desnutricion moderada,desnutricion moderada neurodesarrollo retraso
+KRTKKTTRSMSPT,Cateterismo cardiaco sept 2021,2021 cardiaco cateterismo sept
+TRXNTTLPPLTRNLTRL,Labio y paladar hendido unilateral derecho,derecho hendido labio paladar unilateral
+PTRXNLTNSTKKLNMSSNFPRSTNTSLTRKTM,Procediento de Glenn bidireccional  a los 6 meses pero solo fue toracotomia diagnostica nov 2021, 2021 6 bidireccional diagnostica glenn meses nov procediento solo toracotomia
+PLTRLKNJNTFTS,Conjuntivitis bilateral,bilateral conjuntivitis
+AMPRSNFRMTSPRTNSFMTR,Madre con enfermedas hipertensiva del embarazo,embarazo enfermedas hipertensiva madre
+FKTRL,VACTERL,vacterl
+KRNTSTPLSFJKSTNSSPLSXPRMTLSNSPKLTKTRKSTMTRKNSFLFT,PO plastia esofagica 3 dias de vida; traqueostomia por doble estenosis subglotica: remodelacion de craneo por trigonocefalia 2012,2012 3 craneo dias doble esofagica estenosis plastia po remodelacion subglotica: traqueostomia trigonocefalia vida;
+ASPLN,Asplenia,asplenia
+HTRTKS,Heterotaxia,heterotaxia
+TRXMTSTSKTMNKRSSPTLJKPLMNRRPRT,Metastasectomia pulmonar derecha con reporte patologico de necrosis,derecha metastasectomia necrosis patologico pulmonar reporte
+SPTRSKRTKKTTRSMKRSNSFJKNSMNTPTPF,PO correcion de atresia esofagica tipo V al nacimiento; cateterismo cardiaco 2-sep-2020;,2-sep-2020; atresia cardiaco cateterismo correcion esofagica nacimiento; po tipo v
+AKTTSNTRSNNTNSTTMTRT,Desnutricion aguda de intensidad moderada,aguda desnutricion intensidad moderada
+KTPJTFKLTTTSSTTJSTSNLLKMLSNSFSNSMTFKTPRFNTRKLRPSRNLRSPRTRSNTRMSRFKTNT,Peso bajo para edad gestacional/Leucomalacia periventricular / Sindrome de dificultad respiratoria modificado por dosis surfactante/ Insuficiencia Renal Aguda,/ aguda bajo dificultad dosis edad gestacional/leucomalacia insuficiencia modificado periventricular peso renal respiratoria sindrome surfactante/
+HMFRTPRSTT,Hemivertebras T10 Y T11,hemivertebras t10 t11
+TMJMTR,HIja de madre DM,dm hija madre
+PLTRLPKSNRSNSRL,Hipoacusia neurosensorial bilateral,bilateral hipoacusia neurosensorial
+PLTRLKTRKNJNTLKSSN,Luxacion congenita de la cadera bilateral,bilateral cadera congenita luxacion
+KRSMNTTSNTRSNTTNSNSFR,Desnutricion severa con detencion del crecimiento,crecimiento desnutricion detencion severa
+SNTRMFLKRTFSL,Sindrome velocardiofacial,sindrome velocardiofacial
+KKTLSN,Delecion 22q112q112,22q112q112 delecion
+LRNKMLS,Laringomalacia,laringomalacia
+RJNSKTSLMNTSSTKTTSFKLSNNMNPLNFRTSPSTMNPLMNRRNLSLTSPSS,Nemonia asociada a los cuidados de la salud Sepsis en foco pulmonar   18/01/21 Aslamiento de Pseudomona aeruginosa Lesion renal aguda Pielonefritis aguda, 18/01/21 aeruginosa aguda aslamiento asociada cuidados foco lesion nemonia pielonefritis pseudomona pulmonar renal salud sepsis
+PJTNTTJSTSNLPSRSSNTRM,Sindrome de Down RCIU y peso bajo para la edad gestacional,bajo down edad gestacional peso rciu sindrome
+AKTSTKRNKTSNTRSNNTNSTTMTRT,Desnutricion cronica agudizada de intensidad moderada,agudizada cronica desnutricion intensidad moderada
+ANMPKRMKMKRSTK,Anemia microcitica hipocromica,anemia hipocromica microcitica
+PRNKLSNTRLKTLFMRFSMSTS,Situs bronquial levomorfismo higado central,bronquial central higado levomorfismo situs
+FNTPLKTRKSTRSTMLPRSKPK,Gastrostomia y funduplictaura laparoscopica,funduplictaura gastrostomia laparoscopica
+ASTNSSSPKLTK,Estenosis Subglotica,estenosis subglotica
+KRTLPRLSS,Paralisis cordal,cordal paralisis
+ANMTFSNSR,anemia por deficiencia de hierro,anemia deficiencia hierro
+TSNTRKNMTRT,Desnutricon moderada,desnutricon moderada
+KFNTP,Fenotipo del 22q11,22q11 fenotipo
+KRTPRKT,Critporquidea,critporquidea
+FSTLRKTPRNL,Fistula rectoperineal,fistula rectoperineal
+KRNKTSNTRSN,Desnutricion cronica,cronica desnutricion
+PJNSMNTPS,Peso bajo para nacimiento,bajo nacimiento peso
+TFKLTTKRTMTFKTRSPRTRSNTRMSRFKTNT,sindrome de dificultad respiratoria grado ii modificada por surfactante ´,dificultad grado ii modificada respiratoria sindrome surfactante ´
+PLTRLKRTPLNTRKMTRRJNSKNT,Quemadura de segundo grado en region plantar bilateral,bilateral grado plantar quemadura region segundo
+NNTLSPSSTRT,Sepsis neonatal tardia,neonatal sepsis tardia
+ASSTSLSNSNSMNTF,Lesiones asociadas a la via de nacimiento,asociadas lesiones nacimiento via
+HMLTKPRPLRPNMNTRKTRMTT,Hiperbilirrubinemia indirecta no hemolitica remitida,hemolitica hiperbilirrubinemia indirecta remitida
+ANMPRMTRRMTT,Anemia del prematuro remitida,anemia prematuro remitida
+NNTLRMTTSPSSTMPRN,Sepsis neonatal temprana remitida,neonatal remitida sepsis temprana
+KRMNLJMRJMTRSFLP,Hemorragia de la matriz germinal gii volpe,germinal gii hemorragia matriz volpe
+KNFLSFSKRSSTRXFKLSJNRLSSNMKRPRLMKLNKSMRTNTLSPSSSPRFRSNTMPRN,Sepsis neotal temprana crisis convulsivas mioclonicas focales hemicorporal derecha con generalizacion y supraversion de la mirada,convulsivas crisis derecha focales generalizacion hemicorporal mioclonicas mirada neotal sepsis supraversion temprana
+TJRJPSNTRM,PB Sindrome de Digeorge,digeorge pb sindrome
+HPRTRKLSRTMPRMR,Hipertrigliceridemia primaria,hipertrigliceridemia primaria
+TSNTRSNSFR,Desnutricion severa,desnutricion severa
+XKFKPLMNRRMTTSPTK,Choque septico remitido de foco pulmonar,choque foco pulmonar remitido septico
+ARTRKFNFRRPLMNRTRMPSSFN,Trombosis vena cava inferior y en arteria pulmonar,arteria cava inferior pulmonar trombosis vena
+TTNLSTNSSNTSTNLMLRTSN,Estenosis duodenal / Malrotacion intestinal,/ duodenal estenosis intestinal malrotacion
+ALFLFSRKRTLPPLTN,Fisura labio alveolo palatina grado III,alveolo fisura grado iii labio palatina
+ASKRTPLX,Poliotia izquierda,izquierda poliotia
+AFXNTSNTRSNLFTL,Desnutricion leve con afeccion de la talla,afeccion desnutricion leve talla
+PLTRLKTRKNJNTTSPLSTRSLPPLSPTRTSMLKFTLMSMKRXPLTKSRNL,Hipotiroidismo congenito microtia bilateral hipoplasia renal displasia de cadera hidrocele bilateral lagooftalmos paliticus,bilateral cadera congenito displasia hidrocele hipoplasia hipotiroidismo lagooftalmos microtia paliticus renal
+HPTRFKLKTNT,Lactante hipotrofico,hipotrofico lactante
+ANTSTNLMLRTSN,Malrotacion intestinal,intestinal malrotacion
+HPLFLPPRTNM,Hipoalfalipoproteinemia,hipoalfalipoproteinemia
+TRMTTSPNL,Dermatitis del panal,dermatitis panal
+KNTTFNKMSRNLS,Fungomas candida renales,candida fungomas renales
+ATRFSRPRLKRTKSPKRTKL,Atrofia cerebral cortico-subcortical,atrofia cerebral cortico-subcortical
+APRTJFRMRKST,Abordaje de Sd Ivermark,abordaje ivermark sd
+ALTRSNTKLSNMKNK,Alteracion de la mecanica de la deglucion,alteracion deglucion mecanica
+KSTRSTMP,PO  gastrostomia, gastrostomia po
+FNTPLKTRLPRSKPKNSNTP,funduplicatura tipo Nissen laparoscopica 120521,120521 funduplicatura laparoscopica nissen tipo
+AKTTSNTRSNMTRT,Desnutricion aguda moderada,aguda desnutricion moderada
+KMPLJSKNFLSFSKRSSFPRLS,Crisis convulsivas febriles complejas,complejas convulsivas crisis febriles
+AFXNKRNKTSNTRSNSFRTL,Desnutricion cronica severa con afeccion a la talla,afeccion cronica desnutricion severa talla
+KTNLNKRPSNTRM,Pb Sindrome de Langer Giedon,giedon langer pb sindrome
+HPTNKSNTRM,Sindrome hipotonico,hipotonico sindrome
+AFKTSNTSNTRSNLFMTRTTL,Desnutricion moderada con leve afectacion de la talla,afectacion desnutricion leve moderada talla
+KRTJNKXK,Choque cardiogenico,cardiogenico choque
+TRXFMRLPFNTSXN,PO Venodiseccion femoral derecha,derecha femoral po venodiseccion
+NMKNJNTTSMRFLJKKLPLPTNNFXNNRTSRLNRMSTKNRMKRMKPLTMPRPPLRTRSSNTRMTRPNMTRNR,Probable infeccion congenita por Treponema pallidum Sindrome dismorfologico Sindrome de Turner Retraso global del neurodesarrollo Anemia normocitica normocromica  Hipotonia global, anemia congenita dismorfologico global hipotonia infeccion neurodesarrollo normocitica normocromica pallidum probable retraso sindrome treponema turner
+PLTRLNKLJNSPPLNPRPPL,Pie plano bilateral probable negligencia,bilateral negligencia pie plano probable
+KFTNFXN,Infeccion por Covid 19 02/2021,02/2021 19 covid infeccion
+KRTKPRPSTSNTRM,Sindrome post Paro cardiaco,cardiaco paro post sindrome
+AKSPLRTRLPRTM,Laparotomia exploradora,exploradora laparotomia
+TSKMPRSNRTRKRT,descompresion retrograda,descompresion retrograda
+FKRMTTSPSSRNR,Sepsis de foco urinario remitida,foco remitida sepsis urinario
+TNSKS,Sx Down,down sx
+KRNKNFRMTTRNL,Enfermedad renal cronica,cronica enfermedad renal
+SPRPS,Sobrepeso,sobrepeso
+PLTRLKNPFR,Pie equino varo bilateral,bilateral equino pie varo
+APRTJKNFLSFSKRSS,Crisis convulsivas en abordaje,abordaje convulsivas crisis
+KRTFSKTNNNNSNTRMFS,Sindrome de Noonan vs Cardiofaciocutaneo,cardiofaciocutaneo noonan sindrome vs
+KNJNTSKRTJPTSS,Ptosis congenita de ojo izquierdo,congenita izquierdo ojo ptosis
+KRTSKRTLSNLFJ,Lesion coroidea leve en ojo izquierdo,coroidea izquierdo lesion leve ojo
+PPLN,Pie plano,pie plano
+KLKSNNMTRKSPLRLSL,Neumotorax con colocacion de sello pleural,colocacion neumotorax pleural sello
+ASSTKTTRSNTRLNFXNSNKNSSPXTRNTTRTMNTFNS,Sospecha de infeccion de torrente sanguineo asociada a cateter venoso central en tratamiento,asociada cateter central infeccion sanguineo sospecha torrente tratamiento venoso
+ASSTKTTSFKSLTSPSS,Sepsis sin foco asociada a cuidados de la salud,asociada cuidados foco salud sepsis
+ATTJSTSNLKRNTPRTKT,Producto grande para la edad gestacional,edad gestacional grande producto
+KTLSNFNTP,Fenotipo delecion 22q11,22q11 delecion fenotipo
+NSFSNSRSPRTRTP,Insuficiencia respiratoria tipo 1,1 insuficiencia respiratoria tipo
+ASSTKTTRNFXNMLTFLS,Infeccion asociada a cateter por S maltophila,asociada cateter infeccion maltophila s
+ANSFLMLSPRFNTRKLR,Encefalomalacia periventricular,encefalomalacia periventricular
+KMNKNTTRSFLMTRTFNTRKLMKL,ventriculomegalia moderada hidrocefalia comunicante,comunicante hidrocefalia moderada ventriculomegalia
+AKTLSNRNL,Lesion renal aguda,aguda lesion renal
+RSSMTRK,RCIU Siemetrico,rciu siemetrico
+APTMNLSNFRSSSTSFSS,Situs inversus de vasos abdominales,abdominales inversus situs vasos
+ANTRKLTSFTTRPPRPLRPNMNNTLRSLTSPSS,Hiperbilirrubinemia fototerapia sepsis neonatal enterocolitis resuelto,enterocolitis fototerapia hiperbilirrubinemia neonatal resuelto sepsis
+APLPSFKLNSMTR,Epilepsia de inicio focal no motora,epilepsia focal inicio motora
+NTSTNTTRXTSMNSNFLJMMPRPLFKFSKLR,Antecedente de disminucion de flujo vascular de miembro pelvico derecho 2112 20,20 2112 antecedente derecho disminucion flujo miembro pelvico vascular
+NTRPN,Neutropenia,neutropenia
+TSMRFLJKNNNPRPPLSNTRM,Sindrome dismorfologico probable Sindrome de Noonan,dismorfologico noonan probable sindrome
+APTMNLNFRSSSTS,situs abdominal inversus,abdominal inversus situs
+ASSTKTTSNMNPRKPSLTSPSSTRKNTPRNKTS,Neumonia asociada a cuidados de la salud Sepsis asociada a cuidados de la salud PO RCP traqueoendobronquitis,asociada cuidados neumonia po rcp salud sepsis traqueoendobronquitis
+ASMTRKKRSMNTNTRTRNRSTRXN,Restriccion de crecimiento intrauterino asimetrico,asimetrico crecimiento intrauterino restriccion
+PJNMNTTNTNSRPSPRMTRSSSPXTRT,Prematurez tardia Bajo peso al nacer Sospecha de innato de inmunidad,bajo inmunidad innato nacer peso prematurez sospecha tardia
+HMFRTPRS,Hemivertebras,hemivertebras
+HMMLSKRTTPL,Hemimelia tibial izquierda,hemimelia izquierda tibial
+SKRTPLTKTL,Polidactilia izquierda 7,7 izquierda polidactilia
+KRSNFNSTMPRN,Caries en la infancia temprana,caries infancia temprana
+APRTJJNTKLTRMSNTRMFKTRLFS,Abordaje por sindrome genetico: VACTERL vs Holt Oram,abordaje genetico: holt oram sindrome vacterl vs
+PLTRLPPLSPLKR,Hipoplasia del pulgar bilateral,bilateral hipoplasia pulgar
+FXSR,FISH para SRY , fish sry
+RFLRPSTFNTMP,OP 1er tiempo de Stephen Fowler,1er fowler op stephen tiempo
+PLTRLTSFNSNTPRK,Disfuncion tubarica bilateral,bilateral disfuncion tubarica
+PJPTLJKTL,Talla baja patologica,baja patologica talla
+ARPTFSKSTSFLSS,Quistes eruptivos vellosos,eruptivos quistes vellosos
+SFLMKRNSP,Cefalea pb migranosa,cefalea migranosa pb
+AFXNTSNTRSNSFRTL,Desnutricion severa con afeccion a la talla,afeccion desnutricion severa talla
+PLTRLKRNLFPRPRLSS,paralisis bilateral del IV par craneal,bilateral craneal iv par paralisis
+TLNKJPRTMN,DI con predominio del lenguaje,di lenguaje predominio
+ASTRPSM,Estrabismo,estrabismo
+KRNTMTRXTRNJPTRLMTMPRTLP,PO Craneotomia parietal derecha y drenaje de hematoma epidural,craneotomia derecha drenaje epidural hematoma parietal po
+NSN,Nissen,nissen
+PLTRLSTSNTTSTSTKLS,Testiculos no descendidos bilaterales,bilaterales descendidos testiculos
+SKSTRNR,Sx de Turner,sx turner
+PLTRLRNNKNL,Hernia inguinal bilateral,bilateral hernia inguinal
+KTLSNPRPPL,Probable delecion 22Q11,22q11 delecion probable
+TTRRTTRMNRTLJNRLJK,Deterioro neurologico de etiologia a determinar,deterioro determinar etiologia neurologico
+KRNKTSNTRSNSFR,Desnutricion cronica severa,cronica desnutricion severa
+KTRPRSFLSTLF,Cuadriparesia flacida leve,cuadriparesia flacida leve
+SRPRLSMKRNFRTSMR,Microinfartos cerebrales por MRI,cerebrales microinfartos mri
+PJTTJSTSNLNSMNTPS,Peso bajo al nacimiento Peso bajo para la edad gestacional,bajo edad gestacional nacimiento peso
+PKTRNKNJNTFS,Conjuntivis bacteriana,bacteriana conjuntivis
+HPTPLSTMPRTKST,Hepatoblastoma PRETEXT II,hepatoblastoma ii pretext
+KTTRKLKSNPPRT,PO Colocacion de cateter puerto,cateter colocacion po puerto
+TRXPTKTMP,PO de hepatectomia derecha,derecha hepatectomia po
+TFNTSKLSKT,2 ciclos de Qt adyuvante,2 adyuvante ciclos qt
+PLPTKMNRMTT,Estado epileptico remitido 30 min 291021,291021 30 epileptico min remitido
+HPRTNSNPRSSTNTPLMNR,Hipertension pulmonar persistente,hipertension persistente pulmonar
+ANSFLPXPKSKSKMKSKLS,Secuelas de encefalopatia hipoxico isquemica,encefalopatia hipoxico isquemica secuelas
+ATKRTPKTRNKMNTTTLJNMNPRPPL,Neumonia adquirida en la comunidad de probable etiologia bacteriana,adquirida bacteriana comunidad etiologia neumonia probable
+KFKTRXFMRLRTR,Retiro de CVC femoral derecho 091121,091121 cvc derecho femoral retiro
+TSMRFFSL,Dismorfia facial,dismorfia facial
+AKTLSNPRRNLRNL,Lesion renal aguda prerrenal,aguda lesion prerrenal renal
+ANTSTNTTMPLMNR,Antecedente de Edema pulmonar,antecedente edema pulmonar
+KSTRSTMPSTMTP,PO de Gastrostomia tipo Stamm,gastrostomia po stamm tipo
+AKTKNLSNRNL,Lesion renal aguda AKIN III,aguda akin iii lesion renal
+KFKSKRTKLR,CVC yugular izquierdo,cvc izquierdo yugular
+KFKTRXFMRL,CVC Femoral derecho,cvc derecho femoral
+NFXNRMTTRNRSFS,nfeccion de vias urinarias REMITIDA,nfeccion remitida urinarias vias
+KSTRNTRTSKLTFSLRMTT,-Gastroenteritis por C difficile y E Coli REMITIDA,-gastroenteritis c coli difficile remitida
+APTMNLFKRMTTSPSS,Sepsis de Foco Abdominal REMITIDA,abdominal foco remitida sepsis
+HTRTKSSKS,Sx de heterotaxia,heterotaxia sx
+KLNKLSTMTSNTNTMRP,PO colostomia de colon descendente MARA,colon colostomia descendente mara po
+NKRMTTFRL,NAC viral remitida,nac remitida viral
+APSSSRPRLTRXFRNTL,Absceso cerebral frontal derecho,absceso cerebral derecho frontal
+KNFLSFSKRSSPLPSSKNTRS,Crisis Convulsivas Secundarias Epilepsia,convulsivas crisis epilepsia secundarias
+PLKLPLSKNTR,Poliglobulia secundaria,poliglobulia secundaria
+PSSSRPRLTRXFRNTLPSTPRT,Postoperado de absceso cerebral frontal derecho 12/06/18,12/06/18 absceso cerebral derecho frontal postoperado
+KTTRSM,Cateterismo el 23-02,23-02 cateterismo
+FSTLPPLMNRSSTMK,OP fistula sistemico pulmonar 2008,2008 fistula op pulmonar sistemico
+PTRXNLTRXKLNP,OP Glenn derecho bidireccional 2010,2010 bidireccional derecho glenn op
+KRTKKTTRSMTNSTK,Cateterismo cardiaco diagnostico 120321,120321 cardiaco cateterismo diagnostico
+PLKNTRTRL,Bloqueo interatrial 4/2021,4/2021 bloqueo interatrial
+TRLKTTRSMRSNTPSNRTRKLSPTSTMTRPTK,Cateterismo terapeutico Septostomia atrial 5/3/2022 Intubacion orotraqueal 289 horas,289 5/3/2022 atrial cateterismo horas intubacion orotraqueal septostomia terapeutico
+NNTLSPSSTMPRNTRTMNT,Sepsis neonatal temprana en tratamiento,neonatal sepsis temprana tratamiento
+HPRPLRPNMMLTFKTRLTRTT,hiperbilirrubinemia multifactorial tratada,hiperbilirrubinemia multifactorial tratada
+KMPLJKNJNTXN,Complejo de Shone Congenito,complejo congenito shone
+ANTKRTTSRLSSSPKT,Endocarditis subaguda por S oralis,endocarditis oralis s subaguda
+SNMTRSNMNPLSTMPRMTRSRSRTNNSRSKFSPSSTRT,Prematurez de 333s Sepsis tardia  Policitemia  RCIU Inmadurez retiniana Neumonia por SarsCov2, 333s inmadurez neumonia policitemia prematurez rciu retiniana sarscov2 sepsis tardia
+AS,IAAS,iaas
+PKRTRKSTM,PCR 060122 Traqueostomia,060122 pcr traqueostomia
+FNTPLKTRNSN,Funduplicatura de Nissen 160222,160222 funduplicatura nissen
+PSTPR,Estado postparo,postparo
+ASSTKTTSKLPSLNMNPNMNSLT,Neumonia asociada a los cuidados de la salud Klebsiella Pneumonie,asociada cuidados klebsiella neumonia pneumonie salud
+ATLKTSPSLTRXMNJ,Atelectasia basal derecha en manejo,atelectasia basal derecha manejo
+PLPTTNTSNSPSFK,Bulboduodenitis inespecifica,bulboduodenitis inespecifica
+LMNTSSTKTTSNMNPRNFLNSSLT,Neumonia asociada a los cuidados de la salud aislamiento Parainfluenza 3,3 aislamiento asociada cuidados neumonia parainfluenza salud
+ALMNTSSTKTTRSNTRLPTRMTSNFXNSNKNSTFLKKSTRNTFNS,Infeccion del torrente sanguineo asociada a cateter venoso central aislamiento de Staphylococcus epidermidis,aislamiento asociada cateter central epidermidis infeccion sanguineo staphylococcus torrente venoso
+AKTLMNTLMNTTSKRTRNFRMTTFNJKMKLTFSNKSNFSFSRTS,A descartar enfermedad fungica invasiva actualmente sin aislamiento en hemocultivos seriados para hongos,actualmente aislamiento descartar enfermedad fungica hemocultivos hongos invasiva seriados
+PRTJKRTJNKPRTNSNPLMNR,Hipertension pulmonar no cardiogenica - en abordaje,- abordaje cardiogenica hipertension pulmonar
+SNTRLPTNKSNTRM,Sindrome hipotonico central,central hipotonico sindrome
+ANRKTLFSTLMLFRMSNRKTFSTPLR,Malformacion anorrectal con fistula recto vestibular,anorrectal fistula malformacion recto vestibular
+PRNKSKSTRNSKPSTRXNPRNSPLS,Obstruccion extrinseca de bronquios principales del 50%,50% bronquios extrinseca obstruccion principales
+ARTRKRPSSPLTRLTSTLRTLS,Artrogriposis distal bilateral de rodillas,artrogriposis bilateral distal rodillas
+PLTRLKTRKNJNTTSPLS,Displasia congenita de cadera bilateral,bilateral cadera congenita displasia
+SSTKTTSNFXNRMTTSLTSNKNTRNT,Infeccion del torrente sanguineo asociada a cuidados de la salud Remitida 140422,140422 asociada cuidados infeccion remitida salud sanguineo torrente
+KSTRSFJKRFLJ,Reflujo gastroesofagico,gastroesofagico reflujo
+KSTRSTMNSNP,OP gastrostomia y Nissen 020222,020222 gastrostomia nissen op
+PRNKSPRSNNMNRMSN,Neumonia por broncoaspiracion en remision,broncoaspiracion neumonia remision
+ANFXNSRSKF,Infeccion por SARS-COV2,infeccion sars-cov2
+ANTRKLTSPNKRTSNT,Enterocolitis necrotizante IIB,enterocolitis iib necrotizante
+HPRPRPNMNTRKT,Hiperbiirrubinemia indirecta,hiperbiirrubinemia indirecta
+KTJRJMKRTLSNSNTRMSKS,Sindrome por microdelecion 22q11 Sx de DiGeorge,22q11 digeorge microdelecion sindrome sx
+SPRTKLTFNTRKKSFKLSPSTFTRKL,Cultivo de aspirado traqueal Positivo Enterococcus Fecalis 24/5/22,24/5/22 aspirado cultivo enterococcus fecalis positivo traqueal
+APLPSFKFRNTLKRMMLTPLSSNTMTK,Epilepsia sintomatica higroma frontal y multiples EVC,epilepsia evc frontal higroma multiples sintomatica
+NMNSRPTSN,Neumonias de repeticion,neumonias repeticion
+ALRJKSM,Asma alergica,alergica asma
+PJFMLRTL,Talla baja familiar,baja familiar talla
+ALRJSFLSPRNSPNSLNS,Alergia cefalosporinas y penicilinas,alergia cefalosporinas penicilinas
+TFKLTTMTFKTRSPRTRSNTRMSRFKTNT,Sindrome de dificultad respiratoria modificado por surfactante,dificultad modificado respiratoria sindrome surfactante
+KTRKNJNTTSPLS,Displacia congenita de cadera,cadera congenita displacia
+NNTLSPSSTRTTRTMNT,Sepsis neonatal tardia en tratamiento,neonatal sepsis tardia tratamiento
+TFRKMTKRNSKRT,Hernia diafragmatica izquierda,diafragmatica hernia izquierda
+TFRKMTKLTPLKTRPPRTSMNT,PO plicatura diafragmatica y prodecimiento de Ladd,diafragmatica ladd plicatura po prodecimiento
+SSTKTTSSLTSPSS,Sepsis asociada a cuidados de la salud 19/06/22,19/06/22 asociada cuidados salud sepsis
+ATNFRSRNFRNJTS,Rinofaringitis por Adenovirus,adenovirus rinofaringitis
+ANTSTNTPLPSPLPTKSTT,Antecedente de estado epileptico En estudio de epilepsia,antecedente epilepsia epileptico estudio
+HMFRTPR,Hemivertebra,hemivertebra
+HMLTKPRPLRPNMNTRKT,Hiperbilirrubinemia indirecta no hemolitica,hemolitica hiperbilirrubinemia indirecta
+APRTJNTRPN,neutropenia en abordaje,abordaje neutropenia
+KTTRSMTNSTK,Cateterismo diagnostico17122014,cateterismo diagnostico17122014
+TRSPTSTMPLNP,OP atrioseptostomia con balon 20062014,20062014 atrioseptostomia balon op
+KLKMSKRTJ,Glaucoma de ojo izquierdo,glaucoma izquierdo ojo
+AFKTSNTRSTSNTRSNSFJKLTRMPRPPLSFRSNTRMTL,Probable sindrome de Holt Oram Atresia esofagica Desnutricion severa con afectacion de la talla,afectacion atresia desnutricion esofagica holt oram probable severa sindrome talla
+KNJNTFTS,Conjuntivitis,conjuntivitis
+KPSFRKTRRT,Fractura de cabeza del radio,cabeza fractura radio
+KRTFSKTNSNTRM,Sindrome cardio-facio-cutaneo,cardio-facio-cutaneo sindrome
+KNJNTTRMKMLNSTSS,Melanocitosis dermica congenita,congenita dermica melanocitosis
+MSSSMPKMNTR,Mosaicismo pigmentario,mosaicismo pigmentario
+APLPSFKLMTR,Epilepsia focal motor,epilepsia focal motor
+ATRFKRTKL,Atrofia cortical,atrofia cortical
+PLTRLTRSL,Hidrocele bilateral,bilateral hidrocele
+TPTSJSTSNLJMTR,Hijo de madre con diabetes gestacional,diabetes gestacional hijo madre
+HPRPLRPNMMLTFKTRLRMTT,"Hiperbilirrubinemia
+multifactorial remitida","hiperbilirrubinemia
+multifactorial remitida"
+PRNKPLMNRTSPLS,Displasia broncopulmonar,broncopulmonar displasia
+TSNTRSNLFPT,Desnutricion leve por P/T,desnutricion leve p/t

@@ -1,0 +1,85 @@
+Congenital heart diseases constitute the most importantgroup of congenital malformations. They are a relativelycommon problem with an incidence of 6/1000 newborns.Approximately 25% of these children suffer from critical con-genital heart diseases that require surgery or therapeuticcatheterization during the first year of life. Congenital heartdiseases contribute to 3% of infant mortality and to 46%of deaths caused by congenital malformations, with mostdeaths occurring within the first year of life. Worldwide,it is estimated that only 2---15% of patients suffering fromcongenital heart diseases are subject to curative surgical orinterventional procedures
+
+
+In 2008, the Mexican Association of Specialists in Congen-ital Heart Diseases (Asociación Mexicana de Especialistas enCardiopatías Congénitas, AMECC, A.C.) was created.
+the creation of a database, the Pediatric Cardiovascular Surgi-cal Database Registry (PCSDR)/Registro Nacional de CirugíaCardiaca Pediátrica (RENACCAPE), which uses internationalnomenclature to enable users to obtain information abouthealth practices in the country’s various health centers andserves as a reference point to recognize and quantify thesuccesses of the initiative
+
+After establishing the collaboration
+between Instituto Nacional de Pediatria and Kardias, the
+mortality rate of CHD decreased by 14%. However, it
+was still far higher than in high-income countries.
+Kardias and Instituto Nacional de Pediatria then partnered
+with a private institution, the ABC hospital.
+They built a hybrid system using elements from both
+public and private sectors to create a centre of excellence
+for the care of children with CHD, combining the
+high volume of patients attended to at public hospitals
+with the resources and high quality controls of a private
+hospital certified by the Joint Commission on Accreditation
+of Health Care Organizations.
+
+Only about 30% of all heart malformations in the
+world are actually diagnosed. Therefore, many children still
+die without even being diagnosed.1
+
+The institutions that were willing to participatewere given an access code to introduce cardiovascular surgi-cal data performed on patients <18 years of age from August1, 2011 until July 31, 2012. Variables analyzed were:
+
+age
+gender
+birth place
+category of congenital heart disease
+type of surgery (elective 90% or emergency)
+use of extracor-poreal circulation
+surgical risk classification (RACHS-1)
+morbidity and mortality.
+
+Medical establishments participating:
+HRAE: Hospital Regional de Alta Especialidad
+INP:Instituto Nacional de Pediatría
+HIMFG: Hospital Infantil de Méx-ico Federico Gómez
+INC: Instituto Nacional de Cardiología.
+
+943 procedures, 880 patients; 7% (63) of these were re-operated
+
+53% (504patients) of the procedures were performed on males.
+
+Age at the time of surgery: <1 month (11%) 102 patients, 42%(271) 1 month-1year, 31%(281) 1-5 years old, 18%(158) 6-11 years, 14%(131) 12-18 years
+10% surgery had to be performedwithin the first month (of life).
+We consider that these numbers will increase in all likelihood in the upcoming years as a result of more timely heartdisease detection and attention.
+
+Aristotle Score: Survival vs complexity graph
+The scoring of complexity is based on primary procedures and not on diagnoses as there may be several procedures that can apply to the same diagnosis.
+
+
+Overall operative mortality was 7.5%.
+Infectious processes stand out as thefirst cause of morbidity.
+RACHS-1 
+RACH1 2% --- 0.7 (2019-2017)
+RACHS2 6% --- 2.2
+RACH3 8% --- 6.6
+RACH4 19% --- 16.5
+RACH5 25% (repair of Ebstein anomaly and repair of truncus arteriosus with interrupted aortic arch)
+RACH6 44% (first stage Norwood or Damus-Kaye-Stansel procedures for hypoplastic left heart syndrome)---39.2
+Not classified 9%
+
+61.8% require extracorporeal circulation (two thirds)
+
+320 patients have been operated on at ABC hospital since
+the start of the collaboration programmes.
+ 278 public sector, 42 private sector. 
+150 patients a year
+
+Early extubation is feasible, with low reintubation
+rates, at 2,691 m (8,828 ft.) above sea level, even in patients with single ventricle physiology
+
+First 17 months, only RACHS-1 level 1 and 2, zero mortality
+RACHS-1 level 3 to 6 and Overall mortality is 2.81%
+comparable to that in high-income countries.
+
+Donabedian model. The Donabedian model is a valuable means of assessing the
+quality of healthcare. It uses information drawn from three categories: structure, referring to the context 
+and outcomes (mortality rate, complexity increase).
+
+
+Software development
+An Aristotle™ prototype software, developed on Excel, allows very fast and simple navigation to score the patient complexity factors. Several patient database prototype softwares containing Aristotle™ are under development. The complete Aristotle™ system will be provided freely to the database participants of the STS and EACTS, with the freedom of using indifferently the Basic Score or the Comprehensive Score. For other parties, the Aristotle™ software will be made available on the Internet or on compact disc.

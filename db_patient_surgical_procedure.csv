@@ -1,0 +1,1672 @@
+patient_id,surgical_procedure
+0,Reparacion de CIA parche
+1,Reparacion de CIA parche
+2,Reparacion de CIA parche
+3,Reparacion de CIA parche
+4,Reparacion de CIA parche
+5,Reparacion de CIV parche
+5,Reparacion de estenosis aortica subvalvular
+6,Reparacion de CIV parche
+7,Reparacion de CIA parche
+8,Reparacion de CIV parche
+9,Reparacion de CIA parche
+10,Reparacion de CIV parche
+10,Reparacion de estenosis aortica subvalvular
+11,Reparacion de CIV parche
+11,Reparacion de estenosis aortica subvalvular
+12,Reparacion de CIA parche
+12,Cierre quirurgico de PCA
+13,Reparacion de CIV cierre primario
+13,Reparacion de estenosis aortica subvalvular
+14,Reparacion de CIV parche
+14,Cierre quirurgico de Conducto Arterioso
+15,Reparacion de CIV parche
+15,Cierre primario de FOP
+16,Cierre quirurgico de PCA
+17,Reparacion de CIA parche
+18,Cierre quirurgico de PCA
+19,Ampliacion tracto salida ventriculo derecho
+20,Reparacion de CIA parche
+20,Cierre quirurgico de PCA
+21,Cierre quirurgico de PCA
+22,Reparacion de CIV parche
+23,Reparacion de CIV parche
+23,Reparacion de estenosis aortica subvalvular
+24,Reparacion de CIV parche
+25,Reparacion de CIA parche
+26,Reparacion de CIA parche
+27,Reparacion de CIA parche
+28,Reparacion de CIV parche
+29,Cierre quirurgico de PCA
+30,Reparacion de CIA parche
+31,Reparacion de CIV cierre primario
+32,Reparacion de CIA parche
+34,Reparacion de CIA parche
+34,Reparacion de CIV parche
+34,Cierre quirurgico de PCA
+35,Reparacion de CIA primario
+35,Cierre quirurgico de PCA
+36,Reparacion de CIV parche
+37,Coartectomia
+38,Reparacion de CIV parche
+39,Reparacion de CIA parche
+40,Reparacion de CIA parche
+41,Reparacion de comunicacion interauricular parche
+42,Reparacion de CIV parche
+43,Reparacion de CIA parche
+44,Reparacion de CIV parche
+44,Cierre quirurgico de Conducto Arterioso
+45,Reparacion de doble camara de ventriculo derecho
+45,Reparacion de CIV parche
+46,Reparacion de estenosis aortica subvalvular
+46,Cierre quirurgico de PCA
+47,Reparacion de CIV parche
+48,Cierre quirurgico de PCA
+49,Reparacion de CIA parche
+50,Cierre quirurgico de PCA
+51,Reparacion de CIA parche
+51,Reparacion de CIV cierre primario
+51,Plastia Tricuspidea
+52,Reparacion de canal AV transicional
+53,Reparacion de CIA parche
+54,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+55,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+56,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+57,Reparacion de CIV
+57,Cierre quirurgico de PCA
+58,Cierre quirurgico de PCA
+59,Reparacion de CIV parche
+59,Cierre quirurgico de PCA
+60,Reparacion de CIA
+61,Reparacion de coartacion con avance aortico
+61,reseccion estenosis subvalvular aortica
+62,Reparacion de CIA parche
+63,Reparacion de Canal AV completo
+64,Reparacion de CIA
+65,Reparacion de CIV parche
+65,Cierre quirurgico de PCA
+66,Ampliacion del TSVD
+66,Reparacion de CIV infundibular
+67,Reparacion de CIA parche
+68,Reparacion de CIA parche
+68,Reparacion de CIV parche
+68,Cierre quirurgico de PCA
+69,Reparacion de CIA parche
+70,Reparacion de Canal AV completo
+70,Cierre quirurgico de PCA
+71,Reparacion de CATVP
+72,Reparacion de CIV parche
+72,Cierre quirurgico de PCA
+74,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+75,Reparacion de CIA parche
+76,Reparacion de CIA parche
+77,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+78,Reparacion de comunicacion interventricular
+78,Cierre quirurgico de PCA
+79,Reparacion de comunicacion interventricular
+80,Reparacion de Canal AV completo
+81,Reparacion de CIA parche
+82,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+83,Reparacion de coartacion termino terminal
+84,Reparacion de CIA parche
+85,Ampliacion del TSVD
+85,Reparacion de CIV membranosa
+86,Reparacion de CIA parche
+87,Reparacion de CIA parche
+88,Reparacion de CIA parche
+89,Cierre quirurgico de PCA
+90,Reparacion de CIA parche
+90,Reparacion de hendidura mitral valvuloplastia
+91,Procedimiento de Glenn bilateral
+92,Reparacion de CIA parche
+93,Reparacion de CIV parche
+93,Cierre quirurgico de PCA
+94,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+95,Reparacion de arco aortico avance de arco aortico
+95,Bandaje de la AP
+96,Cierre quirurgico de PCA
+97,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+98,Reparacion de CIV primaria
+98,Reparacion de CIA parche
+99,Cierre quirurgico de PCA
+100,Reparacion de CIA parche
+101,Reparacion de arco aortico Avance de aorco aortico
+102,Reparacion de CATVP
+103,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+104,Reparacion de CIA parche
+105,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+106,Reparacion de estenosis aortica subvalvular
+106,Cierre quirurgico de PCA
+106,Plastia mitral
+107,Reparacion de CIV parche
+108,Reparacion de canal AV transicional
+108,Cierre quirurgico de PCA
+109,Reparacion de arco aorticoavance de arco aortico con reparacion de CIV
+110,Procedimiento de Warden
+111,Reparacion de CIA parche
+111,Cierre quirurgico de PCA
+113,Reparacion de CIA parche
+114,Reparacion de CIV parche
+115,Reparacion de conexion anomala parcial de venas pulmonares
+115,Reparacion de CIA parche
+116,Reparacion de CIA parche
+117,Reparacion de coartacion de aorta termino-terminal
+118,Colocacion de tubo valvulado VD a AP
+118,Plastia de la AP
+119,Procedimiento de Glenn bidireccional
+119,Plastia de pulmonar ramas central
+121,Reparacion de CIA parche
+122,Reparacion de CIV parche
+123,Bandaje de la arteria pulmonar
+124,Reparacion de CIV parche
+125,Reparacion de Canal AV parcial
+125,Reparacion de Hendidura mitral
+125,Cierre de CIA parche
+126,Reparacion de CIA parche
+127,Reparacion de arco aortico aortoplastia del arco  por deslizamiento ascendente
+127,correccion de coartacion de aorta tipo Sliding
+128,Reparacion de CIV parche
+128,Ampliacion del tracto de salida del VD
+128,Reparacion de CIA primario
+129,Reparacion de CIA parche
+130,Reparacion de CIA parche
+131,Reparacion de CIA parche
+132,Reparacion de CIA parche
+132,Reparacion de CIV parche
+132,Cierre quirurgico de PCA
+133,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+134,Reparacion de Canal AV completo
+134,Cierre quirurgico de PCA
+135,Reparacion de CIA parche
+136,Revision de parche interauricular
+137,Reparacion de CIA parche
+138,Reparacion de CIA parche
+139,Procedimiento de Glenn bidireccional
+139,Ampliacion de CIA
+140,Reparacion de CIV parche
+141,Reparacion de Tetralogia de Fallot no ventriculotomia
+141,Cierre quirurgico de PCA
+142,Reparacion de Tetralogia de Fallot no ventriculotomia
+143,Procedimiento de Fontan conducto extracardioco no fenestrado
+144,Ampliacion del TSVD
+145,Reparacion de estenosis aortica subvalvular
+146,Reparacion de CIV parche
+146,Cierre quirurgico de PCA
+147,Reparacion de CATVP
+148,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada bilateral
+148,Cierre quirurgico de PCA
+149,Reparacion de CIV parche
+149,Cierre quirurgico de PCA
+150,Reparacion de doble salida de ventriculo derecho con tunel intracardiaco
+150,ampliacion de tracto de salida del VD ventriculotomia parche transanular
+151,Procedimiento de Fontan conducto extracardioco no fenestrado
+152,Reparacion de CIA parche
+153,Reparacion de ventana aorto pulmonar
+154,Reparacion de Canal AV completo
+154,Cierre quirurgico de PCA
+155,Reparacion de CIA parche
+156,Reparacion de CIA parche
+157,Cierre quirurgico de Conducto Arterioso
+158,Reparacion de Canal AV parcial
+158,Reparacion de Hendidura mitral
+158,Cierre de CIA directo
+159,Reparacion de CIA parche
+159,Cierre quirurgico de PCA
+160,Reparacion de CIV parche
+161,Comisurotomia aortica
+161,Implante de protesis mecanica mitral
+163,Reparacion de CIV parche
+163,Cierre quirurgico de PCA
+164,Reparacion de arco aortico Aortoplastia por deslizamiento de aorta ascendente sliding
+164,Reseccion de membrana subaortica
+165,Reparacion de CIA parche
+166,Reseccion de tumor intracardiaco
+166,Ampliacion del tracto de salida del VD
+167,Reparacion de CIV parche
+168,Reparacion de estenosis aortica subvalvular
+168,Cierre quirurgico de PCA
+169,Reparacion de CIA parche
+170,Reparacion de doble salida de ventriculo derecho con tunel intracardiaco
+170,ampliacion de tracto de salida del VD ventriculotomia parche transanular
+171,Reparacion de CIA parche
+172,Reparacion de CIV parche
+173,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+174,Reparacion de CIV parche
+175,Reparacion de CIV parche
+175,Plastia de la rama derecha de la AP
+176,Reparacion de CIA parche
+177,Reparacion de CIV parche
+178,Recambio de tubo valvulado
+179,Reparacion de Canal AV completo
+179,Cierre quirurgico de PCA
+180,Reparacion de CIV parche
+181,Reparacion de Canal AV parcial
+181,Debandaje de arteria pulmonar
+181,Plastia de arteria pulmonar
+182,Reparacion de CIV parche
+183,Procedimiento de Fontan conducto extracardioco no fenestrado
+183,Atrioseptostomia quirurgica
+184,Reparacion de CIV parche
+185,Reparacion de CIA parche
+185,Cierre quirurgico de PCA
+187,Correccion de canal AV parcial
+187,Cierre de hendidura mitral
+188,Reparacion de CIA parche
+189,Reparacion de estenosis aortica subvalvular
+190,Reparacion de arco aorticoavance de arco aortico con reparacion de CIV
+191,Reparacion de conexion anomala total de venas pulmonares
+192,Reparacion de CIA parche
+193,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+193,Plastia de la rama izquierda de la arteria pulmoar
+194,Reparacion de CIV parche
+194,Cierre quirurgico de PCA
+195,Reparacion de CIA parche
+196,Reparacion de estenosis aortica subvalvular
+197,Reparacion de Canal AV completo
+198,Reparacion de CIV parche
+199,Reparacion de arco aortico Aortoplastia por deslizamiento de aorta ascendente sliding
+199,Reseccion de membrana subaortica
+200,Procedimiento de Fontan conducto extracardioco no fenestrado
+201,Reparacion de coartacion termino terminal extendida
+201,Reseccion de membrana subaortica
+201,Cierre quirurgico de PCA
+202,Reparacion de CIA parche
+203,Procedimiento de Fontan conducto extracardioco no fenestrado
+204,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+204,Cierre quirurgico de PCA
+205,Reparacion de CIA parche
+206,Procedimiento de Fontan conducto extracardioco no fenestrado
+207,Cierre quirurgico de PCA
+208,Reparacion de conexion anomala total de venas pulmonares
+209,Reparacion de Tetralogia de fallot con agenesia pulmonar
+209,Cierre de CIA
+210,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+211,Cierre quirurgico de Conducto Arterioso
+212,Reparacion de CIV parche
+212,reseccion estenosis subvalvular aortica
+213,Reparacion de coartacion termino-terminal
+213,Cierre quirurgico de PCA
+213,Comisurotomia aortica Valvulotomia aortica
+214,Reparacion de CIA parche
+214,Reparacion de CIV parche
+214,Cierre quirurgico de PCA
+215,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+215,Cierre quirurgico de PCA
+216,Reparacion de conexion anomala total de venas pulmonares
+217,Reparacion de Tetralogia de Fallot no ventriculotomia
+218,Reparacion de Tetralogia de Fallot no ventriculotomia
+218,Cierre quirurgico de PCA
+219,Reparacion de estenosis aortica subvalvular
+220,Reparacion de comunicacion interauricular parche
+221,Reparacion de comunicacion interauricular parche
+222,Reparacion de comunicacion interventricular
+223,Reparacion de doble salida de ventriculo derecho con tunel intracardiaco
+223,ampliacion de tracto de salida del VD ventriculotomia parche transanular
+224,Reparacion de comunicacion interventricular
+225,Reparacion de DVSVD con tunel intracardiaco
+226,Reparacion de comunicacion interauricular
+226,Cierre quirurgico de Conducto Arterioso
+227,Reparacion de Tetralogia de Fallot no ventriculotomia
+228,Reparacion de arco aortico Reseccion del arco y del stent con colocacion de injerto de dacron precoagulado de 18 mm sliding
+230,Reparacion de CIV parche
+231,Reparacion de tetralogia de fallot agenecia de valvula pulmonar Parche transanular
+231,Plicatura de ramas
+231,Cierre de CIA
+232,Procedimiento de Fontan conducto extracardioco no fenestrado
+233,Reparacion de comunicacion interventricular
+233,Cierre quirurgico de PCA
+234,Correccion de DVSVD
+234,Plastia de tronco y rama de la AP
+234,Debandaje de la AP
+234,Reseccion de musculo infundibular
+235,Reparacion de comunicacion interventricular
+236,Reparacion de comunicacion interventricular
+236,Cierre quirurgico de PCA
+237,Reparacion de comunicacion interventricular
+238,Reparacion de DVSVD con tunel intracardiaco tipo Fallot
+239,Reparacion de anomalia de Ebstein Plastia de la valvula tricuspide con procedimiento de cono
+239,Procedimiento de Glenn Didireccional
+239,Reparacion de 1 1/2 ventriculos
+240,Reparacion de anomalia de Ebstein Plastia de la valvula tricuspide con procedimiento de cono
+240,Procedimiento de Glenn Didireccional
+240,Reparacion de 1 1/2 ventriculos
+241,Operacion switch arterial
+241,Cierre quirurgico de Conducto Arterioso
+241,Cierre de comunicacion interauricular
+242,Reparacion de comunicacion interventricular
+243,Reparacion de conexion anomala de venas pulmonares
+243,Reparacion de CIA parche
+244,Reparacion de comunicacion interventricular
+244,Cierre quirurgico de PCA
+245,Reparacion de comunicacion interauricular
+246,Procedimiento de Glenn bidireccional
+247,Reparacion de CIV parche
+247,Cierre quirurgico de PCA
+248,Reparacion de arco aorticoavance de arco aortico con reparacion de CIV
+249,Operacion switch arterial
+249,Cierre quirurgico de Conducto Arterioso
+249,Cierre de comunicacion interauricular
+250,Reparacion de CIV parche
+250,Reparacion de CIA parche
+251,Reparacion de Canal AV completo
+251,Cierre quirurgico de PCA
+252,Reparacion de Canal AV completo
+252,Cierre quirurgico de PCA
+253,Procedimiento de Damus-Kaye-Stansel
+253,Fistula sistemico pulmonar FBTM
+253,Ampliacion de atrioseptostomia
+254,Reparacion de CIV parche
+254,Cierre quirurgico de PCA
+255,Reparacion de CIV primaria
+255,Valvuloplastia aortica
+256,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+256,Plastia de la confluencia de las ramas pulmonar
+257,Reparacion de CIV parche
+257,Reparacion de CIA primario
+258,Reparacion de conexion anomala total de venas pulmonares
+259,Reparacion de CIV parche
+259,Cierre quirurgico de PCA
+260,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+261,Reparacion de CIV parche
+261,Cierre quirurgico de PCA
+262,Cierre de CIA parche
+262,Correccion de anillo vascular
+262,Cierre quirurgico de PCA
+263,Reparacion de CIA parche
+263,Cierre quirurgico de Conducto Arterioso
+264,Procedimiento de Fontan conducto extracardioco no fenestrado
+265,Reparacion de Tetralogia de Fallot no ventriculotomia
+266,Reparacion de CIA parche
+267,Procedimiento de Fontan conducto extracardioco no fenestrado
+268,Reparacion de CIV parche con tejido fibroso adyacente
+269,Reparacion de Tetralogia de Fallot no ventriculotomia
+270,Reparacion de Canal AV completo
+270,Cierre quirurgico de PCA
+271,Reparacion de CIV parche
+271,Cierre quirurgico de PCA
+272,Reparacion de CIA parche
+273,Reparacion de CATVP al seno coronario
+274,Operacion switch arterial
+274,Cierre quirurgico de Conducto Arterioso
+274,Cierre de comunicacion interauricular
+275,Reparacion de arco aortico Avance de aorco aortico
+276,Reparacion de estenosis subvalvular aortica recidiva
+277,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+277,Plastia del origen de la rama izquierda de la arteria pulmoar
+278,Reparacion de CIA parche
+279,Reparacion de CIV parche
+279,Cierre quirurgico de PCA
+280,Reparacion de arco aortico Avance de arco aortico con cierre de CIV
+281,Reparacion de conexion anomala total de venas pulmonares
+283,Procedimiento de Glenn bidireccional
+283,Procedimeinto de Fontan no fenestrado
+283,Colocacion de marcapsos bicameral epicardico
+284,Reparacion de CIA parche
+285,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+286,Reparacion de estenosis aortica subvalvular
+286,Cierre quirurgico de PCA
+287,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+288,Procedimiento de Fontan conducto extracardioco no fenestrado
+288,Glenn bidireccional
+288,Atrioseptostomia quirurgica
+289,Reparacion de CIV infundibular
+289,Plastia de la valvula aortica
+290,Reparacion de arco aortico Aortoplastia por deslizamiento de aorta ascendente sliding
+291,Reparacion de CIV de la via de entrada con extension membranosa
+291,Cierre quirurgico de PCA
+292,Reparacion de arco aortico avance de arco aortico
+292,Reparacion de CIA parche
+292,Exploracion de valvula aortica
+293,Reparacion de CIV parche
+293,Cierre quirurgico de PCA
+294,Plastia de la valvula tricuspide tipo cono
+294,Colocacion de tubo valvulado de VD a la confluencia de la AP
+294,Procedimiento de Glenn bidireccional
+294,Reparacion de CIA y fenestracion
+295,Cierre quirurgico de PCA
+296,Reparacion de arco aortico Avance de aorco aortico
+296,Exploracion de tabique interventricular
+297,Reparacion de CIV residual
+297,reseccion estenosis subvalvular aortica
+298,Procedimiento de Fontan conducto extracardioco no fenestrado
+299,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada bilateral
+299,Ampliacion del tracto de salida del VD
+299,Cierre quirurgico de PCA
+300,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada bilateral
+300,Cierre quirurgico de PCA
+301,Reparacion de CIA parche
+302,Reseccion de membrana subvalvular aortica
+302,Exploracion de tabique interventricular
+303,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+303,Reparacion de CIA parche
+304,Reparacion de Tetralogia de Fallot no ventriculotomia
+304,Cierre quirurgico de PCA
+304,Reseccion de membrana subaortica
+305,Reparacion de CIV parche
+305,Reparacion de CIA
+305,Cierre quirurgico de PCA
+306,Reparacion de CIA parche
+306,Cierre quirurgico de PCA
+307,Cierre quirurgico de PCA
+308,Procedimiento de Fontan conducto extracardioco no fenestrado
+309,Reparacion de Canal AV completo
+310,Reparacion de CIA parche
+311,Reparacion de CATVP al seno coronario
+312,Reparacion de CIV parche
+313,Cierre quirurgico de PCA
+314,Reparacion de CIV infundibular parche
+314,Plastia de la valvula aortica tipo Trussler
+316,Reparacion de CIA parche
+317,Reparacion de CIV parche
+317,Exploracion de valvula pulmonar comisurotomia de valvula pulmonar
+318,Reparacion de CIV primaria
+318,Cierre quirurgico de PCA
+319,Correccion de CAPVP
+319,Reparacion de CIA
+320,Procedimiento de Fontan conducto extracardioco no fenestrado
+320,Atrioseptostomia quirurgica
+320,Ligadura de vena cava superior izquierda
+321,Reparacion de DVSVD tipo Fallot con tunel intracardiaco ventriculotomia y parche transanular
+322,Reparacion de CATVP al seno coronario
+323,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+324,Cierre quirurgico de PCA
+325,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+325,Desmantelamiento de FBTM
+326,Persistencia de conducto arterioso
+327,Procedimiento de Glenn bidireccional
+327,Desmantelamiento de FBTM
+328,Reparacion de CIV parche
+329,Reparacion de CIA parche
+330,Procedimiento de Fontan conducto extracardioco no fenestrado
+330,Glenn bidireccional
+330,Atrioseptostomia quirurgica
+331,Correccion de canal AV completo
+331,Cierre quirurgico de PCA
+332,Reparacion de arco aortico avance de arco aortico
+332,Bandaje de la AP
+333,Cierre quirurgico de PCA
+334,Reparacion de CIV parche
+334,Cierre quirurgico de PCA
+335,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+336,Reparacion de CIA parche
+336,Exploracion de la valvula pulmonar
+337,Reparacion de Tetralogia de Fallot ventriculotomia parche transanular con colocacion de valvula monocuspide
+337,Correccion de ventana aorto-pulmonar
+338,Procedimiento de Glenn bilateral bidireccional
+339,Procedimiento de Fontan conducto extracardioco no fenestrado
+341,Reparacion de CIA parche
+342,Reparacion de CIV parche
+344,Operacion switch arterial
+344,Cierre quirurgico de Conducto Arterioso
+344,Cierre de comunicacion interauricular
+346,Reparacion de CIA parche
+347,Procedimiento de Rastelli Colocacion de tubo valvulado VD a AP
+347,Cierre de CIV
+347,Plastia de la rama izauierda de la AP
+348,Procedimiento de Fontan conducto extracardioco no fenestrado
+349,Plastia con plicatura de ramas pulmonares
+349,Implante de valvula pulmonar monocuspide
+349,Exploracion de septum infundibular
+350,Reparacion de DVSVD tipo Fallot con tunel intracardiaco ventriculotomia y parche transanular
+351,Reseccion de membrana subaortica
+351,Cierre quirurgico de Conducto Arterioso
+351,Reparacion de CIV parche
+352,Reparacion de CIV parche
+353,Reparacion de tetralogia de Fallot parche transanular no ventriculotomia con reparacion de CIV multiple
+353,Cierre de comunicacion interventricular directo por ventriculotomia izquierda
+354,Procedimiento de Glenn bidireccional
+354,reseccion estenosis subvalvular aortica
+354,Debandaje de la AP
+354,Septostomia atrial
+355,Reparacion de CIA parche
+356,Reparacion de arco aortico Avance de aorco aortico
+357,Procedimiento de Fontan conducto extracardioco no fenestrado
+358,Reparacion de CIA parche
+359,Procedimiento de Fontan conducto extracardioco no fenestrado
+359,Plastia de la confluencia de las ramas pulmonares
+360,Procedimiento de Norwood
+361,Procedimiento de Norwood
+362,Reparacion de CIA parche
+363,Reparacion de CIA parche
+364,Cierre quirurgico de PCA
+365,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+365,Ampliacion del tracto de salida del VD
+365,Septostomia atrial
+366,Correccion de canal AV parcial
+366,Plastia de la valvula atrioventricular izquierda Hendidura mitral
+367,Reparacion de CIV parche
+367,Reparacion de CIA parche
+367,Cierre quirurgico de PCA
+368,Reparacion de CIV parche
+369,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+369,Cierre quirurgico de PCA
+369,Exploracion de arteria subclavia izquierda
+370,Reparacion de estenosis aortica subvalvular
+370,Miectomia Procedimiento de Morrow
+371,Reparacion de CIV parche
+371,Cierre quirurgico de Conducto Arterioso
+372,Reparacion de CIV parche
+373,Reparacion de CIA parche
+374,Reparacion de CIV parche
+374,Cierre quirurgico de PCA
+376,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+377,Reparacion de arco aortico Avance de aorco aortico
+377,Cierre de CIV primaria
+378,Reparacion de CIV parche
+379,Reparacion de CIV parche
+380,Reparacion de CIV parche
+381,Operacion switch arterial
+381,Cierre quirurgico de Conducto Arterioso
+381,Cierre de CIA parche
+382,Procedimiento de Norwood
+383,Procedimiento de Fontan conducto extracardioco no fenestrado
+384,Procedimiento de Glenn bidireccional
+384,Debandaje de la AP
+385,Procedimiento de Fontan conducto extracardioco no fenestrado
+387,Reparacion de CIV parche
+387,Cierre quirurgico de PCA
+390,Reparacion de CIV parche
+390,Cierre quirurgico de PCA
+391,Reparacion de CIA parche
+392,Reparacion de CIV parche
+393,Reparacion de CIA parche
+394,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+395,Procedimiento de Glenn bidireccional
+396,Reparacion de CATVP al seno coronario
+397,Reparacion de estenosis aortica supravalvular Aortoplastia
+397,Endarterectomia del ostium de la coronaria izquierda
+398,Recambio valvular mitral mecanica St Jude 27mm
+400,Procedimiento de Fontan conducto extracardioco no fenestrado
+401,Reparacion de CIV parche
+401,reseccion estenosis subvalvular aortica
+402,Reparacion de CIV parche
+403,Reparacion de CIV parche
+403,Cierre quirurgico de PCA
+404,Reparacion de CATVP supracardiaca
+404,Cierre de CIA
+405,Reparacion de Canal AV completo
+406,Reparacion de Canal AV completo
+406,Reparacion de CIA secundum
+407,Reparacion de CIV parche
+407,Cierre quirurgico de PCA
+408,Reparacion de CIV primaria
+408,Cierre quirurgica de PCA Con parche de pericardio
+409,Procedimiento de Fontan conducto extracardioco no fenestrado
+409,Plastia de la valvula AV comun
+410,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+411,Procedimiento de Norwood
+412,Reparacion de CIV parche
+413,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+414,Reparacion de CIA parche
+415,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+416,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+416,Desmantelamiento de FBTM
+416,Reparacion de CIA
+417,Reparacion de CIV parche
+417,Valvuloplastia aortica con tecnica de Trussler
+418,Reparacion de CIV primaria
+419,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+420,Reparacion de arco aortico Avance de aorco aortico
+420,Exploracion de valvula aortica comisurotomia
+421,Reparacion de CIV parche
+422,Reparacion de CATVP al seno coronario
+423,Reparacion de CIV parche multiple
+423,Cierre quirurgico de PCA
+424,Reparacion de CIV parche mala alineacion tipo Eisenmenger
+424,Reseccion de membrana subaortica
+425,Reparacion de CIA parche
+426,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+426,Ampliacion del tracto de salida del VD
+426,Ligadura de conducto arterioso y de stent intraluminal
+427,Reparacion de CIV parche
+428,Procedimiento de Fontan conducto extracardioco no fenestrado
+428,Reseccion de tejido subaortico obstructivo
+429,Reparacion de CIV parche
+429,Reparacion de CIA primario
+430,Cierre parcial de la CIA con fenestracion
+430,Revision overhaul de cavidad ventricular derecha
+430,Cambio de FBTM de 4mm a 5mm
+431,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+432,Procedimiento de Rastelli Colocacion de tubo valvulado VD a AP
+432,Cierre de CIV
+433,Procedimiento de Glenn bidireccional
+434,Procedimiento de Fontan conducto extracardioco no fenestrado
+435,Operacion switch arterial
+435,Cierre quirurgico de Conducto Arterioso
+435,Cierre de comunicacion interauricular
+436,Reparacion de CIV parche
+436,Reseccion de membrana subvalvular aortica
+437,Reparacion de CIV parche
+438,Procedimiento de Fontan conducto extracardioco no fenestrado
+438,Glenn bidireccional
+438,Atrioseptostomia quirurgica
+440,Reparacion de CIV parche
+440,Ampliacion del TSVD
+441,Procedimiento de Fontan conducto extracardioco no fenestrado
+442,Reparacion de CIA parche
+443,Procedimiento de Glenn bilateral bidireccional
+444,Reparacion de estenosis aortica subvalvular
+444,Cierre quirurgico de PCA
+445,Reparacion de CIV parche
+445,Reparacion de CIA parche
+446,Reparacion de CIV parche
+446,Ampliacion del TSVD
+446,Cierre quirurgico de PCA
+447,Reparacion de CIA parche
+448,Reparacion de CIA parche
+449,Reparacion de CIV parche
+449,Cierre quirurgico de PCA
+450,Reparacion de CIA parche
+451,Correccion de canal AV completo
+451,Cierre quirurgico de PCA
+453,Reparacion de arco aortico Avance de aorco aortico
+453,Cierre quirurgico de PCA
+453,Colocacion de cateter de dialisis
+454,Reparacion de CIA parche
+455,Reparacion de CIA parche
+456,Reparacion de CIV parche
+456,Cierre quirurgico de PCA
+457,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+458,Reparacion de CIA parche
+459,Reparacion de arco aortico Avance de aorco aortico
+460,Reparacion de CIV parche
+460,Cierre quirurgico de PCA
+461,Reparacion de arco aortico Avance de aorco aortico
+462,Reparacion de CIA parche
+463,Reparacion de Canal AV completo
+464,Reparacion de arco aortico Avance de aorco aortico
+465,Reparacion de CIA parche
+465,Cierre quirurgico de PCA
+466,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+466,Ampliacion del tracto de salida del VD
+466,Cierre quirurgico de PCA
+467,Reparacion de CIV multiple membranosa y muscular
+467,Cierre quirurgico de PCA
+468,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+469,Reparacion de CIA parche
+469,Cierre quirurgico de PCA
+470,Reparacion de CIV muscular parche
+471,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+471,Cierre quirurgico de PCA
+472,Reparacion de CIV parche
+472,Cierre quirurgico de PCA
+473,Reparacion de CIV parche
+474,Reparacion de CIV parche
+474,Cierre quirurgico de PCA
+475,Reparacion de CIA parche
+475,Exploracion de la valvula pulmonar
+477,Reparacion de CIA parche
+478,Repatracion de CIV parche
+478,Cierre quirurgico de PCA
+479,Repatracion de CIV parche
+480,Procedimiento de Fontan conducto extracardioco no fenestrado
+480,Cierre de la valvula tricuspide con un parche de PTFE
+481,Reparacion de CIV parche
+481,Reparacion de CIA parche
+481,Cierre quirurgico de PCA
+482,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+482,Colocacion de ECMO veno-arterial
+483,Procedimiento de kawashima Anastomosis cavopulmonar bidireccional Glenn en corazon con interrupcion de VCI y continuacion a la acigos
+484,Retiro de ECMO
+484,Cierre de CIV
+484,Colocacion de valvula monocuspide
+484,Valvuloplastia tricuspidea
+484,Procedimiento de Glenn bidireccional
+485,Reparacion de CIV parche
+486,Reparacion de CIV membranosa parche
+486,cierre de comunicacion interauricular tipo seno venos inferior con  redireccionamiento de la vena cava superior izquierda persistente con llegada a la auricula izquierda hacia la auricla derecha con parche intracardiaco
+487,Reparacion de Canal AV completo
+487,Cierre quirurgico de PCA
+488,Reparacion de CIV parche por mala alineacion
+489,Valvuloplastia pulmonar
+489,Reparacion de CIA parche
+490,Reparacion de coartacion termino-terminal extendida
+490,Cierre quirurgico de PCA
+491,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+491,Cierre quirurgico de PCA
+492,Procedimiento de Fontan conducto extracardioco no fenestrado
+493,Procedimiento de Fontan conducto extracardioco no fenestrado
+494,Procedimiento de Fontan conducto extracardioco no fenestrado
+495,Reparacion de CIA parche
+496,Reparacion de ventana aorto pulmonar
+497,Fistula sistemico pulmonar Fisulta de Blalock-Taussig modificada
+497,Cierre quirurgico de PCA
+498,Reparacion de CIV parche
+498,Reparacion de CIA primario
+499,Reparacion de CATVP supracardiaca parcialmente obstruida
+499,Reparacion de CIA parche
+500,Reparacion de CIA parche
+501,Reparacion de CATVP al seno coronario
+502,Reparacion de Canal AV completo
+503,Reparacion de CIV parche
+503,Reseccion de membrana subvalvular aortica
+504,Procedimiento de Fontan conducto extracardioco no fenestrado
+504,Desmantelamiento de FBTM
+504,Cierre de conducto con hemoclip
+505,Reparacion de CIA primario
+505,Reparacion de CIV parche
+505,Cierre quirurgicio de PCA
+506,Reparacion de CIA parche
+506,Cierre quirurgico de Conducto Arterioso
+507,Reparacion de Cor triatriatum
+508,Reparacion de Tronco arterioso tipo II Cierre de CIV conotroncal y colocacion de tubo valvulado del VD a la AP
+508,Plastia de la rama derecha de la AP
+509,Reparacion de CIA parche
+510,Correccion de interrupcion de arco aortico tipo B
+510,Cierre de CIV tipo conotroncal
+510,Cierre de foramen oval
+511,Reparacion de DVSVD con parche tunel intracardiaco cierre de CIV subaortica
+511,Reseccion de membrana subaortica
+512,Reparacion de CIV parche
+512,Cierre de foramen oval
+512,Cierre quirurgico de Conducto Arterioso
+513,Procedimiento de Fontan extracardiaco no fenestrado
+514,Reparacion de CIA primario
+515,Procedimiento de Fontan extracardiaco no fenestrado
+516,Colocacion de marcapasos epicardico definitivo ventricular unicameral
+517,Correccion de anillo vascular por doble arco aortico con seccion y ligadura de arco aortico
+517,Seccion y ligadura de conducto arterioso
+517,Reseccion de diverticulo de Kommerel
+517,Reimplante de arteria subclavia izquierda en la arteria carotida izquierda
+518,Reparacion de CIA parche
+519,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+520,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+521,Correcion de canal AV completo
+521,Cierre de comunicacion interauricular secundum
+522,Reparacion de CATVP al seno coronario
+523,Reparacion de CIV parche
+524,Reparacion de CIA parche
+524,Cierre quirurgico de PCA
+525,Reparacion de arco aortico Avance de aorco aortico
+525,Cierre de CIV parche con extension muscular y a la via de entrada
+526,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+527,Reparacion de CATVP supracardiaca
+528,Reparacion de CIV parche
+528,Ligadura de conducto arterioso
+529,Reparacion de CIV parche
+530,Revision de parche interventricular
+531,Reparacion de DVSVD con tunel intracardiaco
+531,Ampliacion del TSVD Reparacion de doble camara del VD
+531,Reseccion de membrana subaortica
+532,Procedimiento de Fontan conducto extracardioco no fenestrado
+532,Glenn bidireccional
+532,Atrioseptostomia quirurgica
+533,Reseccion de membrana subvalvular aortica y miectomia anterior
+533,Comisurotomia valvular pulmonar
+534,Reparacion de CIV parche
+534,Cierre de foramen oval primaria
+535,Cierre quirurgico de PCA
+535,Reseccion de membrana subaortica
+536,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+537,Reparacion de CIV parche
+537,Reseccion de membrana subvalvular aorica
+538,Reparacion de CIV parche
+539,Reparacion de coartacion termino-terminal extendida
+540,Reparacion de CIV multiple membranosa con parche y musculares con cierre primaria
+541,Reparacion de CIV por mala alineacion
+541,Cierre quirurgico de PCA
+541,Correccion de CAPVP con ampliacion de la CIA y cierre redireccionando las venas pulmonares izquierdas
+542,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+542,Cierre quirurgico de PCA
+543,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+543,Cierre de CIA parche
+543,Correccion de diverticulo y cierre de defecto diafragmatico
+544,Reparcion de CIV multiple
+545,Revision de parche de CIA y CIV
+546,Reseccion de membrana subvalvular aortica
+546,Cierre quirurgico de PCA
+547,Bandaje de la arteria pulmonar
+548,Reparacion de arco aortico Avance de aorco aortico
+549,Bandaje de la arteria pulmonar
+550,Cierre de CIV parche
+551,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+552,Reparacion de CIV parche
+552,Reseccion de membrana subaortica
+552,Cierre quirurgico de PCA
+553,Correccion de canal AV completo
+554,Reparacion de CIA parche
+554,Exploracion de la valvula pulmonar
+555,Reparacion de CIA parche
+556,Reparacion de CIV parche
+557,Procedimiento de Warden Correccion de comunicacion interauricular tipo seno venoso con CAPVP derechas
+558,Plastia Tricuspidea
+558,Cierre de CIV residual
+559,Reparacion de CIV parche
+560,Correccion de coartacion aortica y de hipoplasia de arco aortico Avance de arco aortico
+561,Cierre de CIA parche
+562,Reparacion de CIV parche
+563,Correccion de canal AV completo
+563,Debandaje y plastia de la AP
+564,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+565,Reparacion de CIA parche
+568,Reparacion de CIV parche
+568,Cierre quirurgico de PCA
+569,Reparacion de Canal AV parcial Cierre de CIA con parche
+569,Cierre de hendidura mitral con puntos separados de prolene
+570,Procedimiento de Fontan extracardiaco no fenestrado
+570,Plastia rama derecha de la arteria pulmonar
+570,Exploracion intracardiaca
+570,Ampliacion del FO
+571,Reparacion de doble salida de ventriculo derecho con tunel intracardiaco con ventriculotomia
+572,Reparacion de CIA parche
+572,Cierre quirurgico de PCA
+573,Reparacion de CIV parche
+574,Reparacion de CIV parche
+575,Revision de parche de CIV
+576,Reparacion de arco aortico Avance de aorco aortico
+577,Reparacion de CIA parche
+578,Bandaje de la AP
+579,Reseccion de vegetacion intracardiaca
+580,Cierre quirurgico de PCA
+581,Reparacion de CIV
+581,Reseccion de membrana subaortica
+582,Reparacion de CIA
+583,Cierre quirurgico de PCA
+583,Plastia de la rama izquierda de la AP
+583,Reseccion de membrana subaortica
+584,Cierre de comunicacion interventricular parche
+585,Reparacion de CIV parche
+586,Cierre de comunicacion interventricular membranosa con extension a la via de entrada con parche de pericardio autologo tratado
+586,Reseccion de membrana subaortica
+587,Fistula de Blalock Taussig modificada izquierda con injerto de PTFE de 5 mm por esternotomia
+588,Correccion de doble salida del ventriculo derecho con estenosis pulmonar mixta Tipo Fallot
+589,Cierre de conducto arterioso con ligadura
+590,Reparacion de CIV parche
+590,Reseccion de membrana subaortica
+590,Cierre quirurgico de Conducto Arterioso
+591,Reparacion de CIA parche
+592,Reparacion de CIV parche
+592,Reparacion de CIA parche
+592,Cierre quirurgico de PCA
+593,Reparacion de CIV parche
+593,Reseccion de membrana subvalvular aorica
+594,Reparacion de CIV primaria
+595,Correccion de coartacion de aorta termino-terminal
+596,Reseccion de membrana subvalvular aortica
+596,Cierre quirurgico de PCA
+597,Reparacion de arco aortico Avance de aorco aortico
+598,Reparacion de arco aortico Aortoplastia por deslizamiento de aorta ascendente sliding
+599,Reparacion de coartacion termino-terminal extendida
+600,Reparacion de CIV parche
+601,Reparacion de CIV parche
+602,Reparacion de CIV parche
+602,Reparacion de CIA parche
+602,Exploracion de valvula mitral
+603,Reparacion de CIV parche mala alineacion tipo Eisenmenger
+603,Reseccion de membrana subvalvular aortica
+604,Cierre de comunicacion interauricular parche
+604,Cierre de comunicacion interventricular parche
+604,Cierre quirurgico de Conducto Arterioso
+605,Procedimiento de Glenn bidireccional
+605,Procedimiento de Fontan extracardiaco no fenestrado
+605,Ligadura de colateral aorto pulmonar
+606,Reparacion de CIV parche
+607,Cierre quirurgico de Conducto Arterioso
+608,Cierre de comunicacion interventricular con parche autologo y directo
+608,Cierre quirurgico de Conducto Arterioso
+609,Switch Arterial
+609,Cierre de foramen oval
+609,Cierre quirurgico de Conducto Arterioso
+610,Coreccion de conexon anomala de venas pulmonares
+610,Cierre de CIA
+611,Reparacion de DVSVD Cierre de comunicacion interventricular con parche tunel
+611,Reseccion de membrana subvalvular aortica
+612,Cierre quirurgico de Conducto Arterioso
+613,Cierre de comunicacion interauricular parche
+614,Correcion de conexion anomala parcial de venas pulmonares con procedimiento de Warden
+615,Cierre quirurgico de Conducto Arterioso
+616,Reparacion de Tetralogia de Fallot no ventriculotomia
+616,Cierre de formanen oval
+617,Correccion de CATVP supracardiaca
+617,FBTM derecha
+617,Plastia de la confluencia de las ramas de la AP
+618,Procedimiento de Damus-Kaye-Stansel
+618,Reparacion de arco aortica Avance de arco aortico
+618,Fistula sistemico pulmonar FBTM
+619,FBTM Fistula de Blalock-Taussig modificada
+620,Correcion de coartacion de aorta y de hipoplasia de arco aortico avance aortico; Correcion de conexion anomala total de venas pulmonares infracardiaca obstruida; Colocacion de ECMO venoarterial
+621,Procedimiento de Glenn bidireccional; Septectomia atrial
+622,Cierre de CIV membranosa con parche con extension a la via de entrada
+622,Reseccion de membrana subaortica no obstructiva
+623,Glenn bidireccional
+623,Desmantelamiento de fistula de Blalock-Taussig
+624,Cierre de comunicacion interventricular
+624,Reseccion de membrana subaortica
+625,Cierre de comunicacion interventricular parche
+626,Reparacion de Coartacion de aorta
+626,Plastia de valvula mitral con anuloplastia tipo Reed
+627,Repracion biventricular de atresia pulmonar/septum integro con cierre de comunicacion inter-auricular con fenestracion de 4mm; con reseccion de musculo intracavitario ventricular derecho Overhaul
+627,Desmantelamiento de Fistula de Blalock taussig modificada
+627,Plastia de rama derecha de la arteria pulmonar con parche de pericardio autologo
+628,Cierre de comunicacion interventricular membranosa parche
+628,Ligadura de conducto arterioso
+629,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+630,Coreccion de coartacion con reseccion y anastomosis termino terminal
+630,Ligadura de PCA
+631,Bandaje de la arteria pulmonar
+632,Procedimiento de Glenn bidireccional
+632,Septectomia atrial
+633,Correccion de canal AV transicional
+633,Plastia de la valvula AV izquierda con cierre en hendidura mitral y plicatura de la comisura latero-superior izquierda
+634,Cierre de comunicacion interventricular membranosa parche
+634,Cierre quirurgico de Conducto Arterioso
+635,Correcion de transposicion de grandes arterias con ostium coronario unico con tecnica de recolocacion in situ
+635,Correccion de ventana aorto pulmonar
+635,Cierre de comunicacion interventricular membranosa con extension infundibular
+635,Plastia de rama izquierda de arteria pulmonar
+635,Cierre de comunicacion interauricular ostium secundum
+635,Colocacion de ECMO veno-arterial
+636,Lavado mediastinal y colocacion de VAC
+637,Cierre de comunicacion interventricular por mala alineacion
+638,Coreccion de conexion anomala total de venas pulmonares supracardiaca
+638,Ligadura de conducto arterioso
+638,Cierre de foramen oval
+639,Cierre de comunicacion interventricular y reseccion de membrana subaortica
+640,Correccion de canal AV completo
+640,Cierre de comunicacion interauricular ostium secundum
+640,Ligadura de conducto arterioso
+641,Correcion de estenosis supravalvular aortica con tecnica de un parche Aortoplastia
+641,Miectomia septal subaortica
+641,Ampliacion del tronco de la arteria pulmonar
+642,Plastia de ramas pulmonares
+642,Fistula de Blalock-Taussig modificada
+642,Cierre de conducto arterioso
+643,Colocacion de marcapasos epicardico bicameral con electrodos bipoladres
+643,Retiro de cables de marcapasos
+644,Ampliacion del tracto de salida del VD
+644,Cierre parcial de comunicacion interauricular
+644,Seccion de injerto de PTFE retiro de FBTM
+645,"1 Cierre de comunicacion interauricular directo 
+2Cierre de comunicacion interventricular parche 
+3 Reseccion de estenosis subvalvular aortica"
+646,"1 Correccion de canal AV completo
+2 Cierre quirurgico de conducto arterioso"
+647,"1 Cierre de comunicacion interventricular parche 
+2 Cierre quirurgico de conducto arterioso"
+648,"1 Correccion de conexion anomala de venas pulmonares 
+2 Cierre de comunicacion interauricular parche 
+3 Ligadura de conducto arterioso"
+649,Cierre de comunicacion interventricular directo primaria
+650,Cierre de comunicacion interauricular parche
+651,Cierre de comunicacion interauricular
+652,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+652,Plastia de valvula pulmonar
+652,Ligadura de conducto arterioso
+653,Cierre de comunicacion interventricular parche
+654,Plastia Valvular Aortica
+655,Cierre de comunicacion interventicular parche
+655,Cierre quirurgico de Conducto Arterioso
+656,Cierre de comunicacion interventricular
+656,Cierre quirurgico de Conducto Arterioso
+657,Correcion de tetralogia de Falllot sin ventriculotomia ni parche transanular
+657,Plastia de valvula pulmonar
+658,Cierre de comunicacion interventricular parche
+659,Cierre de comunicacion auricular parche
+660,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+660,Plastia de valvula pulmonar
+660,Cierre quirurgico de Conducto Arterioso
+661,Cierre de comunicacion interventricular y reseccion de membrana subaortica
+662,Procedimiento de Fontan extracardiaco no fenestrado
+663,Procedimiento de Fontan extracardiaco no fenestrado
+664,Cierre de comunicacion interventicular
+664,Plastia mitral
+665,Cierre de comunicacion interauricular parche
+666,Cierre de comunicacion interauricular parche
+667,Cierre de comunicacion interauricular parche
+667,Cierre de comunicacion interventricular parche
+667,Cierre quirurgico de Conducto Arterioso
+667,exploracion y plastia de valvula pulmonar
+668,Plastia de valvula mitral Reseccion de anillo intramitral
+669,Glenn bidireccional
+669,Desmantelamiento de fistula de Blalock-Taussig
+670,Correccion de coartacion de aorta termino-terminal extendida
+670,Cierre de comunicacion interventricular primaria
+670,Cierre quirurgico de PCA
+671,Cierre de comunicacion interauricular parche
+672,Cierre de comunicacion interventricular membranosa parche
+672,cierre primario de comunicacion interauricular ostium secundum
+672,Ligadura de conducto arterioso
+673,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+674,Fontan Extracardiaco no fenestrado
+675,Reperacion de Canal AV intermedio o transicional
+675,cierre de PCA
+676,Correccion de coartacion de aorta y de hipolpasia de arco aortico con tecnica de avance
+676,Ligadura de conducto arterioso
+676,Cierre de CIV primaria
+677,cierre primario de comunicacion interauricular ostium secundum
+677,cierre de PCA
+678,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+678,Correccion de ventana aorto-pulmonar
+679,Correccion de doble salida del VD con estenosis pulmonar
+679,Ligadura de PCA
+679,Cierre de CIA ostium secundum
+680,Cierre de comunicacion interventricular parche
+680,Valvuloplastia mitral Reseccion de anillo intramitral
+681,Cierre de comunicacion interventricular parche
+681,Cierre quirurgico de PCA
+682,Procedimiento de Fontan extracardiaco no fenestrado
+683,Correccion de doble salida de ventriculo derecho con parche tunel
+683,cierre de CIV subaortica
+684,Fontan Extracardiaco no fenestrado
+685,Cierre de CIA parche
+686,Procedimiento de Norwood con modificacion de Sano
+686,Septectomia atrial
+686,colocacion de cateter de dalisis peritoneal
+687,Correccion de tetralogia de Fallot
+687,Ligadura de PCA
+688,Procedimiento de Norwood con modificacion de Sano
+688,Septectomia atrial
+688,Ligadura de vena levo-atrio-cardinal
+689,Correccion de CATVP seno coronario
+690,Reparacion de arco aortico con tecnica de avance aortico
+690,cierre de CIV membranosa
+690,cierre CIV muscular apical
+690,cierre de PCA
+691,Cierre de CIA parche
+692,Correccion de coartacion aortica y anastomosis termino-terminal
+693,Correccion de atresia pulmonar con CIV
+693,Cierre de CIV
+693,Ampliacion del tracto de salida del VD
+693,implante de tubo valvulado Contegra
+693,desmantelaminto de FBT modificada
+694,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+695,Cierre de CIV parche
+695,Cierre de CIA
+695,Ligadura de PCA
+696,Correccion de canal AV completo
+696,Cierre primario de CIA
+697,Cierre de ventana aortopulmonar
+697,Cierre de CIV parche
+698,Cierre de comunicacion interventricular parche
+699,Ampliacion de foramen bulboventricular y region subaortica
+700,Cierre de comunicacion interventricular membranosa parche
+701,Procedimiento de Fontan extracardiaco no fenestrado
+701,Glenn bidirecional
+701,Debandaje de arteria pulmonar
+701,cierre de PCA
+702,Cierre de comunicacion interventricular parche
+702,Valvuloplastia pulmonar
+703,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+704,Cierre de comunicacion interventricular perimembranosa primario
+704,Correccion de anillo vascular
+704,cierre de PCA
+705,Correccion de doble salida de ventriculo derecho tipo Fallot
+706,Cierre primario de comunicacion interventricular membranosa
+707,Fontan Extracardiaco no fenestrado
+708,Cierre de comunicacion interventricular membranosa por malaa alineacion parche
+708,Reseccion de membrana subaortica
+709,Procedimiento de Glenn bidireccional
+710,Cierre de CIA parche por miniesternotomia
+711,Correccion de conexion anomala total de venas pulmonares Tecnica sin sutura
+711,Cierre de CIA parche
+712,Cambio de tubo extracardiaco cavo-pulmonar
+713,Cierre de CIV subaorticadoblemente relacionada en corazon con doble salida de ventriculo derecho
+713,Cierre de CIA
+713,cierre de PCA
+714,Reintervencion para cierre de CIV residual
+715,Cierre de comunicacion interventricular de la via de entrada
+715,Cierre quirurgico de PCA
+716,Procedimiento de Glenn bidireccional
+717,Procedimientode Glenn bidireccional bilateral
+718,Paliacion con fisiologia de uno y medio ventriculo de atresia pulmonar con septum integro
+718,anastomosis cavopulmonar bidireccional
+718,cierre de fenestracion de parche de cierre de comunicacion interauricular
+719,Correccion de coartacion de aorta y de hipoplasia de arco aortico con tecnica de avance aortico
+719,Cierre quirurgico de PCA
+720,Procedimiento de Glenn bidireccional
+720,Plastia de la rama pulmonar izquierda
+721,Operacion Switch Arterial con cierre de CIV muscular
+722,Revision de plastia de la rama pulmonar izquierda
+722,nueva plastia
+723,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+724,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+725,Cierre de comunicacion interventricular infundibular parche
+726,Cierre de comunicacion interventricular de via de entrada con extension membranosa parche
+727,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+727,cierre de PCA
+727,Plastia Valvular Aortica
+728,Cierre de CIA residual y correccion parcial de venas pulmonares espacialmente izquierdas hacia auricula morfologicamente izquierda
+728,Plastia tricuspidea con bicuspidizacion de la valvula
+729,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+730,Fontan Extracardiaco no fenestrado
+731,Cierre de comunicacion interventricular perimembranosa parche
+732,Cierre de comunicacion interauricular ostium secundum
+733,Cierre de CIV de via de entrada m parche
+733,Cierre de hendidura mitral y plastia mitral
+733,Platia tricuspidea
+733,Cierre de CIA ostium secundum primario
+734,Cierre de CIA ostim secundum parche esternotomia parcial
+734,Cierre quirurgico de PCA
+735,Cierre de CIV perimembranosa  parche
+736,Cierre de CIV perimembranosa  parche
+736,Plastia Tricuspidea
+737,Reseccion de membrana subaortica
+737,Mimectomia de region subaortica
+738,Cierre de CIV perimembranosa
+738,cierre de PCA
+739,Cierre de CIV perimembranosa
+740,cierre de PCA
+740,Reparacion de estenosis aortica subvalvular
+740,Mimectomia Procedimiento de Morrow
+741,Cierre de CIA ostium secundum parhce
+742,Cierre de CIA ostium secundum parche
+743,Correccion de coartacion de aorta y de hipoplasia de arco aortico con tecnica de avance aortico
+743,Bandaje de la arteria pulmonar
+744,Cierre de CIV  de via de entrada parche
+744,cierre primario de CIA ostium secundum fenestrada
+744,Ligadura de PCA
+745,Cierre de CIA ostium secundum parhce
+746,Correccion de Canal AV completo balanceado
+746,cierre de PCA
+747,Glenn bidireccional
+747,Desmantelamiento de fistula de Blalock-Taussig
+748,Cierre de comunicacion interauricular ostium secundum parche
+749,Cierre de comunicacion interventricular multiple muscular alta
+749,Cierre de comunicacion interventricular membranosa parche
+750,Correccion de Tetralogia de Fallot con parche transanular
+750,Ligadura de conducto arterioso pequeno
+750,Plastia tricuspidea tipo De Vega
+751,Cierre de comunicacion interventricular parche
+751,Cierre quirurgico de Conducto Arterioso
+752,Cierre de CIV membranosa con parche con extension a la via de entrada
+753,Implante de protesis aortica mecanica St Jude Abbott 23 mm
+753,Reseccion de aorta ascendente e implante de injerto de dacron en aorta ascendente con tecnica de hemiarco aortico
+754,Procedimiento de Fontan extracardiaco no fenestrado
+755,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+755,Plastia valvular pulmonar
+756,Cierre quirurgico de conducto arterioso grande 12mm diametro externo y 13mm de largo
+757,Plastia de valvula mitral
+757,Cierre de hendidura mitral
+757,Plicatura de comisuras de valvula atrioventricular izquierda
+757,Cierre de CIV residual
+758,Correcion de Tetralogia de Fallot sin parche transanular sin ventriculotomia
+758,Cierre de CIA muy pequena tipo foramen oval
+759,Correccion de coartacion aortica e hipoplasia de arco aortico con tecnica de avance de arco aortico
+759,Seccion y ligadura de conducto arterioso
+760,Cierre de CIV grande perimembranosa aproximadamente 11 mm de diametro
+760,Reseccion de membrana subaortica
+761,Reparacion de aorta con coartectomia y anastomosis termino-terminal extendida
+762,Cierre de CIA ostim secundum parche esternotomia parcial
+763,Cierre de CIV perimembranosa  de 10 mm con parche
+763,Ligadura de conducto arterioso 3mm
+764,Coreccion de venta aortopulmonar tipo III
+764,Reseccion de membrana subaortica
+765,Reparacion de arco aortico con tecnica de avance aortico
+766,Cierre de CIV grande 11 mm perimembranosa
+766,Cierre de foramen oval
+767,Correcion de Tetralogia de Fallot sin parche transanular sin ventriculotomia
+767,Ligadura de conducto arterioso
+768,Implante de protesis biologica St Jude Epic supra- anular en posicion pulmonar
+769,Procedimiento de Damus/Kaye/Stansel y avance de arco aortico
+769,Septectomia atrial
+769,Plastia tricuspidea tipo De Vega
+770,Cierre de CIA ostim secundum parche esternotomia parcial
+771,Correccion de comunicacion interauricular tipo seno venoso y de conexion anomala parcial de venas pulmonares a la vena cava superior con tecnica de Warden
+771,Exploracion de vavula pulmonar
+772,Correccion de Canal  AV Tecnica de Nunn
+772,Cierre quirurgico  de conducto arterioso
+773,Cierre de CIV por mala alineacion  parche pericardico
+773,Correccion de doble camara del ventriculo derecho con reseccion de musculo ventricular
+774,Correccion de Canal AV Tecnica de Nunn
+775,Cierre de comunicacion interauricular antero-lateral derecha
+776,Exploracion de tabique interventricular
+776,Cierre de defecto septal ventricular residual
+776,Plastia de componente derecho
+776,Plastia de componente izquierdo
+777,Cierre de comunicacion interauricular parche
+778,Coreccion de conexon anomala de venas pulmonares
+778,Cierre de comunicacion interauricular parche
+778,Cierre quirurgico de Conducto Arterioso
+779,Correcion de Tetralogia de Fallot con parche transanular
+780,Reparacion de Tetralogia de Fallot no ventriculotomia no parche transanular
+780,Ligadura de Fistula de Blalock
+780,Ligadura y reseccion de stent ductal
+780,Plastia de rama izquierda
+781,Cierre de comunicacion interventricular parche
+781,Cierre quirurgico de Conducto Arterioso
+781,Reseccion de membrana subvalvular aortica
+782,Cierre de comunicacion interventricular membranosa
+782,Reseccion de membrana subaortica
+783,Correccion de Canal AV Tecnica de Nunn
+783,Cierre quirurgico de Conducto Arterioso
+783,Coartectomia con anastomosis termino-terminal extendida
+783,Plastia de componente derecho valvula atrioventricular
+784,Cierre de comunicacion interventricular parche
+784,Cierre de comunicacion interauricular parche
+784,Cierre quirurgico de Conducto Arterioso
+785,Cierre de comunicacion interventricular parche
+786,Procedimiento de Rastelli Cierre de Comunicacion interventricular parche
+786,Colocacion de tubo valvulado de ventriculo derecho a arteria pulmonar
+786,Ligadura de conducto arterioso
+786,Procedimiento de Glenn bidireccional
+787,Cierre de comunicacion interventricular parche
+787,Cierre quirurgico de Conducto Arterioso
+788,Cierre de comunicacion interventricular parche
+788,Reseccion de membrana subaortica
+789,Cierre quirurgico de Conducto Arterioso
+789,Reseccion de membrana subvalvular aortica
+790,Cierre de comunicacion interventricular membranosa
+790,Succion y sutura del conducto arterioso
+790,Reseccion de membrana subaortica
+791,Cierre quirurgico de Conducto Arterioso
+792,Cierre de Comunicacion interventricular perimembranosa parche pericardio
+793,Cierre de Comunicacion interauricular ostium secundum por esternotomia parcial con parche de pericardio
+794,"Coreccion de conexion anomala total de venas pulmonares supracardiaca con tecnica ""sutureless"" ""sin sutura"""
+794,Cierre de comunicacion interauricular
+795,Cierre de comunicacion interventricular parche
+795,Cierre quirurgico de Conducto Arterioso
+796,Correccion de coartacion de aorta con coartectomia y  anastomosis termino-terminal extendida
+797,Cierre de comunicacion interventricular parche
+797,Plastia de valvula tricuspide
+798,Correccion de interrupcion de arco aortico tipo A con ligadura y seccion de conducto arterioso y anastomosis termino-terminal de la aorta descendente a la aorta ascendente
+798,Correccion de ventana aorta pulmonar tipo II y de origen anomalo de la rama de la arteria pulmonar de la aorta con seccion en cuna de esta recontruccion de la cara anterior de l rama derecha de la arteria pulmonar con parche de pericardio
+798,Reseccion de membrana subaortica
+798,Exploracion de septum interventricular
+799,Cierre de comunicacion interventricular membranosa parche de pericardio
+800,Cierre de comunicacion interventricular perimembranosa
+801,Cierre de comunicacion interventricular perimembranosa
+801,Correccion de doble camara del ventriculo derecho con reseccion del tejido fibromuscular
+801,Reseccion de membrana subaortica
+802,Correccion de canal AV completo
+802,Retiro de bandaje de arteria pulmonar
+802,Ligadura de conducto arterioso
+802,Colocacion de ECMO
+803,Cierre de comunicacion interventricular perimembranosa
+804,Cierre de comunicacion interventricular parche
+804,Cierre quirurgico de Conducto Arterioso
+804,Reseccion de membrana subvalvular aortica
+805,Correccion de DSVD con parche tunel
+805,Ampliacion de TSVD con parche transanular ventriculotomia
+805,Desmontaje de fistula sistemico pulmonar
+806,Cierre de comunicacion interventricular parche
+806,Plastia de la valvula aortica
+807,Procedimiento de Glenn bidireccional
+808,Cierre de Comunicacion interventricular perimembranosa con extension a la via de entrada
+809,Cierre de comunicacion interventricular perimembranosa
+809,Seccion y sutura de conducto arterioso persistente
+810,Cierre de comunicacion interventricular parche
+810,Cierre de comunicacion interauricular parche
+811,Cierre de comunicacion interventricular perimembranosa
+812,Correcion de coartacion de aorta e hipoplasia del arco aortico con tecnica de avance de arco aortico
+813,Cierre de comunicacion interventricular infundibular
+813,Reseccion de membrana subaortica
+814,Correcion de canal AV completo balanceado tipo C
+814,Cierre de comunicacion interauricular ostium secundum pequena
+815,Cierre de comunicacion interauricular parche
+816,Procedimiento de Glenn bidireccional
+816,Plastia central de ramas pulmonares
+816,Desmantelamiento de fistula sistemico pulmonar
+817,Procedimiento de Glenn bidireccional
+817,Desmantelamiento de fistula sistemico pulmonar
+818,Cierre de Conexion anomala total de venas pulmonares mixta las dos venas derechas y la inferior izquierda al seno coronario la superior izquierda a la vena inmominada
+818,Cierre de  Comunicacion interauricular tipo foramen oval restrictiva
+819,Switch Arterial
+819,Destechamiento del ostium de la coronaria izquierda
+819,Cierre de comunicacion interventricular doblemente relacionada
+820,Cierre de comunicacion interventricular perimembranosa
+821,Procedimiento de Glenn bilateral bidireccional
+821,Ligadura de conducto arterioso
+822,Cierre de comunicacion interventricular de via de entrada con extension membranosa parche
+823,"Correcion de ""1 1/2 ventriculo"" con colocacion de tubo valvulado Contegra de 16 mm del ventriculo derecho a la confluencia de las ramas pulmonares y cierre de CIA con fenestracion de 5 mm"
+824,Bandaje pulmonar
+825,Correccion de conexion anomala total de venas pulmonares
+826,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+827,Glenn bilateral
+827,Cierre quirurgico de PCA
+828,Cierre de comunicacion interauricular parche
+829,Correccion de CATVP seno coronario
+830,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+831,Cierre quirurgico de Conducto Arterioso
+832,Procedimiento de Norwood
+832,Procedimiento Rastelli
+833,Correccion de conexion anomala parcial de venas pulmonares
+833,Cierre de comunicacion interauricular
+833,Ligadura de conducto arterioso
+834,"Cierre de comunicacion interauricular y cierre de comunicacion interventricular con parche de
+pericardio"
+835,Fistula sistemico pulmonar de Blalock Taussig modificada
+836,Correccion de conexion anomala total de venas pulmonares
+836,Cierre de CIA
+837,Plastia de valvula mitral por plicatura anular posterior
+838,Reseccion de coartacion con anastomosis termino terminal extendida
+838,Valvuloplastia mitral
+839,Cierre de comunicacion interventricular parche pericardico
+840,Procedimiento de Glenn bilateral
+841,Procedimiento de Glenn bidireccional Ligadura de colateral aorto-pulmonar Desmontaje de fistula sistemico pulmonar
+842,Correcion de CAPVP mas ampliacion de CIA
+843,Reparacion uno y medio ventricular  Ampliacion de tracto de salida de ventriculo derecho
+843,Cierre de comunicacion interventricular parche
+843,Procedimiento de Glenn bidireccional
+844,Fistula sistemico pulmonar de Blalock Taussig modificada
+844,Correccion de conexion anomala total de venas pulmonares
+845,Correccion de conexion anomala total de venas pulmonares infracardiaca parcialmente ocluida en la vena descendente
+845,Cierre de foramen oval
+846,Procedimiento de Glenn bidireccional
+847,Correccion de interrupcion de arco aortico con tecnica de avance de arco aortico
+847,Cierre de comunicacion interventricular parche
+848,Correccion de coartacion de aorta y de hipoplasia de arco aortico con tecnica de avance aortico
+849,Cierre quirurgico de PCA
+850,Correccion de Tronco arterioso con interrupcion de arco aortico
+850,Cierre de comunicacion interventricula
+850,Cierre de foramen oval
+851,Procedimiento de Glenn bidireccional
+852,Fistula sistemico pulmonar de Blalock Taussig modificada
+853,Plastia de valvula tricuspide
+854,Glenn bidireccional
+854,Desmantelamiento de fistula de Blalock-Taussig
+855,Correccion de CATVP infracardiaca
+856,Procedimiento de Glenn bidireccional
+856,Procedimiento de Fontan extracardiaco no fenestrado
+856,Cierre de valvula mitral
+856,Atrioseptostomia
+857,Coreccion de conexion anomala total de venas pulmonares supracardiaca
+857,Fistula de Blalock-Taussig modificada
+858,Implante de protesis aortica mecanica St Jude Abbott
+858,Cambio de tubo valvulado Contegra del ventriculo derecho a la confluencia de las ramas pulmonares
+860,Cierre de comunicacion interauricular parche de pericardio
+860,Cierre quirurgico de Conducto Arterioso
+860,Exploracion de vena cava inferior y reseccion de trombo
+860,Exploracion de arteria pulmonar
+861,Correccion de coartacion de aorta con coartectomia y anastomosis termino terminal extendida
+862,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+862,Plastia de valvula pulmona
+862,Ligadura de colateral aorto-pulmonar
+863,Cierre de CIV muscular
+863,Succion y sutura del conducto arterioso
+864,Fistula de Blalock-Taussig modificada
+865,Ampliacion de foramen bulboventricular
+866,Correccion de CATVP tecnica suturless sin sutura
+866,Bandaje de la AP
+867,Procedimiento de Fontan extracardiaco no fenestrado
+868,Bandaje de la arteria pulmonar
+869,Procedimiento de Glenn bidireccional
+870,Procedimiento de Glenn bidireccional
+871,Correccion de coartacion de aorta e hipoplasia de arco aortico con avance de arco aortico
+872,Correccion de conexion anomala de venas pulmonares con tecnica sin sutura Suturless
+872,Reseccion de membrana de auricula izquierda
+873,Cierre de comunicacion interventricular parche
+874,Procedimiento de Glenn bidirerccional
+874,Cierre quirurgico de Conducto Arterioso
+875,Cierre de comunicacion interauricular ostium secundum parche
+875,Cierre quirurgico de Conducto Arterioso
+876,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+877,Correccion de conexion anomala parcial de venas pulmonares
+878,Procedimiento de Switch arterial Procedimiento de Jatene
+878,Cierre de comunicacion interauricular
+879,Procedimiento de Glenn bidireccional
+879,Procedimiento de Fontan extracardiaco no fenestrado
+879,Anastomosis de vena innominada a auricula comun
+880,Plastia de valvula mitral
+881,Correccion de canal AV intermedio Tecnica australiana
+881,Cierre quirurgico de Conducto Arterioso
+882,Cierre de comunicacion interventricular de la via de entrada con extension membranosa
+882,Cierre de hendidura mitral
+882,Cierre de comunicacion interauricular opstium secundum
+883,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+884,Bandaje de la arteria pulmonar
+885,Cierre de comunicacion interauricular parche
+886,Coreccion de conexion anomala total de venas pulmonares supracardiaca
+886,Cierre de comunicacion interauricular ostium secundum
+887,Cierre de comunicacion interauricular parche
+889,Correccion de Atresia Pulmonar con CIV Apertura y ampliacion del TSVD mas cierre de CIV
+889,Cierre quirurgico de PCA
+890,Cierre de comunicacion interauricular
+890,Biopsia de ventriculo derecho
+891,"Aortoplastia por deslizamiento de aorta ascendente tecnica de ""sliding"" de aorta ascendente"
+892,"Correccion de conexion anomala total de venas pulmonares ""Tecnica sin sutura"""
+892,Cierre de comunicacion interventricular parche
+892,Cierre de comunicacion interauricular directo
+892,Cierre quirurgico de Conducto Arterioso
+893,Implante de protesis mitral St Jude Abbott
+894,Reparacion de arco aortico con tecnica de avance aortico
+894,Cierre de comunicacion interventricular parche
+894,Cierre de foramen oval directo
+895,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+896,Correccion de doble salida de ventriculo derecho con redireccion de flujo de ventriculo izquierdo a aorta con parche tunel
+897,Unifocalizacion de colateral a la rama pulmonar derecha
+897,Tubo anillado el cual va dirigido del ventriculo derecho
+898,Cierre de comunicacion interventricular membranosa
+898,Cierre de comunicacion interauricular ostium secundum
+898,Ligadura de conducto arterioso
+898,exploracion y plastia de valvula pulmonar
+899,Bandaje de la arteria pulmonar
+900,Fistula sistemico pulmonar de Blalock Taussig modificada
+900,Plastia de la rama pulmonar izquierda
+901,Correccion de coartacion de aorta con coartectomia y anastomosis termino-terminal extendida
+902,Procedimiento de Glenn bidireccional
+902,Desmontaje de fistula sistemico pulmonar
+903,Cierre quirurgico de comunicacion interauricular ostium secundum con parche
+904,Cierre de comunicacion interventricular infundibular parche
+905,Procedimiento de Glenn bidireccional
+905,Centralizacion de ramas pulmonares
+906,Correccion de conexion anomala de venas pulmonares   Tecnica sin sutura
+906,Cierre de comunicacion interauricular directo
+907,Correccion de doble salida del ventriculo derecho con CIV infundibular doblemente relacionada
+908,Bandaje de la arteria pulmonar
+909,Exploracion y reseccion del tumor
+909,Biopsia
+910,Coreccion de conexion anomala total de venas pulmonares supracardiaca
+911,Procedimiento de Glenn bidireccional
+912,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+912,Desmantelamiento de fistula sistemico pulmonar
+913,Bandaje de la arteria pulmonar
+914,Procedimiento de Fontan extacardiaco no fenestrado
+915,Exploracion de valvula pulmonar con ampliacion de tronco de arteria pulmonar ATSVD
+915,Valvuloplastia pulmonar
+916,Correccion de hendidura mitral plastia mitral
+916,Septacion de auricula comun con direccion de flujo de venas pulmonares a auricula izquierda
+916,Anuloplastia parcial
+917,Procedimiento de Ross
+917,Correccion de aneurisma disecado de aorta ascendente
+917,Revascularizacion miocardica con puente aorto-coronario demamaria a arteria coronaria descendente posterior
+918,Cierre quirurgico de Conducto Arterioso
+919,Procedimiento de Fontan extracardiaco no fenestrado
+920,Cierre de comunicacion interventricular parche
+920,Cierre quirurgico de Conducto Arterioso
+921,Plastia de la valvula aortica
+922,Correccion de tetralogia de Fallot
+922,Cierre de comunicacion interauricular ostium secundum
+923,"Correccion de conexion anomala total de venas pulmonares infracardiaca con tecnica ""sin sutura"" O ""sutureless"""
+924,"Coreccion de conexion anomala total de venas pulmonares supracardiaca con tecnica ""sutureless"" ""sin sutura"""
+924,Cierre quirurgico de PCA
+925,Plastia valvular mitral
+926,Fistula de Blalock-Taussig modificada derecha con injerto de PTFE
+926,Ligadura de conducto arterioso
+927,Toma de biopsia de trombo organizado subendotelial en vena cava inferior  Tumor 
+928,Plastia de rama izquierda de arteria pulmonar
+929,Switch Arterial
+929,Cierre de comunicacion interauricular ostium secvundum
+930,Bandaje de la arteria pulmonar
+930,Septectomia atrial
+930,Exploracion de cavidades cardiacas
+931,Correccion de conexion anomala de venas pulmonares a la vena cava superior directa sin vena ascendente con procedimento de Warden
+932,Correccion de tetralogia de Fallot
+932,Colocacion de valvula monocuspide en posicion pulmonar
+933,Cierre de comunicacion interventricular infundibular parche
+934,Reparacion de arco aortico con coartectomia y anastomosis termino-terminal extendida
+935,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+936,Reparacion de arco aortico avance de arco aortico
+936,Cierre de CIA directo
+937,Implante de protesis mitral mecanica St Jude Abbott 21 mm
+938,Cierre quirurgico de Conducto Arterioso
+938,Cierre de foramen oval directo
+938,Cierre de comunicacion interventricular parche
+939,Correccion de coartacion de aorta con reseccion y anastomosis termino-terminal
+940,Correccion de obstruccion residual de arco aortico distal con tecnica de avance arco aortico
+941,"Correccion de conexion anomala total de venas pulmonares Tecnica sin sutura ""suturless"""
+941,Glenn bidireccional
+941,Cierre quirurgico de Conducto Arterioso
+942,Bandaje de la arteria pulmonar
+942,Septectomia atrial
+944,Procedimiento de Glenn bidireccional
+944,Cierre quirurgico de Conducto Arterioso
+944,Septectomia atrial
+945,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+945,Cierre quirurgico de Conducto Arterioso
+946,Cierre de comunicacion interauricular ostium secundum
+946,Reseccion de trombos de auricula derecha
+948,Cierre de comunicacion interauricular ostium secundum
+948,Cierre quirurgico de conducto arterioso permeable
+950,Division del tronco arterioso
+950,Plastia central de ramas pulmonares
+950,Atrioseptostomia
+950,Procedimiento de Glenn bidireccional
+952,Procedimiento de Fontan extracardiaco no fenestrado
+953,Procedimiento de Glenn bilateral bidireccional
+953,Plastia de la confluencia de las ramas pulmonares
+954,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+955,Implante de valvula biologica en posicion pulmonar
+956,Procedimiento de Kawashima
+956,Procedimiento de Fontan extracardiaco no fenestrado
+957,Cierre de comunicacion intrerventricular membranosa
+957,Cierre quirurgico de conducto arterioso permeable
+958,Plastia central de ramas pulmonares
+958,Fistula sistemico pulmonar de Blalock Taussig modificada
+958,Cierre quirurgico de Conducto Arterioso
+960,Fontan extracardiaco no fenestrado tubo numero 20
+961,Switch Arterial
+961,Cierre de comunicacion interauricular
+961,Seccion y ligadura de conducto arterioso
+962,Reparacion de arco aortico con tecnica de avance aortico
+962,Procedimiento de Damus-Kaye-Stansel
+963,Coreccion de conexon anomala de venas pulmonares
+963,Cierre quirurgico de Conducto Arterioso
+964,Reseccion de membrana subaortica extensa
+965,Cierre de CIV parche
+966,Correccion de Tetralogia de Fallot con parche transanular
+967,Colocacion de tubo valvulado Contegra del ventriculo derecho a la bifurcacion de la arteria pulmonar
+967,Cierre de comunicacion interventricular infundibular
+967,Cierre de comunicacion interauricular ostium secundum
+968,Cierre de Conducto Arterioso Persistente Seccion y sutura por toracotomia posterolateral izquierda
+969,Fistula sistemico pulmonar de Blalock Taussig modificada
+969,Cierre quirurgico de Conducto Arterioso
+970,Cierre de comunicacion interventricular parche
+970,Ampliacion tracto salida ventriculo derecho
+970,Procedimiento de Glenn bidireccional
+970,Cierre quirurgico de Conducto Arterioso
+971,Reseccion de trombo en vena cava superior y auricula derecha
+972,Procedimiento de Glenn bidireccional
+972,Septectomia atrial
+973,Ampliacion tracto salida ventriculo derecho
+973,"Reseccion de musculo ventricular derecho y ampliacion de la cavidad ""overhaul"""
+973,Fistula de Blalock-Taussig modificada derecha con injerto de PTFE de 35 mm
+974,Reparacion de arco aortico con tecnica de avance aortico
+975,Cierre de comunicacion interventricular parche
+975,Cierre quirurgico de Conducto Arterioso
+975,Pexia de arteria pulmonar
+975,Pexia bilateral de bronquios
+976,Correccion de aneurisma de aorta ascendente y arco aortico con procedimiento de Bentall
+976,Cierre de conducto arterioso
+977,Cierre de comunicacion interventricular de la via de entrada
+977,Ligadura de conducto arterioso
+978,"Plastias de valvula mitral ""enhamaca"""
+978,Seccion de musculos papiares secudarios
+978,Division de musculos papilares
+978,Desinsercion de valva posterior y ampliacion con parche de pericardio autologo tratado
+978,Anuloplastia tipo Reed
+978,Plastia de ticuspidea tipo de Vega
+978,Ligadura de conducto arterioso
+980,Correccion de conexion anomala total de venas pulmonares
+981,Cierre de comunicacion interventricular parche
+981,Cierre de comunicacion interauricular directo
+981,Cierre quirurgico de Conducto Arterioso
+982,Fistula de Blalock-Taussig modificada izquierda por toracotomia con injerto de PTFE de 4 mm
+983,Procedimiento de Switch arterial Procedimiento de Jatene
+983,Cierre de comunicacion interauricular directo
+984,Correccion de coartacion de aorta y de hipoplasia de arco aortico con tecnica de avance aortico
+985,Avance aortico
+985,Switch Arterial
+985,"cierre de
+CIV"
+986,Correccion de interrupcion de arco aortcio tipo B
+986,Cierre de comunicacion interventricular
+986,Cierre de comunicacion interauricular tipo foramen oval
+986,Ramas pulmonares sin estenosis
+987,Cierre de comunicacion interventricular membranosa
+987,Reseccion de membrana subaortica
+988,Cambio de tubo valvulado del ventriculo derecho a la arteria pulmonar con implante de tubo valvulado Hancock de 22 mm
+988,Plicatura de pqueno aneurisma de la pared anterior del ventriculo derecho
+988,Colocacion de electrodos de marcapaso epicardicos temporales
+989,Correccion de tetralogia de Fallot no ventriculotomia no parche transanular
+990,Correccion de Tetralogia de Fallot con parche transanular
+990,Reimplante de la rama izquierda de la arteria pulmonar
+991,Reparacion de anillo vascular
+992,Cierre de comunicacion interauricular parche de pericardio
+993,Cierre de conducto arterioso persistente ligadura con clip de titanio por toracotomia posterolateral izquierda
+994,Cierre de comunicion interventricular membranosa
+994,Cierre quirurgico de conducto arterioso persistente
+994,Reseccion muscular de ventriculo derecho bicameral
+994,Reseccion de membrana subaortica
+995,Procedimiento de Warden
+996,Correccion de conexion anomala total de venas pulmonares
+996,Cierre quirurgico de Conducto Arterioso
+997,Pordecimiento de glenn bidireccional
+997,Atrioseptostomia quirurgica
+997,Cierre de stent en conducto arterioso
+998,Cierre de comunicacion interventricular membranosa parche de pericardio
+998,Ampliacion tracto salida ventriculo derecho
+999,Procedimiento de Switch arterial Procedimiento de Jatene
+999,Cierre de comunicacion interauricular directo
+1000,Cierre de comunicacion interventricular de la via de entrada con extension membranosa
+1000,Cierre quirpurgico de conducto arterioso permeable
+1001,Reparacion de arco aortico con tecnica de avance aortico
+1002,Correccion de coartacion de aorta y de hipoplasia de arco aortico con tecnica de avance aortico
+1003,Cierre de comunicacion interauricular ostium secundum con parche de pericardio
+1004,Fistula de Blalock-Taussig modificada derecha con injerto de PTFE de 35 mm
+1004,Plastia del origen de la rama izquierda de a arteria pulmonr
+1004,Septectomia atrial
+1005,Bandaje de la arteria pulmonar
+1005,Septectomia atrial
+1006,"""Overhaul"" del ventriculo derecho"
+1006,Cierre parcial de comunicacion interauricular
+1006,Reimplante de la rama izquierda de la arteria pulmonar
+1006,Seccion y desmontaje de fistula de Blalock Taussig
+1006,Procedimiento de Glenn bidirecciona
+1007,Cierre de comunicacion interventricular perimembranosa
+1007,Ligadura de conducto arterioso
+1008,Fistula de Blalock Taussig modificada
+1008,Ligadura de conducto arterioso
+1009,Implante de protesis mecanica St Jude HP de 19 mm en posicion aortica troncal
+1009,Reseccion de musculo subaortico
+1010,Reimplante y plastia de rama izquierda
+1012,Fistula de Blalock-Taussig modificada por esternotmia media con injerto de PTFE de 35 mm
+1013,Procedimiento de Glenn bidireccional
+1014,Cierre de comunicacion interventricular
+1014,Colocacion de tubo valvulado Contegra del ventriculo derecho a la confluencia de las ramas pulmonares
+1015,Correccion de conexion aomala total de venas pulmonares supracardiaca con ligadura de dos venas ascendentes
+1015,Cierre de comunicacioon interauricular parcialmente restrictiva ostium secundum
+1015,Ligadura de conducto arterioso
+1016,Cierre de comunicacion interventricular parche
+1016,Cierre de comunicacion interauricular parche
+1016,Cierre quirurgico de Conducto Arterioso
+1018,Reparacion de Doble Via de Salida del Ventriculo Derecho
+1018,Switch Arterial
+1019,Procedimiento de Fontan extracardiaco no fenestrado
+1020,Cierre de comuicacion interventricular parche
+1021,Cambio de cables de marcapaso epicardico bicameral definitivo y de generador de marcapaso
+1022,Coreccion de conexion anomala total de venas pulmonares supracardiaca
+1022,Procedimiento de Glenn bilateral bidireccional
+1022,Septectomia atrial
+1023,Correccion de tetralogia de Fallot
+1023,Ampliacion de tracto de salida de ventriculo derecho con tubo valvulado de ventriculo derecho a arteria pulmonar
+1023,anastomosis cavopulmonar bidireccional
+1026,Debandaje de arteria pulmonar
+1026,Procedimiento de Glenn bidireccional
+1027,Coreccion de conexon anomala de venas pulmonares
+1028,Correccion de DVSVD
+1029,PROCEDIMIENTO DE RASTELLI MODIFICADO LEV
+1029,"Reparacion al estado ventricular REV con modificacion de Metras Cirugia de ""Dream"""
+1029,Desmantelamiento de fistula de Blalock-Taussig derecha modificada de 5 mm
+1030,Reimplante de la rama derecha de la arteria pulmonar a la aorta ascendente
+1030,Cierre quirurgico de Conducto Arterioso
+1031,Coartectomia con anastomosis termino-terminal extendida
+1031,Reparacion de arco aortico con tecnica de avance aortico
+1032,Procedimiento de Switch arterial
+1032,Cierre de comunicacion interauricular directo
+1033,Cierre quirurgico de comunicacion interauricular
+1034,Colocacion de tubo valvulado de ventriculo derecho a arteria pulmonar
+1035,Reparacion de arco aortico con tecnica de avance aortico
+1035,Exploracion de valvula aortica
+1037,Correccion de tetralogia de Fallot ventriculotolmia parche transanular
+1037,Cierre de comunicacion interauricular parche
+1037,Plicatura y pexia de rama derecha de arteria pulmonar
