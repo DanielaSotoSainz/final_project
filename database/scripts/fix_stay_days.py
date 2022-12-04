@@ -18,7 +18,7 @@ def replace_negative_numbers_with_mean(
     for file in files:
         df = pd.read_csv(Path(file).resolve())
         mean = df[colname][df[colname] >= 0].describe()['mean']
-        df[colname] = df[colname].map(lambda x: x if x > 0 else round(mean))
+        df[colname] = df[colname].map(lambda x: x if x >= 0 else round(mean))
         df.to_csv(file, index=False)
 
 
