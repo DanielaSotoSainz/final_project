@@ -1,1004 +1,1004 @@
-patient_id,state,municipality
-0,Estado de Mexico,Huixquilucan
-1,Estado de Mexico,Timilpan
-2,Ciudad de Mexico,Coyoacan
-3,Estado de Mexico,Nezahualcoyotl
-4,Ciudad de Mexico,Alvaro Obregon
-5,Ciudad de Mexico,Iztapalapa
-6,Estado de Mexico,Metepec
-7,Ciudad de Mexico,Xochimilco
-8,Estado de Mexico,Coacalco
-9,Estado de Mexico,Chalco
-10,Estado de Mexico,Toluca
-11,Estado de Mexico,Tlacotepec
-12,Estado de Mexico,San Antonio La Isla
-13,Ciudad de Mexico,Xochimilco
-14,Ciudad de Mexico,Coyoacan
-15,Estado de Mexico,Chimalhuacan
-16,Ciudad de Mexico,Tlahuac
-17,Ciudad de Mexico,Iztapalapa
-18,Ciudad de Mexico,Iztapalapa
-19,Estado de Mexico,Los Olivos
-20,Ciudad de Mexico,Coyoacan
-21,Ciudad de Mexico,Alvaro Obregon
-22,Ciudad de Mexico,Tlahuac
-23,Ciudad de Mexico,Xochimilco
-24,Ciudad de Mexico,Iztapalapa
-25,Ciudad de Mexico,Milpa Alta
-26,Ciudad de Mexico,Xochimilco
-27,Chihuahua,Juarez
-28,Guerrero,Cutzamala de Pinzon
-29,Estado de Mexico,Chalco
-30,Hidalgo,Pachuca de Soto
-31,Ciudad de Mexico,Tlahuac
-32,Ciudad de Mexico,Tlalpan
-34,Estado de Mexico,San Jose del Rincon
-35,Ciudad de Mexico,Coyoacan
-36,Guerrero,Chilpancingo de los Bravo
-37,Puebla,Puebla
-38,Ciudad de Mexico,Coyoacan
-39,Ciudad de Mexico,Gustavo A Madero
-40,Guerrero,Chilapa
-41,Aguascalientes,Aguascalientes
-42,Guanajuato,Valle de Santiago
-43,Morelos,Miacatlan
-44,Veracruz,Papantla
-45,Guerrero,Ayutla de los Libres
-46,Estado de Mexico,Atizapan de Zaragoza
-47,Veracruz,Santiago Tuxtla
-48,Ciudad de Mexico,Iztacalco
-49,Morelos,Temixco
-50,Ciudad de Mexico,Coyoacan
-51,Coahuila,Torreon
-52,Ciudad de Mexico,Alvaro Obregon
-53,Estado de Mexico,Chalco
-54,Veracruz,Playa Vicente
-55,Ciudad de Mexico,Xochimilco
-56,Ciudad de Mexico,Iztapalapa
-57,Ciudad de Mexico,Gustavo A Madero
-58,Ciudad de Mexico,Iztapalapa
-59,Guerrero,Ometepec
-60,Estado de Mexico,Ecatepec de Morelos
-61,Veracruz,Papantla
-62,Estado de Mexico,Ixtapaluca
-63,Ciudad de Mexico,Miguel Hidalgo
-64,Estado de Mexico,Chalco
-65,Veracruz,Jalapa
-66,Guerrero,Zihuatanejo 
-67,Estado de Mexico,Huixquilucan
-68,Estado de Mexico,Melchor Ocampo
-69,Ciudad de Mexico,Milpa Alta
-70,Ciudad de Mexico,Tlalpan
-71,Estado de Mexico,Chalco
-72,Ciudad de Mexico,Tlalpan
-74,Guerrero,Ayutla de los Libres
-75,Ciudad de Mexico,Tlalpan
-76,Guerrero,Chilpancingo de los Bravo
-77,Guerrero,Acatepec
-78,Morelos,Emiliano Zapata
-79,Ciudad de Mexico,Tlalpan
-80,Yucatan,Merida
-81,Jalisco,Arandas
-82,Guerrero,Copanatoyac
-83,Estado de Mexico,Toluca
-84,Estado de Mexico,Texcoco
-85,Estado de Mexico,Tejupilco
-86,Yucatan,Hunucma
-87,Estado de Mexico,Chalco
-88,Estado de Mexico,Ecatepec de Morelos
-89,Ciudad de Mexico,Milpa Alta
-90,Ciudad de Mexico,Coyoacan
-91,Ciudad de Mexico,Xochimilco
-92,Hidalgo,Francisco I Madero
-93,Ciudad de Mexico,Iztapalapa
-94,Estado de Mexico,Naucalpan
-95,Puebla,Puebla
-96,Ciudad de Mexico,Tlahuac
-97,Baja California,Ensenada
-98,Estado de Mexico,Naucalpan
-99,Estado de Mexico,Los Reyes La paz
-100,Ciudad de Mexico,Coyoacan
-101,Estado de Mexico,Naucalpan
-102,Estado de Mexico,Naucalpan
-103,Tamaulipas,Reynosa
-104,Guerrero,Acapulco de Juarez
-105,Tamaulipas,San Fernando
-106,Hidalgo,Tizayuca
-107,Ciudad de Mexico,Milpa Alta
-108,Ciudad de Mexico,Iztacalco
-109,Ciudad de Mexico,Magdalena Contreras
-110,Ciudad de Mexico,Venustiano Carranza
-111,Estado de Mexico,Nicolas Romero
-113,Ciudad de Mexico,Iztapalapa
-114,Estado de Mexico,Ixtapaluca
-115,Estado de Mexico,Huixquilucan
-116,Veracruz,Jalapa
-117,Ciudad de Mexico,Alvaro Obregon
-118,Jalisco,Guadalajara
-119,Puebla,Puebla
-121,Ciudad de Mexico,Tlalpan
-122,Puebla,Nealtican
-123,Ciudad de Mexico,Alvaro Obregon
-124,Estado de Mexico,Los Reyes La paz
-125,Yucatan,Merida
-126,Ciudad de Mexico,Coyoacan
-127,Ciudad de Mexico,Tlahuac
-128,Ciudad de Mexico,Tlalpan
-129,Estado de Mexico,Ecatepec de Morelos
-130,Estado de Mexico,Chimalhuacan
-131,Ciudad de Mexico,Alvaro Obregon
-132,Ciudad de Mexico,Iztapalapa
-133,Sonora,Hermosillo
-134,Guerrero,Tecpan de Galeana
-135,Hidalgo,Cardonal
-136,Ciudad de Mexico,Alvaro Obregon
-137,Ciudad de Mexico,Tlahuac
-138,Ciudad de Mexico,Iztapalapa
-139,Guerrero,Chilpancingo de los Bravo
-140,Ciudad de Mexico,Xochimilco
-141,Morelos,Cuernavaca
-142,Sonora,Guaymas
-143,Michoacan,Michoacan 
-144,Ciudad de Mexico,Tlahuac
-145,Estado de Mexico,Almoloya de Juarez
-146,Ciudad de Mexico,Alvaro Obregon
-147,Estado de Mexico,Nezahualcoyotl
-148,Ciudad de Mexico,Gustavo A Madero
-149,Ciudad de Mexico,Milpa Alta
-150,Estado de Mexico,Atizapan de Zaragoza
-151,Estado de Mexico,Otumba
-152,Ciudad de Mexico,Xochimilco
-153,Ciudad de Mexico,Cuajimalpa
-154,Ciudad de Mexico,Milpa Alta
-155,Estado de Mexico,Tlalnepantla
-156,Queretaro,Queretaro
-157,Ciudad de Mexico,Venustiano Carranza
-158,Ciudad de Mexico,Coyoacan
-159,Estado de Mexico,Tlalnepantla
-160,Sonora,Cananea
-161,Sonora,Cumpas
-163,Estado de Mexico,Ecatepec de Morelos
-164,Estado de Mexico,Ixtapaluca
-165,Queretaro,Queretaro
-166,Ciudad de Mexico,Iztapalapa
-167,Jalisco,Ayutla de los Libres
-168,Ciudad de Mexico,Iztapalapa
-169,Ciudad de Mexico,Alvaro Obregon
-170,Ciudad de Mexico,Coyoacan
-171,Estado de Mexico,Temamatla
-172,Estado de Mexico,Naucalpan
-173,Guerrero,Azoyu
-174,Estado de Mexico,Otumba
-175,Yucatan,Merida
-176,Ciudad de Mexico,Xochimilco
-177,Guerrero,Mochitlan
-178,Ciudad de Mexico,Alvaro Obregon
-179,Sonora,Hermosillo
-180,Ciudad de Mexico,Tlalpan
-181,Veracruz,Playa Vicente
-182,Estado de Mexico,Chalco
-183,Sonora,Nogales
-184,Ciudad de Mexico,Coyoacan
-185,Ciudad de Mexico,Tlalpan
-187,Michoacan,Maravatio
-188,Ciudad de Mexico,Azcapotzalco
-189,Ciudad de Mexico,Xochimilco
-190,Ciudad de Mexico,Coyoacan
-191,Estado de Mexico,Chalco
-192,Puebla,Pantepec
-193,Guerrero,Chilpancingo de los Bravo
-194,Estado de Mexico,Chalco
-195,Ciudad de Mexico,Cuauhtemoc
-196,Guerrero,Tlalchapa
-197,Ciudad de Mexico,Gustavo A Madero
-198,Ciudad de Mexico,Xochimilco
-199,Ciudad de Mexico,Alvaro Obregon
-200,Sonora,Los Alamos
-201,Estado de Mexico,Toluca
-202,Guerrero,Acapulco de Juarez
-203,Guerrero,Acapulco de Juarez
-204,Sonora,Nogales
-205,Estado de Mexico,Cuautitlan Izcalli
-206,Chiapas,Villaflores
-207,Guerrero,Acapulco de Juarez
-208,Ciudad de Mexico,Tlahuac
-209,Ciudad de Mexico,Iztapalapa
-210,Estado de Mexico,Ixtapaluca
-211,Ciudad de Mexico,Iztapalapa
-212,Estado de Mexico,Jiquipilco
-213,Ciudad de Mexico,Xochimilco
-214,Ciudad de Mexico,Tlalpan
-215,Estado de Mexico,Metepec
-216,Ciudad de Mexico,Gustavo A Madero
-217,Tamaulipas,Altamira
-218,Ciudad de Mexico,Xochimilco
-219,Ciudad de Mexico,Magdalena Contreras
-220,Ciudad de Mexico,Gustavo A Madero
-221,Ciudad de Mexico,Gustavo A Madero
-222,Ciudad de Mexico,Xochimilco
-223,Guerrero,Acapulco de Juarez
-224,Ciudad de Mexico,Coyoacan
-225,Guerrero,Copala
-226,Ciudad de Mexico,Coyoacan
-227,Guerrero,Chilpancingo de los Bravo
-228,Puebla,Puebla
-230,Estado de Mexico,Ozumba de Alzate
-231,Guanajuato,Salamanca
-232,Ciudad de Mexico,Iztapalapa
-233,Ciudad de Mexico,Iztacalco
-234,Tamaulipas,Reynosa
-235,Ciudad de Mexico,Gustavo A Madero
-236,Estado de Mexico,Chalco
-237,Puebla,Huauchinango
-238,Oaxaca,Santa Cruz Zenzontepec
-239,Estado de Mexico,Lomas de Coacalco
-240,Queretaro,Pedro Escobedo
-241,Ciudad de Mexico,Iztapalapa
-242,Estado de Mexico,Nezahualcoyotl
-243,Guerrero,Ayutla de los Libres
-244,Campeche,Escarcega
-245,Estado de Mexico,Chimalhuacan
-246,Estado de Mexico,Cuajimalpa
-247,Ciudad de Mexico,Alvaro Obregon
-248,Puebla,Puebla
-249,Ciudad de Mexico,Iztacalco
-250,Estado de Mexico,Naucalpan
-251,Guerrero,Acapulco de Juarez
-252,Ciudad de Mexico,Xochimilco
-253,Ciudad de Mexico,Xochimilco
-254,Guerrero,Chilpancingo de los Bravo
-255,Ciudad de Mexico,Iztapalapa
-256,Tabasco,Tabasco
-257,Guerrero,Acapulco de Juarez
-258,Ciudad de Mexico,Tlalpan
-259,Ciudad de Mexico,Coyoacan
-260,Ciudad de Mexico,Gustavo A Madero
-261,Ciudad de Mexico,Venustiano Carranza
-262,Estado de Mexico,Chalco
-263,Ciudad de Mexico,Iztapalapa
-264,Estado de Mexico,Ecatepec de Morelos
-265,Estado de Mexico,Naucalpan
-266,Estado de Mexico,Estado de Mexico
-267,Michoacan,Tarimbaro
-268,Ciudad de Mexico,Iztapalapa
-269,Ciudad de Mexico,Iztapalapa
-270,Ciudad de Mexico,Milpa Alta
-271,Guerrero,Tecpan de Galeana
-272,Ciudad de Mexico,Azcapotzalco
-273,Oaxaca,Santa Cruz Xoxocotlan
-274,Queretaro,Queretaro
-275,Estado de Mexico,Nezahualcoyotl
-276,Estado de Mexico,Nezahualcoyotl
-277,Guanajuato,Celaya
-278,Estado de Mexico,Tlalnepantla
-279,Morelos,Jojutla
-280,Ciudad de Mexico,Iztapalapa
-281,Estado de Mexico,Naucalpan
-283,Nuevo Leon,Monterrey
-284,Estado de Mexico,Chimalhuacan
-285,Estado de Mexico,Nezahualcoyotl
-286,Oaxaca,Villa de Tamazulapam
-287,Ciudad de Mexico,Gustavo A Madero
-288,Guerrero,Copalillo
-289,Ciudad de Mexico,Xochimilco
-290,Estado de Mexico,Texcoco
-291,Yucatan,Merida
-292,Ciudad de Mexico,Tlahuac
-293,Ciudad de Mexico,Alvaro Obregon
-294,Ciudad de Mexico,Xochimilco
-295,Estado de Mexico,Nicolas Romero
-296,Ciudad de Mexico,Iztapalapa
-297,Ciudad de Mexico,Alvaro Obregon
-298,Ciudad de Mexico,Tlalpan
-299,Queretaro,Corregidora
-300,Estado de Mexico,Ecatepec de Morelos
-301,Ciudad de Mexico,Coyoacan
-302,Veracruz,Xalapa
-303,Ciudad de Mexico,Coyoacan
-304,Ciudad de Mexico,Alvaro Obregon
-305,Estado de Mexico,Ecatepec de Morelos
-306,Ciudad de Mexico,Tlalpan
-307,Guerrero,Acapulco de Juarez
-308,Ciudad de Mexico,Azcapotzalco
-309,Ciudad de Mexico,Tlahuac
-310,Estado de Mexico,Chalco
-311,Ciudad de Mexico,Miguel Hidalgo
-312,Ciudad de Mexico,Cuauhtemoc
-313,Ciudad de Mexico,Gustavo A Madero
-314,Nayarit,Santiago Ixcuintla
-316,Ciudad de Mexico,Gustavo A Madero
-317,Ciudad de Mexico,Milpa Alta
-318,Ciudad de Mexico,Gustavo A Madero
-319,Puebla,Yehualtepec
-320,Estado de Mexico,Nezahualcoyotl
-321,Veracruz,Xalapa
-322,Estado de Mexico,Tecamac
-323,Estado de Mexico,Tenango del Vale
-324,Estado de Mexico,Naucalpan
-325,Ciudad de Mexico,Gustavo A Madero
-326,Guerrero,Huitziltepec
-327,Estado de Mexico,Atizapan de Zaragoza
-328,Ciudad de Mexico,Tlalpan
-329,Ciudad de Mexico,Gustavo A Madero
-330,Veracruz,Boca del Rio
-331,Ciudad de Mexico,Iztapalapa
-332,Estado de Mexico,Ixtapaluca
-333,Aguascalientes,Aguascalientes
-334,Morelos,Cuernavaca
-335,Michoacan,Jacona
-336,Estado de Mexico,Lerma
-337,Estado de Mexico,Naucalpan
-338,Hidalgo,Tulancingo de bravo
-339,Hidalgo, San Felipe Orizatlan
-341,Estado de Mexico,Calimaya
-342,Yucatan,Kanasin
-344,Estado de Mexico,Metepec
-346,Ciudad de Mexico,Gustavo A Madero
-347,Tabasco,Villa Hermosa
-348,Ciudad de Mexico,Iztapalapa
-349,Queretaro,Queretaro
-350,Chihuahua,Chihuahua
-351,Hidalgo,Santiago de Anaya
-352,Ciudad de Mexico,Alvaro Obregon
-353,Ciudad de Mexico,Iztapalapa
-354,Tlaxcala,Tlaxcala
-355,Ciudad de Mexico,Tlalpan
-356,Morelos,Cuernavaca
-357,Estado de Mexico,Cuautitlan Izcalli
-358,Ciudad de Mexico,Gustavo A Madero
-359,Guerrero,Iguala
-360,Estado de Mexico,Tlalnepantla
-361,Ciudad de Mexico,Gustavo A Madero
-362,Estado de Mexico,Nicolas Romero
-363,Estado de Mexico,Hueypoxtla
-364,Ciudad de Mexico,Cuauhtemoc
-365,Ciudad de Mexico,Miguel Hidalgo
-366,Estado de Mexico,Huixquilucan
-367,Ciudad de Mexico,Tlahuac
-368,Estado de Mexico,San Felipe del Progreso
-369,Estado de Mexico,Toluca
-370,Ciudad de Mexico,Gustavo A Madero
-371,Michoacan,Periban
-372,Ciudad de Mexico,Venustiano Carranza
-373,Estado de Mexico,Chimalhuacan
-374,Ciudad de Mexico,Alvaro Obregon
-376,Tabasco,Villa Hermosa
-377,Jalisco,Zapopan
-378,Estado de Mexico,Nicolas Romero
-379,Queretaro,El Marques
-380,Estado de Mexico,Tultitlan
-381,Guanajuato,Irapuato
-382,Estado de Mexico,Atizapan de Zaragoza
-383,Michoacan,Tancitaro
-384,Veracruz,Amatlan Tuxpan
-385,Hidalgo,Tlahuiltepa
-387,Ciudad de Mexico,Gustavo A Madero
-390,Ciudad de Mexico,Magdalena Contreras
-391,Hidalgo,Pachuca de Soto
-392,Oaxaca,Matias Romero
-393,Estado de Mexico,Temamatla
-394,Estado de Mexico,Nicolas Romero
-395,Ciudad de Mexico,Gustavo A Madero
-396,Guanajuato,Uriangato
-397,Ciudad de Mexico,Alvaro Obregon
-398,Tamaulipas,Tampico
-400,Estado de Mexico,Texcoco
-401,Estado de Mexico,Ixtapaluca
-402,Estado de Mexico,Texcoco
-403,Ciudad de Mexico,Iztapalapa
-404,Ciudad de Mexico,Iztapalapa
-405,Yucatan,Yobain
-406,Texas,Plainview
-407,Ciudad de Mexico,Tlalpan
-408,Ciudad de Mexico,Iztacalco
-409,Ciudad de Mexico,Xochimilco
-410,Tlaxcala,Panotla
-411,Ciudad de Mexico,Coyoacan
-412,Veracruz,Oteapan
-413,Guerrero,Martin de Cuilapan
-414,Ciudad de Mexico,Tlahuac
-415,Queretaro,Queretaro
-416,Estado de Mexico,Toluca
-417,Guerrero,San Marcos
-418,Estado de Mexico,Atizapan de Zaragoza
-419,Oaxaca,Huajuapan de Leon
-420,Jalisco,Zapopan
-421,Guerrero,Acapulco de Juarez
-422,Ciudad de Mexico,Gustavo A Madero
-423,Ciudad de Mexico,Cuajimalpa
-424,Jalisco,Guadalajara
-425,Hidalgo,Zapotlan de Juarez
-426,Estado de Mexico,Naucalpan
-427,Guerrero,San Marcos
-428,Guerrero,Tlalchapa
-429,Ciudad de Mexico,Gustavo A Madero
-430,Estado de Mexico,Naucalpan
-431,Ciudad de Mexico,Tlahuac
-432,Oaxaca,Huajuapan de Leon
-433,Oaxaca,Santa Maria Colotepec
-434,Ciudad de Mexico,Tlahuac
-435,Ciudad de Mexico,Miguel Hidalgo
-436,Estado de Mexico,Nicolas Romero
-437,Estado de Mexico,Naucalpan
-438,Morelos,Zacatepec
-440,Estado de Mexico,Atizapan de Zaragoza
-441,Guerrero,Chilpancingo de los Bravo
-442,Ciudad de Mexico,Gustavo A Madero
-443,Morelos,Yautepec
-444,Estado de Mexico,Nicolas Romero
-445,Estado de Mexico,Tlalnepantla
-446,Veracruz,Tamarindo Carrillo Puerto
-447,Estado de Mexico,Jocotitlan
-448,Estado de Mexico,Nicolas Romero
-449,Oaxaca,Oaxaca
-450,Morelos,Hueyapan
-451,Guerrero,Eduardo Neri
-453,Ciudad de Mexico,Venustiano Carranza
-454,Hidalgo,Atotonilco el Grande
-455,Ciudad de Mexico,Alvaro Obregon
-456,Estado de Mexico,Atizapan de Zaragoza
-457,Ciudad de Mexico,Iztapalapa
-458,Oaxaca,San Juan Bautista Tuxtepec
-459,Tamaulipas,Matamoros
-460,Oaxaca,Santiago Ayuquililla
-461,Ciudad de Mexico,Cuajimalpa
-462,Ciudad de Mexico,Venustiano Carranza
-463,Estado de Mexico,Ixtlahuaca
-464,Ciudad de Mexico,Alvaro Obregon
-465,Ciudad de Mexico,Tlalpan
-466,Ciudad de Mexico,Miguel Hidalgo
-467,Estado de Mexico,Tultepec
-468,Morelos,Jiutepec
-469,Estado de Mexico,Tultepec
-470,Michoacan,Contepec
-471,Quintana Roo,Playa del Carmen
-472,Chiapas,Tuxtla Gutierrez
-473,Estado de Mexico,Huehuetoca
-474,Quintana Roo,Benito Juarez
-475,Veracruz,Espinal
-477,Ciudad de Mexico,Iztapalapa
-478,Ciudad de Mexico,Azcapotzalco
-479,Ciudad de Mexico,Gustavo A Madero
-480,Ciudad de Mexico,Coyoacan
-481,Estado de Mexico,Temacac
-482,Ciudad de Mexico,Iztapalapa
-483,Guerrero,Ometepec
-484,Ciudad de Mexico,Iztapalapa
-485,Estado de Mexico,Toluca
-486,Hidalgo,Cuautepec de Hinojosa
-487,Ciudad de Mexico,Benito Juarez
-488,Puebla,San SebastianTlacotepec
-489,Tamaulipas,Tampico
-490,Estado de Mexico,Naucalpan
-491,Estado de Mexico,Toluca
-492,Puebla,Puebla
-493,Estado de Mexico,San Felipe del Progreso
-494,Ciudad de Mexico,Xochimilco
-495,Estado de Mexico,Atlacomulco
-496,Oaxaca,Juchitan
-497,Ciudad de Mexico,Iztapalapa
-498,Ciudad de Mexico,Azcapotzalco
-499,Ciudad de Mexico,Tlahuac
-500,Hidalgo,Arenal El
-501,Estado de Mexico,Ecatepec de Morelos
-502,Ciudad de Mexico,Venustiano Carranza
-503,Hidalgo,Atitalaquia
-504,Tabasco,Villa Hermosa
-505,Guanajuato,Celaya
-506,Estado de Mexico,Zumpango
-507,Estado de Mexico,Tejupilco
-508,Guanajuato,Salamanca
-509,Ciudad de Mexico,Magdalena Contreras
-510,Estado de Mexico,Nezahualcoyotl
-511,San Luis Potosi,Villa de Reyes
-512,Estado de Mexico,Ecatepec de Morelos
-513,Estado de Mexico,Teotihuacan 
-514,Ciudad de Mexico,Tlalpan
-515,Estado de Mexico,Naucalpan
-516,Estado de Mexico,Nezahualcoyotl
-517,Michoacan,Morelia
-518,Ciudad de Mexico,Azcapotzalco
-519,Hidalgo,Pachuca de Soto
-520,Estado de Mexico,Ixtlahuaca
-521,Puebla,Tehuitzingo
-522,Ciudad de Mexico,Alvaro Obregon
-523,Estado de Mexico,Ecatepec de Morelos
-524,Estado de Mexico,San Felipe del Progreso
-525,Estado de Mexico,Atizapan de Zaragoza
-526,Guerrero,Acapulco de Juarez
-527,Estado de Mexico,Atizapan de Zaragoza
-528,Ciudad de Mexico,Alvaro Obregon
-529,Estado de Mexico,Tejupilco
-530,Ciudad de Mexico,Alvaro Obregon
-531,Michoacan,Zamora
-532,Morelos,Xoxocotla
-533,Ciudad de Mexico,Alvaro Obregon
-534,Ciudad de Mexico,Cuauhtemoc
-535,Estado de Mexico,Chimalhuacan
-536,Veracruz,Tierra Blanca
-537,Estado de Mexico,Nezahualcoyotl
-538,Estado de Mexico,Tecamac
-539,Puebla,Puebla
-540,Ciudad de Mexico,Miguel Hidalgo
-541,Jalisco,Zapopan
-542,Estado de Mexico,Naucalpan
-543,Estado de Mexico,Jiquipilco
-544,Estado de Mexico,Juchitepec
-545,Estado de Mexico,Jiquipilco
-546,Ciudad de Mexico,Iztacalco
-547,Estado de Mexico,Ecatepec de Morelos
-548,Ciudad de Mexico,Iztacalco
-549,Estado de Mexico,Atizapan de Zaragoza
-550,Ciudad de Mexico,Gustavo A Madero
-551,Estado de Mexico,Ixtapaluca
-552,Estado de Mexico,Tecamac
-553,Ciudad de Mexico,Iztapalapa
-554,Morelos,Tetela del volcan
-555,Ciudad de Mexico,Cuajimalpa
-556,Estado de Mexico,San Mateo Atenco
-557,Ciudad de Mexico,Coyoacan
-558,Estado de Mexico,Jiquipilco
-559,Ciudad de Mexico,Iztapalapa
-560,Ciudad de Mexico,Cuauhtemoc
-561,Guerrero,Chilpancingo de los Bravo
-562,Estado de Mexico,Nezahualcoyotl
-563,Puebla,Cholula
-564,Estado de Mexico,Naucalpan
-565,Estado de Mexico,Tenancingo
-568,Quintana Roo,Chetumal
-569,Oaxaca,Oaxaca
-570,Guerrero,Chilpancingo de los Bravo
-571,Estado de Mexico,Naucalpan
-572,Ciudad de Mexico,Azcapotzalco
-573,Hidalgo,Huasca de Ocampo
-574,Estado de Mexico,Ecatepec de Morelos
-575,Estado de Mexico,Naucalpan
-576,Estado de Mexico,Nezahualcoyotl
-577,Ciudad de Mexico,Cuauhtemoc
-578,Ciudad de Mexico,Cuauhtemoc
-579,Estado de Mexico,Chalco
-580,Puebla,Pahuatlan
-581,Veracruz,Ixtaczoquitlan
-582,Ciudad de Mexico,Azcapotzalco
-583,Estado de Mexico,Ixtapaluca
-584,Queretaro,Queretaro
-585,Ciudad de Mexico,Cuajimalpa
-586,Ciudad de Mexico,Alvaro Obregon
-587,Ciudad de Mexico,Iztapalapa
-588,Sinaloa,Culiacan
-589,Estado de Mexico,Ixtapaluca
-590,Ciudad de Mexico,Cuauhtemoc
-591,Yucatan,Merida
-592,Ciudad de Mexico,Iztapalapa
-593,Ciudad de Mexico,Cuajimalpa
-594,Estado de Mexico,Atizapan de Zaragoza
-595,Estado de Mexico,Chalco
-596,Estado de Mexico,Tultitlan
-597,Ciudad de Mexico,Alvaro Obregon
-598,Sinaloa,Los Mochis
-599,Ciudad de Mexico,Iztapalapa
-600,Ciudad de Mexico,Iztapalapa
-601,Ciudad de Mexico,Iztacalco
-602,Ciudad de Mexico,Coyoacan
-603,Ciudad de Mexico,Miguel Hidalgo
-604,Estado de Mexico,Ecatepec de Morelos
-605,Estado de Mexico,Villa del Carbon
-606,Ciudad de Mexico,Magdalena Contreras
-607,Estado de Mexico,Nezahualcoyotl
-608,Yucatan,Los Heroes
-609,Estado de Mexico,Jilotepec
-610,Ciudad de Mexico,Iztapalapa
-611,Puebla,Calpaneria Atezequilla
-612,Estado de Mexico,Termascalcingo
-613,Ciudad de Mexico,Coyoacan
-614,Estado de Mexico,Naucalpan
-615,Estado de Mexico,San Salvador Atenco
-616,Guerrero,Copala
-617,Ciudad de Mexico,Venustiano Carranza
-618,Aguascalientes,Valle Ceylan
-619,Ciudad de Mexico,Cuauhtemoc
-620,Estado de Mexico,Naucalpan
-621,Ciudad de Mexico,Cuauhtemoc
-622,Michoacan,Cristo Rey
-623,Aguascalientes,Valle Ceylan
-624,Ciudad de Mexico,Milpa Alta
-625,Estado de Mexico,Ecatepec de Morelos
-626,Hidalgo,Pachuca de Soto
-627,Queretaro,Corregidora
-628,Guerrero,Chilpancingo de los Bravos
-629,Ciudad de Mexico,Xochimilco
-630,Ciudad de Mexico,Miguel Hidalgo
-631,Jalisco,Puerto Vallarta
-632,Ciudad de Mexico,Azcapotzalco
-633,Baja California,Vicente Guerrero
-634,Ciudad de Mexico,Tlalpan
-635,Estado de Mexico,Huixquilucan
-636,Jalisco,Puerto Vallarta
-637,Queretaro,Corregidora
-638,Ciudad de Mexico,Nezahualcoyotl
-639,Estado de Mexico,Tlalnepantla de Baz
-640,Tabasco,La Huerta
-641,Jalisco,Zapopan
-642,Chihuahua,Ampliacion Insurgentes
-643,Veracruz,Xalapa
-644,Jalisco,Zapopan
-645,Estado de Mexico,Nezahualcoyotl
-646,Puebla,Puebla
-647,Estado de Mexico,Ecatepec de Morelos
-648,Ciudad de Mexico,Gustavo A Madero
-649,Estado de Mexico,Chimalhuacan
-650,Estado de Mexico,Cuautitlan Izcalli
-651,Estado de Mexico,Valle Nicolas Romero
-652,Puebla,Francisco Z Mena
-653,Estado de Mexico,Ecatepec de Morelos
-654,Estado de Mexico ,Naucalpan de Juarez
-655,Ciudad de Mexico,Tlalpan
-656,Estado de Mexico,Nicolar Romero
-657,Puebla,Huauchinango
-658,Ciudad de Mexico,Gustavo A Madero
-659,Ciudad de Mexico,Iztapalapa
-660,Estado de Mexico,Ixtapaluca
-661,Guerrero,Ayutla de los Libres
-662,Veracruz,Amatlan Tuxpan
-663,Hidalgo,Huichapan
-664,Ciudad de Mexico,Gustavo A Madero
-665,Estado de Mexico,Chalco
-666,Ciudad de Mexico,Gustavo A Madero
-667,Estado de Mexico,Ecatepec de Morelos
-668,Ciudad de Mexico,Miguel Hidalgo
-669,Ciudad de Mexico,Cuauhtemoc
-670,Estado de Mexico,Tequistlan
-671,Ciudad de Mexico,Cuajimalpa
-672,Estado de Mexico,Tlanepantla
-673,Ciudad de Mexico,Coyoacan
-674,Ciudad de Mexico,Miguel Hidalgo
-675,Ciudad de Mexico,Xoxhimilco
-676,Coahuila,Saltillo
-677,Estado de Mexico,Ecatepec de Morelos
-678,Ciudad de Mexico,Xochimilco
-679,Zacatecas,La Honda
-680,Guerrero,Chilpancingo
-681,Estado de Mexico,Metepec
-682,Estado de Mexico ,Santa Catarina Ayotzingo
-683,Ciudad de Mexico,Iztapalapa
-684,Oaxaca,Brizas de Zicatela 
-685,Ciudad de Mexico,Miguel Hidalgo
-686,Ciudad de Mexico,Benito Juarez
-687,Ciudad de Mexico,Cuauhtemoc
-688,Estado de Mexico,Nezahualcoyotl
-689,Guerrero,Almoloya
-690,Puebla,Puebla de Zaragoza
-691,Estado de Mexico,Tlanepantla
-692,Ciudad de Mexico,Alvaro Obregon
-693,Quintana Roo,Playa del Carmen
-694,Ciudad de Mexico,Xochimilco
-695,Ciudad de Mexico,Magdalena Contreras
-696,Estado de Mexico,Tenancingo
-697,Estado de Mexico,Allende
-698,Ciudad de Mexico,Iztapalapa
-699,Ciudad de Mexico,Cuauhtemoc
-700,Estado de Mexico,San Lorenzo
-701,Estado de Mexico,Atizapan
-702,Estado de Mexico,Ecatepec
-703,Ciudad de Mexico,Azcapotzalco
-704,Ciudad de Mexico,Azcapotzalco
-705,Estado de Mexico,Jilotepec
-706,Ciudad de Mexico,Tlalpan
-707,Hidalgo,Pachuca de Soto
-708,Estado de Mexico,Temoaya
-709,Ciudad de Mexico,Gustavo A Madero
-710,Ciudad de Mexico,Coyoacan
-711,Ciudad de Mexico,Gustavo A Madero
-712,Hidalgo,Pachuca de Soto
-713,Queretaro,Queretaro
-714,Queretaro,Queretaro
-715,Estado de Mexico,Calimaya
-716,Estado de Mexico,Tultitlan
-717,Baja California Sur,Loma encantada
-718,Ciudad de Mexico,Cuajimalpa
-719,Ciudad de Mexico,Avaro Obregon
-720,San Luis Potosi,Prados San Vicente
-721,Estado de Mexico,Cuautitlan Izcalli
-722,San Luis Potosi,Prados San Vicente
-723,Puebla,Tehuacan
-724,Estado de Mexico,Nezahualcoyotl
-725,Ciudad de Mexico,Gustavo A Madero
-726,Estado de Mexico,Acolman
-727,Quintana Roo,Solidaridad
-728,Jalisco,Zapopan
-729,San Luis Potosi,San Luis Potosi
-730,Estado de Mexico,Atizapan de Zaragoza
-731,Ciudad de Mexico,Magdalena Contreras
-732,Ciudad de Mexico,Miguel Hidalgo
-733,Estado de Mexico,Ecatepec
-734,Estado de Mexico,Nezahualcoyotl
-735,Tabasco,Paraiso
-736,Veracruz,Tontoyuca
-737,Ciudad de Mexico,Cuauhtemoc
-738,Ciudad de Mexico,Gustavo A Madero
-739,Estado de Mexico,Toluca
-740,Ciudad de Mexico,Cuajimalpa
-741,Estado de Mexico,Tultepec
-742,Oaxaca,Magdalena Teitipac
-743,Guanajuato,Irapuato
-744,Estado de Mexico,Tultitlan
-745,Hidalgo,Tetepango
-746,Durango,Durango
-747,Estado de Mexico,San Antonio La Isla
-748,Ciudad de Mexico,Gustavo A Madero
-749,Morelos,Emiliano Zapata
-750,Durango,Durango
-751,Estado de Mexico,Tecamac
-752,Michoacan de Ocampo,Contepec
-753,Ciudad de Mexico,Coyoacan
-754,Coahuila,Torreon
-755,Oaxaca,Loma Bonita
-756,Estado de Mexico ,Atlacomulco 
-757,Sonora,Hermosillo 
-758,Estado de Mexico,Otzolotepec
-759,Ciudad de Mexico,Cuajimalpa
-760,Estado de Mexico,Tlalnepantla de Baz
-761,Estado de Mexico,Toluca
-762,Ciudad de Mexico,Gustavo A Madero
-763,Estado de Mexico ,Naucalpan de Juarez
-764,Ciudad de Mexico,Iztapalapa
-765,Estado de Mexico,Tenancingo
-766,Colima,Colima
-767,Tlaxcala,Emiliano Zapata
-768,Hidalgo,Atotonilco de Tula
-769,Ciudad de Mexico ,Azcapotzalco
-770,Ciudad de Mexico,Cuauhtemoc
-771,Sonora,Magdalena
-772,Guerrero,Tixtla de Guerrero
-773,Ciudad de Mexico,Tlalpan
-774,Estado de Mexico,Coacalco de Berriozabal 
-775,Estado de Mexico,Chimalhuacan
-776,Estado de Mexico,Coacalco de Berriozabal 
-777,Estado de Mexico,Coacalco de Berriozabal 
-778,Ciudad de Mexico,Miguel Hidalgo
-779,Jalisco,Ixtlahuacan de los Membrillos
-780,Estado de Mexico ,Cuautitlan
-781,Ciudad de Mexico,Gustavo A Madero
-782,Ciudad de Mexico,Xochimilco
-783,Hidalgo,Acatlan
-784,Oaxaca,San Antonino Monte Verde
-785,Ciudad de Mexico,Gustavo A Madero
-786,Hidalgo,Tepeji del Rio de Ocampo
-787,Estado de Mexico,Chalco
-788,Estado de Mexico,Xonacatlan
-789,Estado de Mexico,Atizapan de Zaragoza
-790,Puebla,Atempan
-791,Ciudad de Mexico,Venustiano Carranza
-792,Estado de Mexico,Cuautitlan Izcalli
-793,Estado de Mexico,Toluca
-794,Hidalgo ,Tecozautla
-795,Estado de Mexico,Toluca
-796,Puebla,Puebla
-797,Estado de Mexico,Tianguistenco
-798,Ciudad de Mexico,Iztacalco
-799,Estado de Mexico,Toluca
-800,Ciudad de Mexico,Venustiano Carranza
-801,Estado de Mexico,Lluvianos 
-802,Queretaro,Queretaro
-803,Yucatan,Merida
-804,Baja California ,Tijuana
-805,Guanajuato,Silao de la Victoria 
-806,Estado de Mexico,Tultitlan
-807,Ciudad de Mexico,Miguel Hidalgo
-808,Estado de Mexico,Chalco
-809,Michoacan,Chilchota 
-810,Estado de Mexico,Tlalnepantla de Baz
-811,Tabasco,Centro
-812,Puebla,Nealtican
-813,Estado de Mexico,Tlalnepantla de Baz
-814,Sonora,Nogales
-815,Ciudad de Mexico,Gustavo A Madero
-816,Oaxaca,Santiago Pinotepa Nacional
-817,Ciudad de Mexico ,Azcapotzalco
-818,Guanajuato,Uriangato
-819,Belize ,Orange walk 
-820,Estado de Mexico,Morelos
-821,Ciudad de Mexico,Magdalena Contreras
-822,Estado de Mexico,Nicolas Romero
-823,Michoacan,Zamora
-824,Queretaro,Queretaro
-825,Estado de Mexico,Ixtapan de la sal
-826,Morelos,Tetela del volcan
-827,Ciudad de Mexico,Iztapalapa
-828,Ciudad de Mexico,Milpa Alta
-829,Estado de Mexico,Temascalcingo
-830,Guerrero,Zirandaro
-831,Estado de Mexico,Ciudad Nezahualcoyot
-832,Baja California Sur,Los cabos
-833,Estado de Mexico,Zumpango
-834,Ciudad de Mexico,Venustiano Carranza
-835,Hidalgo,Tenango de Doria
-836,Ciudad de Mexico,Cuauhtemoc
-837,Morelos,Ocotitlan
-838,Hidalgo,Huejutla
-839,Ciudad de Mexico,Miguel Hidalgo
-840,Guerrero,Martin de Cuilapan
-841,Veracruz,Zongolica
-842,Estado de Mexico ,Ecatepec 
-843,Hidalgo,Tulancingo de bravo
-844,Ciudad de Mexico,Alvaro Obregon
-845,Estado de Mexico,Toluca
-846, Veracruz,Uxpanapa
-847,Estado de Mexico ,Llano de los Vaez
-848,Morelos,Cuernavaca
-849,Ciudad de Mexico,Tlalpan
-850,Tamaulipas,Tampico
-851,Estado de Mexico,Chimalhuacan
-852,Estado de Mexico,Naucalpan
-853,Ciudad de Mexico ,Milpa Alta
-854,Ciudad de Mexico,Coyoacan
-855,Estado de Mexico,Ixtapaluca
-856,Guerrero,Cuajinicuilapa
-857,Hidalgo,Pachuca de Soto
-858,Ciudad de Mexico,Gustavo A Madero
-860,Ciudad de Mexico,Tlalpan
-861,Ciudad de Mexico,Miguel Hidalgo
-862,Ciudad de Mexico,Milpa Alta
-863,Ciudad de Mexico,Iztapalapa
-864,Guerrero,Pueblo Huerta Vieja
-865,Ciudad de Mexico,Gustavo A Madero
-866,Estado de Mexico,San Jose del Rincon 
-867,Estado de Mexico,Los Reyes La paz
-868,Oaxaca,Culipam de Guerrero
-869,Guerrero,Los Cascalotes
-870,Estado de Mexico,Zumpango
-871,Ciudad de Mexico,Xochimilco
-872,Hidalgo,Huehuetla
-873,Estado de Mexico,Santiago Tilapa
-874,Estado de Mexico,Ecatepec
-875,Ciudad de Mexico,Xochimilco
-876,Ciudad de Mexico,Iztapalapa
-877,Estado de Mexico,Naucalpan
-878,Ciudad de Mexico,Xochimilco
-879,Hidalgo,Mineral de la Reforma
-880,Estado de Mexico,Tultitlan
-881,Ciudad de Mexico,Coyoacan
-882,Estado de Mexico,Cuautitlan Izcalli
-883,Campeche,Champoton
-884,Campeche,Holpechen 
-885,Estado de Mexico,Tenancingo
-886,Estado de Mexico,Nezahualcoyotl
-887,Hidalgo,Zacualtipan 
-889,Estado de Mexico,Cocotitlan
-890,Guerrero,Tepecoacuilco de trujano
-891,Estado de Mexico ,Cuautitlan
-892,Veracruz,Martinez de la Torre
-893,Estado de Mexico,Tultitlan
-894,Estado de Mexico,Melchor Ocampo
-895,Ciuidad de Mexico,Barrio de Santa Martha
-896,Campeche,Carmen
-897,Hidalgo ,Tizayuca
-898,Guerrero ,Arcelia
-899,Estado de Mexico,Toluca
-900,Ciudad de Mexico,Xochimilco
-901,Hidalgo,Ixmiquilpan
-902,Estado de Mexico,Ixtapaluca
-903,Guerrero,Chilapa de Alavrez
-904,Estado de Mexico,Coacalco
-905,Ciudad de Mexico,Iztacalco
-906,Guerrero,Acapulco
-907,Ciudad de Mexico,Coyoacan
-908,Michoacan,Uruapan
-909,Estado de Mexico ,Las Aguilas 
-910,Estado de Mexico,Nezahualcoyotl
-911,Estado de Mexico,Tejupilco
-912,Hidalgo,Acaxochitlan
-913,Estado de Mexico,Texcoco
-914,Sonora,Guaymas
-915,Ciudad de Mexico,Xochimilco
-916,Puebla,Tepeaca
-917,Guerrero,Acapulco de Juarez
-918,Estado de Mexico,Temoaya
-919,Oaxaca,Santa Maria Tonameca
-920,Hidalgo,Mineral de la Reforma
-921,Estado de Mexico,Ciudad Nezahualcoyot
-922,Oaxaca,Ixtlan de Juarez
-923,Estado de Mexico,Ciudad Nezahualcoyot
-924,Puebla,San Miguel Tlalancaleca
-925,Oaxaca,Cerro de la Esperanza
-926,Ciuidad de Mexico,Ixtapalapa
-927,Quintana Roo,Jose Maria Morelos
-928,Ciuidad de Mexico,Ixtapalapa
-929,Estado de Mexico,Toluca
-930,Sonora,Navojoa
-931,Ciudad de Mexico,Tlalpan
-932,Ciudad de Mexico,Alvaro Obregon 
-933,Ciuidad de Mexico,San Miguel Teotongo
-934,Hidalgo,Huichapan
-935,Campeche,Carmen
-936,Hidalgo,Pachuca
-937,Estado de Mexico,Cocotitlan
-938,Estado de Mexico,Zumpango
-939,Ciudad de Mexico,Xochimilco
-940,Ciudad de Mexico,Xochimilco
-941,Ciudad de Mexico,Alvaro Obregon
-942,Ciudad de Mexico,Gustavo A Madero
-944,Estado de Mexico,Ixtapaluca
-945,Guerrero,Tecpan de Galeana
-946,Estadio de Mexico ,Atenco
-948,Hidalgo ,Tezontepec
-950,Estado de Mexico,Nicolas Romero
-952,Ciudad de Mexico,Magdalena Contreras
-953,Michoacan,Tancitaro
-954,Estado de Mexico,Nicolas Romero
-955,Hidalgo,Pachuca
-956,Puebla,Caxhoacan
-957,Estado de Mexico ,Ecatepec 
-958,Veracruz,Huatusco
-960,Estado de Mexico,Tlalnepantla de Baz
-961,Estado de Mexico,Tejupilco
-962,Estado de Mexico,San Juan Teotihuacan 
-963,Estado de Mexico,Chalco
-964,Ciudad de Mexico,Tlahuac
-965,Estado de Mexico,Naucalpan
-966,Estado de Mexico,Toluca
-967,Queretaro,Queretaro
-968,Hidalgo,Pachuca
-969,Tlaxcala,Venustiano Carranza
-970,Guerrero,Chilpancingo
-971,Estado de Mexico,Tianguistenco
-972,Guerrero,Chilapa de Alavrez
-973,Estado de Mexico,Zumpahuacan
-974,Tlaxcala,Nanacamilpa
-975,Campeche,Escarcega
-976,Ciudad de Mexico,Iztapalapa
-977,Hidalgo,Acaxochitlan
-978,Veracruz,Minatitlan 
-980,Oaxaca,San Bartolo Coyotepec
-981,Ciudad de Mexico,Benito Juarez
-982,Guerrero,Chilapa de Alavrez
-983,Estado de Mexico,San Mateo Atenco
-984,Ciudad de Mexico,Coyoacan
-985,Estado de Mexico ,Atizapan de Zaragoza
-986,Ciudad de Mexico,Xochimilco
-987,Veracruz,Hueyapan de Ocampo
-988,Ciudad de Mexico,Alvaro Obregon
-989,Guerrero ,Acapulco de Juarez
-990,Ciudad de Mexico,Tlahuac
-991,San Luis Potosi,Ciudad Fernandez
-992,Ciudad de Mexico,Tlalpan
-993,Morelos,Miacatlan
-994,Estado de Mexico,Nicolas Romero
-995,Ciudad de Mexico,Tlalpan
-996,Queretaro,Queretaro
-997,Guerrero,Acapulco de Juarez
-998,Estado de Mexico,Chimalhuacan
-999,Oaxaca,San Antonio Tepetlapa
-1000,Ciudad de Mexico,Gustavo A Madero
-1001,Estado de Mexico,Villa Victoria 
-1002,Estado de Mexico,Ecatepec
-1003,Ciudad de Mexico,Tlahuac
-1004,Veracruz,Panuco
-1005,Guerrero,Cuetzala del Progreso
-1006,Guerrero,Ometepec
-1007,Ciudad de Mexico,Iztapalapa
-1008,Estado de Mexico,Estancia Grande
-1009,Estado de Mexico,Tlalnepantla
-1010,Estado de Mexico,Estancia Grande
-1012,Ciudad de Mexico,Coyoacan
-1013,Ciudad de Mexico,Tlalpan
-1014,Estado de Mexico,Atizapan de Zaragoza
-1015,Campeche,Hecelchakan
-1016,Guerrero,Iguala
-1018,Michoacan,Morelia
-1019,Estado de Mexico,Nicolas Romero
-1020,Ciudad de Mexico,Tlahuac
-1021,Ciudad de Mexico,Gustavo A Madero
-1022,Estado de Mexico,Otzolotepec
-1023,Hidalgo ,Mixquiahuala
-1026,Estado de Mexico,Texcoco
-1027,Hidalgo,Huichapan
-1028,Hidalgo ,Huautla de Jimenez
-1029,Jalisco,Guadalajara
-1030,Veracruz ,Catemaco
-1031,Estado de Mexico,Amanalco
-1032,Estado de Mexico,Temascalcingo
-1033,Oaxaca,Chalcatongo
-1034,Ciudad de Mexico,Iztapalapa
-1035,Hidalgo,Atotonilco el Grande 
-1037,Ciudad de Mexico,Iztapalapa
+patient_id,state,municipality,altitude,lat,lng
+0,Estado de Mexico,Huixquilucan,2726,19.3602606,-99.3510312
+1,Estado de Mexico,Timilpan,2741,19.8745272,-99.73580899999999
+2,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+3,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+4,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+5,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+6,Estado de Mexico,Metepec,2620,19.2528864,-99.598551
+7,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+8,Estado de Mexico,Coacalco,2257,19.6290831,-99.1043451
+9,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+10,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+11,Estado de Mexico,Tlacotepec,900,18.9649315,-99.93294949999999
+12,Estado de Mexico,San Antonio La Isla,2591,19.1610361,-99.5704448
+13,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+14,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+15,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+16,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+17,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+18,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+19,Estado de Mexico,Los Olivos,75,19.3952321,-98.9759496
+20,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+21,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+22,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+23,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+24,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+25,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+26,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+27,Chihuahua,Juarez,1137,31.6903638,-106.4245478
+28,Guerrero,Cutzamala de Pinzon,263,18.4671282,-100.5796111
+29,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+30,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+31,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+32,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+34,Estado de Mexico,San Jose del Rincon,2747,19.6612661,-100.1570626
+35,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+36,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+37,Puebla,Puebla,2135,19.0414398,-98.2062727
+38,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+39,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+40,Guerrero,Chilapa,1300,17.597969,-99.1758462
+41,Aguascalientes,Aguascalientes,1888,21.8852562,-102.2915677
+42,Guanajuato,Valle de Santiago,1744,20.3905935,-101.1938304
+43,Morelos,Miacatlan,1023,18.7717876,-99.3534348
+44,Veracruz,Papantla,180,20.4566709,-97.3156131
+45,Guerrero,Ayutla de los Libres,378,16.9658305,-99.0930528
+46,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+47,Veracruz,Santiago Tuxtla,300,18.4634757,-95.3024094
+48,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+49,Morelos,Temixco,1280,18.8593026,-99.2393666
+50,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+51,Coahuila,Torreon,1120,25.5428443,-103.4067861
+52,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+53,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+54,Veracruz,Playa Vicente,151,17.8304345,-95.81316350000002
+55,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+56,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+57,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+58,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+59,Guerrero,Ometepec,135,16.6908954,-98.4101984
+60,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+61,Veracruz,Papantla,180,20.4566709,-97.3156131
+62,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+63,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+64,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+65,Veracruz,Jalapa,1417,19.5437751,-96.91018059999999
+66,Guerrero,Zihuatanejo ,20,17.6416693,-101.5516955
+67,Estado de Mexico,Huixquilucan,2726,19.3602606,-99.3510312
+68,Estado de Mexico,Melchor Ocampo,2660,19.7031072,-99.14349639999999
+69,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+70,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+71,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+72,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+74,Guerrero,Ayutla de los Libres,378,16.9658305,-99.0930528
+75,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+76,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+77,Guerrero,Acatepec,1600,17.3241189,-98.90962309999999
+78,Morelos,Emiliano Zapata,1213,18.8478608,-99.1843676
+79,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+80,Yucatan,Merida,10,20.9673702,-89.5925857
+81,Jalisco,Arandas,2061,20.705519,-102.346916
+82,Guerrero,Copanatoyac,590,17.4644481,-98.7125904
+83,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+84,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+85,Estado de Mexico,Tejupilco,1330,18.9062177,-100.1507188
+86,Yucatan,Hunucma,6,21.016318,-89.8772303
+87,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+88,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+89,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+90,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+91,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+92,Hidalgo,Francisco I Madero,1100,20.2450994,-99.0905389
+93,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+94,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+95,Puebla,Puebla,2135,19.0414398,-98.2062727
+96,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+97,Baja California,Ensenada,16,31.8667427,-116.5963713
+98,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+99,Estado de Mexico,Los Reyes La paz,2260,19.3611697,-98.95603650000001
+100,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+101,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+102,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+103,Tamaulipas,Reynosa,33,26.0508406,-98.29789509999999
+104,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+105,Tamaulipas,San Fernando,42,24.8419162,-98.1502433
+106,Hidalgo,Tizayuca,2260,19.8405004,-98.9801651
+107,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+108,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+109,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+110,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+111,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+113,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+114,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+115,Estado de Mexico,Huixquilucan,2726,19.3602606,-99.3510312
+116,Veracruz,Jalapa,1417,19.5437751,-96.91018059999999
+117,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+118,Jalisco,Guadalajara,1566,20.6596988,-103.3496092
+119,Puebla,Puebla,2135,19.0414398,-98.2062727
+121,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+122,Puebla,Nealtican,2233,19.0482747,-98.42693840000001
+123,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+124,Estado de Mexico,Los Reyes La paz,2260,19.3611697,-98.95603650000001
+125,Yucatan,Merida,10,20.9673702,-89.5925857
+126,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+127,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+128,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+129,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+130,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+131,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+132,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+133,Sonora,Hermosillo,200,29.0729673,-110.9559192
+134,Guerrero,Tecpan de Galeana,120,17.2237303,-100.6281014
+135,Hidalgo,Cardonal,2042,20.6124,-99.1150509
+136,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+137,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+138,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+139,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+140,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+141,Morelos,Cuernavaca,1510,18.9242095,-99.22156590000002
+142,Sonora,Guaymas,10,27.9178651,-110.9089378
+143,Michoacan,Michoacan ,3647,19.5665192,-101.7068294
+144,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+145,Estado de Mexico,Almoloya de Juarez,2600,19.3690064,-99.7605116
+146,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+147,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+148,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+149,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+150,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+151,Estado de Mexico,Otumba,2360,19.6988525,-98.75751
+152,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+153,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+154,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+155,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+156,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+157,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+158,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+159,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+160,Sonora,Cananea,1620,30.9897648,-110.289179
+161,Sonora,Cumpas,914,29.9946928,-109.7803082
+163,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+164,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+165,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+166,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+167,Jalisco,Ayutla de los Libres,378,20.1280233,-104.3439311
+168,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+169,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+170,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+171,Estado de Mexico,Temamatla,2276,19.2017642,-98.8721186
+172,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+173,Guerrero,Azoyu,360,16.7325349,-98.6034009
+174,Estado de Mexico,Otumba,2360,19.6988525,-98.75751
+175,Yucatan,Merida,10,20.9673702,-89.5925857
+176,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+177,Guerrero,Mochitlan,2250,17.4709149,-99.3712917
+178,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+179,Sonora,Hermosillo,200,29.0729673,-110.9559192
+180,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+181,Veracruz,Playa Vicente,151,17.8304345,-95.81316350000002
+182,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+183,Sonora,Nogales,1199,31.3011855,-110.9381047
+184,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+185,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+187,Michoacan,Maravatio,2036,19.8954098,-100.4477181
+188,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+189,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+190,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+191,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+192,Puebla,Pantepec,1530,20.5193016,-97.9380732
+193,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+194,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+195,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+196,Guerrero,Tlalchapa,420,18.4085169,-100.4773801
+197,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+198,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+199,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+200,Sonora,Los Alamos,2231,27.0254869,-108.941309
+201,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+202,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+203,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+204,Sonora,Nogales,1199,31.3011855,-110.9381047
+205,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+206,Chiapas,Villaflores,560,16.2329693,-93.2734517
+207,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+208,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+209,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+210,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+211,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+212,Estado de Mexico,Jiquipilco,2657,19.5573493,-99.60675309999999
+213,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+214,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+215,Estado de Mexico,Metepec,2620,19.2528864,-99.598551
+216,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+217,Tamaulipas,Altamira,26,22.4077462,-97.92115550000001
+218,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+219,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+220,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+221,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+222,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+223,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+224,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+225,Guerrero,Copala,100,16.6030715,-98.9714623
+226,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+227,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+228,Puebla,Puebla,2135,19.0414398,-98.2062727
+230,Estado de Mexico,Ozumba de Alzate,2340,19.0376395,-98.79602349999999
+231,Guanajuato,Salamanca,1721,20.5739314,-101.1957172
+232,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+233,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+234,Tamaulipas,Reynosa,33,26.0508406,-98.29789509999999
+235,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+236,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+237,Puebla,Huauchinango,1519,20.1757001,-98.0628862
+238,Oaxaca,Santa Cruz Zenzontepec,60,16.5334303,-97.4953304
+239,Estado de Mexico,Lomas de Coacalco,2317,19.6198998,-99.0954726
+240,Queretaro,Pedro Escobedo,1900,20.5010443,-100.1395169
+241,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+242,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+243,Guerrero,Ayutla de los Libres,378,16.9658305,-99.0930528
+244,Campeche,Escarcega,85,18.6101834,-90.7390245
+245,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+246,Estado de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+247,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+248,Puebla,Puebla,2135,19.0414398,-98.2062727
+249,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+250,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+251,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+252,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+253,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+254,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+255,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+256,Tabasco,Tabasco,20,17.8409173,-92.6189273
+257,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+258,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+259,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+260,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+261,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+262,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+263,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+264,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+265,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+266,Estado de Mexico,Estado de Mexico,2240,19.4231994,-99.04328869999999
+267,Michoacan,Tarimbaro,1860,19.7911756,-101.1758932
+268,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+269,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+270,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+271,Guerrero,Tecpan de Galeana,120,17.2237303,-100.6281014
+272,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+273,Oaxaca,Santa Cruz Xoxocotlan,1530,17.0193584,-96.74942159999999
+274,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+275,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+276,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+277,Guanajuato,Celaya,1767,20.5279612,-100.8112885
+278,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+279,Morelos,Jojutla,890,18.6144195,-99.1781178
+280,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+281,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+283,Nuevo Leon,Monterrey,540,25.6866142,-100.3161126
+284,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+285,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+286,Oaxaca,Villa de Tamazulapam,2200,17.6724247,-97.57204809999999
+287,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+288,Guerrero,Copalillo,875,18.0344322,-99.0406186
+289,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+290,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+291,Yucatan,Merida,10,20.9673702,-89.5925857
+292,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+293,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+294,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+295,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+296,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+297,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+298,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+299,Queretaro,Corregidora,2260,20.5334645,-100.4462861
+300,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+301,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+302,Veracruz,Xalapa,1417,19.5437751,-96.91018059999999
+303,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+304,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+305,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+306,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+307,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+308,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+309,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+310,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+311,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+312,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+313,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+314,Nayarit,Santiago Ixcuintla,40,21.8131863,-105.204327
+316,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+317,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+318,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+319,Puebla,Yehualtepec,2126,18.795868,-97.6629495
+320,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+321,Veracruz,Xalapa,1417,19.5437751,-96.91018059999999
+322,Estado de Mexico,Tecamac,2260,19.7122732,-98.96830729999999
+323,Estado de Mexico,Tenango del Vale,2600,19.1053422,-99.58821309999999
+324,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+325,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+326,Guerrero,Huitziltepec,1935,17.757147,-99.479771
+327,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+328,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+329,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+330,Veracruz,Boca del Rio,16,19.106273,-96.10632040000002
+331,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+332,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+333,Aguascalientes,Aguascalientes,1888,21.8852562,-102.2915677
+334,Morelos,Cuernavaca,1510,18.9242095,-99.22156590000002
+335,Michoacan,Jacona,1580,19.9534201,-102.3068608
+336,Estado de Mexico,Lerma,2570,19.2913424,-99.5244687
+337,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+338,Hidalgo,Tulancingo de bravo,2181,20.0904802,-98.3690922
+339,Hidalgo, San Felipe Orizatlan,160,21.1690704,-98.61331880000002
+341,Estado de Mexico,Calimaya,2690,19.1617587,-99.6178249
+342,Yucatan,Kanasin,10,20.9441486,-89.56391190000001
+344,Estado de Mexico,Metepec,2620,19.2528864,-99.598551
+346,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+347,Tabasco,Villa Hermosa,20,17.989456,-92.9475061
+348,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+349,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+350,Chihuahua,Chihuahua,1415,28.6329957,-106.0691004
+351,Hidalgo,Santiago de Anaya,2040,20.3800556,-98.9631789
+352,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+353,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+354,Tlaxcala,Tlaxcala,2239,19.318154,-98.2374954
+355,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+356,Morelos,Cuernavaca,1510,18.9242095,-99.22156590000002
+357,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+358,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+359,Guerrero,Iguala,731,18.3448477,-99.5397344
+360,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+361,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+362,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+363,Estado de Mexico,Hueypoxtla,2260,19.9109342,-99.07590739999999
+364,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+365,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+366,Estado de Mexico,Huixquilucan,2726,19.3602606,-99.3510312
+367,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+368,Estado de Mexico,San Felipe del Progreso,2570,19.7129957,-99.9515474
+369,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+370,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+371,Michoacan,Periban,1640,19.519222,-102.4138738
+372,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+373,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+374,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+376,Tabasco,Villa Hermosa,20,17.989456,-92.9475061
+377,Jalisco,Zapopan,1571,20.6719563,-103.416501
+378,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+379,Queretaro,El Marques,1800,20.6113606,-100.3288581
+380,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+381,Guanajuato,Irapuato,1724,20.6786652,-101.3544964
+382,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+383,Michoacan,Tancitaro,2080,19.3368654,-102.3624818
+384,Veracruz,Amatlan Tuxpan,60,21.3312719,-97.754333
+385,Hidalgo,Tlahuiltepa,1751,20.9233609,-98.9500652
+387,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+390,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+391,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+392,Oaxaca,Matias Romero,180,16.8681196,-95.0442567
+393,Estado de Mexico,Temamatla,2276,19.2017642,-98.8721186
+394,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+395,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+396,Guanajuato,Uriangato,1810,20.1462015,-101.178725
+397,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+398,Tamaulipas,Tampico,10,22.2331041,-97.861099
+400,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+401,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+402,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+403,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+404,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+405,Yucatan,Yobain,4,21.2335619,-89.1166404
+406,Texas,Plainview,1026,34.1847936,-101.7068417
+407,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+408,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+409,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+410,Tlaxcala,Panotla,2240,19.3124375,-98.2732659
+411,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+412,Veracruz,Oteapan,50,17.9978524,-94.6708709
+413,Guerrero,Martin de Cuilapan,1220,17.741043,-99.32708149999999
+414,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+415,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+416,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+417,Guerrero,San Marcos,30,16.7949714,-99.3883874
+418,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+419,Oaxaca,Huajuapan de Leon,1600,17.8112504,-97.78034819999999
+420,Jalisco,Zapopan,1571,20.6719563,-103.416501
+421,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+422,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+423,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+424,Jalisco,Guadalajara,1566,20.6596988,-103.3496092
+425,Hidalgo,Zapotlan de Juarez,2360,19.9763386,-98.86430589999999
+426,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+427,Guerrero,San Marcos,30,16.7949714,-99.3883874
+428,Guerrero,Tlalchapa,420,18.4085169,-100.4773801
+429,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+430,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+431,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+432,Oaxaca,Huajuapan de Leon,1600,17.8112504,-97.78034819999999
+433,Oaxaca,Santa Maria Colotepec,50,15.8969852,-96.93780509999999
+434,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+435,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+436,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+437,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+438,Morelos,Zacatepec,917,18.6590633,-99.1954432
+440,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+441,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+442,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+443,Morelos,Yautepec,1220,18.8891562,-99.0626377
+444,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+445,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+446,Veracruz,Tamarindo Carrillo Puerto,180,18.800258,-96.571704
+447,Estado de Mexico,Jocotitlan,2650,19.7075577,-99.78839669999999
+448,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+449,Oaxaca,Oaxaca,1555,17.0731842,-96.7265889
+450,Morelos,Hueyapan,2291,18.8860004,-98.6908754
+451,Guerrero,Eduardo Neri,1092,17.6520624,-99.5249616
+453,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+454,Hidalgo,Atotonilco el Grande,2040,20.2865414,-98.66890339999999
+455,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+456,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+457,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+458,Oaxaca,San Juan Bautista Tuxtepec,20,18.0809028,-96.1420947
+459,Tamaulipas,Matamoros,8,25.8690294,-97.50273759999999
+460,Oaxaca,Santiago Ayuquililla,1600,17.9309132,-97.9579242
+461,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+462,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+463,Estado de Mexico,Ixtlahuaca,2540,19.5699879,-99.7650659
+464,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+465,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+466,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+467,Estado de Mexico,Tultepec,2250,19.6860054,-99.1260866
+468,Morelos,Jiutepec,2472,18.8954874,-99.1732936
+469,Estado de Mexico,Tultepec,2250,19.6860054,-99.1260866
+470,Michoacan,Contepec,2497,19.9521591,-100.1619222
+471,Quintana Roo,Playa del Carmen,10,20.6295586,-87.0738851
+472,Chiapas,Tuxtla Gutierrez,522,16.7516009,-93.1029939
+473,Estado de Mexico,Huehuetoca,2250,19.8277305,-99.2037508
+474,Quintana Roo,Benito Juarez,2242,21.1139789,-86.9423801
+475,Veracruz,Espinal,100,20.2588917,-97.4011206
+477,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+478,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+479,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+480,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+481,Estado de Mexico,Temacac,2260,19.7122732,-98.96830729999999
+482,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+483,Guerrero,Ometepec,135,16.6908954,-98.4101984
+484,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+485,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+486,Hidalgo,Cuautepec de Hinojosa,2930,20.0368036,-98.3170569
+487,Ciudad de Mexico,Benito Juarez,2242,19.3794059,-99.15914459999999
+488,Puebla,San SebastianTlacotepec,1317,18.4041547,-96.8494583
+489,Tamaulipas,Tampico,10,22.2331041,-97.861099
+490,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+491,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+492,Puebla,Puebla,2135,19.0414398,-98.2062727
+493,Estado de Mexico,San Felipe del Progreso,2570,19.7129957,-99.9515474
+494,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+495,Estado de Mexico,Atlacomulco,2570,19.7975581,-99.8766825
+496,Oaxaca,Juchitan,30,16.4406909,-95.0221197
+497,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+498,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+499,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+500,Hidalgo,Arenal El,2033,40.2738765,-5.0858988
+501,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+502,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+503,Hidalgo,Atitalaquia,2107,20.0509779,-99.2203687
+504,Tabasco,Villa Hermosa,20,17.989456,-92.9475061
+505,Guanajuato,Celaya,1767,20.5279612,-100.8112885
+506,Estado de Mexico,Zumpango,2259,19.8039297,-99.0930528
+507,Estado de Mexico,Tejupilco,1330,18.9062177,-100.1507188
+508,Guanajuato,Salamanca,1721,20.5739314,-101.1957172
+509,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+510,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+511,San Luis Potosi,Villa de Reyes,1820,21.8058423,-100.9324541
+512,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+513,Estado de Mexico,Teotihuacan ,2270,19.6860799,-98.87163609999999
+514,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+515,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+516,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+517,Michoacan,Morelia,1920,19.7059504,-101.1949825
+518,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+519,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+520,Estado de Mexico,Ixtlahuaca,2540,19.5699879,-99.7650659
+521,Puebla,Tehuitzingo,1250,18.3297054,-98.27585309999999
+522,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+523,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+524,Estado de Mexico,San Felipe del Progreso,2570,19.7129957,-99.9515474
+525,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+526,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+527,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+528,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+529,Estado de Mexico,Tejupilco,1330,18.9062177,-100.1507188
+530,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+531,Michoacan,Zamora,1580,19.9901766,-102.2834075
+532,Morelos,Xoxocotla,2125,18.6850824,-99.2460619
+533,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+534,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+535,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+536,Veracruz,Tierra Blanca,350,18.4458276,-96.3598367
+537,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+538,Estado de Mexico,Tecamac,2260,19.7122732,-98.96830729999999
+539,Puebla,Puebla,2135,19.0414398,-98.2062727
+540,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+541,Jalisco,Zapopan,1571,20.6719563,-103.416501
+542,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+543,Estado de Mexico,Jiquipilco,2657,19.5573493,-99.60675309999999
+544,Estado de Mexico,Juchitepec,2540,19.091141,-98.881554
+545,Estado de Mexico,Jiquipilco,2657,19.5573493,-99.60675309999999
+546,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+547,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+548,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+549,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+550,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+551,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+552,Estado de Mexico,Tecamac,2260,19.7122732,-98.96830729999999
+553,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+554,Morelos,Tetela del volcan,2040,18.8937717,-98.7205877
+555,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+556,Estado de Mexico,San Mateo Atenco,2600,19.2630031,-99.5324296
+557,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+558,Estado de Mexico,Jiquipilco,2657,19.5573493,-99.60675309999999
+559,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+560,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+561,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+562,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+563,Puebla,Cholula,2150,19.0765772,-98.30211919999999
+564,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+565,Estado de Mexico,Tenancingo,2020,18.9613407,-99.59107379999999
+568,Quintana Roo,Chetumal,10,18.5001889,-88.296146
+569,Oaxaca,Oaxaca,1555,17.0731842,-96.7265889
+570,Guerrero,Chilpancingo de los Bravo,1253,17.5515346,-99.5006322
+571,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+572,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+573,Hidalgo,Huasca de Ocampo,2100,20.2040455,-98.5754259
+574,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+575,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+576,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+577,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+578,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+579,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+580,Puebla,Pahuatlan,1600,20.2769343,-98.15016089999999
+581,Veracruz,Ixtaczoquitlan,850,18.8608694,-97.063289
+582,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+583,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+584,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+585,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+586,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+587,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+588,Sinaloa,Culiacan,71,24.8090649,-107.3940117
+589,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+590,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+591,Yucatan,Merida,10,20.9673702,-89.5925857
+592,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+593,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+594,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+595,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+596,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+597,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+598,Sinaloa,Los Mochis,10,25.7904657,-108.985882
+599,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+600,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+601,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+602,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+603,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+604,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+605,Estado de Mexico,Villa del Carbon,2600,19.7287602,-99.4617111
+606,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+607,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+608,Yucatan,Los Heroes,30,20.9891255,-89.538319
+609,Estado de Mexico,Jilotepec,2452,19.9516359,-99.536755
+610,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+611,Puebla,Calpaneria Atezequilla,2825,19.6551519,-97.9931142
+612,Estado de Mexico,Termascalcingo,2260,19.9198874,-100.0052044
+613,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+614,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+615,Estado de Mexico,San Salvador Atenco,2250,19.5610315,-98.9169257
+616,Guerrero,Copala,100,16.6030715,-98.9714623
+617,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+618,Aguascalientes,Valle Ceylan,1888,19.5386018,-99.1809533
+619,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+620,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+621,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+622,Michoacan,Cristo Rey,2259,20.0550773,-102.7318272
+623,Aguascalientes,Valle Ceylan,1888,19.5386018,-99.1809533
+624,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+625,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+626,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+627,Queretaro,Corregidora,2260,20.5334645,-100.4462861
+628,Guerrero,Chilpancingo de los Bravos,1253,17.5515346,-99.5006322
+629,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+630,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+631,Jalisco,Puerto Vallarta,7,20.653407,-105.2253316
+632,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+633,Baja California,Vicente Guerrero,48,30.7286487,-115.9894616
+634,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+635,Estado de Mexico,Huixquilucan,2726,19.3602606,-99.3510312
+636,Jalisco,Puerto Vallarta,7,20.653407,-105.2253316
+637,Queretaro,Corregidora,2260,20.5334645,-100.4462861
+638,Ciudad de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+639,Estado de Mexico,Tlalnepantla de Baz,2250,19.5345279,-99.19073639999999
+640,Tabasco,La Huerta,310,18.0737638,-92.875481
+641,Jalisco,Zapopan,1571,20.6719563,-103.416501
+642,Chihuahua,Ampliacion Insurgentes,31215,28.6979423,-106.1261175
+643,Veracruz,Xalapa,1417,19.5437751,-96.91018059999999
+644,Jalisco,Zapopan,1571,20.6719563,-103.416501
+645,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+646,Puebla,Puebla,2135,19.0414398,-98.2062727
+647,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+648,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+649,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+650,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+651,Estado de Mexico,Valle Nicolas Romero,2370,19.6087519,-99.3115412
+652,Puebla,Francisco Z Mena,346,20.7329044,-97.8500845
+653,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+654,Estado de Mexico ,Naucalpan de Juarez,2300,19.4737133,-99.2336657
+655,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+656,Estado de Mexico,Nicolar Romero,2390,19.6240978,-99.30717469999999
+657,Puebla,Huauchinango,1519,20.1757001,-98.0628862
+658,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+659,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+660,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+661,Guerrero,Ayutla de los Libres,378,16.9658305,-99.0930528
+662,Veracruz,Amatlan Tuxpan,60,21.3312719,-97.754333
+663,Hidalgo,Huichapan,2100,20.3786677,-99.6508401
+664,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+665,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+666,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+667,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+668,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+669,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+670,Estado de Mexico,Tequistlan,2246,19.5966042,-98.9402176
+671,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+672,Estado de Mexico,Tlanepantla,2238,19.5345279,-99.19073639999999
+673,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+674,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+675,Ciudad de Mexico,Xoxhimilco,2250,19.2572314,-99.1029664
+676,Coahuila,Saltillo,1600,25.4383234,-100.973678
+677,Estado de Mexico,Ecatepec de Morelos,2250,19.6057728,-99.03651119999999
+678,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+679,Zacatecas,La Honda,2132,24.0205555,-103.4072222
+680,Guerrero,Chilpancingo,1253,17.5515346,-99.5006322
+681,Estado de Mexico,Metepec,2620,19.2528864,-99.598551
+682,Estado de Mexico ,Santa Catarina Ayotzingo,690,19.2078994,-98.93108389999999
+683,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+684,Oaxaca,Brizas de Zicatela ,32,15.8336944,-97.0424994
+685,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+686,Ciudad de Mexico,Benito Juarez,2242,19.3794059,-99.15914459999999
+687,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+688,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+689,Guerrero,Almoloya,2600,18.3680555,-100.1761111
+690,Puebla,Puebla de Zaragoza,2135,19.0414398,-98.2062727
+691,Estado de Mexico,Tlanepantla,2238,19.5345279,-99.19073639999999
+692,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+693,Quintana Roo,Playa del Carmen,10,20.6295586,-87.0738851
+694,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+695,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+696,Estado de Mexico,Tenancingo,2020,18.9613407,-99.59107379999999
+697,Estado de Mexico,Allende,474,19.4755229,-99.7149999
+698,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+699,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+700,Estado de Mexico,San Lorenzo,2544,19.4045962,-98.972843
+701,Estado de Mexico,Atizapan,2280,19.5562275,-99.2674713
+702,Estado de Mexico,Ecatepec,2250,19.6057728,-99.03651119999999
+703,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+704,Ciudad de Mexico,Azcapotzalco,2240,19.4846606,-99.1886749
+705,Estado de Mexico,Jilotepec,2452,19.9516359,-99.536755
+706,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+707,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+708,Estado de Mexico,Temoaya,2670,19.4653884,-99.59404169999999
+709,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+710,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+711,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+712,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+713,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+714,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+715,Estado de Mexico,Calimaya,2690,19.1617587,-99.6178249
+716,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+717,Baja California Sur,Loma encantada,2268,23.0122675,-109.7352487
+718,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+719,Ciudad de Mexico,Avaro Obregon,2373,19.3605334,-99.2267067
+720,San Luis Potosi,Prados San Vicente,1846,22.1325826,-100.9136055
+721,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+722,San Luis Potosi,Prados San Vicente,1846,22.1325826,-100.9136055
+723,Puebla,Tehuacan,1600,18.4665063,-97.40038009999999
+724,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+725,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+726,Estado de Mexico,Acolman,2254,19.6420614,-98.9107373
+727,Quintana Roo,Solidaridad,1250,20.5501224,-87.42075179999999
+728,Jalisco,Zapopan,1571,20.6719563,-103.416501
+729,San Luis Potosi,San Luis Potosi,1864,22.1564699,-100.9855409
+730,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+731,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+732,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+733,Estado de Mexico,Ecatepec,2250,19.6057728,-99.03651119999999
+734,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+735,Tabasco,Paraiso,10,18.4006144,-93.2127162
+736,Veracruz,Tontoyuca,140,21.3510619,-98.2267665
+737,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+738,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+739,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+740,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+741,Estado de Mexico,Tultepec,2250,19.6860054,-99.1260866
+742,Oaxaca,Magdalena Teitipac,1747,16.9046705,-96.5596566
+743,Guanajuato,Irapuato,1724,20.6786652,-101.3544964
+744,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+745,Hidalgo,Tetepango,2100,20.0988308,-99.15115019999999
+746,Durango,Durango,1890,24.0277202,-104.6531759
+747,Estado de Mexico,San Antonio La Isla,2591,19.1610361,-99.5704448
+748,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+749,Morelos,Emiliano Zapata,1213,18.8478608,-99.1843676
+750,Durango,Durango,1890,24.0277202,-104.6531759
+751,Estado de Mexico,Tecamac,2260,19.7122732,-98.96830729999999
+752,Michoacan de Ocampo,Contepec,2497,19.9521591,-100.1619222
+753,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+754,Coahuila,Torreon,1120,25.5428443,-103.4067861
+755,Oaxaca,Loma Bonita,30,18.109679,-95.8803616
+756,Estado de Mexico ,Atlacomulco ,2570,19.7975581,-99.8766825
+757,Sonora,Hermosillo ,200,29.0729673,-110.9559192
+758,Estado de Mexico,Otzolotepec,2591,19.4117213,-99.5592077
+759,Ciudad de Mexico,Cuajimalpa,2623,19.3557507,-99.2993504
+760,Estado de Mexico,Tlalnepantla de Baz,2250,19.5345279,-99.19073639999999
+761,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+762,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+763,Estado de Mexico ,Naucalpan de Juarez,2300,19.4737133,-99.2336657
+764,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+765,Estado de Mexico,Tenancingo,2020,18.9613407,-99.59107379999999
+766,Colima,Colima,500,19.2452342,-103.7240868
+767,Tlaxcala,Emiliano Zapata,1213,19.5576533,-97.9165939
+768,Hidalgo,Atotonilco de Tula,2080,20.0096889,-99.2203687
+769,Ciudad de Mexico ,Azcapotzalco,2240,19.4846606,-99.1886749
+770,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+771,Sonora,Magdalena,680,30.6248514,-110.9714055
+772,Guerrero,Tixtla de Guerrero,1349,17.567656,-99.39959239999999
+773,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+774,Estado de Mexico,Coacalco de Berriozabal ,2257,19.6326046,-99.1090105
+775,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+776,Estado de Mexico,Coacalco de Berriozabal ,2257,19.6326046,-99.1090105
+777,Estado de Mexico,Coacalco de Berriozabal ,2257,19.6326046,-99.1090105
+778,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+779,Jalisco,Ixtlahuacan de los Membrillos,1570,20.3475108,-103.1942224
+780,Estado de Mexico ,Cuautitlan,2280,19.6726588,-99.1648692
+781,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+782,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+783,Hidalgo,Acatlan,2140,20.1453958,-98.4410429
+784,Oaxaca,San Antonino Monte Verde,2224,17.5330507,-97.7214489
+785,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+786,Hidalgo,Tepeji del Rio de Ocampo,2172,19.9114508,-99.3506604
+787,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+788,Estado de Mexico,Xonacatlan,2579,19.4042181,-99.5302705
+789,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+790,Puebla,Atempan,2049,19.8379586,-97.4564439
+791,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+792,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+793,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+794,Hidalgo ,Tecozautla,1700,20.5326359,-99.6323321
+795,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+796,Puebla,Puebla,2135,19.0414398,-98.2062727
+797,Estado de Mexico,Tianguistenco,2620,19.1804002,-99.467615
+798,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+799,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+800,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+801,Estado de Mexico,Lluvianos ,1130,18.9200983,-100.2978762
+802,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+803,Yucatan,Merida,10,20.9673702,-89.5925857
+804,Baja California ,Tijuana,20,32.5149469,-117.0382471
+805,Guanajuato,Silao de la Victoria ,1780,20.952141,-101.4282369
+806,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+807,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+808,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+809,Michoacan,Chilchota ,1770,19.8464674,-102.1176991
+810,Estado de Mexico,Tlalnepantla de Baz,2250,19.5345279,-99.19073639999999
+811,Tabasco,Centro,20,17.9915076,-92.9344412
+812,Puebla,Nealtican,2233,19.0482747,-98.42693840000001
+813,Estado de Mexico,Tlalnepantla de Baz,2250,19.5345279,-99.19073639999999
+814,Sonora,Nogales,1199,31.3011855,-110.9381047
+815,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+816,Oaxaca,Santiago Pinotepa Nacional,210,16.3411824,-98.053687
+817,Ciudad de Mexico ,Azcapotzalco,2240,19.4846606,-99.1886749
+818,Guanajuato,Uriangato,1810,20.1462015,-101.178725
+819,Belize ,Orange walk ,33,18.0842472,-88.5710266
+820,Estado de Mexico,Morelos,2610,19.7899891,-99.6684882
+821,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+822,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+823,Michoacan,Zamora,1580,19.9901766,-102.2834075
+824,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+825,Estado de Mexico,Ixtapan de la sal,1880,18.8390501,-99.6760096
+826,Morelos,Tetela del volcan,2040,18.8937717,-98.7205877
+827,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+828,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+829,Estado de Mexico,Temascalcingo,2260,19.9198874,-100.0052044
+830,Guerrero,Zirandaro,682,18.4753174,-100.9769179
+831,Estado de Mexico,Ciudad Nezahualcoyot,2220,19.3994934,-98.9896643
+832,Baja California Sur,Los cabos,10,22.8905327,-109.9167371
+833,Estado de Mexico,Zumpango,2259,19.8039297,-99.0930528
+834,Ciudad de Mexico,Venustiano Carranza,2240,19.4306069,-99.0949899
+835,Hidalgo,Tenango de Doria,1675,20.3367247,-98.2240321
+836,Ciudad de Mexico,Cuauhtemoc,2244,19.4356338,-99.1495107
+837,Morelos,Ocotitlan,2285,18.9892416,-99.0594645
+838,Hidalgo,Huejutla,140,21.1367171,-98.41221619999999
+839,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+840,Guerrero,Martin de Cuilapan,1220,17.741043,-99.32708149999999
+841,Veracruz,Zongolica,1219,18.6655167,-96.99800839999999
+842,Estado de Mexico ,Ecatepec ,2250,19.6057728,-99.03651119999999
+843,Hidalgo,Tulancingo de bravo,2181,20.0904802,-98.3690922
+844,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+845,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+846, Veracruz,Uxpanapa,38,17.2772992,-94.4506177
+847,Estado de Mexico ,Llano de los Vaez,2246,19.6126719,-99.012202
+848,Morelos,Cuernavaca,1510,18.9242095,-99.22156590000002
+849,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+850,Tamaulipas,Tampico,10,22.2331041,-97.861099
+851,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+852,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+853,Ciudad de Mexico ,Milpa Alta,2420,19.1942041,-99.0267076
+854,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+855,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+856,Guerrero,Cuajinicuilapa,50,16.4711295,-98.4151885
+857,Hidalgo,Pachuca de Soto,2432,20.1010608,-98.7591311
+858,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+860,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+861,Ciudad de Mexico,Miguel Hidalgo,2273,19.4306575,-99.20839529999999
+862,Ciudad de Mexico,Milpa Alta,2420,19.1942041,-99.0267076
+863,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+864,Guerrero,Pueblo Huerta Vieja,950,17.8886548,-100.1991306
+865,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+866,Estado de Mexico,San Jose del Rincon ,2747,19.6612661,-100.1570626
+867,Estado de Mexico,Los Reyes La paz,2260,19.3611697,-98.95603650000001
+868,Oaxaca,Culipam de Guerrero,1560,16.9914845,-96.7788461
+869,Guerrero,Los Cascalotes,808,18.3640239,-99.5523977
+870,Estado de Mexico,Zumpango,2259,19.8039297,-99.0930528
+871,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+872,Hidalgo,Huehuetla,562,20.460486,-98.0751645
+873,Estado de Mexico,Santiago Tilapa,1500,19.1864227,-99.4192351
+874,Estado de Mexico,Ecatepec,2250,19.6057728,-99.03651119999999
+875,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+876,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+877,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+878,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+879,Hidalgo,Mineral de la Reforma,2800,20.0708947,-98.6960424
+880,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+881,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+882,Estado de Mexico,Cuautitlan Izcalli,2280,19.6528089,-99.22313869999999
+883,Campeche,Champoton,10,19.3471645,-90.7200237
+884,Campeche,Holpechen ,100,19.7472419,-89.8424644
+885,Estado de Mexico,Tenancingo,2020,18.9613407,-99.59107379999999
+886,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+887,Hidalgo,Zacualtipan ,1980,20.6484047,-98.6535693
+889,Estado de Mexico,Cocotitlan,2300,19.2314995,-98.8666032
+890,Guerrero,Tepecoacuilco de trujano,860,18.2843822,-99.46448930000001
+891,Estado de Mexico ,Cuautitlan,2280,19.6726588,-99.1648692
+892,Veracruz,Martinez de la Torre,1220,20.0615132,-97.05452559999999
+893,Estado de Mexico,Tultitlan,2240,19.6392125,-99.1668646
+894,Estado de Mexico,Melchor Ocampo,2660,19.7031072,-99.14349639999999
+895,Ciuidad de Mexico,Barrio de Santa Martha,2246,19.3615578,-99.0087486
+896,Campeche,Carmen,2,18.6504879,-91.80745859999999
+897,Hidalgo ,Tizayuca,2260,19.8405004,-98.9801651
+898,Guerrero ,Arcelia,862,18.3151454,-100.2851493
+899,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+900,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+901,Hidalgo,Ixmiquilpan,1700,20.4831412,-99.21711739999999
+902,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+903,Guerrero,Chilapa de Alavrez,1300,17.597969,-99.1758462
+904,Estado de Mexico,Coacalco,2257,19.6290831,-99.1043451
+905,Ciudad de Mexico,Iztacalco,2242,19.3948036,-99.09768079999999
+906,Guerrero,Acapulco,30,16.8531086,-99.8236533
+907,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+908,Michoacan,Uruapan,1620,19.4064492,-102.0430476
+909,Estado de Mexico ,Las Aguilas ,2236,19.3795136,-99.0032236
+910,Estado de Mexico,Nezahualcoyotl,2220,19.3994934,-98.9896643
+911,Estado de Mexico,Tejupilco,1330,18.9062177,-100.1507188
+912,Hidalgo,Acaxochitlan,2260,20.1544793,-98.20216099999999
+913,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+914,Sonora,Guaymas,10,27.9178651,-110.9089378
+915,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+916,Puebla,Tepeaca,2235,18.9659554,-97.8993756
+917,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+918,Estado de Mexico,Temoaya,2670,19.4653884,-99.59404169999999
+919,Oaxaca,Santa Maria Tonameca,40,15.7467124,-96.5462836
+920,Hidalgo,Mineral de la Reforma,2800,20.0708947,-98.6960424
+921,Estado de Mexico,Ciudad Nezahualcoyot,2220,19.3994934,-98.9896643
+922,Oaxaca,Ixtlan de Juarez,2030,17.3321811,-96.4873643
+923,Estado de Mexico,Ciudad Nezahualcoyot,2220,19.3994934,-98.9896643
+924,Puebla,San Miguel Tlalancaleca,2430,19.3256113,-98.4964685
+925,Oaxaca,Cerro de la Esperanza,8,16.211181,-97.9792049
+926,Ciuidad de Mexico,Ixtapalapa,2100,19.3467093,-99.0798926
+927,Quintana Roo,Jose Maria Morelos,20,19.7485675,-88.706081
+928,Ciuidad de Mexico,Ixtapalapa,2100,19.3467093,-99.0798926
+929,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+930,Sonora,Navojoa,50,27.0727573,-109.4437493
+931,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+932,Ciudad de Mexico,Alvaro Obregon ,2373,19.3605334,-99.2267067
+933,Ciuidad de Mexico,San Miguel Teotongo,2060,19.3434287,-98.9880319
+934,Hidalgo,Huichapan,2100,20.3786677,-99.6508401
+935,Campeche,Carmen,2,18.6504879,-91.80745859999999
+936,Hidalgo,Pachuca,2432,20.1010608,-98.7591311
+937,Estado de Mexico,Cocotitlan,2300,19.2314995,-98.8666032
+938,Estado de Mexico,Zumpango,2259,19.8039297,-99.0930528
+939,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+940,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+941,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+942,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+944,Estado de Mexico,Ixtapaluca,2250,19.3090538,-98.9079782
+945,Guerrero,Tecpan de Galeana,120,17.2237303,-100.6281014
+946,Estadio de Mexico ,Atenco,2250,19.5610315,-98.9169257
+948,Hidalgo ,Tezontepec,2100,19.8820941,-98.8218954
+950,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+952,Ciudad de Mexico,Magdalena Contreras,2510,19.3149641,-99.24258859999999
+953,Michoacan,Tancitaro,2080,19.3368654,-102.3624818
+954,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+955,Hidalgo,Pachuca,2432,20.1010608,-98.7591311
+956,Puebla,Caxhoacan,480,20.0633589,-97.6065055
+957,Estado de Mexico ,Ecatepec ,2250,19.6057728,-99.03651119999999
+958,Veracruz,Huatusco,1290,19.1482351,-96.9665476
+960,Estado de Mexico,Tlalnepantla de Baz,2250,19.5345279,-99.19073639999999
+961,Estado de Mexico,Tejupilco,1330,18.9062177,-100.1507188
+962,Estado de Mexico,San Juan Teotihuacan ,2300,19.6860799,-98.87163609999999
+963,Estado de Mexico,Chalco,2240,19.26244,-98.8969427
+964,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+965,Estado de Mexico,Naucalpan,2300,19.4737133,-99.2336657
+966,Estado de Mexico,Toluca,2660,19.2826098,-99.6556653
+967,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+968,Hidalgo,Pachuca,2432,20.1010608,-98.7591311
+969,Tlaxcala,Venustiano Carranza,2240,19.4044079,-98.0656145
+970,Guerrero,Chilpancingo,1253,17.5515346,-99.5006322
+971,Estado de Mexico,Tianguistenco,2620,19.1804002,-99.467615
+972,Guerrero,Chilapa de Alavrez,1300,17.597969,-99.1758462
+973,Estado de Mexico,Zumpahuacan,1660,18.8345654,-99.5814814
+974,Tlaxcala,Nanacamilpa,2720,19.4949991,-98.5363982
+975,Campeche,Escarcega,85,18.6101834,-90.7390245
+976,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+977,Hidalgo,Acaxochitlan,2260,20.1544793,-98.20216099999999
+978,Veracruz,Minatitlan ,20,17.9939225,-94.5466067
+980,Oaxaca,San Bartolo Coyotepec,1520,16.9541863,-96.7079287
+981,Ciudad de Mexico,Benito Juarez,2242,19.3794059,-99.15914459999999
+982,Guerrero,Chilapa de Alavrez,1300,17.597969,-99.1758462
+983,Estado de Mexico,San Mateo Atenco,2600,19.2630031,-99.5324296
+984,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+985,Estado de Mexico ,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+986,Ciudad de Mexico,Xochimilco,2250,19.2572314,-99.1029664
+987,Veracruz,Hueyapan de Ocampo,44,18.1504792,-95.1453617
+988,Ciudad de Mexico,Alvaro Obregon,2373,19.3605334,-99.2267067
+989,Guerrero ,Acapulco de Juarez,30,16.8531086,-99.8236533
+990,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+991,San Luis Potosi,Ciudad Fernandez,980,21.9368487,-100.0303723
+992,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+993,Morelos,Miacatlan,1023,18.7717876,-99.3534348
+994,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+995,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+996,Queretaro,Queretaro,1820,20.5887932,-100.3898881
+997,Guerrero,Acapulco de Juarez,30,16.8531086,-99.8236533
+998,Estado de Mexico,Chimalhuacan,2240,19.4314047,-98.95820479999999
+999,Oaxaca,San Antonio Tepetlapa,390,16.5418499,-98.0651101
+1000,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+1001,Estado de Mexico,Villa Victoria ,2560,19.4376729,-99.9954161
+1002,Estado de Mexico,Ecatepec,2250,19.6057728,-99.03651119999999
+1003,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+1004,Veracruz,Panuco,10,22.0535642,-98.1820596
+1005,Guerrero,Cuetzala del Progreso,930,18.134678,-99.8324514
+1006,Guerrero,Ometepec,135,16.6908954,-98.4101984
+1007,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+1008,Estado de Mexico,Estancia Grande,76,19.4968732,-99.72326729999999
+1009,Estado de Mexico,Tlalnepantla,2250,19.5345279,-99.19073639999999
+1010,Estado de Mexico,Estancia Grande,76,19.4968732,-99.72326729999999
+1012,Ciudad de Mexico,Coyoacan,2240,19.3486926,-99.16291310000001
+1013,Ciudad de Mexico,Tlalpan,2260,19.2777349,-99.1644701
+1014,Estado de Mexico,Atizapan de Zaragoza,2280,19.5562275,-99.2674713
+1015,Campeche,Hecelchakan,10,20.1819021,-90.13545859999999
+1016,Guerrero,Iguala,731,18.3448477,-99.5397344
+1018,Michoacan,Morelia,1920,19.7059504,-101.1949825
+1019,Estado de Mexico,Nicolas Romero,2390,19.6162033,-99.30011809999999
+1020,Ciudad de Mexico,Tlahuac,2200,19.2990233,-99.0436467
+1021,Ciudad de Mexico,Gustavo A Madero,2243,19.4873329,-99.1236134
+1022,Estado de Mexico,Otzolotepec,2591,19.4117213,-99.5592077
+1023,Hidalgo ,Mixquiahuala,1198,20.2304048,-99.21065510000001
+1026,Estado de Mexico,Texcoco,2250,19.5060382,-98.8831503
+1027,Hidalgo,Huichapan,2100,20.3786677,-99.6508401
+1028,Hidalgo ,Huautla de Jimenez,1600,18.1310861,-96.84314020000001
+1029,Jalisco,Guadalajara,1566,20.6596988,-103.3496092
+1030,Veracruz ,Catemaco,340,18.4212621,-95.1129658
+1031,Estado de Mexico,Amanalco,2807,19.2540675,-100.0195984
+1032,Estado de Mexico,Temascalcingo,2260,19.9198874,-100.0052044
+1033,Oaxaca,Chalcatongo,2450,17.0308889,-97.5708659
+1034,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
+1035,Hidalgo,Atotonilco el Grande ,1980,20.2865414,-98.66890339999999
+1037,Ciudad de Mexico,Iztapalapa,2100,19.3467093,-99.0798926
