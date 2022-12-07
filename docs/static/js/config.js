@@ -65,7 +65,7 @@ const POSTREQUEST = {
     credentials: 'same-origin', 
     headers: {
       'Content-Type': 'application/json',
-      'access_token': TOKEN,
+    //   'access_token': TOKEN,
     },
     redirect: 'follow',
     referrerPolicy: 'no-referrer',
@@ -78,7 +78,7 @@ const GETREQUEST = {
     credentials: 'same-origin', 
     headers: {
       'Content-Type': 'application/json',
-      'access_token': TOKEN,
+    //   'access_token': TOKEN,
     },
     redirect: 'follow',
     referrerPolicy: 'no-referrer'
