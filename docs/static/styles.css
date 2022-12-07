@@ -1,0 +1,70 @@
+
+.kardias-content {
+    margin-top: 2vh;
+}
+
+.kardias-title {
+    font-family: 'Nunito';
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color:#0d47a1;
+}
+
+.kardias-subtitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    margin-right: auto;
+    margin-left: auto;
+    color: #0a4db3;
+    text-align: center;
+    display: inline;
+}
+
+.text-karias-color{
+    color: #0a4db3;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    row-gap: 20px;
+    padding: 20px 16vw;
+    text-align: justify;
+}
+
+nav {
+    padding: 0;
+}
+
+.kardias-sidemenu {
+    padding-top: 100px;
+    width: 160px;
+    position: fixed;
+    height: 100vh;
+    z-index: 100;
+}
+
+.kardias-navbar {
+    padding: 20px;
+}
+
+.kardias-sidemenu-items {
+    font-size: 16px;
+    display: block;
+}
+
+@media screen and (max-width: 768px) {
+    .kardias-sidemenu {
+        padding-top: 20px;
+        padding: 20px;
+        width: 100vw;
+        height: 100px;
+    }
+    .kardias-sidemenu-items {
+        /* font-size: 20px; */
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
