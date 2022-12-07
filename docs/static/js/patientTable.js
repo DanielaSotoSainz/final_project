@@ -16,7 +16,7 @@ const fetchPatientDiagnosis = (body) => {
     .then((diagnosisData) => displayPatientDiagnosis(diagnosisData))
 }
 const fetchPatientProcedure = (body) => {
-    fetch(
+    fetch(  
         `${URL}/api/v1/patient_surgical_procedure/`,
         {...POSTREQUEST, body:JSON.stringify(body)}
     )
@@ -27,19 +27,19 @@ const updatePatientData = (page) => {
     let body = getPatientRequestBody();
     fetchPatientData({...body, page: page});
 }
-// Patient Data Pagination
-const MAX_PAGES = 11;
-const MIN_PAGES = 0;
+// Patient Data Pagination variables
 let patientPage = 0;
 let patientTablePageNum = document.getElementById('patientTablePageNum');
+patientTablePageNum.textContent = patientPage + 1;
+// Handle Pagination Change
 const nextPagePatientTable = () => {
     patientPage = patientPage === MAX_PAGES ? patientPage : patientPage + 1;
-    patientTablePageNum.textContent = patientPage;
+    patientTablePageNum.textContent = patientPage + 1;
     updatePatientData(patientPage);
 }
 const prevPagePatientTable = () => {
     patientPage = patientPage === MIN_PAGES ? patientPage : patientPage - 1;
-    patientTablePageNum.textContent = patientPage;
+    patientTablePageNum.textContent = patientPage + 1;
     updatePatientData(patientPage);
 }
 // HTML
@@ -53,6 +53,8 @@ const displayPatientDataInTable = (patientData) => {
     patientData.map((patient) => {
         let tr = document.createElement('tr');
         tr.innerHTML = '';
+        delete patient.date_birth;
+        delete patient.date_procedure;
         Object.entries(patient).forEach(([key, value]) => {
             let td = document.createElement('td');
             td.textContent = value;
@@ -68,25 +70,31 @@ const displayPatientDataInTable = (patientData) => {
 const displayPatientDiagnosis = (data) => {
     patientDiagnosis.innerHTML = '';
     data.map((patient) => {
-        let tr = document.createElement('tr');
-        Object.entries(patient).forEach(([key, value]) => {
+        patient.diagnosis_main.map((diagnosis) => {
+            let tr = document.createElement('tr');
             let td = document.createElement('td');
-            td.textContent = value;
+            td.textContent = patient.patient_id;
             tr.append(td);
+            let td2 = document.createElement('td');
+            td2.textContent = diagnosis;
+            tr.append(td2);
+            patientDiagnosis.append(tr);
         })
-        patientDiagnosis.append(tr);
     });
 }
 const displayPatientProcedure = (data) => {
     patientProcedure.innerHTML = '';
     data.map((patient) => {
-        let tr = document.createElement('tr');
-        Object.entries(patient).forEach(([key, value]) => {
+        patient.surgical_procedure.map((procedure) => {
+            let tr = document.createElement('tr');
             let td = document.createElement('td');
-            td.textContent = value;
+            td.textContent = patient.patient_id;
             tr.append(td);
+            let td2 = document.createElement('td');
+            td2.textContent = procedure;
+            tr.append(td2);
+            patientProcedure.append(tr);
         })
-        patientProcedure.append(tr);
     });
 }
 // JQUERY

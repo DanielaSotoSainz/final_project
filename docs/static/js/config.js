@@ -1,8 +1,12 @@
 /**
  * Config Variables for API connectivity.
  */
-// const URL = "http://localhost:8000";
 const URL = "https://fxnqc075vd.execute-api.us-east-1.amazonaws.com/dev";
+// const URL = "http://localhost:8000";
+// Table limits
+const MAX_PAGES = 9;
+const MIN_PAGES = 0;
+// Patient Request
 const PatientRequest = {
     "amount": 5,
     "page": 0,
@@ -52,16 +56,30 @@ const PatientRequest = {
 const getPatientRequestBody = () => {
     return {...PatientRequest}
 }
-// POST REQUEST
+// REQUESTS
+const TOKEN = 'ilovetableau99';
 const POSTREQUEST = {
     method: 'POST',
     mode: 'cors', 
     cache: 'no-cache',
     credentials: 'same-origin', 
     headers: {
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
+      'access_token': TOKEN,
     },
     redirect: 'follow',
     referrerPolicy: 'no-referrer',
     body: '{}'
+}
+const GETREQUEST = {
+    method: 'GET',
+    mode: 'cors', 
+    cache: 'no-cache',
+    credentials: 'same-origin', 
+    headers: {
+      'Content-Type': 'application/json',
+      'access_token': TOKEN,
+    },
+    redirect: 'follow',
+    referrerPolicy: 'no-referrer'
 }
