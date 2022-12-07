@@ -1,42 +1,41 @@
-# Final Project
-### Machine Learning
+# Machine Learning Predictions
 
-Using Logistic Regression as a classifier
+## KMeans Clustering
 
-
-## Measurements
-
-| 	| Predicted True	| Predicted False |
-|---|---|---|   
-|Actually True	|TRUE POSITIVE	|FALSE NEGATIVE|
-|Actually False|	FALSE POSITIVE	|TRUE NEGATIVE|
-
-
-#### Accuracy
-
-tp + tn / (tp + tn + fp + fn)
-
-Accuracy is the number of correct predictions against the total number of predictions.
-
-#### Precision
-
-tp / (tp + fp)
-
-Precision is the measure of how likely is that the prediction is actually true. It tells us the percentage of positive predictions that are correct, how precise a positive prediction is.
-
-#### Sensitivity
-
-tp / (tp + fn)
-
-Sensitivity is the capability of the model of understanding to which category the data corresponds.
+### Features
 
 ```python
-   precision    recall  f1-score   support
-
-           0       0.88      0.72      0.79       125
-           1       0.77      0.91      0.84       132
-
-    accuracy                           0.82       257
-   macro avg       0.83      0.81      0.81       257
-weighted avg       0.83      0.82      0.82       257
+[
+   'gender', 
+   'age_days', 
+   'weight_kg', 
+   'height_cm',
+   'cx_previous', 
+   'rachs', 
+   'stay_days', 
+   'CIA', 
+   'CIV',
+   'Estenosis', 
+   'PCA',
+   'Other_Diagnosis', 
+   'Coartacion Aortica', 
+   'Tetralogia de Fallot',
+   'Atresia', 
+   'Post-Surgical Procedure', 
+   'Hipoplasia',
+   'Parche comunicacion interauricular CIA', 
+   'Vena cava inferior parche',
+   'Other_Procedure', 
+   'Cierre de Conducto Arterioso',
+   'Reparacion de Canal AV', 
+   'Reparacion de Tetralogia de Fallot',
+   'Procedimiento de Glenn', 
+   'Reparacion de arco aortico',
+   'Fistula sistemico pulmonar',
+   'Procedimiento de Fontan',
+]
 ```
+
+
+## Linear Regression
+
