@@ -272,9 +272,9 @@ In python, a new column named “patient_id” was added, some unnecessary colum
                 <p>
                     In order to have the model readily available, we deployed it to the internet using a REST API so the end-user can make predictions from the hospital premises or their office via a website. We chose Amazon Web Services as our cloud provider because of the flexibility of their serverless services like AWS Lambda, ECS, and their API Gateway, as this will allow us to reduce costs in the early stages of the project. Some additional services include RDS for a managed database with PostgreSQL and S3 for storing temporary text files. We chose GitHub Pages as our temporary front-end server and developed a complete website using tools like JavaScript and Bootstrap, so all the API calls are made from GitHub and handled by our Lambda function in AWS.                
                 </p>
-                <p>
+                <!-- <p>
                     We used FastAPI as the Python framework for constructing the API logic and connecting to PostgreSQL via SQLAlchemy. We chose it because of the asynchronous capabilities when making database connections and handling requests, although the machine learning models run in a synchronous way, we can separate them into different lambda functions and easily scale our application in the near future to provide a better user experience.
-                </p>
+                </p> -->
                 <figure>
                     <img src="./static/img/deployment2.png" width="600px" class="img-fluid" alt="Technologies used for deployment"/>
                     <figcaption>Tech Stack</figcaption>
@@ -321,6 +321,17 @@ In python, a new column named “patient_id” was added, some unnecessary colum
         <!-- <div class="col-10 col-lg-2"></div> -->
     </div>
 </div>
+<!-- Footer -->
+<footer class="page-footer bg-light" style="padding:10px;">
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2022 Copyright:
+    Daniela Soto, Galo Cazares, Alberto Valdez
+    </div>
+    <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
 <script src="./static/js/config.js" ></script>
 <script src="./static/js/patientTable.js" ></script>
 </body>
