@@ -52,8 +52,8 @@ Result of the Exploration
 * Main objective of the project: “More accurate diagnosis, prognosis, and risk assessment”
 * The team formulated 2 hypothesis or questions in order to contribute to  the management of the Congenital Heart Diseases Accurate Diagnosis and Risk Assessment (FDA Artificial Intelligence main objectives):
 * Questions:
-* How can we predict the Intensive Care Stay Days for new patients?
-* How can we predict mortality after surgery?
+    * How can we predict the Intensive Care Stay Days for new patients?
+    * How can we predict mortality after surgery?
 
 ## Machine Learning
 Linear Regression 
