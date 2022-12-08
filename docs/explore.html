@@ -24,7 +24,10 @@
                 <h2>Patient Data</h2>
             </header>
             <p>
-                Patient information with Cardiac Diagnosis and Surgical Procedure included. Data limited to 10 pages.
+                Patient information with Cardiac Diagnosis and Surgical Procedure included. 
+                "Prev Cx" refers to the number of previous surgical procedures. "Gender" is 0 for Female, 1 for Male. 
+                "Expired" refers to whether the patient died or not.
+                All data has been de-identified and doesn't use exact dates. The table is limited to 10 pages.
             </p>
             <div class="card" style="overflow: scroll;">
                 <table class="table table-striped table-hover" id="patientTable">
@@ -43,7 +46,7 @@
                         <th scope="col">Expired</th>
                         </tr>
                     </thead>
-                    <tbody id="patientTableBody" class="overflow-y: hidden">
+                    <tbody id="patientTableBody" style="overflow-y: hidden">
                         <tr></tr>
                         <tr></tr>
                         <tr></tr>
@@ -72,7 +75,7 @@
                         <div class="row">
                             <div class="col-6">
                                 <h5 class="card-title">Diagnosis</h5>
-                                <table class="table table-striped table-sm">
+                                <table class="table table-striped table-sm" style="text-align: left;">
                                     <thead>
                                         <tr>
                                             <th scope="col">ID</th>
@@ -85,7 +88,7 @@
                             </div>
                             <div class="col-6">
                                 <h5 class="card-title">Procedure</h5>
-                                <table class="table table-striped table-sm">
+                                <table class="table table-striped table-sm" style="text-align: left;">
                                     <thead>
                                         <tr>
                                             <th scope="col">ID</th>
