@@ -113,5 +113,6 @@ Linear Regression
 
 Presentation:
 
-HTML:
+HTML: https://danielasotosainz.github.io/final_project/
 
+API Repository: https://github.com/AlbertoV5/kardias-api
