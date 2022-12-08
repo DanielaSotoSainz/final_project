@@ -30,8 +30,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-12">
+                        <h4>
+                            Model Prediction Steps
+                        </h4>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.r tranquilidad al habitarlos.
+                            <ol>
+                                <li>Enter basic Patient data.</li>
+                                <li>Select a Cardiac Diagnosis.</li>
+                                <li>Select a Surgical Procedure.</li>
+                                <li>Predict.</li>
+                                <li>Compare the resulting cluster to the table below.</li>
+                                <li>Visualize the patient data in Figure 1.</li>
+                            </ol>
                         </p>
                     </div>
                     <div class="col-lg-8 col-12">
@@ -156,21 +166,25 @@
                         <div class="spinner-border" role="status" id="loadingClusterTableBody"></div>
                     </div>
                 </div>
-                <div class="row" id="clusterPlot">
-                    <div class="d-flex justify-content-center">
-                        <div class="spinner-border" role="status" id="loadingClusterPlot"></div>
+                <div class="card" style="overflow: scroll;">
+                    <div class="row" id="clusterPlot">
+                        <div class="d-flex justify-content-center">
+                            <div class="spinner-border" role="status" id="loadingClusterPlot"></div>
+                        </div>
                     </div>
+                    <div class="card-body"><h6>Figure 1: Linear Regression over Clusters</h6></div>
+                    <div class="card-body"><p>...</p></div>
                 </div>
             </div>
         </section>
-        <section>
+        <!-- <section>
             <header>
                 <h2>Other</h2>
             </header>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.r tranquilidad al habitarlos.
             </p>
-        </section>
+        </section> -->
     </div>
     <script src="./static/js/config.js"></script>
     <script src="./static/js/predict.js"></script>
