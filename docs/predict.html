@@ -27,7 +27,7 @@
             <p>
                 K-means clustering helps us understand the relationship between many variables across many records. 
                 In this case, we want to predict the number of days a Patient will stay in the Intensive Care Unit by finding the cluster that their data belongs to.
-                The algorithm doesn't consider Stay Days and Mortality as we don't have that information at the time of input, however, we can use historical data from previous patients to get an average of Stay Days and Mortality per cluster.
+                The algorithm doesn't consider Stay Days and Mortality for clustering the data as we don't have that information at the time of input of a new Patient, however, we can use historical data from previous patients to get an average of Stay Days and Mortality per cluster.
             </p>
             <div class="container">
                 <div class="row">
@@ -192,6 +192,17 @@
             </p>
         </section> -->
     </div>
+    <!-- Footer -->
+    <footer class="page-footer bg-light" style="padding:10px;">
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2022 Copyright:
+      Daniela Soto, Galo Cazares, Alberto Valdez
+    </div>
+    <!-- Copyright -->
+  
+  </footer>
+  <!-- Footer -->
     <script src="./static/js/config.js"></script>
     <script src="./static/js/predict.js"></script>
 </body>
