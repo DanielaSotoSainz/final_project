@@ -59,13 +59,13 @@ Result of the Exploration
 Linear Regression 
 * Algorithm to make clusters from patients with similar characteristics. 
 * The clusters display the following average variables:
-* Stay Days
-* RACHS-01
-* Previous Surgeries
-* Age
-* Weight 
-* Height
-* Mortality
+    * Stay Days
+    * RACHS-01
+    * Previous Surgeries
+    * Age
+    * Weight 
+    * Height
+    * Mortality
 * After the dimensionality reduction, the model is able to answer our initial questions and show the relation from Stay Days and RACHS-1.
 * The model can be used by medical or administration staff. 
 
