@@ -129,8 +129,11 @@
                                         <div class="col-6">
                                          <button type="button" onclick="submitPatientClusterForm()" class="btn btn-primary" style="margin-bottom: 20px;">Predict</button>
                                         </div>
-                                        <div class="col-6" style="padding:4px">
+                                        <div class="col-6" style="padding:2px">
                                             <b>Cluster:</b><p id="clusterResult">-</p>
+                                            <div class="d-flex justify-content-center">
+                                                <div class="spinner-border spinner-border-sm" role="status" id="loadingClusterResult" style="display: none;"></div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

@@ -44,15 +44,19 @@ const prevPagePatientTable = () => {
 }
 // HTML
 let patientTable = document.getElementById('patientTableBody');
+let loadingPatientTable = document.getElementById('loadingPatientTable');
 let patientDiagnosis = document.getElementById('patientDiagnosis');
 let patientProcedure = document.getElementById('patientProcedure');
 // Update Patient Table HTML
 const displayPatientDataInTable = (patientData) => {
+    // Hide Loading Element
+    loadingPatientTable.style.display = 'none';
+    // Prepare Table Data
     patientTable.innerHTML = '';
-    let patientIds = [];
+    let patientIds = patientData.map((patient) => patient.patient_id);
+    // Create cells
     patientData.map((patient) => {
         let tr = document.createElement('tr');
-        tr.innerHTML = '';
         delete patient.date_birth;
         delete patient.date_procedure;
         Object.entries(patient).forEach(([key, value]) => {
@@ -60,9 +64,9 @@ const displayPatientDataInTable = (patientData) => {
             td.textContent = value;
             tr.append(td);
         })
-        patientIds.push(patient.patient_id);
         patientTable.append(tr);
     });
+    // Fetch other data
     fetchPatientDiagnosis({patient_id: patientIds});
     fetchPatientProcedure({patient_id: patientIds});
 }

@@ -2,7 +2,6 @@
 const VALID_PROCEDURES = [
     "Parche comunicacion interauricular CIA",
     "Vena cava inferior parche",
-    "Other_Procedure",
     "Cierre de Conducto Arterioso",
     "Reparacion de Canal AV",
     "Reparacion de Tetralogia de Fallot",
@@ -10,22 +9,22 @@ const VALID_PROCEDURES = [
     "Reparacion de arco aortico",
     "Fistula sistemico pulmonar",
     "Procedimiento de Fontan",
+    "Other_Procedure",
 ]
 const VALID_DIAGNOSIS = [
     "CIA",
     "CIV",
     "Estenosis",
     "PCA",
-    "Other_Diagnosis",
     "Coartacion Aortica",
     "Tetralogia de Fallot",
     "Atresia",
     "Post-Surgical Procedure",
     "Hipoplasia",
+    "Other_Diagnosis",
 ]
 let selectProcedure = document.getElementById('selectProcedure');
 let selectDiagnosis = document.getElementById('selectDiagnosis');
-let clusterResult = document.getElementById('clusterResult');
 
 // FETCH
 const fetchClusterTable = () => {
@@ -42,7 +41,7 @@ const fetchKMeansPredict = (body) => {
         {...POSTREQUEST, body:JSON.stringify(body)}
     )
     .then((response) => response.json())
-    .then((prediction) => (clusterResult.textContent = prediction.cluster))
+    .then((prediction) => (updateClusterResult(prediction.cluster)))
 }
 
 // Patient Cluster Form Options
@@ -62,9 +61,7 @@ const createDiagnosisOptions = () => {
         selectDiagnosis.append(opt);
     })
 }
-
-// Patient Cluster Form 
-let kmeansForm = document.getElementById('kmeansForm');
+// Patient Cluster Data for Form 
 const POST_PREDICT_KMEANS = {
     gender: 0,
     age_days: 450,
@@ -79,22 +76,52 @@ const POST_PREDICT_KMEANS = {
         VALID_PROCEDURES[0]
     ],
 }
+// Cluster Result
+let clusterResult = document.getElementById('clusterResult');
+let loadingClusterResult = document.getElementById('loadingClusterResult');
+let predictionCluster = 1;
+
+// Update Cluster Result
+const updateClusterResult = (cluster) => {
+    // Reset Table
+    document.getElementById(`k-${predictionCluster}`).className = '';
+    // Update Cluster global
+    predictionCluster = cluster;
+    // Update Elements loading
+    loadingClusterResult.style.display = 'none';
+    clusterResult.style.display = 'block';
+    clusterResult.textContent = predictionCluster;
+    // Update Table
+    document.getElementById(`k-${predictionCluster}`).className='table-primary';
+}
+// HTML form
+let kmeansForm = document.getElementById('kmeansForm');
+
 // Fetch data from Form values TODO: validate
 const submitPatientClusterForm = () => {
-    clusterResult.textContent = "...";
-    let diagnosis = [kmeansForm.elements.selectDiagnosis.value];
-    let procedure = [kmeansForm.elements.selectProcedure.value];
+    // Update elements Element
+    clusterResult.style.display = 'none';
+    loadingClusterResult.style.display = 'block';
+    // Validate and obtain form data
+    const {valid, body} = validatePatientClusterForm(kmeansForm.elements);
+    // Fetch
+    if (valid) fetchKMeansPredict(body);
+}
+// Form validation and processing
+const validatePatientClusterForm = (data) => {
+    // TODO: Add actual Validation
+    // Create request body
     let body = {
-        gender: kmeansForm.elements.gender.value,
-        age_days: kmeansForm.elements.age_days.value,
-        weight_kg: kmeansForm.elements.weight_kg.value,
-        height_cm: kmeansForm.elements.height_cm.value,
-        cx_previous: kmeansForm.elements.cx_previous.value,
-        rachs: kmeansForm.elements.rachs.value,
-        diagnosis_main: diagnosis,
-        surgical_procedure: procedure,
+        gender: data.gender.value,
+        age_days: data.age_days.value,
+        weight_kg: data.weight_kg.value,
+        height_cm: data.height_cm.value,
+        cx_previous: data.cx_previous.value,
+        rachs: data.rachs.value,
+        diagnosis_main: [data.selectDiagnosis.value],
+        surgical_procedure: [data.selectProcedure.value],
     }
-    fetchKMeansPredict(body);
+    return {valid: true, body: body};
 }
 
 // DEFAULTS
@@ -113,6 +140,7 @@ const setFormDefaults = (defaults) => {
 // Cluster Table
 let clusterTableBody = document.getElementById('clusterTableBody');
 let loadingClusterTableBody = document.getElementById('loadingClusterTableBody');
+
 // Populate Table with rows
 const displayClusterTableData = (clusterData) => {
     // Hide Loading element
@@ -120,7 +148,9 @@ const displayClusterTableData = (clusterData) => {
     // Reset table contents and create row per record
     clusterTableBody.innerHTML = '';
     clusterData.clusters.map((cluster) => {
+        // Create cluster and add id
         let tr = document.createElement('tr');
+        tr.id = `k-${cluster.cluster}`;
         // Don't include extra data
         delete cluster.expired;
         delete cluster.weight_kg;
