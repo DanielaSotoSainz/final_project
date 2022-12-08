@@ -18,94 +18,78 @@
 <nav id="navbar" class="navbar sticky-top bg-light bg-gradient kardias-navbar"></nav>
 <script src="./static/js/navBar.js" ></script>
 <!-- SIDE MENU collapse show -->
-<div class="collapse" id="navbarToggleHomeSideMenu">
+<div class="collapse show" id="navbarToggleHomeSideMenu">
     <div class="col-12 col-4-lg kardias-sidemenu bg-light">
         <div class="btn-group dropend">
-            <button 
+            <a 
                 type="button" 
-                class="btn dropdown-toggle kardias-sidemenu-items" 
-                data-bs-toggle="dropdown" 
+                class="btn kardias-sidemenu-items" 
                 aria-expanded="false"
+                href="#introduction"
             >
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart-pulse" viewBox="0 0 16 16">
                 <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053.918 3.995.78 5.323 1.508 7H.43c-2.128-5.697 4.165-8.83 7.394-5.857.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17c3.23-2.974 9.522.159 7.394 5.856h-1.078c.728-1.677.59-3.005.108-3.947C13.486.878 10.4.28 8.717 2.01L8 2.748ZM2.212 10h1.315C4.593 11.183 6.05 12.458 8 13.795c1.949-1.337 3.407-2.612 4.473-3.795h1.315c-1.265 1.566-3.14 3.25-5.788 5-2.648-1.75-4.523-3.434-5.788-5Z"/>
                 <path d="M10.464 3.314a.5.5 0 0 0-.945.049L7.921 8.956 6.464 5.314a.5.5 0 0 0-.88-.091L3.732 8H.5a.5.5 0 0 0 0 1H4a.5.5 0 0 0 .416-.223l1.473-2.209 1.647 4.118a.5.5 0 0 0 .945-.049l1.598-5.593 1.457 3.642A.5.5 0 0 0 12 9h3.5a.5.5 0 0 0 0-1h-3.162l-1.874-4.686Z"/>
               </svg>
                 Introduction
-            </button>
-            <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-            </ul>
+            </a>
         </div>
         <div class="btn-group dropend">                         
-            <button 
+            <a 
                 type="button" 
-                class="btn dropdown-toggle kardias-sidemenu-items" 
-                data-bs-toggle="dropdown"
+                class="btn kardias-sidemenu-items" 
                 aria-expanded="false"
+                href="#cleaning-etl"
             >
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bar-chart" viewBox="0 0 16 16">
                 <path d="M4 11H2v3h2v-3zm5-4H7v7h2V7zm5-5v12h-2V2h2zm-2-1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1h-2zM6 7a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm-5 4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3z"/>
             </svg>
                 Cleaning ETL
-            </button>
-            <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-            </ul>
+            </a>
         </div>
         <div class="btn-group dropend">
-            <button 
+            <a 
                 type="button" 
-                class="btn dropdown-toggle kardias-sidemenu-items" 
-                data-bs-toggle="dropdown" 
+                class="btn kardias-sidemenu-items" 
                 aria-expanded="false"
+                href="#machine-learning"
             >
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-database" viewBox="0 0 16 16">
                 <path d="M4.318 2.687C5.234 2.271 6.536 2 8 2s2.766.27 3.682.687C12.644 3.125 13 3.627 13 4c0 .374-.356.875-1.318 1.313C10.766 5.729 9.464 6 8 6s-2.766-.27-3.682-.687C3.356 4.875 3 4.373 3 4c0-.374.356-.875 1.318-1.313ZM13 5.698V7c0 .374-.356.875-1.318 1.313C10.766 8.729 9.464 9 8 9s-2.766-.27-3.682-.687C3.356 7.875 3 7.373 3 7V5.698c.271.202.58.378.904.525C4.978 6.711 6.427 7 8 7s3.022-.289 4.096-.777A4.92 4.92 0 0 0 13 5.698ZM14 4c0-1.007-.875-1.755-1.904-2.223C11.022 1.289 9.573 1 8 1s-3.022.289-4.096.777C2.875 2.245 2 2.993 2 4v9c0 1.007.875 1.755 1.904 2.223C4.978 15.71 6.427 16 8 16s3.022-.289 4.096-.777C13.125 14.755 14 14.007 14 13V4Zm-1 4.698V10c0 .374-.356.875-1.318 1.313C10.766 11.729 9.464 12 8 12s-2.766-.27-3.682-.687C3.356 10.875 3 10.373 3 10V8.698c.271.202.58.378.904.525C4.978 9.71 6.427 10 8 10s3.022-.289 4.096-.777A4.92 4.92 0 0 0 13 8.698Zm0 3V13c0 .374-.356.875-1.318 1.313C10.766 14.729 9.464 15 8 15s-2.766-.27-3.682-.687C3.356 13.875 3 13.373 3 13v-1.302c.271.202.58.378.904.525C4.978 12.71 6.427 13 8 13s3.022-.289 4.096-.777c.324-.147.633-.323.904-.525Z"/>
             </svg>
-                Machine Learning
-            </button>
-            <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-            </ul>
+                ML
+            </a>
         </div>
         <div class="btn-group dropend">
-            <button 
+            <a 
                 type="button" 
-                class="btn dropdown-toggle kardias-sidemenu-items" 
-                data-bs-toggle="dropdown" 
+                class="btn kardias-sidemenu-items" 
                 aria-expanded="false"
+                href="#deployment"
             >
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-globe" viewBox="0 0 16 16">
                 <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm7.5-6.923c-.67.204-1.335.82-1.887 1.855A7.97 7.97 0 0 0 5.145 4H7.5V1.077zM4.09 4a9.267 9.267 0 0 1 .64-1.539 6.7 6.7 0 0 1 .597-.933A7.025 7.025 0 0 0 2.255 4H4.09zm-.582 3.5c.03-.877.138-1.718.312-2.5H1.674a6.958 6.958 0 0 0-.656 2.5h2.49zM4.847 5a12.5 12.5 0 0 0-.338 2.5H7.5V5H4.847zM8.5 5v2.5h2.99a12.495 12.495 0 0 0-.337-2.5H8.5zM4.51 8.5a12.5 12.5 0 0 0 .337 2.5H7.5V8.5H4.51zm3.99 0V11h2.653c.187-.765.306-1.608.338-2.5H8.5zM5.145 12c.138.386.295.744.468 1.068.552 1.035 1.218 1.65 1.887 1.855V12H5.145zm.182 2.472a6.696 6.696 0 0 1-.597-.933A9.268 9.268 0 0 1 4.09 12H2.255a7.024 7.024 0 0 0 3.072 2.472zM3.82 11a13.652 13.652 0 0 1-.312-2.5h-2.49c.062.89.291 1.733.656 2.5H3.82zm6.853 3.472A7.024 7.024 0 0 0 13.745 12H11.91a9.27 9.27 0 0 1-.64 1.539 6.688 6.688 0 0 1-.597.933zM8.5 12v2.923c.67-.204 1.335-.82 1.887-1.855.173-.324.33-.682.468-1.068H8.5zm3.68-1h2.146c.365-.767.594-1.61.656-2.5h-2.49a13.65 13.65 0 0 1-.312 2.5zm2.802-3.5a6.959 6.959 0 0 0-.656-2.5H12.18c.174.782.282 1.623.312 2.5h2.49zM11.27 2.461c.247.464.462.98.64 1.539h1.835a7.024 7.024 0 0 0-3.072-2.472c.218.284.418.598.597.933zM10.855 4a7.966 7.966 0 0 0-.468-1.068C9.835 1.897 9.17 1.282 8.5 1.077V4h2.355z"/>
                 </svg>
-                Element 4
-            </button>
-            <ul class="dropdown-menu">
+                Deployment
+            </a>
+            <!-- <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">Action</a></li>
                 <li><a class="dropdown-item" href="#">Another action</a></li>
-            </ul>
+            </ul> -->
         </div>
-        <div class="btn-group dropend">
-            <button 
+        <!-- <div class="btn-group dropend">
+            <a 
                 type="button" 
-                class="btn dropdown-toggle kardias-sidemenu-items" 
-                data-bs-toggle="dropdown" 
+                class="btn kardias-sidemenu-items" 
                 aria-expanded="false"
+                href="#github"
             >
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
                 <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
             </svg>
                 Github
-            </button>
-            <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-            </ul>
-        </div>
+            </a>
+        </div> -->
     </div>
 </div>
 
@@ -115,7 +99,7 @@
         <p class="kardias-subtitle">SYSTEM ANALYTICS</p>
     </div>
         <div class="col-12 col-lg-12 justify-content-center kardias-content">
-            <section class="row">
+            <section id="introduction" class="row">
                 <header>
                     <h2>Introduction</h2>
                     <h4 style="color: #555555;">Congenital Heart Diseases</h4>
@@ -123,24 +107,32 @@
                 <p>
                     Congenital heart diseases (CHD) are a relatively common problem with an incidence of 6/1000 newborns. 30% of CHD are never diagnosed and approximately 25% of diagnosed children require surgery during the first year of life. In Mexico, approximately 18,000 to 21,000 children are born each year with a cardiac malformation. Only 5% to 8% of the population have access to private insurance and  40% have access to specific government-run hospitals.
                 </p>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <header>
+                                <h4 style="text-align: left; color: #555555;">State of Care for Congenital Heart Diseases</h4>
+                            </header>
+                            <p>
+                                According to the Society of Thoracic Surgeons (STS) Congenital Heart Surgery Database, in the United States almost 40,000 operations are performed every year. The overall mortality after congenital heart surgery in the United States is 1%, 2.8%, and 8.8% for children, infants, and neonates, respectively. Perioperative outcomes in Europe are similar. In many Low and Middle Income Countries it is estimated that 30% of CHD are never diagnosed and 90% receive suboptimal treatment or don't receive it at all due to financial issues.  
+                            </p>
+                        </div>
+                        <div class="col-lg-6">
+                            <figure>
+                                <img src="./static/img/image.png" class="img-fluid" alt="Medical Center"/>
+                                <figcaption>ABC Medical Center Mexico City</figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
                 <header>
-                    <h4 style="color: #555555;">State of Care for Congenital Heart Diseases</h4>
-                </header>
-                <p>
-                    According to the Society of Thoracic Surgeons (STS) Congenital Heart Surgery Database, in the United States almost 40,000 operations are performed every year. The overall mortality after congenital heart surgery in the United States is 1%, 2.8%, and 8.8% for children, infants, and neonates, respectively. Perioperative outcomes in Europe are similar. In many Low and Middle Income Countries it is estimated that 30% of CHD are never diagnosed and 90% receive suboptimal treatment or don't receive it at all due to financial issues.  
-                </p>
-                <header>
-                    <h4 style="color: #555555;">Kardias Private-Public (Hybrid) Program</h4>
+                    <h4 style="text-align: left; margin-bottom: 0px; color: #555555;">Kardias Private-Public (Hybrid) Program</h4>
                 </header>
                 <p>
                     Kardias Foundation from Mexico has a specialized program in two hospitals: the National Institute of Pediatrics (INP) and the ABC-Kardias Pediatric Heart Center (in partnership with the ABC Medical Center). This program is committed to excellence, so it shares the best practices with the most important pediatric heart centers in the world and has the most advanced technology to perform surgeries of the highest complexity and quality.
                 </p>
-                <figure>
-                    <img src="./static/img/image.png" class="img-fluid" alt="Medical Center"/>
-                    <figcaption>ABC Medical Center Mexico City</figcaption>
-                </figure>
             </section>
-            <section class="row" style="row-gap: 20px;">
+            <section id="cleaning-etl" class="row" style="row-gap: 20px;">
                 <header>
                     <h2>Cleaning ETL</h2>
                 </header>
@@ -159,7 +151,7 @@
 In python, a new column named “patient_id” was added, some unnecessary columns were deleted and all columns were renamed to an easy and useful format. Then, it was necessary to check and drop null values, and change columns with their respective data types.
                 </p>
                 <figure>
-                    <img src="./static/img/clean1_edited.png" class="img-fluid" alt="Python Dataframe"/>
+                    <img src="./static/img/clean1_edited.PNG" class="img-fluid" alt="Python Dataframe"/>
                     <figcaption>Cleaned Dataframe after the first cleaning phase</figcaption>
                 </figure>
                 <header>
@@ -181,25 +173,35 @@ In python, a new column named “patient_id” was added, some unnecessary colum
                 According to the shared database, there wasn't a specific catalogue from “main diagnosis” to work with, all the records were added by different medical staff and it included a high number of capturing mistakes. After the cleaning phases, the database was reduced accordingly.
                 </p>
             </section>
-            <section class="row" style="row-gap: 20px;">
+            <section id="machine-learning" class="row" style="row-gap: 20px;">
                 <header>
                     <h2>Machine Learning</h2>
                 </header>
                 <p>
-                    According to the U.S. Food & Drug Administration's Artificial Intelligence (AI)  and Machine Learning Program the main AI Challenges are:<br>
-                    * Image acquisition and processing <br>
-                    * Earlier disease detection <br>
-                    * More accurate diagnosis, prognosis, and risk assessment <br>
-                    * New patterns identification on human physiology <br>
-                    * Personalized diagnostics and therapeutics <br>
+                According to the U.S. Food & Drug Administration's Artificial Intelligence (AI)  and Machine Learning Program the main AI Challenges are:<br>
                 </p>
+                <div class="row">
+                    <ul style="margin-left: 20px;">
+                        <li>Image acquisition and processing</li>
+                        <li>Earlier disease detection</li>
+                        <li>More accurate diagnosis, prognosis, and risk assessment</li>
+                        <li>New patterns identification on human physiology</li>
+                        <li>Personalized diagnostics and therapeutics</li>
+                    </ul>
+                </div>
                 <p>
-The team formulated 2 hypothesis or questions in order to contribute to  the management of the Congenital Heart Diseases Accurate Diagnosis and Risk Assessment (FDA Artificial Intelligence main objectives):
+                    The team formulated 2 hypothesis or questions in order to contribute to  the management of the Congenital Heart Diseases Accurate Diagnosis and Risk Assessment (FDA Artificial Intelligence main objectives):
                 </p>
-                <p>
-                    How can we predict the Intensive Care Stay Days for new patients?<br>
-                    How can we predict mortality after surgery?
-                </p>
+                <div class="row">
+                    <ul style="margin-left: 20px;">
+                        <li>
+                            How can we predict the Intensive Care Stay Days for new patients?
+                        </li>
+                        <li>
+                            How can we predict mortality after surgery?
+                        </li>
+                    </ul>
+                </div>
                 <p>
                 Currently the patient risk management is based on the The Risk Adjusted Classification for Congenital Heart Surgery (RACHS-1) which was published in 2002, based on 4370 operations registered by the Pediatric Cardiac Care Consortium. It is designed for being easily applicable for analysis of hospital data sets. The classification is not developed for patients with heart transplantations, ventricular assist devices or patients above 18 years. RACHS-1 classification is applied to surgical  procedures and it’s grouped in 6 numerical categories.
                 </p>
@@ -228,14 +230,18 @@ The team formulated 2 hypothesis or questions in order to contribute to  the man
                 </figure>
                 <p>
                     We used the Linear Regression algorithm to make clusters from patients with similar characteristics. We also deployed this model in our webpage so it can be used by medical or administration staff. The clusters display the following average variables: <br>
-                    * Stay Days <br>
-                    * RACHS-1 <br>
-                    * Previous Surgeries <br>
-                    * Age <br>
-                    * Weight <br>
-                    * Height <br>
-                    * Mortality <br>
                 </p>
+                <div class="row">
+                    <ul style="margin-left: 20px;">
+                        <li>Stay Days</li>
+                        <li>RACHS-1</li>
+                        <li>Previous Surgeries</li>
+                        <li>Age</li>
+                        <li>Weight</li>
+                        <li>Height</li>
+                        <li>Mortality</li>
+                    </ul>
+                </div>
                 <p>
                     The algorithm correlates all variables to obtain the following clusters:
                 </p>
@@ -259,15 +265,21 @@ The team formulated 2 hypothesis or questions in order to contribute to  the man
                     <figcaption>Graph of Linear Regression</figcaption>
                 </figure>
             </section>
-            <section class="row" style="row-gap: 20px;">
+            <section id="deployment" class="row" style="row-gap: 20px;">
                 <header>
                     <h2>Deployment</h2>
-                    <h4 style="color: #555555;">x</h4>
                 </header>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.r <strong>tranquilidad al habitarlos</strong>.
+                    In order to have the model readily available, we deployed it to the internet using a REST API so the end-user can make predictions from the hospital premises or their office via a website. We chose Amazon Web Services as our cloud provider because of the flexibility of their serverless services like AWS Lambda, ECS, and their API Gateway, as this will allow us to reduce costs in the early stages of the project. Some additional services include RDS for a managed database with PostgreSQL and S3 for storing temporary text files. We chose GitHub Pages as our temporary front-end server and developed a complete website using tools like JavaScript and Bootstrap, so all the API calls are made from GitHub and handled by our Lambda function in AWS.                
                 </p>
-                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <p>
+                    We used FastAPI as the Python framework for constructing the API logic and connecting to PostgreSQL via SQLAlchemy. We chose it because of the asynchronous capabilities when making database connections and handling requests, although the machine learning models run in a synchronous way, we can separate them into different lambda functions and easily scale our application in the near future to provide a better user experience.
+                </p>
+                <figure>
+                    <img src="./static/img/deployment2.png" class="img-fluid" alt="Technologies used for deployment"/>
+                    <figcaption>Tech Stack</figcaption>
+                </figure>
+                <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -292,9 +304,9 @@ The team formulated 2 hypothesis or questions in order to contribute to  the man
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
-                </div>
+                </div> -->
             </section>
-            <section class="row" style="row-gap: 20px;">
+            <!-- <section class="row" style="row-gap: 20px;">
                 <header>
                     <h2>Github</h2>
                 </header>
@@ -304,7 +316,7 @@ The team formulated 2 hypothesis or questions in order to contribute to  the man
                 <p>
                     <a href="https://github.com/DanielaSotoSainz/final_project">GitHub Repository</a>
                 </p>
-            </section>
+            </section> -->
         </div>
         <!-- <div class="col-10 col-lg-2"></div> -->
     </div>
