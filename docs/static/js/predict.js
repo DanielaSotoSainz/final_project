@@ -25,14 +25,15 @@ const VALID_DIAGNOSIS = [
 ]
 let selectProcedure = document.getElementById('selectProcedure');
 let selectDiagnosis = document.getElementById('selectDiagnosis');
-
+var clusterTableObject = undefined;
 // FETCH
 const fetchClusterTable = () => {
     fetch(`${URL}/api/v1/ml/kmeans/clusters`, GETREQUEST)
     .then((response) => response.json())
-    .then((tableData) => {
-        displayClusterTableData(tableData);
-        plotClusters(tableData);
+    .then((clusterTable) => {
+        clusterTableObject = {...clusterTable}; // store in global
+        displayClusterTableData(clusterTable);
+        plotClusters([clusterTable, 0, 0]);
     })
 }
 const fetchKMeansPredict = (body) => {
@@ -76,30 +77,12 @@ const POST_PREDICT_KMEANS = {
         VALID_PROCEDURES[0]
     ],
 }
-// Cluster Result
-let clusterResult = document.getElementById('clusterResult');
-let loadingClusterResult = document.getElementById('loadingClusterResult');
-let predictionCluster = 1;
-
-// Update Cluster Result
-const updateClusterResult = (cluster) => {
-    // Reset Table
-    document.getElementById(`k-${predictionCluster}`).className = '';
-    // Update Cluster global
-    predictionCluster = cluster;
-    // Update Elements loading
-    loadingClusterResult.style.display = 'none';
-    clusterResult.style.display = 'block';
-    clusterResult.textContent = predictionCluster;
-    // Update Table
-    document.getElementById(`k-${predictionCluster}`).className='table-primary';
-}
 // HTML form
 let kmeansForm = document.getElementById('kmeansForm');
 
 // Fetch data from Form values TODO: validate
 const submitPatientClusterForm = () => {
-    // Update elements Element
+    // Update elements loading
     clusterResult.style.display = 'none';
     loadingClusterResult.style.display = 'block';
     // Validate and obtain form data
@@ -152,7 +135,7 @@ const displayClusterTableData = (clusterData) => {
         let tr = document.createElement('tr');
         tr.id = `k-${cluster.cluster}`;
         // Don't include extra data
-        delete cluster.expired;
+        // delete cluster.expired;
         delete cluster.weight_kg;
         delete cluster.height_cm;
         // Create cells
@@ -160,20 +143,44 @@ const displayClusterTableData = (clusterData) => {
             let td = document.createElement('td');
             td.textContent = value;
             tr.append(td);
-        })
+        });
         clusterTableBody.append(tr);
     });
 }
+
+// Cluster Result
+let clusterResult = document.getElementById('clusterResult');
+let loadingClusterResult = document.getElementById('loadingClusterResult');
+let predictedCluster = 1;
+
+// Update Cluster Result
+const updateClusterResult = (cluster) => {
+    // Reset Table
+    document.getElementById(`k-${predictedCluster}`).className = '';
+    // Update Cluster global
+    predictedCluster = cluster;
+    // Update Elements loading
+    loadingClusterResult.style.display = 'none';
+    clusterResult.style.display = 'block';
+    clusterResult.textContent = predictedCluster;
+    // Update Table
+    document.getElementById(`k-${predictedCluster}`).className='table-primary';
+    // Redraw Figure with Patient
+    const index = clusterTableObject.clusters.findIndex((cluster) => cluster.cluster == predictedCluster);
+    const [x, y] = [clusterTableObject.clusters[index].rachs, clusterTableObject.linear_regression[index]]
+    plotClusters([clusterTableObject, x, y]);
+}
+
 // Visualization Clusters
 let loadingClusterPlot = document.getElementById('loadingClusterPlot');
 
-const plotClusters = (data) => {
+const plotClusters = ([clustersData, patientX, patientY]) => {
     // Hide Loading element
     loadingClusterPlot.style.display = 'none';
     // Create arrays for traces
-    let rachs = data.clusters.map((cluster) => cluster.rachs);
-    let stay_days = data.clusters.map((cluster) => cluster.stay_days);
-    let age_days = data.clusters.map((cluster) => cluster.n_patients/2);
+    let rachs = clustersData.clusters.map((cluster) => cluster.rachs);
+    let stay_days = clustersData.clusters.map((cluster) => cluster.stay_days);
+    let n_patients = clustersData.clusters.map((cluster) => cluster.n_patients/2);
     // Trace for Scatter
     var trace1 = {
         x: rachs,
@@ -194,24 +201,43 @@ const plotClusters = (data) => {
                 'rgb(250, 200, 50)',
                 'rgb(250, 200, 200)',
             ],
-            size: age_days,
-        }
+            size: n_patients,
+        },
     };
     // Trace for Line
     var trace2 = {
         x: rachs,
-        y: data.linear_regression,
+        y: clustersData.linear_regression,
         mode: 'lines',
         name: 'Linear Regression',
+        hoverinfo: 'skip',
         marker: {
             color: 'gray'
-        }
+        },
     }
-    
-    var data = [trace1, trace2];
-    
+    // Trace for patient
+    if (patientX == 0 && patientY == 0){
+        var clustersData = [trace1, trace2];
+    }
+    else {
+        var tracePatient = {
+            x: [patientX],
+            y: [patientY],
+            mode: 'markers',
+            name: 'Patient',
+            opacity: 1,
+            marker: {
+                symbol: ["diamond"],
+                color: [
+                    'rgb(60, 80, 200)', 
+                ],
+                size: 20,
+            },
+        };
+        var clustersData = [trace1, trace2, tracePatient];
+    }
     var layout = {
-        title: 'K-Means Clusters',
+        title: 'Avg. Rachs Score v.s. Avg. ICU Stay Days',
         showlegend: false,
         height: 500,
         width: 800,
@@ -219,9 +245,7 @@ const plotClusters = (data) => {
             title: {
               text: 'Rachs',
               font: {
-                family: 'Courier New, monospace',
-                size: 18,
-                color: '#7f7f7f'
+                size: 16,
               }
             },
         },
@@ -229,17 +253,14 @@ const plotClusters = (data) => {
         title: {
             text: 'Stay Days',
             font: {
-            family: 'Courier New, monospace',
-            size: 18,
-            color: '#7f7f7f'
+            size: 16,
             }
         }
         }
     };
     var config = {responsive: true} 
-    Plotly.newPlot('clusterPlot', data, layout, config);
+    Plotly.newPlot('clusterPlot', clustersData, layout, config);
 }
-
 // JQUERY
 $(document).ready(function(){
     createProcedureOptions();

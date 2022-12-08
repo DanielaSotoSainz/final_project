@@ -22,10 +22,12 @@
         </div>
         <section class="row">
             <header>
-                <h2>KMeans Clustering</h2>
+                <h2>K-Means Clustering</h2>
             </header>
             <p>
-                K-means clustering is a method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
+                K-means clustering helps us understand the relationship between many variables across many records. 
+                In this case, we want to predict the number of days a Patient will stay in the Intensive Care Unit by finding the cluster that their data belongs to.
+                The algorithm doesn't consider Stay Days and Mortality as we don't have that information at the time of input, however, we can use historical data from previous patients to get an average of Stay Days and Mortality per cluster.
             </p>
             <div class="container">
                 <div class="row">
@@ -141,12 +143,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-top: 30px;">
                     <header>
-                        <h2>Clusters</h2>
+                        <h2>Cluster Statistics</h2>
                     </header>
                     <p>
-                        Average metric per cluster. Sorted by Stay Days.
+                        The following table contains the number of patients and average metrics per cluster. 
+                        Sorted by Stay Days.
                     </p>
                     <div class="card" style="overflow: scroll;">
                         <table class="table table-striped table-hover" id="clusterTable">
@@ -154,13 +157,13 @@
                                 <tr>
                                 <th scope="col">Cluster</th>
                                 <th scope="col">N Patients</th>
-                                <th scope="col">Stay (Days)</th>
+                                <th scope="col">Stay Days</th>
                                 <th scope="col">Rachs</th>
                                 <th scope="col">Prev Cx</th>
                                 <th scope="col">Age (Days)</th>
                                 <!-- <th scope="col">Weight (Kg)</th> -->
                                 <!-- <th scope="col">Height (cm)</th> -->
-                                <!-- <th scope="col">Expired</th> -->
+                                <th scope="col">Mortality</th>
                                 </tr>
                             </thead>
                             <tbody id="clusterTableBody" class="overflow-y: hidden">
@@ -176,7 +179,7 @@
                         </div>
                     </div>
                     <div class="card-body"><h6>Figure 1: Linear Regression over Clusters</h6></div>
-                    <div class="card-body"><p>...</p></div>
+                    <div class="card-body" style="margin-top:-20px;"><p>Linear regression over average values of a cluster: Rachs v.s. Stay Days. Get an approximate Stay Days value from a given Patinent's Rach information.</p></div>
                 </div>
             </div>
         </section>
