@@ -117,7 +117,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-6">
-                                         <button type="button" onclick="validateFormOnSubmit()" class="btn btn-primary" style="margin-bottom: 20px;">Predict</button>
+                                         <button type="button" onclick="submitPatientClusterForm()" class="btn btn-primary" style="margin-bottom: 20px;">Predict</button>
                                         </div>
                                         <div class="col-6" style="padding:4px">
                                             <b>Cluster:</b><p id="clusterResult">-</p>
@@ -151,17 +151,15 @@
                                 </tr>
                             </thead>
                             <tbody id="clusterTableBody" class="overflow-y: hidden">
-                                <tr></tr>
-                                <tr></tr>
-                                <tr></tr>
-                                <tr></tr>
-                                <tr></tr>
                             </tbody>
                         </table>
+                        <div class="spinner-border" role="status" id="loadingClusterTableBody"></div>
                     </div>
                 </div>
                 <div class="row" id="clusterPlot">
-
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border" role="status" id="loadingClusterPlot"></div>
+                    </div>
                 </div>
             </div>
         </section>

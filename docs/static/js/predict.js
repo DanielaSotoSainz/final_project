@@ -1,4 +1,4 @@
-// DROPDOWN
+// Form Dropdown constants
 const VALID_PROCEDURES = [
     "Parche comunicacion interauricular CIA",
     "Vena cava inferior parche",
@@ -45,7 +45,7 @@ const fetchKMeansPredict = (body) => {
     .then((prediction) => (clusterResult.textContent = prediction.cluster))
 }
 
-// OPTIONS
+// Patient Cluster Form Options
 const createProcedureOptions = () => {
     VALID_PROCEDURES.map(procedure => {
         let opt = document.createElement('option');
@@ -63,7 +63,7 @@ const createDiagnosisOptions = () => {
     })
 }
 
-// CLUSTER FORM
+// Patient Cluster Form 
 let kmeansForm = document.getElementById('kmeansForm');
 const POST_PREDICT_KMEANS = {
     gender: 0,
@@ -79,7 +79,8 @@ const POST_PREDICT_KMEANS = {
         VALID_PROCEDURES[0]
     ],
 }
-const validateFormOnSubmit = () => {
+// Fetch data from Form values TODO: validate
+const submitPatientClusterForm = () => {
     clusterResult.textContent = "...";
     let diagnosis = [kmeansForm.elements.selectDiagnosis.value];
     let procedure = [kmeansForm.elements.selectProcedure.value];
@@ -97,41 +98,53 @@ const validateFormOnSubmit = () => {
 }
 
 // DEFAULTS
-const setFormDefaults = () => {
-    kmeansForm.elements.gender.value = POST_PREDICT_KMEANS.gender;
-    kmeansForm.elements.age_days.value = POST_PREDICT_KMEANS.age_days;
-    kmeansForm.elements.weight_kg.value = POST_PREDICT_KMEANS.weight_kg;
-    kmeansForm.elements.height_cm.value = POST_PREDICT_KMEANS.height_cm;
-    kmeansForm.elements.cx_previous.value = POST_PREDICT_KMEANS.cx_previous;
-    kmeansForm.elements.rachs.value = POST_PREDICT_KMEANS.rachs;
-    kmeansForm.elements.selectDiagnosis.value = POST_PREDICT_KMEANS.diagnosis_main[0];
-    kmeansForm.elements.selectProcedure.value = POST_PREDICT_KMEANS.surgical_procedure[0];
+const setFormDefaults = (defaults) => {
+    // Manually set defaults from constant
+    kmeansForm.elements.gender.value = defaults.gender;
+    kmeansForm.elements.age_days.value = defaults.age_days;
+    kmeansForm.elements.weight_kg.value = defaults.weight_kg;
+    kmeansForm.elements.height_cm.value = defaults.height_cm;
+    kmeansForm.elements.cx_previous.value = defaults.cx_previous;
+    kmeansForm.elements.rachs.value = defaults.rachs;
+    kmeansForm.elements.selectDiagnosis.value = defaults.diagnosis_main[0];
+    kmeansForm.elements.selectProcedure.value = defaults.surgical_procedure[0];
 }
 
 // Cluster Table
-let clusterTable = document.getElementById('clusterTableBody');
+let clusterTableBody = document.getElementById('clusterTableBody');
+let loadingClusterTableBody = document.getElementById('loadingClusterTableBody');
+// Populate Table with rows
 const displayClusterTableData = (clusterData) => {
-    clusterTable.innerHTML = '';
+    // Hide Loading element
+    loadingClusterTableBody.style.display = 'none';
+    // Reset table contents and create row per record
+    clusterTableBody.innerHTML = '';
     clusterData.clusters.map((cluster) => {
         let tr = document.createElement('tr');
-        tr.innerHTML = '';
+        // Don't include extra data
         delete cluster.expired;
         delete cluster.weight_kg;
         delete cluster.height_cm;
+        // Create cells
         Object.entries(cluster).forEach(([key, value]) => {
             let td = document.createElement('td');
             td.textContent = value;
             tr.append(td);
         })
-        clusterTable.append(tr);
+        clusterTableBody.append(tr);
     });
 }
+// Visualization Clusters
+let loadingClusterPlot = document.getElementById('loadingClusterPlot');
 
 const plotClusters = (data) => {
+    // Hide Loading element
+    loadingClusterPlot.style.display = 'none';
+    // Create arrays for traces
     let rachs = data.clusters.map((cluster) => cluster.rachs);
     let stay_days = data.clusters.map((cluster) => cluster.stay_days);
     let age_days = data.clusters.map((cluster) => cluster.n_patients/2);
-
+    // Trace for Scatter
     var trace1 = {
         x: rachs,
         y: stay_days,
@@ -154,6 +167,7 @@ const plotClusters = (data) => {
             size: age_days,
         }
     };
+    // Trace for Line
     var trace2 = {
         x: rachs,
         y: data.linear_regression,
@@ -200,6 +214,6 @@ const plotClusters = (data) => {
 $(document).ready(function(){
     createProcedureOptions();
     createDiagnosisOptions();
-    setFormDefaults();
+    setFormDefaults(POST_PREDICT_KMEANS);
     fetchClusterTable();
 });
