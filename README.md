@@ -111,7 +111,7 @@ Linear Regression
 
 ### Links
 
-Presentation:
+Presentation: https://github.com/DanielaSotoSainz/final_project/blob/main/resources/presentacion_bootcamp_v2.pdf
 
 HTML: https://danielasotosainz.github.io/final_project/
 
